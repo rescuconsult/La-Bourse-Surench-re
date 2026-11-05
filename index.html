@@ -1,0 +1,1341 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>La Bourse Surenchère</title>
+<meta name="description" content="La cote du débat public : verbatims sourcés, tickers et indices fictifs. Satire. Un projet RESCU Lab.">
+<meta property="og:title" content="La Bourse Surenchère">
+<meta property="og:description" content="Le débat public est désormais coté. Verbatims certifiés, bourse des sujets, indices satiriques. #BourseSurenchère">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@rescuconsult">
+<meta name="theme-color" content="#101827">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23101827'/%3E%3Cpolyline points='4,24 11,17 16,20 28,7' fill='none' stroke='%23F2B84B' stroke-width='3.5'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap">
+<link rel="canonical" href="https://laboursesurenchere.fr/">
+<meta property="og:url" content="https://laboursesurenchere.fr/">
+<meta property="og:image" content="https://laboursesurenchere.fr/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="La Bourse Surenchère : ils parlent, nous cotons. Satire, indice fictif.">
+<meta name="twitter:image" content="https://laboursesurenchere.fr/og.png">
+<style>
+/* Layout : terminal de séance — bandeau défilant en tête, tableau des indices, carnet de cotations filtrable, fiche valeur en panneau latéral.
+   Charte « Étape 1 » (thème sombre unique, choisi). */
+:root{
+  --nuit:#101827; --graphite:#171A21; --graphite-2:#1D222C;
+  --ambre:#F2B84B; --ambre-doux:rgba(242,184,75,.12);
+  --blanc:#F3F4F6; --acier:#94A3B8; --ligne:rgba(148,163,184,.18);
+  --hausse:#36C98F; --baisse:#FD6464;
+  --f-titre:"Barlow Condensed","Oswald","Arial Narrow",sans-serif;
+  --f-texte:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-chiffre:"IBM Plex Mono",ui-monospace,"Consolas",monospace;
+  --s-1:.75rem; --s-2:.875rem; --s-3:1rem; --s-4:1.25rem; --s-5:1.75rem; --s-6:clamp(2.6rem,7vw,5rem);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--nuit);color:var(--blanc);font-family:var(--f-texte);font-size:var(--s-3);line-height:1.55;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--graphite)}
+a{color:var(--ambre)}
+:focus-visible{outline:2px solid var(--ambre);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.mono{font-family:var(--f-chiffre);font-variant-numeric:tabular-nums}
+.label{font-family:var(--f-chiffre);font-size:var(--s-1);letter-spacing:.08em;text-transform:uppercase;color:var(--acier)}
+h1,h2,h3{font-family:var(--f-titre);text-transform:uppercase;font-weight:700;letter-spacing:.01em;line-height:1;margin:0;text-wrap:balance}
+h2{font-size:clamp(2rem,4.5vw,2.8rem)}
+p{margin:0}
+
+/* En-tête collant + bandeau */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--graphite);border-bottom:1px solid var(--ligne)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-block:.7rem}
+.logo{font-family:var(--f-titre);font-weight:700;font-size:1.45rem;letter-spacing:.02em;text-decoration:none;color:var(--blanc);white-space:nowrap}
+.logo b{color:var(--ambre);font-weight:700}
+.nav{display:flex;gap:1.2rem;flex-wrap:wrap}
+.nav a{color:var(--acier);text-decoration:none;font-family:var(--f-chiffre);font-size:var(--s-1);letter-spacing:.08em;text-transform:uppercase}
+.nav a:hover{color:var(--ambre)}
+.tape{overflow:hidden;border-top:1px solid var(--ligne);background:var(--nuit);white-space:nowrap}
+.tape-track{display:inline-flex;gap:2.4rem;padding-block:.45rem;animation:defile 140s linear infinite;will-change:transform}
+.tape:hover .tape-track{animation-play-state:paused}
+.tape-item{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier)}
+.tape-item b{color:var(--ambre);font-weight:500;margin-right:.5rem}
+.tape-item i{font-style:normal;color:var(--hausse);margin-right:.35rem}
+@keyframes defile{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* Ouverture */
+.hero{padding-block:clamp(2.5rem,7vw,5rem) 2.5rem;border-bottom:1px solid var(--ligne);position:relative;overflow:hidden}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:2.5rem;align-items:end}
+.hero h1{font-size:var(--s-6);letter-spacing:-.005em}
+.hero h1 span{color:var(--ambre)}
+.badge{display:inline-flex;gap:.6rem;align-items:center;border:1px solid var(--ambre);color:var(--ambre);padding:.35rem .7rem;margin-bottom:1.4rem;font-family:var(--f-chiffre);font-size:var(--s-1);letter-spacing:.08em;text-transform:uppercase}
+.badge::before{content:"";width:.5rem;height:.5rem;border-radius:50%;background:var(--hausse);animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+.piliers{display:flex;flex-direction:column;gap:.5rem;margin-top:1.6rem}
+.piliers div{border-left:4px solid var(--ambre);padding-left:.8rem;font-weight:600;font-size:var(--s-4)}
+.chapo{color:var(--acier);max-width:52ch;margin-top:1.4rem}
+.compteurs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.compteur{background:var(--graphite);padding:1.1rem 1.1rem 1rem}
+.compteur .n{font-family:var(--f-chiffre);font-size:clamp(1.8rem,4vw,2.5rem);color:var(--blanc);font-variant-numeric:tabular-nums;line-height:1.1}
+.courbe{position:absolute;inset:auto 0 0 0;height:120px;opacity:.35;pointer-events:none}
+.courbe path{fill:none;stroke:var(--ambre);stroke-width:2.5;stroke-dasharray:2400;stroke-dashoffset:0;animation:trace 2.6s ease-out both}
+@keyframes trace{from{stroke-dashoffset:2400}}
+
+section{padding-block:3.5rem}
+.sec-head{display:flex;justify-content:space-between;align-items:end;gap:1rem;flex-wrap:wrap;margin-bottom:1.6rem}
+.mention{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);border:1px solid var(--ligne);padding:.25rem .55rem;letter-spacing:.06em}
+
+/* Indices */
+.indices{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.indice{background:var(--graphite);padding:1.2rem;display:flex;flex-direction:column;gap:.6rem;min-width:0}
+.indice h3{font-size:1.35rem}
+.indice .val{font-family:var(--f-chiffre);font-size:2rem;font-variant-numeric:tabular-nums;line-height:1}
+.var{font-family:var(--f-chiffre);font-size:var(--s-2);font-variant-numeric:tabular-nums}
+.var.up{color:var(--hausse)} .var.down{color:var(--baisse)}
+.indice svg{width:100%;height:46px;display:block}
+.indice p{color:var(--acier);font-size:var(--s-2)}
+
+/* Carnet de cotations */
+.filtres{display:flex;flex-direction:column;gap:.8rem;margin-bottom:1.2rem}
+.rang{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center}
+.chip{font-family:var(--f-chiffre);font-size:var(--s-1);letter-spacing:.06em;text-transform:uppercase;background:transparent;color:var(--acier);border:1px solid var(--ligne);padding:.45rem .75rem;cursor:pointer}
+.chip:hover{color:var(--blanc);border-color:var(--acier)}
+.chip[aria-pressed="true"]{background:var(--ambre);color:var(--nuit);border-color:var(--ambre)}
+.chip .c{opacity:.7;margin-left:.35rem}
+.recherche{flex:1 1 260px;min-width:0;background:var(--graphite);border:1px solid var(--ligne);color:var(--blanc);font:inherit;padding:.6rem .8rem}
+.recherche::placeholder{color:var(--acier)}
+select{background:var(--graphite);border:1px solid var(--ligne);color:var(--blanc);font-family:var(--f-chiffre);font-size:var(--s-1);padding:.55rem .6rem;text-transform:uppercase}
+.resume{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);margin-bottom:.6rem}
+.carnet{border-top:1px solid var(--ligne)}
+.ligne{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr) 7.5rem;gap:1.2rem;padding:1.1rem .4rem;border-bottom:1px solid var(--ligne);cursor:pointer;transition:background .2s}
+.ligne:hover{background:var(--graphite)}
+.ligne.entre{animation:entre .45s ease-out both}
+@keyframes entre{from{opacity:.0;transform:translateY(6px)}}
+.tk{font-family:var(--f-chiffre);color:var(--ambre);font-size:var(--s-2);word-break:break-word;line-height:1.35}
+.tk small{display:block;color:var(--acier);font-size:var(--s-1);margin-top:.3rem;text-transform:uppercase;letter-spacing:.06em}
+.cit{min-width:0}
+.cit q{font-size:var(--s-4);line-height:1.4;quotes:"« " " »";display:block}
+.qui{margin-top:.45rem;color:var(--acier);font-size:var(--s-2)}
+.qui strong{color:var(--blanc);font-weight:600}
+.meta{text-align:right;font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);font-variant-numeric:tabular-nums}
+.meta .statut{display:inline-block;margin-top:.4rem;color:var(--hausse)}
+.plus{margin-top:1.4rem;display:flex;justify-content:center}
+.btn{font-family:var(--f-chiffre);font-size:var(--s-2);letter-spacing:.06em;text-transform:uppercase;background:transparent;color:var(--ambre);border:1px solid var(--ambre);padding:.7rem 1.2rem;cursor:pointer}
+.btn:hover{background:var(--ambre);color:var(--nuit)}
+.vide{padding:2rem .4rem;color:var(--acier)}
+
+/* Répartition */
+.repart{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2rem}
+.repart h3{font-size:1.3rem;margin-bottom:1rem}
+.barre{display:grid;grid-template-columns:minmax(0,9rem) minmax(0,1fr) 3rem;gap:.7rem;align-items:center;margin-bottom:.55rem;font-size:var(--s-2)}
+.barre .piste{height:10px;background:var(--graphite-2)}
+.barre .remp{height:100%;background:var(--ambre);transform-origin:left;animation:pousse 1.1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes pousse{from{transform:scaleX(0)}}
+.barre .mono{text-align:right;color:var(--acier)}
+.histo svg{width:100%;height:auto;display:block}
+
+/* Méthode */
+.etapes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne);counter-reset:e}
+.etape{background:var(--graphite);padding:1.3rem;counter-increment:e}
+.etape::before{content:counter(e,decimal-leading-zero);font-family:var(--f-chiffre);color:var(--ambre);font-size:var(--s-2)}
+.etape h3{font-size:1.25rem;margin:.5rem 0 .4rem}
+.etape p{color:var(--acier);font-size:var(--s-2)}
+.diapason{max-width:68ch;font-size:var(--s-4);line-height:1.6;margin-top:1.2rem}
+.diapason em{color:var(--ambre);font-style:normal}
+
+footer{border-top:1px solid var(--ligne);padding-block:2.2rem;background:var(--graphite)}
+footer .wrap{display:flex;justify-content:space-between;gap:1.5rem;flex-wrap:wrap;font-size:var(--s-2);color:var(--acier)}
+footer .wrap>div{min-width:0}
+#pied-source{overflow-wrap:anywhere}
+footer .obligatoire{font-family:var(--f-chiffre);color:var(--blanc)}
+.copier{background:none;border:none;color:var(--ambre);font:inherit;cursor:pointer;padding:0;text-decoration:underline}
+
+/* Fiche valeur */
+.voile{position:fixed;inset:0;background:rgba(10,14,22,.6);z-index:20;opacity:0;pointer-events:none;transition:opacity .25s}
+.voile.on{opacity:1;pointer-events:auto}
+.fiche{position:fixed;top:0;right:0;bottom:0;width:min(560px,100%);background:var(--graphite);border-left:1px solid var(--ambre);z-index:21;transform:translateX(100%);transition:transform .35s cubic-bezier(.2,.7,.2,1);overflow-y:auto;
+  padding:calc(1.4rem + env(safe-area-inset-top,0px)) max(1.4rem,env(safe-area-inset-right,0px)) calc(1.4rem + env(safe-area-inset-bottom,0px)) 1.4rem}
+.fiche.on{transform:none}
+.fiche h2{font-size:2.2rem;margin:.4rem 0 .3rem}
+.fiche .fermer{float:right}
+.fiche .stats{display:flex;gap:1.6rem;margin:1rem 0 1.2rem;flex-wrap:wrap}
+.fiche .stats div{display:flex;flex-direction:column}
+.fiche .stats .mono{font-size:1.5rem}
+.fiche ol{list-style:none;margin:0;padding:0;border-top:1px solid var(--ligne)}
+.fiche li{padding:1rem 0;border-bottom:1px solid var(--ligne)}
+.fiche li q{quotes:"« " " »";display:block;font-size:var(--s-3);margin:.35rem 0}
+.fiche li .src{font-size:var(--s-1);color:var(--acier);font-family:var(--f-chiffre);word-break:break-word}
+
+/* Séance */
+.badge.ferme{border-color:var(--acier);color:var(--acier)}
+.badge.ferme::before{background:var(--acier);animation:none}
+.gazette-cd{margin-top:1rem;display:flex;gap:.6rem;align-items:baseline;flex-wrap:wrap}
+.gazette-cd .mono{color:var(--ambre);font-size:var(--s-4)}
+
+/* Le marché */
+:root{--t-pol:rgba(242,184,75,.88);--t-med:rgba(148,163,184,.5);--t-exp:rgba(54,201,143,.5)}
+.marche-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));grid-template-areas:'vol vol vol fil fil' 'act act car car car';gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.p-volume{grid-area:vol}.p-fil{grid-area:fil}.p-actives{grid-area:act}.p-carte{grid-area:car}
+.panneau{background:var(--graphite);padding:1.2rem;min-width:0;display:flex;flex-direction:column;gap:.8rem}
+.p-head{display:flex;justify-content:space-between;align-items:baseline;gap:.8rem;flex-wrap:wrap}
+.p-head h3{font-size:1.35rem}
+.live{display:inline-flex;align-items:center;gap:.45rem;font-family:var(--f-chiffre);font-size:var(--s-1);letter-spacing:.08em;text-transform:uppercase;color:var(--baisse)}
+.live::before{content:"";width:.5rem;height:.5rem;border-radius:50%;background:var(--baisse);animation:pulse 1.4s ease-in-out infinite}
+#vol-chart{flex:1;display:flex;align-items:center}
+#vol-chart svg{width:100%;height:auto;display:block}
+#vol-chart .b{transform-box:fill-box;transform-origin:bottom;animation:monte .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes monte{from{transform:scaleY(0)}}
+#vol-chart .b:hover{fill:var(--blanc)}
+#vol-chart .moy{fill:none;stroke:var(--ambre);stroke-width:2;stroke-dasharray:3000;animation:trace 2.2s ease-out .3s both}
+.vol-leg{display:flex;gap:1.2rem;font-size:var(--s-1);color:var(--acier);font-family:var(--f-chiffre)}
+.vol-leg i{display:inline-block;width:.8rem;height:.6rem;margin-right:.4rem;vertical-align:middle}
+.k-barre{background:var(--acier);opacity:.6}.k-ligne{height:2px!important;background:var(--ambre)}
+#fil{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:0;overflow:hidden}
+#fil li{border-bottom:1px solid var(--ligne);padding:.65rem 0;cursor:pointer}
+#fil li:hover .q{color:var(--blanc)}
+#fil li.neuf{animation:arrive .6s cubic-bezier(.2,.7,.2,1) both, eclat 2.2s ease-out both}
+@keyframes arrive{from{opacity:0;transform:translateY(-14px)}}
+@keyframes eclat{0%{background:var(--ambre-doux)}100%{background:transparent}}
+#fil .l1{display:flex;justify-content:space-between;gap:.6rem;font-family:var(--f-chiffre);font-size:var(--s-1)}
+#fil .l1 b{color:var(--ambre);font-weight:500;word-break:break-word}
+#fil .l1 span{color:var(--acier);white-space:nowrap}
+#fil .q{font-size:var(--s-2);color:#D5DAE2;margin-top:.25rem;line-height:1.4}
+#fil .a{font-size:var(--s-1);color:var(--acier);margin-top:.15rem}
+.fil-note{margin-top:auto}
+.table-scroll{overflow-x:auto}
+#actives{width:100%;border-collapse:collapse;font-size:var(--s-2);font-variant-numeric:tabular-nums}
+#actives th{font-family:var(--f-chiffre);font-size:var(--s-1);font-weight:400;color:var(--acier);text-align:left;text-transform:uppercase;letter-spacing:.06em;padding:.4rem .4rem;border-bottom:1px solid var(--ligne)}
+#actives td{padding:.55rem .4rem;border-bottom:1px solid var(--ligne);vertical-align:middle}
+#actives tbody tr{cursor:pointer;transition:background .2s}
+#actives tbody tr:hover{background:var(--graphite-2)}
+#actives .num{text-align:right;font-family:var(--f-chiffre)}
+#actives .rg{font-family:var(--f-chiffre);color:var(--acier)}
+#actives .nom{font-weight:600}
+#actives .nom small{display:block;font-weight:400;color:var(--acier);font-size:var(--s-1)}
+.up{color:var(--hausse)}.down{color:var(--baisse)}.eq{color:var(--acier)}
+#actives svg{width:84px;height:24px;display:block}
+#carte{display:flex;flex-wrap:wrap;gap:3px}
+.tuile{min-height:62px;padding:.45rem .55rem;display:flex;flex-direction:column;justify-content:space-between;cursor:pointer;min-width:0;overflow:hidden;border:1px solid transparent;transition:filter .2s, transform .2s;animation:entre .5s ease-out both}
+.tuile:hover{filter:brightness(1.15);transform:translateY(-1px)}
+.tuile .tn{font-size:var(--s-1);font-weight:600;line-height:1.2;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tuile .tc{font-family:var(--f-chiffre);font-size:var(--s-2)}
+.tuile.pol{background:var(--t-pol);color:var(--nuit)}
+.tuile.med{background:var(--t-med);color:var(--blanc)}
+.tuile.exp{background:var(--t-exp);color:var(--blanc)}
+.tuile.actif{border-color:var(--blanc);animation:entre .5s ease-out both, halo 2.4s ease-in-out infinite}
+@keyframes halo{50%{box-shadow:0 0 0 3px rgba(242,184,75,.35)}}
+.legende{display:flex;flex-wrap:wrap;gap:1rem;font-size:var(--s-1);color:var(--acier);font-family:var(--f-chiffre)}
+.legende i{display:inline-block;width:.8rem;height:.8rem;margin-right:.35rem;vertical-align:middle}
+.k-actif{border:1px solid var(--blanc)}
+.toast{position:fixed;left:50%;bottom:calc(1.2rem + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:30;background:var(--ambre);color:var(--nuit);font-family:var(--f-chiffre);font-size:var(--s-2);padding:.75rem 1rem;display:flex;gap:1rem;align-items:center;box-shadow:0 8px 24px rgba(0,0,0,.4);max-width:calc(100% - 32px)}
+.toast button{background:var(--nuit);color:var(--ambre);border:0;font:inherit;padding:.4rem .7rem;cursor:pointer}
+
+/* Accès, actions, fraîcheur */
+.saut{position:absolute;left:-999px;top:0;z-index:50;background:var(--ambre);color:var(--nuit);padding:.6rem 1rem;font-family:var(--f-chiffre)}
+.saut:focus{left:max(16px,env(safe-area-inset-left,0px));top:calc(env(safe-area-inset-top,0px) + 8px)}
+.hero-actions{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;margin-top:1.4rem}
+.hero-actions .btn{text-decoration:none}
+.lien-x{font-family:var(--f-chiffre);font-size:var(--s-2);color:var(--acier);text-decoration:none;border-bottom:1px solid var(--ligne)}
+.lien-x:hover{color:var(--ambre);border-color:var(--ambre)}
+.fraicheur{margin-top:1rem}
+footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
+
+/* La semaine */
+.sem-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.sem-chiffres .kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.kpi{display:flex;flex-direction:column;gap:.2rem;min-width:0}
+.kpi .mono{font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.05;display:block}
+.kpi .var{font-size:var(--s-1)}
+.sem-faits{list-style:none;margin:0;padding:0;border-top:1px solid var(--ligne)}
+.sem-faits li{display:flex;justify-content:space-between;gap:1rem;padding:.55rem 0;border-bottom:1px solid var(--ligne);font-size:var(--s-2)}
+.sem-faits li span:first-child{color:var(--acier)}
+.sem-faits li span:last-child{text-align:right;font-family:var(--f-chiffre)}
+.sym-barre{display:flex;height:34px;margin:.4rem 0}
+.sym-barre span{display:flex;align-items:center;justify-content:center;font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--nuit);min-width:0;overflow:hidden;white-space:nowrap;transform-origin:left;animation:pousse 1s cubic-bezier(.2,.7,.2,1) both}
+.sym-leg{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.6rem;font-size:var(--s-2)}
+.sym-leg b{display:block;font-family:var(--f-chiffre);font-size:var(--s-4);font-weight:500}
+.sym-verdict{font-size:var(--s-2);color:var(--acier);border-left:3px solid var(--ambre);padding-left:.7rem}
+.trio3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.trio3 article{display:flex;flex-direction:column;gap:.4rem;cursor:pointer;min-width:0}
+.trio3 .lab{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--hausse);letter-spacing:.06em;text-transform:uppercase}
+.trio3 q{quotes:"« " " »";font-size:var(--s-2);line-height:1.45;border-left:3px solid var(--ambre);padding-left:.6rem}
+.trio3 .a{font-size:var(--s-1);color:var(--acier)}
+.nuage{display:flex;flex-wrap:wrap;gap:.35rem .9rem;align-items:baseline}
+.nuage span{font-family:var(--f-titre);text-transform:uppercase;line-height:1;cursor:pointer}
+.nuage span:hover{color:var(--ambre)!important}
+.punch{border-top:1px solid var(--ligne);padding-top:.8rem}
+.punch q{quotes:"« " " »";font-size:var(--s-4);display:block;margin:.3rem 0}
+
+/* Indices (5 registres) */
+.indices.ind5{grid-template-columns:repeat(5,minmax(0,1fr))}
+
+/* Partage */
+.partage{display:flex;gap:.5rem;justify-content:flex-end;margin-top:.5rem;flex-wrap:wrap}
+.partage button,.partage a{font-family:var(--f-chiffre);font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;color:var(--acier);background:none;border:1px solid var(--ligne);padding:.2rem .45rem;cursor:pointer;text-decoration:none}
+.partage button:hover,.partage a:hover{color:var(--ambre);border-color:var(--ambre)}
+.fiche .partage{justify-content:flex-start}
+
+/* Règles */
+.regles-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2.4rem}
+.regles-grid h3{font-size:1.35rem;margin:0 0 .7rem}
+.regles-grid p{color:#C9CFD8;margin-bottom:1rem;max-width:62ch}
+.charte{margin:0 0 1.4rem;padding-left:1.1rem;display:flex;flex-direction:column;gap:.55rem;color:#C9CFD8;max-width:62ch}
+.charte b{color:var(--blanc)}
+.mentions{margin-top:2rem;border-top:1px solid var(--ligne);padding-top:1rem}
+.mentions summary{cursor:pointer;font-family:var(--f-chiffre);font-size:var(--s-2);text-transform:uppercase;letter-spacing:.06em;color:var(--ambre)}
+.mentions dl{display:grid;grid-template-columns:minmax(0,14rem) minmax(0,1fr);gap:.5rem 1.2rem;margin:1rem 0 0;font-size:var(--s-2)}
+.mentions dt{color:var(--acier);font-family:var(--f-chiffre);font-size:var(--s-1);text-transform:uppercase}
+.mentions dd{margin:0}
+.a-completer{background:var(--ambre-doux);color:var(--ambre);padding:0 .3rem}
+
+/* Frise des quinquennats */
+.frise{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne);position:relative}
+.ere{background:var(--graphite);padding:1rem .9rem 1.1rem;display:flex;flex-direction:column;gap:.55rem;min-width:0;position:relative}
+.ere::before{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:var(--ligne)}
+.ere.pleine::before{background:var(--ambre)}
+.ere h3{font-size:1.3rem}
+.ere .dates{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier)}
+.ere .n{font-family:var(--f-chiffre);font-size:1.8rem;line-height:1}
+.ere .mini{display:flex;height:6px;background:var(--graphite-2)}
+.ere .mini span{display:block;height:100%}
+.ere q{quotes:"« " " »";font-size:var(--s-2);line-height:1.4;color:#D5DAE2;border-left:3px solid var(--ambre);padding-left:.55rem;cursor:pointer}
+.ere .a{font-size:var(--s-1);color:var(--acier)}
+.ere .btn{margin-top:auto;font-size:var(--s-1);padding:.5rem .6rem;text-align:center}
+.ere .btn:disabled{opacity:.35;cursor:not-allowed}
+.ere.vide{color:var(--acier)}
+
+/* Portefeuille */
+.pf-intro{color:var(--acier);max-width:75ch;margin:-.6rem 0 1.4rem}
+.pf-intro strong{color:var(--blanc);font-weight:600}
+.pf-grid{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:1px;background:var(--ligne);border:1px solid var(--ligne);border-bottom:0}
+.pf-mon{border:1px solid var(--ligne)}
+#cote-valeurs{width:100%;border-collapse:collapse;font-size:var(--s-2);font-variant-numeric:tabular-nums}
+#cote-valeurs th{font-family:var(--f-chiffre);font-size:var(--s-1);font-weight:400;color:var(--acier);text-align:left;text-transform:uppercase;letter-spacing:.06em;padding:.45rem .4rem;border-bottom:1px solid var(--ligne);white-space:nowrap}
+#cote-valeurs td{padding:.55rem .4rem;border-bottom:1px solid var(--ligne);vertical-align:middle}
+#cote-valeurs tbody tr{cursor:pointer;transition:background .2s}
+#cote-valeurs tbody tr:hover{background:var(--graphite-2)}
+#cote-valeurs tbody tr[aria-selected="true"]{background:var(--ambre-doux);box-shadow:inset 3px 0 0 var(--ambre)}
+#cote-valeurs .num{text-align:right;font-family:var(--f-chiffre);white-space:nowrap}
+.vcode{font-family:var(--f-chiffre);color:var(--ambre);font-weight:500}
+.vnom{display:block;font-size:var(--s-1);color:var(--acier);white-space:nowrap}
+#cote-valeurs svg{width:70px;height:22px;display:block}
+.pill{display:inline-block;font-family:var(--f-chiffre);font-size:.68rem;letter-spacing:.06em;padding:.2rem .45rem;border:1px solid currentColor;white-space:nowrap}
+.pill.acheter{color:var(--hausse)}.pill.vendre{color:var(--baisse)}.pill.conserver{color:var(--acier)}
+.fv-tete{display:flex;justify-content:space-between;gap:1rem;align-items:flex-start;flex-wrap:wrap}
+.fv-tete h3{font-size:1.6rem;margin-top:.2rem}
+.fv-cours{text-align:right}
+.fv-cours .mono{font-size:2rem;line-height:1;display:block}
+.fv-chart svg{width:100%;height:auto;display:block}
+.ligne-cours{fill:none;stroke-width:2;stroke-dasharray:3000;animation:trace 1.6s ease-out both}
+.fv-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.fv-stats div{background:var(--graphite);padding:.55rem .6rem;display:flex;flex-direction:column;gap:.15rem;min-width:0}
+.fv-stats .mono{font-size:var(--s-3)}
+.fv-moteur{list-style:none;margin:0;padding:0}
+.fv-moteur li{padding:.5rem 0;border-top:1px solid var(--ligne);cursor:pointer;font-size:var(--s-2)}
+.fv-moteur li:hover .q{color:var(--blanc)}
+.fv-moteur .q{color:#D5DAE2}
+.fv-moteur .a{color:var(--acier);font-size:var(--s-1);font-family:var(--f-chiffre)}
+.ordre{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;border-top:1px solid var(--ambre);padding-top:.9rem}
+.ordre label{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);text-transform:uppercase;letter-spacing:.06em}
+.ordre input{width:5.5rem;background:var(--nuit);border:1px solid var(--ligne);color:var(--blanc);font-family:var(--f-chiffre);font-size:var(--s-3);padding:.5rem .6rem}
+.btn-a,.btn-v{font-family:var(--f-chiffre);font-size:var(--s-2);letter-spacing:.06em;text-transform:uppercase;border:0;padding:.6rem 1rem;cursor:pointer}
+.btn-a{background:var(--hausse);color:var(--nuit)}.btn-v{background:transparent;color:var(--baisse);border:1px solid var(--baisse)}
+.btn-a:disabled,.btn-v:disabled{opacity:.35;cursor:not-allowed}
+.ordre-est{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);flex-basis:100%}
+.ordre-msg{font-family:var(--f-chiffre);font-size:var(--s-2);flex-basis:100%;min-height:1.2em}
+.pf-tuiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.pf-tuiles div{background:var(--graphite);padding:.9rem;display:flex;flex-direction:column;gap:.3rem;min-width:0}
+.pf-tuiles .mono{font-size:clamp(1.2rem,2.6vw,1.7rem);line-height:1.1}
+.pf-cols{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:1.6rem}
+.pf-cols>div{min-width:0}
+.pf-cols h4{font-family:var(--f-titre);text-transform:uppercase;font-size:1.15rem;margin:0 0 .5rem}
+.pf-table{width:100%;border-collapse:collapse;font-size:var(--s-2);font-variant-numeric:tabular-nums}
+.pf-table th{font-family:var(--f-chiffre);font-size:var(--s-1);font-weight:400;color:var(--acier);text-align:left;text-transform:uppercase;padding:.4rem;border-bottom:1px solid var(--ligne)}
+.pf-table td{padding:.5rem .4rem;border-bottom:1px solid var(--ligne)}
+.pf-table .num{text-align:right;font-family:var(--f-chiffre)}
+.pf-table tbody tr{cursor:pointer}
+.alloc{display:flex;height:12px;background:var(--graphite-2);margin:.4rem 0 .5rem;overflow:hidden}
+.alloc span{display:block;height:100%;transition:width .6s cubic-bezier(.2,.7,.2,1)}
+.alloc-leg{display:flex;flex-wrap:wrap;gap:.4rem .9rem;font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier)}
+.alloc-leg i{display:inline-block;width:.7rem;height:.7rem;margin-right:.3rem;vertical-align:middle}
+.histo-ordres{list-style:none;margin:0;padding:0;font-family:var(--f-chiffre);font-size:var(--s-1)}
+.histo-ordres li{display:flex;justify-content:space-between;gap:.6rem;padding:.4rem 0;border-bottom:1px solid var(--ligne);color:var(--acier)}
+.histo-ordres b{font-weight:500}
+.pf-vide{color:var(--acier);padding:.6rem 0}
+.raz{background:none;border:0;color:var(--acier);font-family:var(--f-chiffre);font-size:var(--s-1);text-decoration:underline;cursor:pointer;padding:0}
+.raz.confirmer{color:var(--baisse)}
+.flash-ok{animation:eclat 1.6s ease-out}
+
+@media (max-width:900px){
+  .pf-grid,.pf-cols{grid-template-columns:1fr}
+  .pf-tuiles{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .marche-grid{grid-template-columns:1fr;grid-template-areas:'vol' 'fil' 'act' 'car'}
+  .hero-grid{grid-template-columns:1fr}
+  .indices{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .repart{grid-template-columns:1fr}
+  .etapes{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .top .wrap{flex-wrap:wrap;row-gap:.35rem}
+  .nav{flex-wrap:nowrap;overflow-x:auto;width:100%;gap:1.1rem;padding-bottom:.25rem;scrollbar-width:none}
+  .nav::-webkit-scrollbar{display:none}
+  .nav a{white-space:nowrap}
+  .sem-grid,.regles-grid{grid-template-columns:1fr}
+  .frise{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .indices.ind5{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:620px){
+  .ligne{grid-template-columns:1fr;gap:.5rem}
+  .meta{text-align:left}
+  .indices,.etapes,.indices.ind5,.trio3,.frise{grid-template-columns:1fr}
+  .sem-chiffres .kpis{grid-template-columns:repeat(3,minmax(0,1fr));gap:.6rem}
+  .mentions dl{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  html{scroll-behavior:auto}
+}
+
+/* Hall of Fame */
+.hof-une{display:grid;grid-template-columns:auto minmax(0,1fr);gap:1.4rem;align-items:center;background:var(--graphite);border:1px solid var(--ligne);border-top:3px solid var(--ambre);padding:1.4rem;margin-bottom:1rem;cursor:pointer}
+.hof-une q{quotes:"« " " »";font-family:var(--f-titre);font-size:clamp(1.35rem,3vw,2rem);line-height:1.15;text-transform:none;display:block;margin:.35rem 0 .5rem;text-wrap:balance}
+.hof-une .a{font-size:var(--s-2);color:var(--acier)}
+.medaille{--m:var(--ambre);width:3.2rem;height:3.2rem;border-radius:50%;display:grid;place-items:center;font-family:var(--f-chiffre);font-size:.7rem;letter-spacing:.06em;color:var(--nuit);font-weight:500;background:radial-gradient(circle at 35% 30%,rgba(255,255,255,.55),transparent 45%),var(--m);box-shadow:0 0 0 3px var(--nuit),0 0 0 4px var(--m);flex:none}
+.hof-une .medaille{width:5.2rem;height:5.2rem;font-size:.85rem}
+.medaille.or{--m:#F2B84B}.medaille.argent{--m:#C9D1DC}.medaille.bronze{--m:#C98A5B}
+.medaille.cl{--m:transparent;color:var(--acier);background:none;box-shadow:inset 0 0 0 1px var(--ligne)}
+.hof-grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
+.prix{background:var(--nuit);padding:1.1rem;display:flex;flex-direction:column;gap:.7rem;min-width:0}
+.prix h3{font-size:1.4rem}
+.prix .def{font-size:var(--s-1);color:var(--acier);line-height:1.45}
+.prix ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.7rem}
+.prix li{display:grid;grid-template-columns:auto minmax(0,1fr);gap:.7rem;align-items:start;cursor:pointer}
+.prix li .medaille{width:2.3rem;height:2.3rem;font-size:.6rem}
+.prix li q{quotes:"« " " »";font-size:var(--s-2);line-height:1.4;display:block}
+.prix li .a{font-size:var(--s-1);color:var(--acier)}
+.prix li[hidden]{display:none}
+.prix.classique{grid-column:1/-1}
+.prix.classique ol{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr));gap:1rem 1.4rem}
+.prix .vacant{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);border:1px dashed var(--ligne);padding:.7rem;text-align:center}
+.prix .encore{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--ambre);background:none;border:0;padding:0;cursor:pointer;text-align:left}
+@media (max-width:560px){.hof-une{grid-template-columns:1fr}.hof-une .medaille{width:4rem;height:4rem}}
+</style>
+</head>
+<body>
+
+
+<a class="saut" href="#ouverture">Aller au contenu</a>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#ouverture">LA BOURSE <b>SURENCHÈRE</b></a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#semaine">Semaine</a><a href="#marche">Marché</a><a href="#portefeuille">Portefeuille</a><a href="#indices">Indices</a><a href="#frise">Archives</a><a href="#hof">Hall of Fame</a><a href="#cote">La cote</a><a href="#methode">Méthode</a><a href="#regles">Règles</a>
+    </nav>
+  </div>
+  <div class="tape" aria-hidden="true"><div class="tape-track" id="tape"></div></div>
+</header>
+
+<main>
+  <section class="hero" id="ouverture">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="badge" id="seance"><span id="etat-marche">Séance ouverte</span> · <span class="mono" id="horloge">--:--:--</span> <span class="mono" style="color:var(--acier)">Paris</span></div>
+        <h1>Le débat public<br>est désormais <span>coté</span></h1>
+        <div class="piliers"><div>Tranquillité publique</div><div>Citoyenneté &amp; civisme</div><div>Budget &amp; finances</div></div>
+        <p class="gazette-cd"><span class="label">Prochaine Gazette · vendredi 17:00</span> <span class="mono" id="gazette">—</span></p>
+        <p class="chapo">Chaque déclaration retenue est un verbatim de 30 mots maximum, daté et sourcé, transformé en ticker. Pas de commentaire sur les personnes : seul le mot est coté.</p>
+        <div class="hero-actions"><a class="btn" href="#portefeuille">Ouvrir mon portefeuille</a><a class="lien-x" href="https://x.com/rescuconsult" target="_blank" rel="noopener">Suivre @rescuconsult sur X ↗</a></div>
+        <p class="label fraicheur" id="fraicheur"></p>
+      </div>
+      <div class="compteurs" aria-label="Chiffres de la base">
+        <div class="compteur"><div class="n" data-compte="cotations">0</div><div class="label">Cotations certifiées</div></div>
+        <div class="compteur"><div class="n" data-compte="auteurs">0</div><div class="label">Personnalités cotées</div></div>
+        <div class="compteur"><div class="n" data-compte="tickers">0</div><div class="label">Tickers actifs</div></div>
+        <div class="compteur"><div class="n" data-compte="annees">0</div><div class="label">Années d'archives</div></div>
+      </div>
+    </div>
+    <svg class="courbe" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 100 L130 88 L230 96 L360 70 L470 78 L600 52 L720 60 L840 38 L960 46 L1080 22 L1200 10"/></svg>
+  </section>
+
+  <section id="semaine">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label" id="sem-periode">La semaine</div><h2>La semaine en bourse</h2></div>
+        <span class="mention">Calculé automatiquement à chaque mise à jour</span>
+      </div>
+      <div class="sem-grid">
+        <div class="panneau sem-chiffres" id="sem-chiffres"></div>
+        <div class="panneau sem-sym" id="sem-sym"></div>
+        <div class="panneau sem-trio" id="sem-trio"></div>
+        <div class="panneau sem-mots" id="sem-mots"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="marche">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label" id="marche-label">Dernière séance</div><h2>Le marché</h2></div>
+        <span class="mention">Volumes réels de cotations · aucun cours inventé</span>
+      </div>
+      <div class="marche-grid">
+        <div class="panneau p-volume">
+          <div class="p-head"><h3>Volume du débat</h3><span class="label" id="vol-resume"></span></div>
+          <div id="vol-chart"></div>
+          <div class="vol-leg"><span><i class="k-barre"></i>Cotations du jour</span><span><i class="k-ligne"></i>Moyenne 7 jours</span></div>
+        </div>
+        <div class="panneau p-fil">
+          <div class="p-head"><h3>Fil des cotations</h3><span class="live">En continu</span></div>
+          <ol id="fil" aria-live="off"></ol>
+          <p class="label fil-note">Rediffusion des dernières cotations certifiées · survol = pause</p>
+        </div>
+        <div class="panneau p-actives">
+          <div class="p-head"><h3>Valeurs les plus actives</h3><span class="label" id="act-periode"></span></div>
+          <div class="table-scroll"><table id="actives">
+            <thead><tr><th>#</th><th>Valeur</th><th class="num">7 j</th><th class="num">Var.</th><th>8 sem.</th></tr></thead>
+            <tbody></tbody>
+          </table></div>
+          <p class="label">Var. = écart du nombre de cotations avec les 7 jours précédents.</p>
+        </div>
+        <div class="panneau p-carte">
+          <div class="p-head"><h3>Carte du marché</h3><span class="label">Surface = nombre de cotations</span></div>
+          <div id="carte"></div>
+          <div class="legende"><span><i style="background:var(--t-pol)"></i>Politique</span><span><i style="background:var(--t-med)"></i>Médiatique</span><span><i style="background:var(--t-exp)"></i>Experts &amp; invités</span><span><i class="k-actif"></i>Cotée cette semaine</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="portefeuille" style="background:var(--graphite);border-block:1px solid var(--ligne)">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label">La bourse des sujets · indice <span id="idx-nom">SURENCHÈRE 14</span> <span class="mono" id="idx-val"></span></div><h2>Portefeuille</h2></div>
+        <span class="mention">Jeu satirique · jetons fictifs · [SATIRE] · [INDICE FICTIF]</span>
+      </div>
+      <p class="pf-intro">On ne cote pas les personnes : on cote les <strong>sujets</strong> et les <strong>registres</strong> du débat. Chaque cours vaut 100 points, plus 10 points par cotation certifiée sur ce thème au cours des 7 derniers jours. Vous recevez 10 000 jetons : misez sur ce dont le débat va parler.</p>
+      <div class="pf-grid">
+        <div class="panneau pf-cote">
+          <div class="p-head"><h3>La cote</h3>
+            <div class="rang" id="f-compart" role="group" aria-label="Compartiment">
+              <button type="button" class="chip" data-c="tout" aria-pressed="true">Toutes</button>
+              <button type="button" class="chip" data-c="Sujets" aria-pressed="false">Sujets</button>
+              <button type="button" class="chip" data-c="Registres" aria-pressed="false">Registres</button>
+            </div>
+          </div>
+          <div class="table-scroll"><table id="cote-valeurs">
+            <thead><tr><th>Valeur</th><th class="num">Cours</th><th class="num">1 j</th><th class="num">7 j</th><th class="num">Vol. 7 j</th><th>30 j</th><th>Signal</th></tr></thead>
+            <tbody></tbody>
+          </table></div>
+          <p class="label">Signal du courtier : ACHETER si le thème est plus cité que la semaine précédente et encore cité ces 3 derniers jours ; VENDRE s'il recule et n'est plus cité depuis 3 jours ; sinon CONSERVER. Calcul automatique, aucun conseil.</p>
+        </div>
+        <div class="panneau pf-fiche" id="fiche-valeur" aria-live="polite"></div>
+      </div>
+      <div class="panneau pf-mon" id="mon-pf"></div>
+    </div>
+  </section>
+
+  <section id="indices">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label" id="indices-titre">Clôture hebdomadaire</div><h2>Tableau des indices</h2></div>
+        <span class="mention">[SATIRE] · [INDICE FICTIF]</span>
+      </div>
+      <div class="indices ind5" id="grille-indices"></div>
+      <p class="label" style="margin-top:.8rem">Les 5 indices de la Bourse sont les 5 registres rhétoriques cotés au portefeuille : 100 points + 10 par cotation du registre sur 7 jours. Ils mesurent un vocabulaire, jamais une personne.</p>
+    </div>
+  </section>
+
+  <section id="frise">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label">Archives · de Chirac à Macron</div><h2>Vingt ans de surenchère</h2></div>
+        <span class="mention" id="frise-total"></span>
+      </div>
+      <div class="frise" id="frise-ères"></div>
+      <p class="label" style="margin-top:.8rem">Chaque période réunit les verbatims certifiés prononcés pendant le quinquennat, tous camps confondus. La veille ajoute des archives à chaque passage.</p>
+    </div>
+  </section>
+
+  <section id="hof">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label">Palmarès · décerné par la rédaction</div><h2>Hall of Fame</h2></div>
+        <span class="mention">[SATIRE] · Le prix récompense la phrase, jamais la personne</span>
+      </div>
+      <div id="hof-une"></div>
+      <div class="hof-grille" id="hof-grille"></div>
+      <p class="label" style="margin-top:.8rem">Médailles d'or, d'argent et de bronze attribuées à des verbatims certifiés, dans cinq catégories rhétoriques. La veille automatique ne décerne aucun prix : seule la rédaction le fait.</p>
+    </div>
+  </section>
+
+  <section id="cote" style="background:var(--graphite);border-block:1px solid var(--ligne)">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label">Carnet d'ordres</div><h2>La cote</h2></div>
+        <span class="mention">Cliquez une ligne pour ouvrir la fiche valeur</span>
+      </div>
+      <div class="filtres">
+        <div class="rang" id="f-pole" role="group" aria-label="Pôle"></div>
+        <div class="rang" id="f-pilier" role="group" aria-label="Pilier"></div>
+        <div class="rang">
+          <label class="label" for="q" hidden>Rechercher</label>
+          <input class="recherche" id="q" type="search" placeholder="Rechercher un nom, un mot, un ticker…">
+          <label class="label" for="periode">Période</label>
+          <select id="periode"><option value="tout">Toutes</option><option value="m2">Macron II (2022-…)</option><option value="m1">Macron I (2017-2022)</option><option value="ho">Hollande (2012-2017)</option><option value="sa">Sarkozy (2007-2012)</option><option value="ch">Chirac (2002-2007)</option><option value="av">Avant 2002</option></select>
+          <label class="label" for="tri">Tri</label>
+          <select id="tri"><option value="recent">Plus récentes</option><option value="ancien">Plus anciennes</option><option value="court">Plus courtes</option></select>
+        </div>
+      </div>
+      <div class="resume" id="resume" aria-live="polite"></div>
+      <div class="carnet" id="carnet"></div>
+      <div class="plus"><button class="btn" id="plus" type="button">Afficher 30 de plus</button></div>
+    </div>
+  </section>
+
+  <section id="repartition">
+    <div class="wrap">
+      <div class="sec-head"><div><div class="label">Volume de la base</div><h2>Répartition</h2></div></div>
+      <div class="repart">
+        <div><h3>Par pôle</h3><div id="r-pole"></div></div>
+        <div><h3>Par pilier</h3><div id="r-pilier"></div></div>
+        <div class="histo"><h3>Par année</h3><div id="r-annee"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="methode" style="border-top:1px solid var(--ligne)">
+    <div class="wrap">
+      <div class="sec-head"><div><div class="label">Protocole de certification</div><h2>Comment une phrase entre en bourse</h2></div></div>
+      <div class="etapes">
+        <div class="etape"><h3>Capture</h3><p>L'extrait d'origine (vidéo, audio, publication) est enregistré avec son horodatage.</p></div>
+        <div class="etape"><h3>Isolement</h3><p>On retient la phrase qui fait l'agenda à 24-48 h ou marque une rupture, sur l'un des trois piliers.</p></div>
+        <div class="etape"><h3>Transcription</h3><p>Mot à mot, entre guillemets. Jamais de paraphrase, jamais de retouche.</p></div>
+        <div class="etape"><h3>Source</h3><p>Chaque verbatim est rattaché à sa source primaire, consultable.</p></div>
+        <div class="etape"><h3>Contrôle</h3><p>Statut « Publiable », 30 mots maximum, auteur identifié, pas de doublon. Sinon, la ligne attend.</p></div>
+        <div class="etape"><h3>Cotation</h3><p>Le verbatim reçoit son ticker NOM-SUJET et rejoint la cote, dans les trois pôles à la fois.</p></div>
+      </div>
+      <p class="diapason">Au milieu du vacarme, la Bourse Surenchère se veut un <em>diapason</em> : elle ne juge pas les personnes, elle mesure la note. Gauche, droite, exécutif, plateaux et experts sont cotés selon la même règle.</p>
+    </div>
+  </section>
+
+  <section id="regles" style="background:var(--graphite);border-top:1px solid var(--ligne)">
+    <div class="wrap">
+      <div class="sec-head"><div><div class="label">Charte, rectifications, données</div><h2>Règles du jeu</h2></div></div>
+      <div class="regles-grid">
+        <div>
+          <h3>Charte éditoriale</h3>
+          <ul class="charte">
+            <li><b>Satire assumée.</b> Toute publication porte la mention [SATIRE] · [INDICE FICTIF]. Les cours et indices sont symboliques.</li>
+            <li><b>Le mot, pas la personne.</b> Aucune personne n'a de cours, de note ni de pourcentage. On cote des sujets et des registres.</li>
+            <li><b>Verbatim exact.</b> Mot pour mot, entre guillemets, 30 mots maximum, daté, avec sa source et son contexte.</li>
+            <li><b>Symétrie.</b> Gauche, centre et exécutif, droite, médias et experts sont soumis à la même règle. Le baromètre de la semaine le rend vérifiable.</li>
+            <li><b>Aucune attaque personnelle.</b> Ni physique, ni vie privée, ni santé, ni mineurs. Les personnalités ne sont pas identifiées par leur compte dans nos publications.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Droit de réponse et rectification</h3>
+          <p>Une citation vous semble inexacte, tronquée ou sortie de son contexte ? Écrivez à <span class="mono" id="mail-2">rescu.consult@gmail.com</span> en indiquant la citation et, si possible, la source d'origine.</p>
+          <ul class="charte">
+            <li>La citation est retirée de la cote pendant la vérification.</li>
+            <li>Si l'erreur est confirmée, elle est corrigée ou supprimée et la correction est signalée dans la Gazette suivante.</li>
+            <li>Le droit de réponse prévu par la loi (art. 6, IV de la loi pour la confiance dans l'économie numérique) s'exerce à la même adresse.</li>
+          </ul>
+          <h3>Vos données</h3>
+          <p>Ni cookie, ni traceur, ni compte. Votre portefeuille et vos filtres sont enregistrés uniquement dans votre navigateur, sur votre appareil. Personne d'autre n'y a accès ; vider les données du site les efface.</p>
+        </div>
+      </div>
+      <details class="mentions">
+        <summary>Mentions légales</summary>
+        <dl>
+          <dt>Éditeur</dt><dd>RESCU Lab (SASU en cours de constitution) · <span class="a-completer">adresse du siège à compléter</span></dd>
+          <dt>Directeur de la publication</dt><dd>Nicolas Ale</dd>
+          <dt>Contact</dt><dd>rescu.consult@gmail.com</dd>
+          <dt>Hébergeur</dt><dd><span class="a-completer">nom, adresse et téléphone de l'hébergeur à compléter lors de la mise en ligne sur laboursesurenchere.fr</span></dd>
+          <dt>Nature du site</dt><dd>Site satirique. Les citations sont reproduites à titre de courte citation, avec leur source, à des fins de commentaire et de parodie.</dd>
+        </dl>
+      </details>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="obligatoire">[SATIRE] · [INDICE FICTIF]</div>
+      <div>Un projet de RESCU Lab · <a href="https://x.com/rescuconsult" target="_blank" rel="noopener">@rescuconsult</a> · #BourseSurenchère</div>
+      <div><a href="#regles">Règles du jeu, rectifications et mentions légales</a></div>
+    </div>
+    <div>
+      Une erreur de verbatim ? Écrivez à <span id="mail">rescu.consult@gmail.com</span> · <button class="copier" id="copier" type="button">Copier l'adresse</button>
+      <div class="mono" id="pied-source" style="font-size:var(--s-1);margin-top:.3rem"></div>
+    </div>
+  </div>
+</footer>
+
+<div class="voile" id="voile"></div>
+<aside class="fiche" id="fiche" role="dialog" aria-modal="true" aria-labelledby="fiche-nom" hidden></aside>
+
+<script src="donnees.js"></script>
+<script>
+(function(){
+  var D = window.BOURSE || {cotations:[],indices:[]};
+  var C = D.cotations;
+  var calme = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var $ = function(s){return document.querySelector(s)};
+  var esc = function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+  var MOIS=['janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
+  function dateFr(d){var p=String(d).split('-');if(p.length<3)return d;return (+p[2])+' '+MOIS[+p[1]-1]+' '+p[0]}
+  function nf(n){return Number(n).toLocaleString('fr-FR')}
+  function compte(arr,k){var o={};arr.forEach(function(x){o[x[k]]=(o[x[k]]||0)+1});return o}
+
+  /* --- En-tête --- */
+  $('#pied-source').textContent = 'Données : ' + (D.source||'') + ' · ' + C.length + ' cotations';
+
+  /* --- Bandeau défilant --- */
+  var bandeau = C.slice(0,40).map(function(x){
+    return '<span class="tape-item"><i>▲</i><b>'+esc(x.ticker)+'</b>'+esc(x.pole)+' · '+dateFr(x.date)+'</span>';
+  }).join('');
+  $('#tape').innerHTML = bandeau + bandeau;
+
+  /* --- Compteurs --- */
+  var annees = C.map(function(x){return +x.date.slice(0,4)}).filter(Boolean);
+  var chiffres = {
+    cotations: C.length,
+    auteurs: Object.keys(compte(C,'auteur')).length,
+    tickers: Object.keys(compte(C,'ticker')).length,
+    annees: annees.length ? (Math.max.apply(null,annees)-Math.min.apply(null,annees)+1) : 0
+  };
+  document.querySelectorAll('[data-compte]').forEach(function(el){
+    var cible = chiffres[el.dataset.compte]||0;
+    if(calme){el.textContent=nf(cible);return}
+    var t0=null, dur=1300;
+    function pas(t){ if(!t0)t0=t; var p=Math.min(1,(t-t0)/dur); var e=1-Math.pow(1-p,3);
+      el.textContent=nf(Math.round(cible*e)); if(p<1)requestAnimationFrame(pas) }
+    requestAnimationFrame(pas);
+  });
+
+  /* --- Fraîcheur des données --- */
+  (function(){
+    var m=String(D.maj||''), h=m.length>10?m.slice(11,16).replace(':','h'):'';
+    $('#fraicheur').textContent='Cote mise à jour le '+dateFr(m.slice(0,10))+(h?' à '+h:'')+' · veille matin et soir · '+C.length+' cotations certifiées';
+  })();
+
+  /* --- Partage d'une citation --- */
+  C.forEach(function(x,i){x._i=i});
+  function textePartage(x){
+    var t='« '+x.citation+' » — '+x.auteur+', '+dateFr(x.date)+'\n#BourseSurenchère [SATIRE]';
+    return t.length>270 ? ('« '+x.citation.slice(0,200).replace(/\s+\S*$/,'')+'… » — '+x.auteur+'\n#BourseSurenchère [SATIRE]') : t;
+  }
+  function boutonsPartage(x){
+    return '<div class="partage"><button type="button" data-copier="'+x._i+'">Copier</button>'+
+      '<a href="https://x.com/intent/post?text='+encodeURIComponent(textePartage(x))+'" target="_blank" rel="noopener">Publier sur X ↗</a></div>';
+  }
+  document.addEventListener('click',function(e){
+    var b=e.target.closest('[data-copier]'); if(!b)return;
+    e.stopPropagation();
+    var t=textePartage(C[+b.dataset.copier]);
+    var ok=function(){b.textContent='Copié ✓';setTimeout(function(){b.textContent='Copier'},1800)};
+    try{navigator.clipboard.writeText(t).then(ok,function(){b.textContent='Copie refusée'})}catch(err){b.textContent='Copie refusée'}
+  },true);
+
+  /* --- Quinquennats --- */
+  var ERES=[
+    {k:'m2',nom:'Macron II',pres:'Emmanuel Macron',de:'2022-05-14',a:'9999'},
+    {k:'m1',nom:'Macron I',pres:'Emmanuel Macron',de:'2017-05-14',a:'2022-05-14'},
+    {k:'ho',nom:'Hollande',pres:'François Hollande',de:'2012-05-15',a:'2017-05-14'},
+    {k:'sa',nom:'Sarkozy',pres:'Nicolas Sarkozy',de:'2007-05-16',a:'2012-05-15'},
+    {k:'ch',nom:'Chirac II',pres:'Jacques Chirac',de:'2002-05-17',a:'2007-05-16'},
+    {k:'av',nom:'Avant 2002',pres:'',de:'0000',a:'2002-05-17'}
+  ];
+  function quinq(d){for(var i=0;i<ERES.length;i++){if(d>=ERES[i].de&&d<ERES[i].a)return ERES[i].k}return 'av'}
+
+  /* --- Filtres --- */
+  var etat = {pole:'Tous', pilier:'Tous', q:'', periode:'tout', tri:'recent', n:30};
+  try{ var s=JSON.parse(localStorage.getItem('bourse-filtres')||'null'); if(s){etat.pole=s.pole||'Tous';etat.pilier=s.pilier||'Tous'} }catch(e){}
+  function chips(id,cle,valeurs){
+    var cpt=compte(C,cle);
+    var html=['Tous'].concat(valeurs).map(function(v){
+      var n = v==='Tous'?C.length:(cpt[v]||0);
+      return '<button type="button" class="chip" data-k="'+cle+'" data-v="'+esc(v)+'" aria-pressed="'+(etat[cle]===v)+'">'+esc(v)+'<span class="c mono">'+n+'</span></button>';
+    }).join('');
+    $(id).innerHTML=html;
+  }
+  chips('#f-pole','pole',['Politique','Médiatique','Experts & invités']);
+  chips('#f-pilier','pilier',['Tranquillité publique','Citoyenneté & civisme','Budget & finances']);
+  document.querySelectorAll('.filtres').forEach(function(f){
+    f.addEventListener('click',function(e){
+      var b=e.target.closest('.chip'); if(!b)return;
+      etat[b.dataset.k]=b.dataset.v; etat.n=30;
+      b.parentNode.querySelectorAll('.chip').forEach(function(c){c.setAttribute('aria-pressed',c===b)});
+      try{localStorage.setItem('bourse-filtres',JSON.stringify({pole:etat.pole,pilier:etat.pilier}))}catch(e){}
+      rendre(true);
+    });
+  });
+  var minuterie;
+  $('#q').addEventListener('input',function(e){clearTimeout(minuterie);minuterie=setTimeout(function(){etat.q=e.target.value.trim().toLowerCase();etat.n=30;rendre(true)},180)});
+  $('#periode').addEventListener('change',function(e){etat.periode=e.target.value;etat.n=30;rendre(true)});
+  $('#tri').addEventListener('change',function(e){etat.tri=e.target.value;rendre(true)});
+  $('#plus').addEventListener('click',function(){etat.n+=30;rendre(false)});
+
+  function filtrer(){
+    var r=C.filter(function(x){
+      if(etat.pole!=='Tous'&&x.pole!==etat.pole)return false;
+      if(etat.pilier!=='Tous'&&x.pilier!==etat.pilier)return false;
+      if(etat.periode!=='tout'&&quinq(x.date)!==etat.periode)return false;
+      if(etat.q){var t=(x.auteur+' '+x.citation+' '+x.ticker+' '+x.affil+' '+x.contexte).toLowerCase(); if(t.indexOf(etat.q)<0)return false}
+      return true;
+    });
+    r.sort(function(a,b){
+      if(etat.tri==='ancien')return a.date<b.date?-1:1;
+      if(etat.tri==='court')return a.mots-b.mots;
+      return a.date<b.date?1:-1;
+    });
+    return r;
+  }
+  var dejaAffiche=0;
+  function rendre(reset){
+    var r=filtrer(), vue=r.slice(0,etat.n);
+    $('#resume').textContent = r.length+' cotation'+(r.length>1?'s':'')+' · '+vue.length+' affichée'+(vue.length>1?'s':'');
+    if(!r.length){$('#carnet').innerHTML='<p class="vide">Aucune cotation ne correspond. Élargissez les filtres ou videz la recherche.</p>';$('#plus').hidden=true;return}
+    var debut = reset?0:dejaAffiche;
+    var html = vue.map(function(x,i){
+      var anim = (!calme && i>=debut) ? ' entre" style="animation-delay:'+Math.min((i-debut)*35,700)+'ms' : '';
+      return '<article class="ligne'+anim+'" tabindex="0" data-auteur="'+esc(x.auteur)+'">'+
+        '<div class="tk">'+esc(x.ticker)+'<small>'+esc(x.pole)+' · '+esc(x.pilier)+'</small></div>'+
+        '<div class="cit"><q>'+esc(x.citation)+'</q><div class="qui"><strong>'+esc(x.auteur)+'</strong>'+(x.affil?' · '+esc(x.affil):'')+(x.contexte?' · '+esc(x.contexte):'')+'</div></div>'+
+        '<div class="meta">'+dateFr(x.date)+'<br>'+x.mots+' mots<br><span class="statut">▲ Coté</span>'+boutonsPartage(x)+'</div></article>';
+    }).join('');
+    $('#carnet').innerHTML=html;
+    dejaAffiche=vue.length;
+    $('#plus').hidden = vue.length>=r.length;
+  }
+  rendre(true);
+
+  /* --- Frise des quinquennats --- */
+  (function(){
+    var cols={'Gauche':'#FD8A8A','Centre & exécutif':'#F2D57B','Droite':'#8FB3FF'};
+    var html=ERES.map(function(e){
+      var l=C.filter(function(x){return quinq(x.date)===e.k});
+      var pol=l.filter(function(x){return x.famille}), f={'Gauche':0,'Centre & exécutif':0,'Droite':0};
+      pol.forEach(function(x){if(f.hasOwnProperty(x.famille))f[x.famille]++});
+      var tot=f['Gauche']+f['Centre & exécutif']+f['Droite'];
+      var p=l.slice().sort(function(a,b){return a.mots-b.mots})[0];
+      var dates=e.k==='av'?'avant mai 2002':(e.de.slice(0,4)+' → '+(e.a==='9999'?'aujourd\'hui':e.a.slice(0,4)));
+      return '<div class="ere'+(l.length?' pleine':' vide')+'"><div class="dates">'+dates+'</div><h3>'+e.nom+'</h3>'+
+        '<div><span class="n">'+l.length+'</span> <span class="label">cotation'+(l.length>1?'s':'')+'</span></div>'+
+        '<div class="mini" title="Gauche '+f['Gauche']+' · Centre & exécutif '+f['Centre & exécutif']+' · Droite '+f['Droite']+'">'+(tot?['Gauche','Centre & exécutif','Droite'].map(function(k){return '<span style="width:'+(f[k]/tot*100)+'%;background:'+cols[k]+'"></span>'}).join(''):'')+'</div>'+
+        (p?'<q data-auteur="'+esc(p.auteur)+'" tabindex="0">'+esc(p.citation)+'</q><span class="a">'+esc(p.auteur)+' · '+dateFr(p.date)+'</span>':'<span class="a">Pas encore d\'archives certifiées.</span>')+
+        '<button type="button" class="btn" data-ere="'+e.k+'"'+(l.length?'':' disabled')+'>Voir dans la cote</button></div>';
+    }).join('');
+    $('#frise-ères').innerHTML=html;
+    var anc=C.filter(function(x){return x.date<'2022-05-14'}).length;
+    $('#frise-total').textContent=anc+' archives avant 2022 · '+C.length+' au total';
+    $('#frise-ères').addEventListener('click',function(e){
+      var b=e.target.closest('[data-ere]'); if(b){ $('#periode').value=b.dataset.ere; etat.periode=b.dataset.ere; etat.n=30; rendre(true); $('#cote').scrollIntoView({behavior:calme?'auto':'smooth'}); return }
+      var q=e.target.closest('q[data-auteur]'); if(q) ouvrir(q.dataset.auteur);
+    });
+  })();
+
+
+  /* --- Hall of Fame --- */
+  (function(){
+    var PRIX=[
+      ['Arrogance','La phrase qui se décerne à elle-même un satisfecit. Cotée à la certitude, sans aucune décote pour le doute.'],
+      ['Surenchère','L\'escalade verbale la plus haute de la séance : chaque mot monte d\'un cran sur le précédent.'],
+      ['Catastrophe','La prophétie d\'effondrement : guerre, chaos, fin d\'une époque, livrés à échéance immédiate.'],
+      ['Langue de bois','Le meilleur rendement de mots pour le plus faible dividende de sens.'],
+      ['Classique','La phrase entrée dans l\'histoire du débat public, cotée en permanence.']
+    ];
+    var RANG={'Or':0,'Argent':1,'Bronze':2,'':3}, L=C.filter(function(x){return x.hof});
+    function tri(a,b){return (RANG[a.hof.medaille]-RANG[b.hof.medaille])||(a.date<b.date?1:-1)}
+    function disque(m,cls){return '<span class="medaille '+(m?m.toLowerCase():'cl')+(cls||'')+'" aria-label="'+(m?'Médaille '+m.toLowerCase():'Classique')+'">'+(m?({'Or':'OR','Argent':'ARG','Bronze':'BRZ'})[m]:'★')+'</span>'}
+    var ors=L.filter(function(x){return x.hof.medaille==='Or'}).sort(function(a,b){return a.date<b.date?1:-1});
+    if(ors.length){var u=ors[0];
+      $('#hof-une').innerHTML='<article class="hof-une" tabindex="0" data-auteur="'+esc(u.auteur)+'">'+disque('Or')+
+        '<div><div class="label">Dernière médaille d\'or · Prix '+esc(u.hof.prix)+'</div><q>'+esc(u.citation)+'</q><div class="a"><strong>'+esc(u.auteur)+'</strong> · '+esc(u.fonction||u.affil)+' · '+dateFr(u.date)+(u.contexte?' · '+esc(u.contexte):'')+'</div></div></article>';
+    }
+    $('#hof-grille').innerHTML=PRIX.map(function(p){
+      var l=L.filter(function(x){return x.hof.prix===p[0]}).sort(tri), max=p[0]==='Classique'?8:3;
+      var items=l.map(function(x,i){return '<li data-auteur="'+esc(x.auteur)+'" tabindex="0"'+(i>=max?' hidden':'')+'>'+disque(x.hof.medaille)+'<div><q>'+esc(x.citation)+'</q><span class="a">'+esc(x.auteur)+' · '+dateFr(x.date)+'</span></div></li>'}).join('');
+      return '<div class="prix'+(p[0]==='Classique'?' classique':'')+'"><div><div class="label">Prix</div><h3>'+p[0]+'</h3></div><p class="def">'+p[1]+'</p>'+
+        (l.length?'<ol>'+items+'</ol>'+(l.length>max?'<button class="encore" type="button">+ '+(l.length-max)+' lauréat'+(l.length-max>1?'s':'')+'</button>':''):'<div class="vacant">Fauteuil vacant · aucune médaille décernée</div>')+'</div>';
+    }).join('');
+    var s=$('#hof');
+    s.addEventListener('click',function(e){
+      var b=e.target.closest('.encore'); if(b){b.parentNode.querySelectorAll('li[hidden]').forEach(function(li){li.hidden=false}); b.remove(); return}
+      var a=e.target.closest('[data-auteur]'); if(a) ouvrir(a.dataset.auteur);
+    });
+    s.addEventListener('keydown',function(e){ if(e.key==='Enter'){var a=e.target.closest('[data-auteur]'); if(a) ouvrir(a.dataset.auteur)} });
+  })();
+
+  /* --- Fiche valeur --- */
+  var fiche=$('#fiche'), voile=$('#voile'), dernierFocus=null;
+  function slug(t){return String(t).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}
+  function ouvrir(nom){
+    try{ if(location.hash!=='#fiche-'+slug(nom)) history.replaceState(null,'','#fiche-'+slug(nom)) }catch(e){}
+    var l=C.filter(function(x){return x.auteur===nom}).sort(function(a,b){return a.date<b.date?1:-1});
+    if(!l.length)return; var p=l[0];
+    var dates=l.map(function(x){return x.date}).sort();
+    fiche.innerHTML='<button class="btn fermer" type="button" id="fermer">Fermer</button>'+
+      '<div class="label">Fiche valeur · '+esc(p.pole)+'</div><h2 id="fiche-nom">'+esc(nom)+'</h2>'+
+      '<div class="qui">'+esc(p.fonction)+(p.affil?' · '+esc(p.affil):'')+'</div>'+
+      '<div class="stats"><div><span class="mono">'+l.length+'</span><span class="label">Cotation'+(l.length>1?'s':'')+'</span></div>'+
+      '<div><span class="mono">'+dateFr(dates[0])+'</span><span class="label">Première</span></div>'+
+      '<div><span class="mono">'+dateFr(dates[dates.length-1])+'</span><span class="label">Dernière</span></div></div>'+
+      '<ol>'+l.map(function(x){
+        var src = /^https?:\/\//.test(x.source) ? '<a href="'+esc(x.source)+'" target="_blank" rel="noopener">Source : '+esc(x.source.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])+'</a>' : 'Source : '+esc(x.source);
+        return '<li><div class="tk">'+esc(x.ticker)+'</div><q>'+esc(x.citation)+'</q><div class="src">'+dateFr(x.date)+(x.contexte?' · '+esc(x.contexte):'')+' · '+src+'</div>'+boutonsPartage(x)+'</li>';
+      }).join('')+'</ol><p class="label" style="margin-top:1rem">[SATIRE] · [INDICE FICTIF]</p>';
+    dernierFocus=document.activeElement;
+    fiche.hidden=false; requestAnimationFrame(function(){fiche.classList.add('on');voile.classList.add('on')});
+    $('#fermer').addEventListener('click',fermer); $('#fermer').focus();
+  }
+  function fermer(){
+    try{ if(/^#fiche-/.test(location.hash)) history.replaceState(null,'',location.pathname+location.search) }catch(e){}
+    fiche.classList.remove('on');voile.classList.remove('on');
+    setTimeout(function(){fiche.hidden=true},calme?0:350);
+    if(dernierFocus)dernierFocus.focus();
+  }
+  voile.addEventListener('click',fermer);
+  function depuisHash(){
+    var h=location.hash; if(!/^#fiche-/.test(h))return;
+    var cible=h.slice(7), auteurs=Object.keys(compte(C,'auteur'));
+    for(var i=0;i<auteurs.length;i++){ if(slug(auteurs[i])===cible){ ouvrir(auteurs[i]); return } }
+  }
+  window.addEventListener('hashchange',depuisHash);
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!fiche.hidden)fermer()});
+  $('#carnet').addEventListener('click',function(e){
+    if(e.target.closest('a,button'))return; var l=e.target.closest('.ligne'); if(l)ouvrir(l.dataset.auteur)});
+  $('#carnet').addEventListener('keydown',function(e){
+    if(e.key==='Enter'){var l=e.target.closest('.ligne'); if(l)ouvrir(l.dataset.auteur)}});
+
+  /* --- Répartition --- */
+  function barres(id,cle,ordre){
+    var cpt=compte(C,cle), max=Math.max.apply(null,ordre.map(function(k){return cpt[k]||0}))||1;
+    $(id).innerHTML=ordre.map(function(k,i){var n=cpt[k]||0;
+      return '<div class="barre"><span>'+esc(k)+'</span><div class="piste"><div class="remp" style="width:'+(n/max*100)+'%;animation-delay:'+(i*120)+'ms"></div></div><span class="mono">'+n+'</span></div>'}).join('');
+  }
+  barres('#r-pole','pole',['Politique','Médiatique','Experts & invités']);
+  barres('#r-pilier','pilier',['Tranquillité publique','Citoyenneté & civisme','Budget & finances']);
+  (function(){
+    var cpt={}; annees.forEach(function(a){cpt[a]=(cpt[a]||0)+1});
+    var ks=Object.keys(cpt).sort(), max=Math.max.apply(null,ks.map(function(k){return cpt[k]}))||1;
+    var W=320,H=170,b=22,top=16,bw=(W-10)/ks.length;
+    var svg='<svg viewBox="0 0 '+W+' '+(H+b)+'" role="img" aria-label="Cotations par année">';
+    ks.forEach(function(k,i){
+      var h=Math.max(2,(cpt[k]/max)*(H-top)), x=5+i*bw;
+      svg+='<rect x="'+(x+bw*.15)+'" y="'+(H-h)+'" width="'+(bw*.7)+'" height="'+h+'" fill="'+(k==='2026'?'var(--ambre)':'var(--acier)')+'" opacity="'+(k==='2026'?1:.55)+'"><title>'+k+' : '+cpt[k]+'</title></rect>';
+      if(k==='2026'||i===0) svg+='<text x="'+(x+bw/2)+'" y="'+(H-h-4)+'" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--blanc)">'+cpt[k]+'</text>';
+      if(i===0||i===ks.length-1||k==='2020') svg+='<text x="'+(x+bw/2)+'" y="'+(H+15)+'" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+k+'</text>';
+    });
+    svg+='<line x1="0" y1="'+H+'" x2="'+W+'" y2="'+H+'" stroke="var(--ligne)"/></svg>';
+    $('#r-annee').innerHTML=svg;
+  })();
+
+  /* ================= LE MARCHÉ EN DIRECT ================= */
+  var JOUR=864e5;
+  function jour(iso){return Date.UTC(+iso.slice(0,4),+iso.slice(5,7)-1,+iso.slice(8,10))}
+  function iso(t){return new Date(t).toISOString().slice(0,10)}
+  var recentes = C.filter(function(x){return /^\d{4}-\d\d-\d\d$/.test(x.date)});
+  var derniere = recentes.reduce(function(m,x){return x.date>m?x.date:m},'0000');
+  var tFin = jour(derniere);
+  $('#marche-label').textContent = 'Dernière séance cotée · ' + dateFr(derniere);
+
+  /* Horloge de séance (heure de Paris) + compte à rebours Gazette */
+  var fmt = new Intl.DateTimeFormat('fr-FR',{timeZone:'Europe/Paris',weekday:'short',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false});
+  function paris(){
+    var p={}; fmt.formatToParts(new Date()).forEach(function(x){p[x.type]=x.value});
+    var j=['dim.','lun.','mar.','mer.','jeu.','ven.','sam.'].indexOf(p.weekday);
+    return {j:j,h:+p.hour%24,m:+p.minute,s:+p.second,mur:Date.UTC(+p.year,+p.month-1,+p.day,+p.hour%24,+p.minute,+p.second)};
+  }
+  function deux(n){return (n<10?'0':'')+n}
+  function seance(){
+    var P=paris(), min=P.h*60+P.m;
+    var ouverte = P.j>=1 && P.j<=5 && min>=540 && min<1050;  // 9:00 - 17:30
+    $('#horloge').textContent = deux(P.h)+':'+deux(P.m)+':'+deux(P.s);
+    $('#seance').classList.toggle('ferme',!ouverte);
+    $('#etat-marche').textContent = ouverte ? 'Séance ouverte' : (P.j===0||P.j===6 ? 'Marché fermé · reprise lundi 9:00' : (min<540?'Pré-ouverture · 9:00':'Clôture · reprise 9:00'));
+    // prochaine Gazette : vendredi 17:00
+    var debutJour = P.mur - (P.h*3600+P.m*60+P.s)*1000;
+    var ecart = (5-P.j+7)%7;
+    var cible = debutJour + ecart*JOUR + 17*3600e3;
+    if(cible<=P.mur) cible += 7*JOUR;
+    var r=Math.floor((cible-P.mur)/1000), d=Math.floor(r/86400); r%=86400;
+    $('#gazette').textContent = (d? 'J-'+d+' ' : '') + deux(Math.floor(r/3600))+':'+deux(Math.floor(r%3600/60))+':'+deux(r%60);
+  }
+  seance(); setInterval(seance,1000);
+
+  /* Volume du débat : cotations par jour sur 90 jours + moyenne mobile 7 jours */
+  (function(){
+    var N=90, parJour={};
+    recentes.forEach(function(x){parJour[x.date]=(parJour[x.date]||0)+1});
+    var jours=[]; for(var i=N-1;i>=0;i--){var d=iso(tFin-i*JOUR); jours.push({d:d,n:parJour[d]||0})}
+    jours.forEach(function(x,i){var s=0,k=0;for(var j=Math.max(0,i-6);j<=i;j++){s+=jours[j].n;k++} x.m=s/k});
+    var max=Math.max(1,Math.max.apply(null,jours.map(function(x){return x.n})));
+    var pas = max>20?10:max>8?4:2, haut=Math.ceil(max/pas)*pas;
+    var W=720,H=300,g=34,b=24,t=8, bw=(W-g)/N;
+    var y=function(v){return t+(H-t-b)*(1-v/haut)};
+    var s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Cotations par jour sur 90 jours">';
+    for(var v=0;v<=haut;v+=pas){s+='<line x1="'+g+'" x2="'+W+'" y1="'+y(v)+'" y2="'+y(v)+'" stroke="var(--ligne)"/><text x="'+(g-6)+'" y="'+(y(v)+4)+'" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+v+'</text>'}
+    jours.forEach(function(x,i){
+      if(!x.n)return;
+      var h=y(0)-y(x.n);
+      s+='<rect class="b" x="'+(g+i*bw+1)+'" y="'+y(x.n)+'" width="'+Math.max(1,bw-2)+'" height="'+h+'" fill="var(--acier)" opacity=".6" style="animation-delay:'+(calme?0:i*8)+'ms"><title>'+dateFr(x.d)+' : '+x.n+' cotation'+(x.n>1?'s':'')+'</title></rect>';
+    });
+    s+='<path class="moy" d="'+jours.map(function(x,i){return (i?'L':'M')+(g+i*bw+bw/2).toFixed(1)+' '+y(x.m).toFixed(1)}).join(' ')+'"/>';
+    var dl=jours[N-1]; s+='<circle cx="'+(g+(N-1)*bw+bw/2)+'" cy="'+y(dl.m)+'" r="4" fill="var(--ambre)"/>';
+    [0,Math.floor(N/2),N-1].forEach(function(i){s+='<text x="'+Math.min(W-2,Math.max(g,g+i*bw+bw/2))+'" y="'+(H-6)+'" text-anchor="'+(i===0?'start':i===N-1?'end':'middle')+'" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+dateFr(jours[i].d)+'</text>'});
+    $('#vol-chart').innerHTML=s+'</svg>';
+    var tot=jours.reduce(function(a,x){return a+x.n},0);
+    $('#vol-resume').textContent = tot+' cotations en 90 j · moy. 7 j : '+dl.m.toFixed(1).replace('.',',')+'/jour';
+  })();
+
+  /* Valeurs les plus actives : 7 derniers jours de données vs 7 précédents */
+  (function(){
+    var stats={};
+    recentes.forEach(function(x){
+      var k=Math.floor((tFin-jour(x.date))/JOUR);   // jours avant la dernière séance
+      var s=stats[x.auteur]||(stats[x.auteur]={nom:x.auteur,pole:x.pole,cur:0,prev:0,tot:0,sem:[0,0,0,0,0,0,0,0]});
+      s.tot++; if(k<7)s.cur++; else if(k<14)s.prev++;
+      if(k<56)s.sem[7-Math.floor(k/7)]++;
+    });
+    var l=Object.keys(stats).map(function(k){return stats[k]}).filter(function(s){return s.cur||s.prev})
+      .sort(function(a,b){return b.cur-a.cur||b.prev-a.prev||b.tot-a.tot}).slice(0,8);
+    $('#act-periode').textContent = dateFr(iso(tFin-6*JOUR)).replace(/ \d{4}$/,'')+' → '+dateFr(derniere);
+    $('#actives tbody').innerHTML = l.map(function(s,i){
+      var v=s.cur-s.prev, cls=v>0?'up':v<0?'down':'eq', sig=v>0?'▲ +'+v:v<0?'▼ '+v:'= 0';
+      var mx=Math.max(1,Math.max.apply(null,s.sem));
+      var pts=s.sem.map(function(n,j){return (2+j*80/7).toFixed(1)+','+(21-n/mx*18).toFixed(1)}).join(' ');
+      return '<tr data-auteur="'+esc(s.nom)+'" tabindex="0"><td class="rg">'+(i+1)+'</td><td class="nom">'+esc(s.nom)+'<small>'+esc(s.pole)+'</small></td>'+
+        '<td class="num">'+s.cur+'</td><td class="num '+cls+'">'+sig+'</td>'+
+        '<td><svg viewBox="0 0 84 24" aria-hidden="true"><polyline points="'+pts+'" fill="none" stroke="var(--acier)" stroke-width="1.5"/><circle cx="82" cy="'+(21-s.sem[7]/mx*18).toFixed(1)+'" r="2.5" fill="'+(v>=0?'var(--hausse)':'var(--baisse)')+'"/></svg></td></tr>';
+    }).join('') || '<tr><td colspan="5" class="eq">Aucune cotation sur les 14 derniers jours de données.</td></tr>';
+    function viaLigne(e){var tr=e.target.closest('tr[data-auteur]'); if(tr)ouvrir(tr.dataset.auteur)}
+    $('#actives').addEventListener('click',viaLigne);
+    $('#actives').addEventListener('keydown',function(e){if(e.key==='Enter')viaLigne(e)});
+  })();
+
+  /* Carte du marché : une tuile par personnalité, surface = nombre de cotations */
+  (function(){
+    var parA={}, actifs={};
+    C.forEach(function(x){
+      var s=parA[x.auteur]||(parA[x.auteur]={nom:x.auteur,pole:x.pole,n:0}); s.n++;
+      if(x.date && tFin-jour(x.date)<7*JOUR) actifs[x.auteur]=1;
+    });
+    var l=Object.keys(parA).map(function(k){return parA[k]}).sort(function(a,b){return b.n-a.n}).slice(0,32);
+    var cl={'Politique':'pol','Médiatique':'med'};
+    $('#carte').innerHTML=l.map(function(s,i){
+      return '<div class="tuile '+(cl[s.pole]||'exp')+(actifs[s.nom]?' actif':'')+'" tabindex="0" data-auteur="'+esc(s.nom)+'" title="'+esc(s.nom)+' : '+s.n+' cotation'+(s.n>1?'s':'')+'" style="flex:'+s.n+' 1 '+(s.n*16+64)+'px;animation-delay:'+(calme?0:i*30)+'ms">'+
+        '<span class="tn">'+esc(s.nom)+'</span><span class="tc">'+s.n+'</span></div>';
+    }).join('');
+    function viaTuile(e){var t=e.target.closest('.tuile'); if(t)ouvrir(t.dataset.auteur)}
+    $('#carte').addEventListener('click',viaTuile);
+    $('#carte').addEventListener('keydown',function(e){if(e.key==='Enter')viaTuile(e)});
+  })();
+
+  /* Fil des cotations : une nouvelle ligne toutes les 5 secondes (rediffusion des 40 dernières) */
+  (function(){
+    var flux=C.slice(0,40).reverse(), pos=0, VISIBLES=5, pause=false, fil=$('#fil');
+    function item(x,neuf){
+      var q=x.citation.length>110?x.citation.slice(0,107).replace(/\s+\S*$/,'')+'…':x.citation;
+      return '<li class="'+(neuf?'neuf':'')+'" data-auteur="'+esc(x.auteur)+'" tabindex="0"><div class="l1"><b>▲ '+esc(x.ticker)+'</b><span>'+dateFr(x.date)+'</span></div>'+
+        '<div class="q">« '+esc(q)+' »</div><div class="a">'+esc(x.auteur)+' · '+esc(x.pole)+'</div></li>';
+    }
+    // état de départ : les 6 plus récentes, visibles tout de suite
+    fil.innerHTML=C.slice(0,VISIBLES).map(function(x){return item(x,false)}).join('');
+    function suivant(){
+      if(pause||document.hidden||!flux.length)return;
+      var x=flux[pos%flux.length]; pos++;
+      fil.insertAdjacentHTML('afterbegin',item(x,true));
+      while(fil.children.length>VISIBLES) fil.removeChild(fil.lastElementChild);
+    }
+    if(!calme) setInterval(suivant,5000);
+    fil.addEventListener('mouseenter',function(){pause=true});
+    fil.addEventListener('mouseleave',function(){pause=false});
+    fil.addEventListener('focusin',function(){pause=true});
+    fil.addEventListener('focusout',function(){pause=false});
+    fil.addEventListener('click',function(e){var li=e.target.closest('li'); if(li)ouvrir(li.dataset.auteur)});
+    fil.addEventListener('keydown',function(e){if(e.key==='Enter'){var li=e.target.closest('li'); if(li)ouvrir(li.dataset.auteur)}});
+  })();
+
+  var MARCHE={};
+  /* ================= BOURSE DES SUJETS & PORTEFEUILLE ================= */
+  (function(){
+    var VAL = {
+      SECU:{nom:'Sécurité & ordre public',c:'Sujets'}, INST:{nom:'Institutions & République',c:'Sujets'},
+      VIOL:{nom:'Violences urbaines',c:'Sujets'}, JUST:{nom:'Justice & sanctions',c:'Sujets'},
+      ECOL:{nom:'École & jeunesse',c:'Sujets'}, MANF:{nom:'Manifestations',c:'Sujets'},
+      IMMI:{nom:'Immigration',c:'Sujets'}, IDEN:{nom:'Racisme, laïcité & identité',c:'Sujets'},
+      BUDG:{nom:'Budget & finances',c:'Sujets'},
+      PEUR:{nom:'Registre de la peur',c:'Registres'}, AUTO:{nom:'Registre de l\'autorité',c:'Registres'},
+      POLE:{nom:'Registre de l\'accusation',c:'Registres'}, POPU:{nom:'Appel au peuple',c:'Registres'},
+      INDI:{nom:'Registre de l\'indignation',c:'Registres'}
+    };
+    var CODES=Object.keys(VAL), N=90, M=N+14;
+    var COUL=['#F2B84B','#36C98F','#94A3B8','#FD6464','#8FB3FF','#C79BF2','#F2E14B','#5FD3D9','#E58E5A','#B0BEC5','#7FD18B','#F28FB1','#D9C27A','#9AA7FF'];
+    var cnt={}; CODES.forEach(function(k){cnt[k]=new Array(M).fill(0)});
+    var parValeur={}; CODES.forEach(function(k){parValeur[k]=[]});
+    recentes.forEach(function(x){
+      (x.valeurs||[]).forEach(function(v){ if(parValeur[v]) parValeur[v].push(x) });
+      var k=Math.round((tFin-jour(x.date))/JOUR); if(k<0||k>=M)return;
+      (x.valeurs||[]).forEach(function(v){ if(cnt[v]) cnt[v][M-1-k]++ });
+    });
+    function vol(code,i,n){var s=0;for(var j=Math.max(0,i-n+1);j<=i;j++)s+=cnt[code][j];return s}
+    var S={};  // séries de cours sur N jours
+    CODES.forEach(function(k){
+      var serie=[]; for(var i=M-N;i<M;i++) serie.push(100+10*vol(k,i,7));
+      var c=serie[N-1], c1=serie[N-2], c7=serie[N-8];
+      var v7=vol(k,M-1,7), vp=vol(k,M-8,7), n3=vol(k,M-1,3);
+      var sig = (v7>vp && n3>0) ? 'acheter' : (v7<vp && n3===0) ? 'vendre' : 'conserver';
+      S[k]={serie:serie,c:c,v1:(c-c1)/c1,v7:(c-c7)/c7,vol:v7,hi:Math.max.apply(null,serie),lo:Math.min.apply(null,serie),sig:sig};
+    });
+    var idxSerie=[]; for(var i=0;i<N;i++){var s=0;CODES.forEach(function(k){s+=S[k].serie[i]});idxSerie.push(s/CODES.length*10)}
+    var IDX=idxSerie[N-1], IDXv=(IDX-idxSerie[N-2])/idxSerie[N-2];
+    function pct(v){return (v>0?'+':'')+(v*100).toFixed(1).replace('.',',')+' %'}
+    function sens(v){return v>0?'up':v<0?'down':'eq'}
+    function fleche(v){return v>0?'▲ ':v<0?'▼ ':'= '}
+    function f1(n){return Number(n).toLocaleString('fr-FR',{minimumFractionDigits:0,maximumFractionDigits:1})}
+    MARCHE.IDX=IDX; MARCHE.IDXv=IDXv;
+    $('#idx-val').textContent=f1(IDX)+' '+fleche(IDXv)+pct(IDXv);
+    // valeurs dans le bandeau défilant
+    var tapeV='<span class="tape-item"><b>SURENCHÈRE 14</b>'+f1(IDX)+' <i style="color:'+(IDXv<0?'var(--baisse)':'var(--hausse)')+'">'+fleche(IDXv)+pct(IDXv)+'</i></span>'+
+      CODES.map(function(k){var s=S[k];return '<span class="tape-item"><b>'+k+'</b>'+s.c+' <i style="color:'+(s.v1<0?'var(--baisse)':s.v1>0?'var(--hausse)':'var(--acier)')+'">'+fleche(s.v1)+pct(s.v1)+'</i></span>'}).join('');
+    $('#tape').innerHTML = tapeV + bandeau + tapeV + bandeau;
+    // vitesse de lecture constante : 35 pixels par seconde, quelle que soit la longueur du bandeau
+    requestAnimationFrame(function(){ var tr=$('#tape'); tr.style.animationDuration=Math.max(60,Math.round(tr.scrollWidth/2/35))+'s' });
+
+    /* Portefeuille du visiteur (enregistré dans son navigateur) */
+    var CLE='bourse-portefeuille-v1', CAP=10000;
+    function charger(){try{var p=JSON.parse(localStorage.getItem(CLE)||'null');if(p&&typeof p.cash==='number')return p}catch(e){}return {cash:CAP,pos:{},hist:[],debut:null}}
+    function sauver(){try{localStorage.setItem(CLE,JSON.stringify(P))}catch(e){}}
+    var P=charger(), choix=null, filtreC='tout';
+    MARCHE.S=S; MARCHE.VAL=VAL; MARCHE.CODES=CODES; MARCHE.parValeur=parValeur;
+
+    /* Tableau des 5 indices = les 5 registres (décision D13), clôture hebdomadaire */
+    var DEF={PEUR:'Vocabulaire de la menace : guerre, chaos, danger, catastrophe.',AUTO:'Vocabulaire de la fermeté : ordre, autorité, sanction, rétablir.',POLE:'Vocabulaire de l\'accusation : responsabilité, complicité, manipulation.',POPU:'Appels au peuple : « les Français », « le peuple », « la nation ».',INDI:'Vocabulaire de l\'indignation : honte, scandale, inacceptable.'};
+    $('#indices-titre').textContent='Clôture hebdomadaire · semaine du '+dateFr(iso(tFin-6*JOUR)).replace(/ \d{4}$/,'')+' au '+dateFr(derniere);
+    $('#grille-indices').innerHTML=['PEUR','AUTO','POLE','POPU','INDI'].map(function(k){
+      var s=S[k], prec=s.serie[N-8], v=(s.c-prec)/prec, s30=s.serie.slice(-30);
+      return '<div class="indice"><div class="label">Indice · '+k+'</div><h3>'+esc(VAL[k].nom.replace('Registre de l\'','').replace('Registre de la ','').replace(/^./,function(c){return c.toUpperCase()}))+'</h3>'+
+        '<div class="val mono">'+s.c+'</div><div class="var '+sens(v)+'">'+fleche(v)+pct(v)+'<span style="color:var(--acier)"> · sem. préc. '+prec+'</span></div>'+
+        '<svg viewBox="0 0 200 46" preserveAspectRatio="none" aria-hidden="true"><line x1="0" y1="45" x2="200" y2="45" stroke="var(--ligne)"/><polyline points="'+spark(s30,200,46)+'" fill="none" stroke="'+(v>=0?'var(--hausse)':'var(--baisse)')+'" stroke-width="2"/></svg>'+
+        '<p>'+DEF[k]+'</p></div>';
+    }).join('');
+
+    function spark(serie,w,h,col){
+      var mx=Math.max.apply(null,serie), mn=Math.min.apply(null,serie), r=(mx-mn)||1;
+      return serie.map(function(v,i){return (i*(w-4)/(serie.length-1)+2).toFixed(1)+','+(h-2-(v-mn)/r*(h-4)).toFixed(1)}).join(' ');
+    }
+    function rendreCote(){
+      var l=CODES.filter(function(k){return filtreC==='tout'||VAL[k].c===filtreC}).sort(function(a,b){return S[b].c-S[a].c});
+      $('#cote-valeurs tbody').innerHTML=l.map(function(k){var s=S[k], s30=s.serie.slice(-30);
+        return '<tr data-v="'+k+'" tabindex="0" aria-selected="'+(k===choix)+'"><td><span class="vcode">'+k+'</span><span class="vnom">'+esc(VAL[k].nom)+'</span></td>'+
+        '<td class="num">'+s.c+'</td><td class="num '+sens(s.v1)+'">'+fleche(s.v1)+pct(s.v1)+'</td><td class="num '+sens(s.v7)+'">'+pct(s.v7)+'</td><td class="num">'+s.vol+'</td>'+
+        '<td><svg viewBox="0 0 70 22" aria-hidden="true"><polyline points="'+spark(s30,70,22)+'" fill="none" stroke="'+(s.v7>=0?'var(--hausse)':'var(--baisse)')+'" stroke-width="1.5"/></svg></td>'+
+        '<td><span class="pill '+s.sig+'">'+s.sig.toUpperCase()+'</span></td></tr>'}).join('');
+    }
+    function chart(k){
+      var s=S[k].serie, W=560,H=200,g=40,b=22,t=10;
+      var mx=Math.max.apply(null,s), mn=Math.min(100,Math.min.apply(null,s)), hautV=Math.ceil((mx+20)/50)*50, basV=mn===100?100:Math.floor(mn/50)*50;
+      var x=function(i){return g+i*(W-g-6)/(s.length-1)}, y=function(v){return t+(H-t-b)*(1-(v-basV)/((hautV-basV)||1))};
+      var out='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Cours de '+k+' sur 90 jours">';
+      [basV,(basV+hautV)/2,hautV].forEach(function(v){out+='<line x1="'+g+'" x2="'+W+'" y1="'+y(v)+'" y2="'+y(v)+'" stroke="var(--ligne)"/><text x="'+(g-6)+'" y="'+(y(v)+4)+'" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+Math.round(v)+'</text>'});
+      var d=s.map(function(v,i){return (i?'L':'M')+x(i).toFixed(1)+' '+y(v).toFixed(1)}).join(' ');
+      var coul=S[k].v7>=0?'var(--hausse)':'var(--baisse)';
+      out+='<path d="'+d+' L'+x(s.length-1)+' '+y(basV)+' L'+x(0)+' '+y(basV)+' Z" fill="'+coul+'" opacity=".12"/>';
+      out+='<path class="ligne-cours" d="'+d+'" style="stroke:'+coul+'"/>';
+      out+='<circle cx="'+x(s.length-1)+'" cy="'+y(s[s.length-1])+'" r="4" fill="'+coul+'"/>';
+      out+='<text x="'+g+'" y="'+(H-5)+'" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+dateFr(iso(tFin-(N-1)*JOUR))+'</text><text x="'+W+'" y="'+(H-5)+'" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="10" fill="var(--acier)">'+dateFr(derniere)+'</text>';
+      return out+'</svg>';
+    }
+    function rendreFiche(){
+      var k=choix, s=S[k], pos=P.pos[k];
+      var moteurs=parValeur[k].slice().sort(function(a,b){return a.date<b.date?1:-1}).slice(0,3);
+      $('#fiche-valeur').innerHTML=
+        '<div class="fv-tete"><div><div class="label">'+VAL[k].c+' · fiche valeur</div><h3><span class="vcode">'+k+'</span> '+esc(VAL[k].nom)+'</h3></div>'+
+        '<div class="fv-cours"><span class="mono">'+s.c+'</span><span class="var '+sens(s.v1)+'">'+fleche(s.v1)+pct(s.v1)+' · 1 j</span></div></div>'+
+        '<div class="fv-chart">'+chart(k)+'</div>'+
+        '<div class="fv-stats"><div><span class="label">Vol. 7 j</span><span class="mono">'+s.vol+'</span></div><div><span class="label">Max 90 j</span><span class="mono">'+s.hi+'</span></div><div><span class="label">Min 90 j</span><span class="mono">'+s.lo+'</span></div><div><span class="label">Signal</span><span class="pill '+s.sig+'">'+s.sig.toUpperCase()+'</span></div></div>'+
+        '<div><div class="label" style="margin-bottom:.3rem">Ce qui fait bouger le cours</div><ol class="fv-moteur">'+
+          (moteurs.map(function(x){return '<li data-auteur="'+esc(x.auteur)+'" tabindex="0"><div class="q">« '+esc(x.citation.length>120?x.citation.slice(0,117).replace(/\s+\S*$/,'')+'…':x.citation)+' »</div><div class="a">'+esc(x.auteur)+' · '+dateFr(x.date)+'</div></li>'}).join('')||'<li class="pf-vide">Aucune cotation sur ce thème pour l\'instant.</li>')+
+        '</ol></div>'+
+        '<form class="ordre" id="form-ordre"><label for="ordre-qte">Quantité</label><input id="ordre-qte" type="number" min="1" step="1" value="10" inputmode="numeric">'+
+        '<button class="btn-a" type="submit" data-sens="achat">Acheter</button><button class="btn-v" type="button" id="btn-vendre"'+(pos?'':' disabled')+'>Vendre</button>'+
+        '<div class="ordre-est" id="ordre-est"></div><div class="ordre-msg" id="ordre-msg" role="status"></div></form>';
+      function estime(){var q=Math.max(0,parseInt($('#ordre-qte').value,10)||0);
+        $('#ordre-est').textContent='Montant : '+nf(q*s.c)+' jetons · disponible : '+nf(Math.floor(P.cash))+' · détenu : '+(pos?pos.q:0)+' titre'+(pos&&pos.q>1?'s':'')+' · max achetable : '+Math.floor(P.cash/s.c)}
+      estime();
+      $('#ordre-qte').addEventListener('input',estime);
+      $('#form-ordre').addEventListener('submit',function(e){e.preventDefault();ordre('achat')});
+      $('#btn-vendre').addEventListener('click',function(){ordre('vente')});
+      document.querySelectorAll('.fv-moteur li[data-auteur]').forEach(function(li){
+        li.addEventListener('click',function(){ouvrir(li.dataset.auteur)});
+        li.addEventListener('keydown',function(e){if(e.key==='Enter')ouvrir(li.dataset.auteur)});
+      });
+    }
+    function ordre(sensO){
+      var k=choix, c=S[k].c, q=parseInt($('#ordre-qte').value,10), msg=$('#ordre-msg');
+      if(!q||q<1){msg.textContent='Indiquez une quantité d\'au moins 1 titre.';msg.className='ordre-msg down';return}
+      if(sensO==='achat'){
+        if(q*c>P.cash){msg.textContent='Liquidités insuffisantes : '+Math.floor(P.cash/c)+' titres maximum à ce cours.';msg.className='ordre-msg down';return}
+        var p=P.pos[k]||{q:0,pru:0}; p.pru=(p.q*p.pru+q*c)/(p.q+q); p.q+=q; P.pos[k]=p; P.cash-=q*c;
+      } else {
+        var p2=P.pos[k]; if(!p2||q>p2.q){msg.textContent='Vous détenez '+(p2?p2.q:0)+' titre(s) '+k+'.';msg.className='ordre-msg down';return}
+        p2.q-=q; P.cash+=q*c; if(!p2.q) delete P.pos[k];
+      }
+      if(!P.debut) P.debut={idx:IDX,date:derniere};
+      P.hist.unshift({d:derniere,k:k,s:sensO,q:q,c:c}); P.hist=P.hist.slice(0,40);
+      sauver(); rendreFiche(); rendrePF();
+      var m=$('#ordre-msg'); m.textContent=(sensO==='achat'?'Achat exécuté : ':'Vente exécutée : ')+q+' '+k+' à '+c+' = '+nf(q*c)+' jetons.'; m.className='ordre-msg up';
+      $('#mon-pf').classList.remove('flash-ok'); void $('#mon-pf').offsetWidth; $('#mon-pf').classList.add('flash-ok');
+    }
+    function rendrePF(){
+      var codes=Object.keys(P.pos), investi=0, valo=0;
+      codes.forEach(function(k){investi+=P.pos[k].q*P.pos[k].pru; valo+=P.pos[k].q*S[k].c});
+      var total=P.cash+valo, perf=(total-CAP)/CAP, pv=valo-investi;
+      var perfIdx=P.debut?(IDX-P.debut.idx)/P.debut.idx:null;
+      var h='<div class="p-head"><h3>Mon portefeuille</h3><button type="button" class="raz" id="raz">Remettre à zéro</button></div>'+
+        '<div class="pf-tuiles">'+
+        '<div><span class="label">Valeur totale</span><span class="mono">'+nf(Math.round(total))+'</span><span class="var '+sens(perf)+'">'+fleche(perf)+pct(perf)+' depuis le départ</span></div>'+
+        '<div><span class="label">Liquidités</span><span class="mono">'+nf(Math.round(P.cash))+'</span><span class="label">jetons disponibles</span></div>'+
+        '<div><span class="label">Plus-value latente</span><span class="mono '+sens(pv)+'">'+(pv>0?'+':'')+nf(Math.round(pv))+'</span><span class="label">sur '+nf(Math.round(investi))+' investis</span></div>'+
+        '<div><span class="label">Vous vs SURENCHÈRE 14</span><span class="mono '+(perfIdx===null?'eq':sens(perf-perfIdx))+'">'+(perfIdx===null?'—':pct(perf-perfIdx))+'</span><span class="label">'+(perfIdx===null?'au premier ordre':'indice : '+pct(perfIdx)+' depuis le '+dateFr(P.debut.date))+'</span></div>'+
+        '</div>';
+      if(!codes.length){
+        h+='<p class="pf-vide">Votre portefeuille est vide : 10 000 jetons vous attendent. Choisissez une valeur dans la cote, puis « Acheter ». Les cours bougent à chaque mise à jour de la veille, matin et soir.</p>';
+      } else {
+        var cols=codes.map(function(k,i){return {k:k,v:P.pos[k].q*S[k].c,col:COUL[CODES.indexOf(k)%COUL.length]}});
+        h+='<div class="pf-cols"><div><h4>Positions</h4><div class="table-scroll"><table class="pf-table"><thead><tr><th>Valeur</th><th class="num">Qté</th><th class="num">PRU</th><th class="num">Cours</th><th class="num">Valorisation</th><th class="num">+/-</th></tr></thead><tbody>'+
+          codes.map(function(k){var p=P.pos[k], r=(S[k].c-p.pru)/p.pru;return '<tr data-v="'+k+'" tabindex="0"><td><span class="vcode">'+k+'</span><span class="vnom">'+esc(VAL[k].nom)+'</span></td><td class="num">'+p.q+'</td><td class="num">'+f1(p.pru)+'</td><td class="num">'+S[k].c+'</td><td class="num">'+nf(Math.round(p.q*S[k].c))+'</td><td class="num '+sens(r)+'">'+fleche(r)+pct(r)+'</td></tr>'}).join('')+
+          '</tbody></table></div>'+
+          '<div class="label" style="margin-top:.8rem">Répartition (titres + liquidités)</div><div class="alloc">'+cols.map(function(o){return '<span style="width:'+(o.v/total*100)+'%;background:'+o.col+'" title="'+o.k+'"></span>'}).join('')+'<span style="width:'+(P.cash/total*100)+'%;background:var(--ligne)" title="Liquidités"></span></div>'+
+          '<div class="alloc-leg">'+cols.map(function(o){return '<span><i style="background:'+o.col+'"></i>'+o.k+' '+Math.round(o.v/total*100)+' %</span>'}).join('')+'<span><i style="background:var(--ligne)"></i>Liquidités '+Math.round(P.cash/total*100)+' %</span></div></div>'+
+          '<div><h4>Derniers ordres</h4><ol class="histo-ordres">'+P.hist.slice(0,8).map(function(o){return '<li><span><b class="'+(o.s==='achat'?'up':'down')+'">'+(o.s==='achat'?'ACHAT':'VENTE')+'</b> '+o.q+' '+o.k+' à '+o.c+'</span><span>'+dateFr(o.d)+'</span></li>'}).join('')+'</ol></div></div>';
+      }
+      h+='<p class="label" style="margin-top:.8rem">Portefeuille enregistré dans ce navigateur uniquement. Jetons fictifs sans aucune valeur monétaire. [SATIRE] · [INDICE FICTIF]</p>';
+      $('#mon-pf').innerHTML=h;
+      var raz=$('#raz');
+      raz.addEventListener('click',function(){
+        if(!raz.classList.contains('confirmer')){raz.classList.add('confirmer');raz.textContent='Confirmer : tout effacer ?';setTimeout(function(){if(raz.isConnected){raz.classList.remove('confirmer');raz.textContent='Remettre à zéro'}},4000);return}
+        P={cash:CAP,pos:{},hist:[],debut:null}; sauver(); rendreFiche(); rendrePF();
+      });
+      document.querySelectorAll('.pf-table tbody tr').forEach(function(tr){tr.addEventListener('click',function(){choisir(tr.dataset.v,true)})});
+    }
+    function choisir(k,defile){choix=k;rendreCote();rendreFiche(); if(defile&&window.innerWidth<900)$('#fiche-valeur').scrollIntoView({behavior:calme?'auto':'smooth',block:'start'})}
+    $('#cote-valeurs').addEventListener('click',function(e){var tr=e.target.closest('tr[data-v]'); if(tr)choisir(tr.dataset.v,true)});
+    $('#cote-valeurs').addEventListener('keydown',function(e){if(e.key==='Enter'){var tr=e.target.closest('tr[data-v]'); if(tr)choisir(tr.dataset.v,true)}});
+    $('#f-compart').addEventListener('click',function(e){var b=e.target.closest('.chip');if(!b)return;filtreC=b.dataset.c;
+      this.querySelectorAll('.chip').forEach(function(c){c.setAttribute('aria-pressed',c===b)});rendreCote()});
+    // valeur affichée au départ : le premier signal ACHETER, sinon la plus forte hausse sur 7 jours
+    choix = CODES.filter(function(k){return S[k].sig==='acheter'}).sort(function(a,b){return S[b].v7-S[a].v7})[0] || CODES.slice().sort(function(a,b){return S[b].v7-S[a].v7})[0];
+    rendreCote(); rendreFiche(); rendrePF();
+  })();
+
+
+  /* ================= LA SEMAINE EN BOURSE (Gazette automatique) ================= */
+  (function(){
+    var S=MARCHE.S, VAL=MARCHE.VAL, CODES=MARCHE.CODES;
+    var d0=tFin-6*JOUR, p0=tFin-13*JOUR;
+    var sem=recentes.filter(function(x){return jour(x.date)>=d0}), prec=recentes.filter(function(x){var t=jour(x.date);return t>=p0&&t<d0});
+    $('#sem-periode').textContent='Semaine du '+dateFr(iso(d0)).replace(/ \d{4}$/,'')+' au '+dateFr(derniere);
+    function pc(v){return (v>0?'+':'')+Math.round(v*100)+' %'}
+    function ev(a,b){if(!b)return '';var v=(a-b)/b;return '<span class="var '+(v>0?'up':v<0?'down':'eq')+'">'+(v>0?'▲ ':v<0?'▼ ':'= ')+pc(v)+' vs sem. préc.</span>'}
+    var nA=Object.keys(compte(sem,'auteur')).length, nAp=Object.keys(compte(prec,'auteur')).length;
+    var parts=CODES.slice().sort(function(a,b){return S[b].v7-S[a].v7});
+    var star=parts[0], chute=parts[parts.length-1];
+    var top=CODES.slice().sort(function(a,b){return S[b].vol-S[a].vol})[0];
+    var punch=sem.slice().sort(function(a,b){return a.mots-b.mots})[0];
+    $('#sem-chiffres').innerHTML='<div class="p-head"><h3>Les chiffres</h3></div>'+
+      '<div class="kpis"><div class="kpi"><span class="mono">'+sem.length+'</span><span class="label">Cotations</span>'+ev(sem.length,prec.length)+'</div>'+
+      '<div class="kpi"><span class="mono">'+nA+'</span><span class="label">Personnalités</span>'+ev(nA,nAp)+'</div>'+
+      '<div class="kpi"><span class="mono">'+f1(MARCHE.IDX)+'</span><span class="label">SURENCHÈRE 14</span><span class="var '+(MARCHE.IDXv>=0?'up':'down')+'">'+(MARCHE.IDXv>=0?'▲ ':'▼ ')+(MARCHE.IDXv*100).toFixed(1).replace('.',',')+' % · 1 j</span></div></div>'+
+      '<ul class="sem-faits">'+
+      '<li><span>Valeur de la semaine</span><span class="up">▲ '+star+' · '+esc(VAL[star].nom)+' '+pc(S[star].v7)+'</span></li>'+
+      '<li><span>Plus forte baisse</span><span class="'+(S[chute].v7<0?'down':'eq')+'">'+(S[chute].v7<0?'▼ ':'= ')+chute+' · '+esc(VAL[chute].nom)+' '+pc(S[chute].v7)+'</span></li>'+
+      '<li><span>Plus gros volume</span><span>'+top+' · '+S[top].vol+' cotation'+(S[top].vol>1?'s':'')+'</span></li></ul>'+
+      (punch?'<div class="punch"><span class="label">Punchline la plus courte · '+punch.mots+' mots</span><q>'+esc(punch.citation)+'</q><span class="label">'+esc(punch.auteur)+' · '+dateFr(punch.date)+'</span></div>':'');
+    function f1(n){return Number(n).toLocaleString('fr-FR',{maximumFractionDigits:1})}
+
+    /* Baromètre de symétrie (règle D10) */
+    var pol=sem.filter(function(x){return x.pole==='Politique'}), fam={'Gauche':0,'Centre & exécutif':0,'Droite':0}, autres=0;
+    pol.forEach(function(x){ if(fam.hasOwnProperty(x.famille))fam[x.famille]++; else autres++ });
+    var tot=fam['Gauche']+fam['Centre & exécutif']+fam['Droite'];
+    var med=sem.filter(function(x){return x.pole==='Médiatique'}).length, exp=sem.filter(function(x){return x.pole==='Experts & invités'}).length;
+    var cols={'Gauche':'#FD8A8A','Centre & exécutif':'#F2D57B','Droite':'#8FB3FF'};
+    var mx=Math.max(fam['Gauche'],fam['Centre & exécutif'],fam['Droite']), mn=Math.min(fam['Gauche'],fam['Centre & exécutif'],fam['Droite']);
+    var verdict = !tot ? 'Aucune cotation politique cette semaine.' :
+      (mn===0 ? 'Déséquilibre : une famille politique est absente de la semaine. La veille doit la rechercher en priorité.' :
+       (mx/mn<=1.6 ? 'Équilibre respecté : les trois familles sont cotées dans des proportions comparables.' :
+        'Équilibre à surveiller : une famille pèse plus de 1,6 fois une autre. La veille doit rééquilibrer.'));
+    $('#sem-sym').innerHTML='<div class="p-head"><h3>Baromètre de symétrie</h3><span class="label">Règle D10 · pôle politique</span></div>'+
+      '<div class="sym-barre" role="img" aria-label="Répartition des cotations politiques de la semaine">'+(tot?['Gauche','Centre & exécutif','Droite'].map(function(k,i){var w=fam[k]/tot*100;return w?'<span style="width:'+w+'%;background:'+cols[k]+';animation-delay:'+(i*150)+'ms">'+Math.round(w)+' %</span>':''}).join(''):'<span style="width:100%;background:var(--ligne);color:var(--acier)">—</span>')+'</div>'+
+      '<div class="sym-leg">'+['Gauche','Centre & exécutif','Droite'].map(function(k){return '<div><b style="color:'+cols[k]+'">'+fam[k]+'</b>'+k+'</div>'}).join('')+'</div>'+
+      '<p class="sym-verdict">'+verdict+'</p>'+
+      '<p class="label">Hors familles : '+autres+' politique'+(autres>1?'s':'')+' non rattaché'+(autres>1?'s':'')+' · '+med+' média'+(med>1?'s':'')+' · '+exp+' expert'+(exp>1?'s':'')+'</p>';
+
+    /* Trio de la semaine : gauche, centre & exécutif, droite sur le même pilier */
+    var meilleur=null;
+    ['Budget & finances','Citoyenneté & civisme','Tranquillité publique'].forEach(function(pil){
+      var t={};
+      ['Gauche','Centre & exécutif','Droite'].forEach(function(f){ t[f]=pol.filter(function(x){return x.famille===f&&x.pilier===pil}).sort(function(a,b){return a.date<b.date?1:-1})[0] });
+      if(t['Gauche']&&t['Centre & exécutif']&&t['Droite']){
+        var dmax=[t['Gauche'],t['Centre & exécutif'],t['Droite']].map(function(x){return x.date}).sort().pop();
+        if(!meilleur||dmax>meilleur.d) meilleur={pil:pil,t:t,d:dmax};
+      }
+    });
+    $('#sem-trio').innerHTML='<div class="p-head"><h3>Le trio de la semaine</h3><span class="label">'+(meilleur?esc(meilleur.pil):'')+'</span></div>'+
+      (meilleur?'<div class="trio3">'+['Gauche','Centre & exécutif','Droite'].map(function(f){var x=meilleur.t[f];
+        return '<article data-auteur="'+esc(x.auteur)+'" tabindex="0"><span class="lab">▲ '+f+'</span><q>'+esc(x.citation)+'</q><span class="a">'+esc(x.auteur)+' · '+dateFr(x.date)+'</span></article>'}).join('')+'</div>'
+       :'<p class="pf-vide">Pas encore de trio complet cette semaine : il manque une famille politique sur un même pilier.</p>');
+
+    /* Les mots de la semaine */
+    var VIDES=('a à au aux avec ce ces cet cette c ça d de des du dans en et est il ils elle elles je j l la le les leur leurs lui m ma mais me même mes moi mon n ne nos notre nous on ou où par pas plus pour qu que qui s sa sans se ses si son sont sur ta te tes toi ton tous tout toute toutes très tu un une vos votre vous y été être avoir ai as avez avons ont fait faire faut peut sera comme aussi alors bien encore entre là sous tant après avant depuis donc cela celui ceux ceci quand non oui ni rien quoi dont lorsque parce puis toujours jamais déjà ici cest qu’il qu’on l’ d’ n’ s’ c’ j’ m’ qu’ chez contre cette dans leurs quelle quel quels quelles vraiment veut veulent doit').split(' ');
+    var f={};
+    sem.forEach(function(x){ x.citation.toLowerCase().replace(/[’']/g,' ').split(/[^a-zàâäçéèêëîïôöùûüœ-]+/).forEach(function(w){ if(w.length>3 && VIDES.indexOf(w)<0) f[w]=(f[w]||0)+1 }) });
+    var mots=Object.keys(f).filter(function(w){return f[w]>1}).sort(function(a,b){return f[b]-f[a]}).slice(0,18);
+    var fm=mots.length?f[mots[0]]:1;
+    $('#sem-mots').innerHTML='<div class="p-head"><h3>Les mots de la semaine</h3><span class="label">Cliquer = chercher dans la cote</span></div>'+
+      (mots.length?'<div class="nuage">'+mots.map(function(w,i){var r=f[w]/fm;return '<span data-mot="'+esc(w)+'" tabindex="0" style="font-size:'+(1+r*1.6).toFixed(2)+'rem;color:'+(i<3?'var(--ambre)':r>.5?'var(--blanc)':'var(--acier)')+'" title="'+f[w]+' occurrences">'+esc(w)+'</span>'}).join('')+'</div>':'<p class="pf-vide">Pas assez de cotations cette semaine.</p>');
+    function chercher(w){ var q=$('#q'); q.value=w; q.dispatchEvent(new Event('input')); $('#cote').scrollIntoView({behavior:calme?'auto':'smooth'}) }
+    $('#sem-mots').addEventListener('click',function(e){var m=e.target.closest('[data-mot]'); if(m)chercher(m.dataset.mot)});
+    $('#sem-mots').addEventListener('keydown',function(e){var m=e.target.closest('[data-mot]'); if(m&&e.key==='Enter')chercher(m.dataset.mot)});
+    $('#sem-trio').addEventListener('click',function(e){var a=e.target.closest('[data-auteur]'); if(a)ouvrir(a.dataset.auteur)});
+  })();
+  depuisHash();
+
+  /* Mise à jour en direct : quand le site est en ligne, il relit donnees.js toutes les 2 minutes.
+     Dès qu'un nouveau fichier est déposé sur le serveur, les visiteurs voient « Nouvelles cotations ». */
+  (function(){
+    if(!/^https?:$/.test(location.protocol)) return;
+    var signature = (D.maj||'')+'|'+C.length;
+    function verifier(){
+      if(document.hidden) return;
+      fetch('donnees.js?v='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.text():null}).then(function(t){
+        if(!t) return;
+        var j; try{ j=JSON.parse(t.slice(t.indexOf('=')+1).trim().replace(/;\s*$/,'')) }catch(e){ return }
+        var sig=(j.maj||'')+'|'+(j.cotations||[]).length;
+        if(sig!==signature && !document.querySelector('.toast')){
+          var n=(j.cotations||[]).length-C.length;
+          var el=document.createElement('div'); el.className='toast'; el.setAttribute('role','status');
+          el.innerHTML='<span>'+(n>0?'▲ '+n+' nouvelle'+(n>1?'s':'')+' cotation'+(n>1?'s':''):'La cote a été mise à jour')+'</span><button type="button">Actualiser</button>';
+          el.querySelector('button').addEventListener('click',function(){location.reload()});
+          document.body.appendChild(el);
+        }
+      }).catch(function(){});
+    }
+    setInterval(verifier,120000);
+  })();
+
+  /* --- Copier l'adresse --- */
+  $('#copier').addEventListener('click',function(){
+    var b=this, t=$('#mail').textContent;
+    var ok=function(){b.textContent='Adresse copiée'};
+    var ko=function(){var r=document.createRange();r.selectNodeContents($('#mail'));var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Sélectionnée : faites Ctrl+C'};
+    try{navigator.clipboard.writeText(t).then(ok,ko)}catch(e){ko()}
+  });
+})();
+</script>
+
+</body>
+</html>
