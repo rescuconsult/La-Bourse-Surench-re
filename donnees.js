@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-04T23:04",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261104_hof2.xlsx",
+ "maj": "2026-11-05T08:38",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261105_matin.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
