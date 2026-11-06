@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-06T14:37",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_doublons.xlsx",
+ "maj": "2026-11-06T15:17",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_verif.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1496,25 +1496,6 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 10
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Eugénie Bastié",
-   "affil": "Le Figaro TV",
-   "fonction": "Éditorialiste",
-   "date": "2026-10-28",
-   "contexte": "Le Figaro TV",
-   "citation": "La victimisation systématique des banlieues empêche tout sursaut de responsabilité individuelle chez les jeunes.",
-   "ticker": "BASTIE-VICTIMISATION-DES-BANLIEU",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le Figaro TV (URL à compléter)",
-   "valeurs": [
-    "VIOL",
-    "POLE"
-   ],
-   "mots": 14
   },
   {
    "pole": "Experts & invités",
@@ -3572,25 +3553,6 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 20
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Rudy Mana",
-   "affil": "CNews",
-   "fonction": "Syndicaliste policier",
-   "date": "2026-10-16",
-   "contexte": "CNews / Alliance Police",
-   "citation": "Toute la crème des anti-flics de France sera à la manifestation.",
-   "ticker": "MANA-ELEMENTS-VIOLENTS",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews / Alliance Police (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "MANF"
-   ],
-   "mots": 11
   },
   {
    "pole": "Politique",
@@ -6333,24 +6295,6 @@ window.BOURSE = {
    "mots": 21
   },
   {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Yves Thréard",
-   "affil": "Le Figaro",
-   "fonction": "Éditorialiste",
-   "date": "2026-05-27",
-   "contexte": "Le Figaro",
-   "citation": "Sur l'immigration, la France est devenue le passager clandestin de l'Europe en n'exécutant pas ses OQTF.",
-   "ticker": "THREARD-NON-EXECUTION-DES-OQTF",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le Figaro (URL à compléter)",
-   "valeurs": [
-    "IMMI"
-   ],
-   "mots": 16
-  },
-  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Michel Onfray",
@@ -6910,43 +6854,6 @@ window.BOURSE = {
    "mots": 9
   },
   {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "BFM TV",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2024-11-14",
-   "contexte": "BFM TV",
-   "citation": "Nous subissons une mexicanisation du narcotrafic où les bandes armées défient ouvertement les institutions.",
-   "ticker": "MONTBRIAL-MEXICANISATION-TRAFIC",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "BFM TV (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "INST"
-   ],
-   "mots": 14
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Alain Bauer",
-   "affil": "Le JDD",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2024-11-01",
-   "contexte": "Le JDD / Europe 1",
-   "citation": "Le problème des banlieues n'est plus un sujet d'urbanisme, c'est un marché criminel structuré.",
-   "ticker": "BAUER-MARCHE-CRIMINEL",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le JDD / Europe 1 (URL à compléter)",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 14
-  },
-  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Bruno Retailleau",
@@ -6979,25 +6886,6 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/bruno-retailleau-nouveau-ministre-de-linterieur-promet-le-retablissement-de-lordre-et-la-fermete",
    "valeurs": [],
    "mots": 18
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Éric Brunet",
-   "affil": "RTL",
-   "fonction": "Éditorialiste",
-   "date": "2024-09-18",
-   "contexte": "RTL / LCI",
-   "citation": "La justice est devenue un frein à l'action policière par excès d'idéologie des droits de l'homme.",
-   "ticker": "BRUNET-FREIN-JUDICIAIRE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "RTL / LCI (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "JUST"
-   ],
-   "mots": 16
   },
   {
    "pole": "Politique",
@@ -7115,40 +7003,6 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
-   "auteur": "Éric Tegnér",
-   "affil": "Sud Radio",
-   "fonction": "Éditorialiste",
-   "date": "2024-03-21",
-   "contexte": "Sud Radio",
-   "citation": "Les réseaux de drogue gèrent des territoires entiers où l'État français a capitulé depuis des années.",
-   "ticker": "TEGNER-CAPITULATION-ETAT",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Sud Radio (URL à compléter)",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 16
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Mathieu Bock-Côté",
-   "affil": "Le Figaro",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2024-03-18",
-   "contexte": "Le Figaro",
-   "citation": "Le multiculturalisme sans assimilation mène inévitablement au morcellement tribal de la société.",
-   "ticker": "BOCK-COTE-MORCELLEMENT-TRIBAL",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "Le Figaro (URL à compléter)",
-   "valeurs": [],
-   "mots": 12
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
    "auteur": "Thibault de Montbrial",
    "affil": "Expert / CRSI",
    "fonction": "Avocat / Expert sécurité",
@@ -7164,24 +7018,6 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 19
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Véronique Jacquier",
-   "affil": "Boulevard Voltaire",
-   "fonction": "Éditorialiste",
-   "date": "2024-01-18",
-   "contexte": "Boulevard Voltaire",
-   "citation": "Sans rétablissement de la peine minimale et suppression du juge des enfants, le désordre règnera.",
-   "ticker": "JACQUIER-PEINES-MINIMALES",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Boulevard Voltaire (URL à compléter)",
-   "valeurs": [
-    "JUST"
-   ],
-   "mots": 15
   },
   {
    "pole": "Politique",
@@ -7200,140 +7036,6 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 10
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Matthieu Valet",
-   "affil": "BFM TV",
-   "fonction": "Syndicaliste policier",
-   "date": "2023-11-15",
-   "contexte": "BFM TV",
-   "citation": "Les peines planchers et la majorité pénale à 16 ans sont indispensables pour stopper l'escalade.",
-   "ticker": "VALET-PEINES-PLANCHERS",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "BFM TV (URL à compléter)",
-   "valeurs": [
-    "JUST"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Matthieu Valet",
-   "affil": "CNews",
-   "fonction": "Syndicaliste policier",
-   "date": "2023-10-12",
-   "contexte": "CNews / Europe 1",
-   "citation": "On ne peut plus fermer les yeux sur la surreprésentation des étrangers dans la délinquance de voie publique.",
-   "ticker": "VALET-DELINQUANCE-ETRANGERE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews / Europe 1 (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 18
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Éric Tegnér",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2023-10-05",
-   "contexte": "CNews",
-   "citation": "Dès que vous pointez du doigt le profil des délinquants sur le terrain, vous êtes immédiatement étiqueté.",
-   "ticker": "TEGNER-TABOU-PROFIL",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "POLE"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Véronique Jacquier",
-   "affil": "Sud Radio",
-   "fonction": "Éditorialiste",
-   "date": "2023-10-04",
-   "contexte": "Sud Radio / CNews",
-   "citation": "L’immigration massive non assimilée défigure nos quartiers et détruit le sentiment de sécurité des Français.",
-   "ticker": "JACQUIER-NON-ASSIMILATION",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "Sud Radio / CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "VIOL",
-    "IMMI"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Pascal Praud",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2023-09-28",
-   "contexte": "CNews / Europe 1",
-   "citation": "Y a-t-il un lien entre le profil des délinquants et l'immigration ? Tout le monde le voit.",
-   "ticker": "PRAUD-PROFIL-DES-DELINQUANTS",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews / Europe 1 (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 16
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Geoffroy Lejeune",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2023-09-15",
-   "contexte": "CNews (L'Heure des Pros)",
-   "citation": "Il faut arrêter l'immigration : l'immense majorité des Français ne sont pas délinquants car ils ont des règles.",
-   "ticker": "LEJEUNE-ARRET-IMMIGRATION",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (L'Heure des Pros) (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Charles Consigny",
-   "affil": "RMC",
-   "fonction": "Éditorialiste",
-   "date": "2023-09-15",
-   "contexte": "RMC",
-   "citation": "Il faut faire preuve d'une grande fermeté pénalisante tout en maintenant une exigence d'intégration républicaine.",
-   "ticker": "CONSIGNY-FERMETE-REPUBLICAINE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "RMC (URL à compléter)",
-   "valeurs": [
-    "INST",
-    "JUST",
-    "AUTO"
-   ],
-   "mots": 15
   },
   {
    "pole": "Politique",
@@ -7355,25 +7057,6 @@ window.BOURSE = {
    "mots": 11
   },
   {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Geoffroy Lejeune",
-   "affil": "Le Journal du Dimanche",
-   "fonction": "Éditorialiste",
-   "date": "2023-07-09",
-   "contexte": "Le Journal du Dimanche",
-   "citation": "L'immigration n'est pas une chance, c'est un drame qui transforme la France et menace notre identité.",
-   "ticker": "LEJEUNE-MENACE-IDENTITAIRE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "Le Journal du Dimanche (URL à compléter)",
-   "valeurs": [
-    "IMMI",
-    "PEUR"
-   ],
-   "mots": 16
-  },
-  {
    "pole": "Politique",
    "famille": "Centre & exécutif",
    "auteur": "Élisabeth Borne",
@@ -7390,24 +7073,6 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Charles Consigny",
-   "affil": "France Télévisions",
-   "fonction": "Éditorialiste",
-   "date": "2023-07-04",
-   "contexte": "France Télévisions",
-   "citation": "La réponse face aux émeutiers ne doit pas être sociale, elle doit être judiciaire et financière.",
-   "ticker": "CONSIGNY-SANCTION-JUDICIAIRE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "France Télévisions (URL à compléter)",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 16
   },
   {
    "pole": "Médiatique",
@@ -7432,62 +7097,6 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
-   "auteur": "Éric Tegnér",
-   "affil": "L'Incorrect",
-   "fonction": "Éditorialiste",
-   "date": "2023-07-03",
-   "contexte": "L'Incorrect",
-   "citation": "La jeunesse des quartiers de reconquête républicaine a rejeté tout symbole ou drapeau français.",
-   "ticker": "TEGNER-SYMBOLES-REPUBLICAINS",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "L'Incorrect (URL à compléter)",
-   "valeurs": [
-    "INST",
-    "VIOL",
-    "ECOL"
-   ],
-   "mots": 14
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Linda Kebbab",
-   "affil": "RMC",
-   "fonction": "Syndicaliste policier",
-   "date": "2023-07-02",
-   "contexte": "RMC",
-   "citation": "La police ne peut pas compenser seule la faillite sociétale, la démission parentale et le laxisme judiciaire.",
-   "ticker": "KEBBAB-FAILLITE-SOCIETALE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "RMC (URL à compléter)",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Gilles-William Goldnadel",
-   "affil": "CNews",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2023-07-02",
-   "contexte": "CNews",
-   "citation": "Le sous-armement juridique de la France face aux émeutiers s'explique par la colonisation des esprits.",
-   "ticker": "GOLDNADEL-COLONISATION-DES-ESPRITS",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
    "auteur": "Mathieu Bock-Côté",
    "affil": "Média / Indépendant",
    "fonction": "Essayiste / Éditorialiste",
@@ -7502,62 +7111,6 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 13
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Véronique Jacquier",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2023-07-01",
-   "contexte": "CNews",
-   "citation": "La justice traite les délinquants en victimes et les victimes en quantité négligeable.",
-   "ticker": "JACQUIER-TRAITEMENT-DES-VICTIMES",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "JUST"
-   ],
-   "mots": 13
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Eugénie Bastié",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2023-07-01",
-   "contexte": "CNews",
-   "citation": "L'impuissance publique face aux émeutes démontre la crise de souveraineté de l'État sur son territoire.",
-   "ticker": "BASTIE-IMPUISSANCE-PUBLIQUE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Matthieu Valet",
-   "affil": "Europe 1",
-   "fonction": "Syndicaliste policier",
-   "date": "2023-07-01",
-   "contexte": "Europe 1",
-   "citation": "La peur doit revenir dans le camp des voyous et des trafiquants, pas dans celui des policiers.",
-   "ticker": "VALET-CAMP-PEUR",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Europe 1 (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "PEUR"
-   ],
-   "mots": 17
   },
   {
    "pole": "Médiatique",
@@ -7577,24 +7130,6 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 13
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Linda Kebbab",
-   "affil": "BFM TV",
-   "fonction": "Syndicaliste policier",
-   "date": "2023-06-30",
-   "contexte": "BFM TV",
-   "citation": "Nos collègues font face à une impunité totale de mineurs récidivistes sur le terrain au quotidien.",
-   "ticker": "KEBBAB-MINEURS-RECIDIVISTES",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "BFM TV (URL à compléter)",
-   "valeurs": [
-    "JUST"
-   ],
-   "mots": 16
   },
   {
    "pole": "Politique",
@@ -7761,103 +7296,6 @@ window.BOURSE = {
    "mots": 24
   },
   {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Eugénie Bastié",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2022-11-15",
-   "contexte": "CNews (Savoir comprendre)",
-   "citation": "Le droit d'asile est devenu une filière d'immigration clandestine massive que la justice protège.",
-   "ticker": "BASTIE-FILIERE-ASILE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (Savoir comprendre) (URL à compléter)",
-   "valeurs": [
-    "JUST",
-    "IMMI"
-   ],
-   "mots": 14
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Ivan Rioufol",
-   "affil": "Le Figaro",
-   "fonction": "Éditorialiste",
-   "date": "2022-10-14",
-   "contexte": "Le Figaro (Bloc-notes)",
-   "citation": "L'immigration de masse alimente, en réaction, la révolution du réel face à l'hégémonie du mensonge.",
-   "ticker": "RIOUFOL-IMMIGRATION-MASSE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le Figaro (Bloc-notes) (URL à compléter)",
-   "valeurs": [
-    "IMMI",
-    "POLE"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Charles Consigny",
-   "affil": "RMC Story",
-   "fonction": "Éditorialiste",
-   "date": "2022-10-12",
-   "contexte": "RMC Story",
-   "citation": "La France est devenue une passoire sécuritaire parce que la justice sanctionne plus sévèrement les honnêtes gens.",
-   "ticker": "CONSIGNY-PASSOIRE-SECURITAIRE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "RMC Story (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "JUST",
-    "AUTO"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Éric Tegnér",
-   "affil": "Sud Radio",
-   "fonction": "Éditorialiste",
-   "date": "2022-09-14",
-   "contexte": "Sud Radio / L'Incorrect",
-   "citation": "Dire que l'insécurité n'a pas de lien avec l'immigration, c'est du déni ou de la complicité idéologique.",
-   "ticker": "TEGNER-COMPLICITE-IDEOLOGIQUE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Sud Radio / L'Incorrect (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Linda Kebbab",
-   "affil": "CNews",
-   "fonction": "Syndicaliste policier",
-   "date": "2022-05-10",
-   "contexte": "CNews",
-   "citation": "Quand les policiers sont attaqués aux mortiers, ce n'est pas un appel au secours, c'est de la haine.",
-   "ticker": "KEBBAB-MORTIERS-ARTIFICE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "VIOL",
-    "PEUR"
-   ],
-   "mots": 18
-  },
-  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Éric Zemmour",
@@ -7877,40 +7315,6 @@ window.BOURSE = {
    "mots": 21
   },
   {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Ivan Rioufol",
-   "affil": "CNews",
-   "fonction": "Éditorialiste",
-   "date": "2021-11-18",
-   "contexte": "CNews (L'Heure des Pros)",
-   "citation": "La France subit une colonisation à l'envers et un changement de peuple qui menace notre civilisation.",
-   "ticker": "RIOUFOL-IDENTITE-CIVILISATION",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "CNews (L'Heure des Pros) (URL à compléter)",
-   "valeurs": [
-    "PEUR"
-   ],
-   "mots": 16
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Eugénie Bastié",
-   "affil": "Le Figaro",
-   "fonction": "Éditorialiste",
-   "date": "2021-10-20",
-   "contexte": "Le Figaro",
-   "citation": "L’assimilation était le modèle français historique ; le multiculturalisme a cédé la place à la fragmentation identitaire.",
-   "ticker": "BASTIE-MODELE-REPUBLICAIN",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "Le Figaro (URL à compléter)",
-   "valeurs": [],
-   "mots": 16
-  },
-  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Rachida Dati",
@@ -7927,43 +7331,6 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 26
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Charlotte d'Ornellas",
-   "affil": "Valeurs Actuelles",
-   "fonction": "Éditorialiste",
-   "date": "2021-01-14",
-   "contexte": "Valeurs Actuelles",
-   "citation": "Les zones de non-droit ne sont plus une menace future : ce sont des territoires aujourd'hui conquis.",
-   "ticker": "D'ORNELLAS-TERRITOIRES-CONQUIS",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Valeurs Actuelles (URL à compléter)",
-   "valeurs": [
-    "PEUR"
-   ],
-   "mots": 16
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Yves Thréard",
-   "affil": "LCI",
-   "fonction": "Éditorialiste",
-   "date": "2020-11-12",
-   "contexte": "LCI (Le Grand Soir)",
-   "citation": "L'islam de France est un leurre ; la République s'est couchée face au communautarisme par lâcheté.",
-   "ticker": "THREARD-COMMUNAUTARISME",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "LCI (Le Grand Soir) (URL à compléter)",
-   "valeurs": [
-    "INST",
-    "IDEN"
-   ],
-   "mots": 15
   },
   {
    "pole": "Politique",
