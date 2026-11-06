@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-06T08:27",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_matin_valide.xlsx",
+ "maj": "2026-11-06T14:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_postsX.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,25 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "Criminologue",
+   "fonction": "Professeur émérite de criminologie",
+   "date": "2026-11-06",
+   "contexte": "Post X (@BFMTV), 06/11 — BFMTV",
+   "citation": "Le système est menacé parce que la noblesse d'État a failli et qu'elle méprise le peuple",
+   "ticker": "BAUER-NOBLESSE-ETAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/BFMTV/status/2118611970224009447",
+   "valeurs": [
+    "PEUR",
+    "POPU"
+   ],
+   "mots": 16
+  },
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
