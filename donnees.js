@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-06T14:30",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_postsX.xlsx",
+ "maj": "2026-11-06T14:37",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_doublons.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1779,26 +1779,6 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
-   "famille": "Droite",
-   "auteur": "Jordan Bardella",
-   "affil": "Rassemblement National",
-   "fonction": "Président RN",
-   "date": "2026-10-25",
-   "contexte": "",
-   "citation": "des casseurs d’ultra-gauche et des prédateurs de banlieue ont uni leurs forces",
-   "ticker": "BARDELLA-CASSEURS-PREDATEURS-V2",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "X",
-   "valeurs": [
-    "SECU",
-    "VIOL",
-    "MANF"
-   ],
-   "mots": 12
-  },
-  {
-   "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Louis Boyard",
    "affil": "La France Insoumise",
@@ -2978,26 +2958,6 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
-   "auteur": "Marion Maréchal",
-   "affil": "Média / LCI",
-   "fonction": "Compilation TV",
-   "date": "2026-10-17",
-   "contexte": "LCI",
-   "citation": "Il y a un tabou dans ces émeutes. Tout le monde le voit, personne n'ose le dire : la responsabilité de l'immigration non assimilée.",
-   "ticker": "FORMULATION-TABOU-EMEUTES",
-   "categorie": "Éléments de langage & Surenchère",
-   "pilier": "Tranquillité publique",
-   "source": "https://x.com/LCI/status/2110258773130420369",
-   "valeurs": [
-    "VIOL",
-    "IMMI",
-    "POLE"
-   ],
-   "mots": 23
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
    "auteur": "Xavier Van Lierde",
    "affil": "Média / Radio Courtoisie",
    "fonction": "Compilation Radio",
@@ -3577,24 +3537,6 @@ window.BOURSE = {
     "JUST"
    ],
    "mots": 19
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Laurent Obertone",
-   "affil": "Essayiste / Auteur",
-   "fonction": "Écrivain",
-   "date": "2026-10-16",
-   "contexte": "Sud Radio (12h-13h)",
-   "citation": "L'application du code pénal tel qu'il a été écrit serait amplement suffisante pour mettre hors d'état de nuire la minorité criminogène.",
-   "ticker": "CODE-PENAL-SUFFISANT",
-   "categorie": "Application de la Loi",
-   "pilier": "Tranquillité publique",
-   "source": "Sud Radio",
-   "valeurs": [
-    "JUST"
-   ],
-   "mots": 21
   },
   {
    "pole": "Experts & invités",
@@ -4559,24 +4501,6 @@ window.BOURSE = {
    "affil": "Chroniqueur (Radio Courtoisie)",
    "fonction": "Essayiste / Journaliste",
    "date": "2026-10-14",
-   "contexte": "Radio Courtoisie / X",
-   "citation": "Les émeutes lycéennes ne sont qu'un nouvel épisode d'émeutes ethniques et un prolongement des conflits coloniaux se déroulant désormais sur le sol métropolitain.",
-   "ticker": "VANLIERDE-EMEUTES-ETHNIQUES",
-   "categorie": "Identité & Histoire",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://x.com/LierdeXavier/status/2110290157609918466",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 23
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Xavier Van Lierde",
-   "affil": "Chroniqueur (Radio Courtoisie)",
-   "fonction": "Essayiste / Journaliste",
-   "date": "2026-10-14",
    "contexte": "Radio Courtoisie (Ligne Droite)",
    "citation": "Les émeutes lycéennes renvoient à une 'French Intifada' : refuser la remigration revient à accepter que les Français deviennent une minorité assiégée.",
    "ticker": "VANLIERDE-FRENCH-INTIFADA",
@@ -4883,26 +4807,6 @@ window.BOURSE = {
     "JUST"
    ],
    "mots": 12
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Éric Delbecque",
-   "affil": "Le Figaro",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2026-10-13",
-   "contexte": "Le Figaro (FigaroVox)",
-   "citation": "La bienveillance ne protège pas l’école face aux menaces intrusives et à la violence.",
-   "ticker": "DELBECQUE-PROTECTION-ECOLE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le Figaro (FigaroVox) (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "ECOL",
-    "PEUR"
-   ],
-   "mots": 14
   },
   {
    "pole": "Politique",
@@ -5218,22 +5122,6 @@ window.BOURSE = {
     "prix": "Catastrophe",
     "medaille": "Argent"
    }
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Alain Bauer",
-   "affil": "CNews",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2026-10-12",
-   "contexte": "CNews / Europe 1",
-   "citation": "Le nombre d'homicides et de tentatives est au plus haut niveau de la statistique nationale depuis 50 ans.",
-   "ticker": "BAUER-STATISTIQUE-CRIMINELLE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews / Europe 1 (URL à compléter)",
-   "valeurs": [],
-   "mots": 18
   },
   {
    "pole": "Politique",
@@ -6445,25 +6333,6 @@ window.BOURSE = {
    "mots": 21
   },
   {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Michel Onfray",
-   "affil": "YouTube CNews",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2026-08-29",
-   "contexte": "YouTube CNews (Face à Michel Onfray)",
-   "citation": "Certains sont délinquants parce qu’ils sont démunis ou déstructurés, non parce qu’ils sont fondamentalement étrangers.",
-   "ticker": "ONFRAY-DELINQUANCE-PRECARITE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "YouTube CNews (Face à Michel Onfray) (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 15
-  },
-  {
    "pole": "Médiatique",
    "famille": null,
    "auteur": "Yves Thréard",
@@ -7043,25 +6912,6 @@ window.BOURSE = {
   {
    "pole": "Experts & invités",
    "famille": null,
-   "auteur": "Michel Onfray",
-   "affil": "Le JDD",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2024-12-22",
-   "contexte": "Le JDD / CNews",
-   "citation": "L’immigration est un problème sécuritaire à Mayotte comme il l'est devenu à Marseille ou ailleurs.",
-   "ticker": "ONFRAY-IMMIGRATION-TERRITORIALE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Le JDD / CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IMMI"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
    "auteur": "Thibault de Montbrial",
    "affil": "BFM TV",
    "fonction": "Consultant, expert sécurité",
@@ -7486,24 +7336,6 @@ window.BOURSE = {
    "mots": 15
   },
   {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Alain Bauer",
-   "affil": "Midi Libre",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2023-09-12",
-   "contexte": "Midi Libre",
-   "citation": "Il n’y a pas qu'un sentiment d’insécurité mais un climat objectif de violence et d'accélération criminelle.",
-   "ticker": "BAUER-CLIMAT-OBJECTIF",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "Midi Libre (URL à compléter)",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 16
-  },
-  {
    "pole": "Politique",
    "famille": null,
    "auteur": "Manuel Valls",
@@ -7620,26 +7452,6 @@ window.BOURSE = {
   {
    "pole": "Experts & invités",
    "famille": null,
-   "auteur": "Alain Bauer",
-   "affil": "CNews",
-   "fonction": "Consultant, expert sécurité",
-   "date": "2023-07-03",
-   "contexte": "CNews",
-   "citation": "La génération des émeutes considère la violence comme son mode d'expression naturel, rejetant toute institution.",
-   "ticker": "BAUER-MODE-EXPRESSION-VIOLENT",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "INST",
-    "VIOL"
-   ],
-   "mots": 15
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
    "auteur": "Linda Kebbab",
    "affil": "RMC",
    "fonction": "Syndicaliste policier",
@@ -7746,24 +7558,6 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 17
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Mathieu Bock-Côté",
-   "affil": "CNews",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2023-07-01",
-   "contexte": "CNews / Europe 1",
-   "citation": "Ce n'est pas un simple problème de banlieue, c'est un problème de décivilisation massive et culturelle.",
-   "ticker": "BOCK-COTE-DECIVILISATION",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "CNews / Europe 1 (URL à compléter)",
-   "valeurs": [
-    "VIOL"
-   ],
-   "mots": 16
   },
   {
    "pole": "Médiatique",
@@ -8117,25 +7911,6 @@ window.BOURSE = {
    "mots": 16
   },
   {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Gilles-William Goldnadel",
-   "affil": "Le Figaro Vox",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2021-09-20",
-   "contexte": "Le Figaro Vox",
-   "citation": "Nier le racisme anti-blanc dans certaines agressions urbaines, c’est déjà commencer à l’absoudre idéologiquement.",
-   "ticker": "GOLDNADEL-RACISME-ANTI-BLANC",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "Le Figaro Vox (URL à compléter)",
-   "valeurs": [
-    "SECU",
-    "IDEN"
-   ],
-   "mots": 14
-  },
-  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Rachida Dati",
@@ -8189,22 +7964,6 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 15
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Michel Onfray",
-   "affil": "CNews",
-   "fonction": "Essayiste, intellectuel",
-   "date": "2020-10-15",
-   "contexte": "CNews",
-   "citation": "Je n’ai pas parlé de race ni de couleur de peau, mais de la faillite de l'intégration.",
-   "ticker": "ONFRAY-FAILLITE-INTEGRATION",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "CNews (URL à compléter)",
-   "valeurs": [],
-   "mots": 17
   },
   {
    "pole": "Politique",
@@ -8598,26 +8357,6 @@ window.BOURSE = {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Manuel Valls",
-   "affil": "PS",
-   "fonction": "Premier ministre",
-   "date": "2015-01-20",
-   "contexte": "Vœux à la presse après attentats",
-   "citation": "Un apartheid territorial, social, ethnique, qui s'est imposé à notre pays",
-   "ticker": "APARTHEID-VALLS",
-   "categorie": "Hall of Fame",
-   "pilier": "Tranquillité publique",
-   "source": "Discours officiel",
-   "valeurs": [],
-   "mots": 11,
-   "hof": {
-    "prix": "Classique",
-    "medaille": ""
-   }
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Manuel Valls",
    "affil": "PS / Gouvernement",
    "fonction": "Premier ministre",
    "date": "2015-01-20",
@@ -8628,7 +8367,11 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.info.gouv.fr/actualite/nous-devons-nous-hisser-a-la-hauteur-de-l-exigence",
    "valeurs": [],
-   "mots": 21
+   "mots": 21,
+   "hof": {
+    "prix": "Classique",
+    "medaille": ""
+   }
   },
   {
    "pole": "Politique",
