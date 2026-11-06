@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-05T19:00",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261105_soir_valide.xlsx",
+ "maj": "2026-11-06T08:27",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_matin_valide.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -156,6 +156,57 @@ window.BOURSE = {
    "mots": 28
   },
   {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Rietmann",
+   "affil": "LR",
+   "fonction": "Sénateur",
+   "date": "2026-11-05",
+   "contexte": "Sénat, table ronde de la délégation aux entreprises avec les organisations patronales (05/11)",
+   "citation": "Comment envisager une hausse dans ce contexte ? C’est être dans le déni de l’effet ciseaux qui va peser sur les entreprises",
+   "ticker": "RIETMANN-EFFET-CISEAUX",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement",
+   "valeurs": [],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Olivier Henno",
+   "affil": "Union centriste (UDI)",
+   "fonction": "Sénateur du Nord, rapporteur du PLFSS 2027 au Sénat",
+   "date": "2026-11-05",
+   "contexte": "Public Sénat, interview (examen du budget de la Sécurité sociale en commission des affaires sociales)",
+   "citation": "Nous devons travailler plus parce que nous vivons plus longtemps et puis aussi parce qu’il y a moins d’actifs pour payer nos retraites. C’est une évidence.",
+   "ticker": "HENNO-TRAVAILLER-PLUS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-de-la-secu-le-senat-prevoit-de-voter-le-retour-de-la-reforme-des-retraites-de-2023",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Stéphane Peu",
+   "affil": "PCF (groupe GDR)",
+   "fonction": "Député de Seine-Saint-Denis, président du groupe GDR",
+   "date": "2026-11-05",
+   "contexte": "Déclaration à l’AFP, après le ralliement de députés GDR à la candidature de Jean-Luc Mélenchon (05/11)",
+   "citation": "J'assume cet acte que j'assimile à un acte de désobéissance civile. C'est une objection de conscience",
+   "ticker": "PEU-DESOBEISSANCE-CIVILE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
+   "valeurs": [],
+   "mots": 16
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Sophie Binet",
@@ -258,6 +309,40 @@ window.BOURSE = {
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
    "source": "https://www.sudradio.fr/sud-radio/on-ne-peut-pas-laisser-862-000-agents-publics-sous-le-smic",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Patrick Martin",
+   "affil": "Medef",
+   "fonction": "Président du Medef",
+   "date": "2026-11-05",
+   "contexte": "Sénat, table ronde de la délégation aux entreprises (05/11)",
+   "citation": "Le vrai problème de la France, c’est un problème de croissance. Raison de plus pour ne pas proposer des budgets récessifs",
+   "ticker": "MARTIN-BUDGETS-RECESSIFS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Amir Reza-Tofighi",
+   "affil": "Les Entrepreneurs (ex-CPME)",
+   "fonction": "Président des Entrepreneurs (ex-CPME)",
+   "date": "2026-11-05",
+   "contexte": "Sénat, table ronde de la délégation aux entreprises (05/11), sur la hausse du coût du travail",
+   "citation": "Il n’y a pas de magie, surtout à un moment où l’économie est en difficulté",
+   "ticker": "TOFIGHI-PAS-DE-MAGIE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement",
    "valeurs": [],
    "mots": 15
   },
@@ -8545,6 +8630,24 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2011-12-01",
+   "contexte": "Discours sur la crise de la zone euro, Toulon (Zénith)",
+   "citation": "Pas un seul budget en équilibre depuis 1974 !",
+   "ticker": "SARKOZY-BUDGET-1974",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2011/12/01/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-les-reponses-gouvernementales-et-europeennes-face-a-la-crise-economique-et-aux-difficultes-de-la-zone-euro-a-toulon-le-1er-decembre-2011",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
    "auteur": "Marine Le Pen",
    "affil": "FN / RN",
    "fonction": "Présidente du Front National",
@@ -8621,6 +8724,73 @@ window.BOURSE = {
     "IMMI"
    ],
    "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2009-11-12",
+   "contexte": "Discours sur l’identité nationale, La Chapelle-en-Vercors",
+   "citation": "On ne peut pas vouloir bénéficier des droits sans se sentir obligé par les devoirs.",
+   "ticker": "SARKOZY-DROITS-DEVOIRS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2009/11/12/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-lidentite-nationale-a-la-chapelle-en-vercors-le-12-novembre-2009",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2009-11-12",
+   "contexte": "Discours sur l’identité nationale, La Chapelle-en-Vercors",
+   "citation": "En sapant l'autorité de la Police, on n'a fait qu'encourager les voyous.",
+   "ticker": "SARKOZY-AUTORITE-POLICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2009/11/12/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-lidentite-nationale-a-la-chapelle-en-vercors-le-12-novembre-2009",
+   "valeurs": [
+    "SECU",
+    "AUTO"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2008-09-25",
+   "contexte": "Discours sur la crise financière internationale, Toulon (Zénith)",
+   "citation": "Une certaine idée de la mondialisation s'achève avec la fin d'un capitalisme financier qui avait imposé sa logique à toute l'économie et avait contribué à la pervertir.",
+   "ticker": "SARKOZY-FIN-CAPITALISME-FINANCIER",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2008/09/25/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-la-crise-financiere-internationale-et-la-politique-economique-de-la-france-a-toulon-le-25-septembre-2008",
+   "valeurs": [],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2008-09-25",
+   "contexte": "Discours sur la crise financière internationale, Toulon (Zénith)",
+   "citation": "On a financé le spéculateur plutôt que l'entrepreneur.",
+   "ticker": "SARKOZY-SPECULATEUR",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2008/09/25/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-la-crise-financiere-internationale-et-la-politique-economique-de-la-france-a-toulon-le-25-septembre-2008",
+   "valeurs": [],
+   "mots": 8
   },
   {
    "pole": "Politique",
