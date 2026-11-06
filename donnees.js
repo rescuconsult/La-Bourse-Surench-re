@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-05T08:38",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261105_matin.xlsx",
+ "maj": "2026-11-05T19:00",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261105_soir_valide.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -31,6 +31,547 @@ window.BOURSE = {
  ],
  "cotations": [
   {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Laurent Panifous",
+   "affil": "Gouvernement",
+   "fonction": "Ministre délégué chargé des Relations avec le Parlement",
+   "date": "2026-11-05",
+   "contexte": "franceinfo (05/11, matinale) — extrait publié par @franceinfo",
+   "citation": "Je suis en désaccord total avec l’association entre l’immigration et la délinquance",
+   "ticker": "PANIFOUS-DESACCORD",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/franceinfo/status/2118262364252307689",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — extrait publié par @Europe1",
+   "citation": "On n'intègre pas quand on reçoit 400 000 à 500 000 personnes par an, c'est trop de gens",
+   "ticker": "MENARD-TROP-DE-GENS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/Europe1/status/2118245112476045524",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — extrait publié par @Europe1",
+   "citation": "Pendant longtemps, tu ne pouvais même pas mener ce débat, c'était interdit dans les médias ; je me suis fait jeter parce que je parlais de ces questions-là.",
+   "ticker": "MENARD-DEBAT-INTERDIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/Europe1/status/2118246682190086485",
+   "valeurs": [],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "LR",
+   "fonction": "Président des Républicains, candidat à la présidentielle",
+   "date": "2026-11-05",
+   "contexte": "BFMTV (05/11) — extrait publié par @BFMTV",
+   "citation": "Les budgets ont été renforcés à juste raison, mais aussi à quel prix. Aujourd'hui il n'y a plus d'argent public",
+   "ticker": "RETAILLEAU-PLUS-D-ARGENT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://x.com/BFMTV/status/2118303656751595843",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place publique",
+   "fonction": "Candidat à la présidentielle 2027",
+   "date": "2026-11-05",
+   "contexte": "Manifestation contre la vie chère, place de la République, Paris (05/11) — devant la presse, avant de quitter le cortège",
+   "citation": "Aujourd'hui, c'est la journée des travailleurs. Ce n'est pas la journée des militants politiques qui sont pour un autre candidat […]",
+   "ticker": "GLUCKSMANN-JOURNEE-TRAVAILLEURS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://actu.orange.fr/politique/bloque-par-des-manifestants-hostiles-glucksmann-quitte-la-manifestation-sans-avoir-pu-defiler-CNT000002tzzsE.html",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Sandrine Rousseau",
+   "affil": "Les Écologistes",
+   "fonction": "Députée de Paris",
+   "date": "2026-11-05",
+   "contexte": "Sud Radio, L'invité politique (Benjamin Glaise), 05/11",
+   "citation": "Mais vous savez, je pense que les manifestations, ce sont des manifestations pour la dignité, pour la capacité à vivre.",
+   "ticker": "ROUSSEAU-MANIFESTATIONS-DIGNITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/sandrine-rousseau-le-sujet-nest-pas-limmigration-dans-le-17-octobre",
+   "valeurs": [
+    "MANF",
+    "POLE"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Marine Tondelier",
+   "affil": "Les Écologistes",
+   "fonction": "Secrétaire nationale des Écologistes",
+   "date": "2026-11-05",
+   "contexte": "Public Sénat, matinale (avant la manifestation du 05/11 ; article publié le 05/11 à 9h23 — jour de l'interview à confirmer)",
+   "citation": "La liberté de manifester est un droit fondamental, on peut avoir des aménagements, mais je ne les ai pas toujours compris car ils s’improvisent à la dernière minute",
+   "ticker": "TONDELIER-LIBERTE-MANIFESTER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/mobilisation-du-5-novembre-emmanuel-macron-finit-son-mandat-comme-il-a-gouverne-cest-a-dire-seul-contre-tous-estime-marine-tondelier",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Sophie Binet",
+   "affil": "CGT",
+   "fonction": "Secrétaire générale de la CGT",
+   "date": "2026-11-05",
+   "contexte": "LCI (05/11, matinale) — extrait publié par @LCI",
+   "citation": "Aujourd'hui, ce budget est dangereux pour le pays",
+   "ticker": "BINET-BUDGET-DANGEREUX",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://x.com/LCI/status/2118251892572647769",
+   "valeurs": [
+    "BUDG",
+    "PEUR"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue",
+   "date": "2026-11-05",
+   "contexte": "CNews, L’Heure des pros (05/11) — extrait publié par @CNEWS",
+   "citation": "Le contraire de la laïcité, c'est le fondamentalisme",
+   "ticker": "TAVOILLOT-LAICITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/CNEWS/status/2118281232324641043",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, L’Heure des pros (05/11) — extrait publié par @Europe1",
+   "citation": "Avec une partie de la population immigrée, on a affaire à une vaste régression civilisationnelle. Sur des questions de laïcité, du rapport homme-femme et sur l'acceptation de l'homosexualité",
+   "ticker": "TAVOILLOT-REGRESSION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/Europe1/status/2118283954285351310",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marylise Léon",
+   "affil": "CFDT",
+   "fonction": "Secrétaire générale de la CFDT",
+   "date": "2026-11-05",
+   "contexte": "RMC / BFMTV, matinale (05/11)",
+   "citation": "On a envie de dire qu’on peut vivre dignement de notre travail",
+   "ticker": "LEON-VIVRE-DIGNEMENT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/mobilisation-contre-la-vie-chere-journee-de-greve-et-manifestations-en-france-qui-sannoncent-tres-suivies",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Sophie Binet",
+   "affil": "CGT",
+   "fonction": "Secrétaire générale de la CGT",
+   "date": "2026-11-05",
+   "contexte": "Paris, déclaration à la presse avant le départ du cortège (05/11, vers 13h30)",
+   "citation": "rien ne nous arrêtera, la seule chose qui fera cesser la mobilisation est la réponse aux revendications",
+   "ticker": "BINET-RIEN-NE-NOUS-ARRETERA",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.20min.ch/fr/story/crises-en-france-un-lycee-incendie-vers-toulouse-des-heurts-a-lyon-103644663",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Luc Farré",
+   "affil": "UNSA",
+   "fonction": "Secrétaire général de l’UNSA Fonction publique",
+   "date": "2026-11-05",
+   "contexte": "Sud Radio, C'est à la Une (Benjamin Glaise), 05/11",
+   "citation": "On peut prendre un peu moins pour les entreprises et enfin financer le service public.",
+   "ticker": "FARRE-FINANCER-SERVICE-PUBLIC",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/sud-radio/on-ne-peut-pas-laisser-862-000-agents-publics-sous-le-smic",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Éric Coquerel",
+   "affil": "LFI",
+   "fonction": "Député, président de la commission des finances",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · PLF 2027, vote de la première partie (séance du soir, 04/11)",
+   "citation": "Ce budget était mauvais à l'origine, il le reste à l'issue de ces débats",
+   "ticker": "COQUEREL-BUDGET-MAUVAIS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Estelle Mercier",
+   "affil": "PS",
+   "fonction": "Députée",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · PLF 2027, vote de la première partie (séance du soir, 04/11)",
+   "citation": "La copie amendée n'est pas plus digeste que la copie initiale",
+   "ticker": "MERCIER-COPIE-INDIGESTE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Philippe Juvin",
+   "affil": "LR",
+   "fonction": "Député, rapporteur général de la commission des finances",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · PLF 2027, vote de la première partie (séance du soir, 04/11)",
+   "citation": "Notre devoir n'est pas de gérer le déclin de la France, mais de lui rendre les moyens de son avenir.",
+   "ticker": "JUVIN-DECLIN-AVENIR",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Christine Lavarde",
+   "affil": "LR",
+   "fonction": "Sénatrice des Hauts-de-Seine, rapporteure générale du budget",
+   "date": "2026-11-04",
+   "contexte": "Sénat · commission des finances, présentation du rapport sur le contexte du PLF 2027 (04/11, matin)",
+   "citation": "L’optimisme n’est pas une stratégie budgétaire",
+   "ticker": "LAVARDE-OPTIMISME",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/une-recession-nest-pas-a-exclure-la-rapporteure-generale-du-budget-au-senat-tire-a-boulets-rouges-sur-le-scenario-du-gouvernement",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Geffray",
+   "affil": "Gouvernement",
+   "fonction": "Ministre de l’Éducation nationale",
+   "date": "2026-11-04",
+   "contexte": "Public Sénat, interview du matin (04/11) — mouvement lycéen, blocages",
+   "citation": "Manifester est légitime mais bloquer un lycée et empêcher ses camarades d’y rentrer, c’est illégal",
+   "ticker": "GEFFRAY-BLOCAGE-LYCEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/education/mouvement-lyceen-manifester-est-legitime-mais-bloquer-un-lycee-est-illegal-et-porte-prejudice-aux-eleves-assure-le-ministre-de-leducation",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Catherine Pégard",
+   "affil": "Gouvernement",
+   "fonction": "Ministre de la Culture",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · Questions au gouvernement (liberté de la presse), 1re séance du 04/11",
+   "citation": "Partout où la liberté de la presse a reculé, c’est parce que les principes démocratiques avaient auparavant régressé.",
+   "ticker": "PEGARD-LIBERTE-PRESSE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Frédéric Boccaletti",
+   "affil": "RN",
+   "fonction": "Député",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · Questions au gouvernement (liberté de la presse), 1re séance du 04/11",
+   "citation": "Dans une démocratie, on combat des idées avec des arguments, pas avec des pétitions visant à censurer une chaîne de télévision.",
+   "ticker": "BOCCALETTI-PETITIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Frédéric Maillot",
+   "affil": "GDR (Gauche démocrate et républicaine)",
+   "fonction": "Député",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · Questions au gouvernement (santé mentale en milieu carcéral), 1re séance du 04/11",
+   "citation": "La rue et la prison ne doivent plus être des hôpitaux psychiatriques de substitution.",
+   "ticker": "MAILLOT-PRISON-PSY",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+   "valeurs": [
+    "INST",
+    "JUST",
+    "MANF"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Maxime Michelet",
+   "affil": "UDR",
+   "fonction": "Député",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale · Questions au gouvernement (commémorations du 11 Novembre), 1re séance du 04/11",
+   "citation": "Le 11 Novembre ne glorifie pas la guerre, mais l’héroïsme d’un peuple qui ne capitule pas quand sa souveraineté est menacée.",
+   "ticker": "MICHELET-11-NOVEMBRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-04-novembre-2026",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-04",
+   "contexte": "LCI, 24H Pujadas (04/11) — débat sur les propos d’Édouard Philippe, extrait publié par @24hPujadas",
+   "citation": "Et ensuite, les gens issus de l’immigration, ça se voit, les gens issus de l’immigration, il ne faut quand même pas déconner. On ne va pas ne pas dire l’évidence.",
+   "ticker": "MENARD-CA-SE-VOIT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/24hPujadas/status/2118048607253221391",
+   "valeurs": [
+    "IMMI",
+    "POPU"
+   ],
+   "mots": 30
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-04",
+   "contexte": "LCI, 24H Pujadas (04/11) — débat sur les propos d’Édouard Philippe, extrait publié par @24hPujadas — ajoute aussitôt : « Et je ne veux pas essentialiser en disant tous les enfants de l’immigration sont des petits voyous. »",
+   "citation": "Je ne peux pas nier que dans la délinquance, y compris chez moi, les enfants issus de l’immigration sont souvent… Pas souvent, tout le temps majoritaires.",
+   "ticker": "MENARD-DELINQUANCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/24hPujadas/status/2118048607253221391",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-04",
+   "contexte": "LCI, 24H Pujadas (04/11) — débat sur les propos d’Édouard Philippe, extrait publié par @24hPujadas",
+   "citation": "C’est pas parce que tu es pauvre que tu es délinquant.",
+   "ticker": "MENARD-PAUVRE-DELINQUANT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/24hPujadas/status/2118048607253221391",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Ali Rabeh",
+   "affil": "Génération.s",
+   "fonction": "Maire de Trappes",
+   "date": "2026-11-04",
+   "contexte": "Extrait diffusé dans LCI, 24H Pujadas (04/11) — déclaration d’origine à dater",
+   "citation": "Nous sommes ici chez nous, nous n’avons aucun pays de rechange.",
+   "ticker": "RABEH-PAYS-DE-RECHANGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/24hPujadas/status/2118048607253221391",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-04",
+   "contexte": "LCI, 24H Pujadas (04/11) — débat sur les propos d’Édouard Philippe, extrait publié par @24hPujadas",
+   "citation": "Tu rentres dans une prison […] qu’est-ce qui te saute aux yeux ? Sans aucun a priori. C’est que, d’abord, les étrangers sont hyper nombreux […]",
+   "ticker": "MENARD-PRISON",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/24hPujadas/status/2118048607253221391",
+   "valeurs": [
+    "JUST",
+    "IMMI"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Président de Renaissance, candidat à la présidentielle",
+   "date": "2026-11-04",
+   "contexte": "BFMTV (04/11) — réaction après la publication de messages d’Emmanuel Macron",
+   "citation": "Je crois avoir montré que j'étais à la hauteur",
+   "ticker": "ATTAL-A-LA-HAUTEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/BFMTV/status/2118069690014535741",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député",
+   "date": "2026-11-04",
+   "contexte": "Assemblée nationale, séance du soir (04/11) — débat sur la partie recettes du PLF 2027",
+   "citation": "Amender veut dire nuancer, changer. Nous ne tenons pas la plume, seul le gouvernement tient la plume de ce budget !",
+   "ticker": "TANGUY-PLUME-BUDGET",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Franz-Olivier Giesbert",
+   "affil": "Journaliste, écrivain",
+   "fonction": "Journaliste et écrivain (invité)",
+   "date": "2026-11-04",
+   "contexte": "Europe 1 / CNews, La Grande Interview (Laurence Ferrari), 04/11 — déni de réalité, pillages, immigration",
+   "citation": "si on veut régler les problèmes, il faut le dire",
+   "ticker": "GIESBERT-DIRE-PROBLEMES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/immigration-dette-il-y-a-un-deni-de-realite-en-france-denonce-franz-olivier-giesbert-1207319",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 10
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Jean-Claude Beaujour",
@@ -48,6 +589,24 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 27
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Charles Gave",
+   "affil": "Économiste, essayiste",
+   "fonction": "Économiste et financier",
+   "date": "2026-11-04",
+   "contexte": "Sud Radio, La France dans tous ses états (Périco Légasse) — dette et budget",
+   "citation": "On est arrivé à un point dans la dette française où on emprunte aujourd’hui pour payer les intérêts sur la dette passée.",
+   "ticker": "GAVE-DETTE-INTERETS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/sud-radio/charles-gave-toute-la-haute-fonction-publique-sen-est-mis-plein-les-poches",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 22
   },
   {
    "pole": "Politique",
@@ -293,6 +852,24 @@ window.BOURSE = {
    "mots": 10
   },
   {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "LR",
+   "fonction": "Président des Républicains, candidat à la présidentielle",
+   "date": "2026-11-03",
+   "contexte": "BFMTV, #VousPrésident (03/11) — extrait publié par @BFMTV",
+   "citation": "Il y a malheureusement un échec en France: c'est celui de l'intégration",
+   "ticker": "RETAILLEAU-ECHEC-INTEGRATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/BFMTV/status/2117717261943238723",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Amélie Rosique",
@@ -528,6 +1105,42 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
+   "auteur": "Ruth Elkrief",
+   "affil": "LCI",
+   "fonction": "Éditorialiste",
+   "date": "2026-11-02",
+   "contexte": "LCI, 24H Pujadas (02/11) — extrait publié par @24hPujadas",
+   "citation": "La question n'est pas ethnique, ni l'origine du pays, la question c'est l'éducation, le lieu de vie, la condition sociale [...] La question de l'ethnicité me paraît totalement déplacée",
+   "ticker": "ELKRIEF-ETHNICITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/24hPujadas/status/2117318831383179517",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Philippe Juvin",
+   "affil": "LR",
+   "fonction": "Député, rapporteur général de la commission des finances",
+   "date": "2026-11-01",
+   "contexte": "franceinfo, 8h30 (01/11) — extrait publié par @franceinfo",
+   "citation": "Les hypothèses sur lesquelles le projet a été bâti sont déjà caduques [...] n'arrive pas à baisser la dépense publique",
+   "ticker": "JUVIN-HYPOTHESES-CADUQUES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://x.com/franceinfo/status/2116801462822990161",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
    "auteur": "Régine Delfour",
    "affil": "CNews",
    "fonction": "Grand reporter",
@@ -654,6 +1267,41 @@ window.BOURSE = {
    "mots": 18
   },
   {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "Criminologue",
+   "fonction": "Criminologue, expert en sécurité",
+   "date": "2026-10-29",
+   "contexte": "Europe 1 / CNews, La Grande Interview (29/10) — extrait publié par @Europe1",
+   "citation": "L’effet paroxystique qui devrait signer la fin de la récréation pourrait être le 5 novembre",
+   "ticker": "BAUER-FIN-RECREATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/Europe1/status/2115708589033533881",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "Criminologue",
+   "fonction": "Criminologue, expert en sécurité",
+   "date": "2026-10-29",
+   "contexte": "Europe 1 / CNews, La Grande Interview (29/10) — extrait publié par @Europe1",
+   "citation": "On ne sort pas de la violence d’un mouvement social par une réponse seulement autoritaire, il faut aussi une réponse sociale et politique",
+   "ticker": "BAUER-REPONSE-SOCIALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/Europe1/status/2115709401818341869",
+   "valeurs": [
+    "SECU",
+    "AUTO"
+   ],
+   "mots": 23
+  },
+  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Bruno Retailleau",
@@ -744,6 +1392,25 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Eugénie Bastié",
+   "affil": "Le Figaro TV",
+   "fonction": "Éditorialiste",
+   "date": "2026-10-28",
+   "contexte": "Le Figaro TV",
+   "citation": "La victimisation systématique des banlieues empêche tout sursaut de responsabilité individuelle chez les jeunes.",
+   "ticker": "BASTIE-VICTIMISATION-DES-BANLIEU",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le Figaro TV (URL à compléter)",
+   "valeurs": [
+    "VIOL",
+    "POLE"
+   ],
+   "mots": 14
   },
   {
    "pole": "Experts & invités",
@@ -1081,6 +1748,25 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Gauche",
+   "auteur": "Bally Bagayoko",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
+   "date": "2026-10-25",
+   "contexte": "LCI, Darius Rochebin (25/10) — extrait publié par @LCI",
+   "citation": "L'essentiel du programme de l'extrême droite et du Rassemblement national […], c'est de dire que les étrangers sont responsables de tous les maux de la société",
+   "ticker": "BAGAYOKO-ETRANGERS-MAUX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/LCI/status/2114471688289095851",
+   "valeurs": [
+    "IMMI",
+    "POLE"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
    "auteur": "Marine Tondelier",
    "affil": "Les Écologistes",
    "fonction": "Secrétaire nationale Écologistes",
@@ -1202,6 +1888,93 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, auteure",
+   "date": "2026-10-22",
+   "contexte": "Tocsin Plus, entretien avec Alexandre Cuignache (22/10) — chapitre « Pourquoi nos perceptions sont-elles si facilement manipulables ? »",
+   "citation": "[…] il y a rien de plus manipulable que nos perceptions.",
+   "ticker": "SAINT-MICHEL-PERCEPTIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/y4IQrd5niXw",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, auteure",
+   "date": "2026-10-22",
+   "contexte": "Tocsin Plus, entretien avec Alexandre Cuignache (22/10) — le langage et son influence sur notre compréhension du monde",
+   "citation": "Nos perceptions, nous les décodons en fonction d'un référentiel.",
+   "ticker": "SAINT-MICHEL-REFERENTIEL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/y4IQrd5niXw",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, auteure",
+   "date": "2026-10-22",
+   "contexte": "Tocsin Plus, entretien avec Alexandre Cuignache (22/10) — éducation et discernement : apprendre aux enfants à penser",
+   "citation": "Le maître mot qui nous tire de là, c'est le discernement.",
+   "ticker": "SAINT-MICHEL-DISCERNEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/y4IQrd5niXw",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, auteure",
+   "date": "2026-10-22",
+   "contexte": "Tocsin Plus, entretien avec Alexandre Cuignache (22/10) — « il » = un système totalitaire (« on sait depuis longtemps […] comment se construit un système totalitaire »)",
+   "citation": "[…] il se construit notamment par la sidération des esprits avec ce système de contradiction",
+   "ticker": "SAINT-MICHEL-SIDERATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/y4IQrd5niXw",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, auteure",
+   "date": "2026-10-22",
+   "contexte": "Tocsin Plus, entretien avec Alexandre Cuignache (22/10) — anxiété, médias et stratégie du choc",
+   "citation": "La gouvernance par le chaos, la stratégie du choc, c'est-à-dire qu'on sature les esprits, qu'on rend les gens anxieux",
+   "ticker": "SAINT-MICHEL-CHAOS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/y4IQrd5niXw",
+   "valeurs": [
+    "PEUR",
+    "POPU"
+   ],
+   "mots": 19
   },
   {
    "pole": "Politique",
@@ -2755,6 +3528,25 @@ window.BOURSE = {
    "mots": 20
   },
   {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Rudy Mana",
+   "affil": "CNews",
+   "fonction": "Syndicaliste policier",
+   "date": "2026-10-16",
+   "contexte": "CNews / Alliance Police",
+   "citation": "Toute la crème des anti-flics de France sera à la manifestation.",
+   "ticker": "MANA-ELEMENTS-VIOLENTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews / Alliance Police (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "MANF"
+   ],
+   "mots": 11
+  },
+  {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Jean-Luc Mélenchon",
@@ -2864,6 +3656,26 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 29
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "RN",
+   "fonction": "Présidente du groupe RN à l’Assemblée nationale",
+   "date": "2026-10-15",
+   "contexte": "Europe 1, Objectif Élysée 2027 (15/10) — crise lycéenne, propos d’Emmanuel Macron sur les forces de l’ordre",
+   "citation": "La situation des forces de l'ordre est extrêmement compliquée. Ils sont confrontés à des agressions graves.",
+   "ticker": "LE-PEN-AGRESSIONS-GRAVES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/crise-lyceenne-emmanuel-macron-est-tres-injuste-marine-le-pen-denonce-les-propos-du-chef-de-letat-sur-les-forces-de-lordre-1152272",
+   "valeurs": [
+    "SECU",
+    "AUTO",
+    "INDI"
+   ],
+   "mots": 16
   },
   {
    "pole": "Médiatique",
@@ -3340,6 +4152,24 @@ window.BOURSE = {
     "prix": "Langue de bois",
     "medaille": "Argent"
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marion Maréchal",
+   "affil": "Identité-Libertés",
+   "fonction": "Députée européenne",
+   "date": "2026-10-14",
+   "contexte": "LCI, La Matinale (14/10) — extrait publié par @LCI",
+   "citation": "Ça fait trois semaines que le pays est à feu et à sang",
+   "ticker": "MARECHAL-FEU-ET-SANG",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/LCI/status/2110258773130420369",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 13
   },
   {
    "pole": "Médiatique",
@@ -3951,6 +4781,26 @@ window.BOURSE = {
    "mots": 12
   },
   {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Éric Delbecque",
+   "affil": "Le Figaro",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2026-10-13",
+   "contexte": "Le Figaro (FigaroVox)",
+   "citation": "La bienveillance ne protège pas l’école face aux menaces intrusives et à la violence.",
+   "ticker": "DELBECQUE-PROTECTION-ECOLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le Figaro (FigaroVox) (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "ECOL",
+    "PEUR"
+   ],
+   "mots": 14
+  },
+  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Éric Zemmour",
@@ -4264,6 +5114,22 @@ window.BOURSE = {
     "prix": "Catastrophe",
     "medaille": "Argent"
    }
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "CNews",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2026-10-12",
+   "contexte": "CNews / Europe 1",
+   "citation": "Le nombre d'homicides et de tentatives est au plus haut niveau de la statistique nationale depuis 50 ans.",
+   "ticker": "BAUER-STATISTIQUE-CRIMINELLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews / Europe 1 (URL à compléter)",
+   "valeurs": [],
+   "mots": 18
   },
   {
    "pole": "Politique",
@@ -5478,6 +6344,43 @@ window.BOURSE = {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Michel Onfray",
+   "affil": "YouTube CNews",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2026-08-29",
+   "contexte": "YouTube CNews (Face à Michel Onfray)",
+   "citation": "Certains sont délinquants parce qu’ils sont démunis ou déstructurés, non parce qu’ils sont fondamentalement étrangers.",
+   "ticker": "ONFRAY-DELINQUANCE-PRECARITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "YouTube CNews (Face à Michel Onfray) (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Yves Thréard",
+   "affil": "Le Figaro",
+   "fonction": "Éditorialiste",
+   "date": "2026-05-27",
+   "contexte": "Le Figaro",
+   "citation": "Sur l'immigration, la France est devenue le passager clandestin de l'Europe en n'exécutant pas ses OQTF.",
+   "ticker": "THREARD-NON-EXECUTION-DES-OQTF",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le Figaro (URL à compléter)",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
    "affil": "Essayiste / Philosophe",
    "fonction": "Philosophe",
    "date": "2026-04-04",
@@ -5661,6 +6564,24 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jordan Guitton",
+   "affil": "RN",
+   "fonction": "Député de l’Aube",
+   "date": "2025-10-30",
+   "contexte": "Assemblée nationale · discussion générale sur le rétablissement du délit de séjour irrégulier, 1re séance du 30/10/2025",
+   "citation": "Qu’est-ce qu’une nation qui laisse des personnes entrer ou se maintenir illégalement sur son territoire sans rien faire ? C’est une nation laxiste, faible, impuissante.",
+   "ticker": "GUITTON-NATION-LAXISTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-30-octobre-2025",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Politique",
    "famille": null,
    "auteur": "Dominique de Villepin",
    "affil": "",
@@ -5674,6 +6595,146 @@ window.BOURSE = {
    "source": "20 Minutes (sur 2005)",
    "valeurs": [],
    "mots": 5
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Sébastien Lecornu",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2025-10-14",
+   "contexte": "Assemblée nationale · déclaration de politique générale (14/10/2025), retransmission LCP — vidéo [28:11 → 28:22]",
+   "citation": "La soif absolue de nos compatriotes pour leur sécurité, pour la justice et le respect de la loi, doit être entendue.",
+   "ticker": "LECORNU-SOIF-SECURITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.dailymotion.com/video/x9s6wu4",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "JUST",
+    "POPU"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Boris Vallaud",
+   "affil": "PS",
+   "fonction": "Député des Landes, président du groupe Socialistes",
+   "date": "2025-06-24",
+   "contexte": "Assemblée nationale · Questions au gouvernement (conclave sur les retraites), 1re séance du 24/06/2025",
+   "citation": "Le respect de la parole donnée est à la base même de notre régime démocratique.",
+   "ticker": "VALLAUD-PAROLE-DONNEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-24-juin-2025",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "François Bayrou",
+   "affil": "MoDem / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2025-06-24",
+   "contexte": "Assemblée nationale · Questions au gouvernement (conclave sur les retraites), réponse à Boris Vallaud, 1re séance du 24/06/2025",
+   "citation": "Nous ne pouvons pas continuer à compromettre l’avenir […] des générations de travailleurs de demain en reportant sur ces dernières les déficits que nous causons tous les jours.",
+   "ticker": "BAYROU-DEFICITS-GENERATIONS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-24-juin-2025",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, diplômée en sciences politiques",
+   "date": "2025-06-23",
+   "contexte": "Sud Radio, Bercoff dans tous ses états, entretien avec André Bercoff (23/06/2025)",
+   "citation": "Toute personne aujourd'hui malheureusement dans notre pays en général a eu ou aura affaire à un fonctionnement pervers.",
+   "ticker": "SAINT-MICHEL-FONCTIONNEMENT-PERVERS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.dailymotion.com/video/x9lro66",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, diplômée en sciences politiques",
+   "date": "2025-06-23",
+   "contexte": "Sud Radio, Bercoff dans tous ses états, entretien avec André Bercoff (23/06/2025)",
+   "citation": "Les véritables objectifs ne sont pas donnés et même en général on donne souvent des objectifs assez contraires à ceux qui sont vraiment poursuivis.",
+   "ticker": "SAINT-MICHEL-OBJECTIFS-CACHES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.dailymotion.com/video/x9lro66",
+   "valeurs": [],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, diplômée en sciences politiques",
+   "date": "2025-06-23",
+   "contexte": "Sud Radio, Bercoff dans tous ses états, entretien avec André Bercoff (23/06/2025)",
+   "citation": "Je dis même dans le livre qu'on les a encouragés à ne plus y croire pour qu'ils soient beaucoup moins participatifs et engagés.",
+   "ticker": "SAINT-MICHEL-NE-PLUS-Y-CROIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.dailymotion.com/video/x9lro66",
+   "valeurs": [],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marion Saint-Michel",
+   "affil": "Psychologue clinicienne, auteure",
+   "fonction": "Psychologue clinicienne, diplômée en sciences politiques",
+   "date": "2025-06-23",
+   "contexte": "Sud Radio, Bercoff dans tous ses états, entretien avec André Bercoff (23/06/2025)",
+   "citation": "Nous avons perdu une grande partie de notre souveraineté.",
+   "ticker": "SAINT-MICHEL-SOUVERAINETE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.dailymotion.com/video/x9lro66",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Agnès Verdier-Molinié",
+   "affil": "Fondation iFRAP",
+   "fonction": "Directrice de la Fondation iFRAP",
+   "date": "2025-06-04",
+   "contexte": "Entretien à L’Opinion (04/06/2025), repris par la Fondation iFRAP — l’« année blanche » budgétaire",
+   "citation": "L'année blanche, c'est pour trouver 40 milliards de baisses de dépenses. Pas pour continuer dans la fuite en avant sur les impôts.",
+   "ticker": "VERDIER-MOLINIE-ANNEE-BLANCHE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.ifrap.org/budget-et-fiscalite/agnes-verdier-molinie-faire-une-annee-blanche-est-la-seule-option-credible-possible",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 22
   },
   {
    "pole": "Politique",
@@ -5761,6 +6822,27 @@ window.BOURSE = {
    "source": "LCI",
    "valeurs": [],
    "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Mathilde Panot",
+   "affil": "LFI",
+   "fonction": "Députée du Val-de-Marne, présidente du groupe LFI-NFP",
+   "date": "2025-02-04",
+   "contexte": "Assemblée nationale · Questions au gouvernement (lutte contre la délinquance), 2e séance du 04/02/2025 — interruption pendant la question de Julien Limongi (RN)",
+   "citation": "Voilà ce que c’est de parler de « submersion migratoire » ! Quelle honte !",
+   "ticker": "PANOT-QUELLE-HONTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-04-fevrier-2025",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "IMMI",
+    "INDI"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
@@ -5855,6 +6937,62 @@ window.BOURSE = {
    "mots": 9
   },
   {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Le JDD",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2024-12-22",
+   "contexte": "Le JDD / CNews",
+   "citation": "L’immigration est un problème sécuritaire à Mayotte comme il l'est devenu à Marseille ou ailleurs.",
+   "ticker": "ONFRAY-IMMIGRATION-TERRITORIALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le JDD / CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "BFM TV",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2024-11-14",
+   "contexte": "BFM TV",
+   "citation": "Nous subissons une mexicanisation du narcotrafic où les bandes armées défient ouvertement les institutions.",
+   "ticker": "MONTBRIAL-MEXICANISATION-TRAFIC",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "BFM TV (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "Le JDD",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2024-11-01",
+   "contexte": "Le JDD / Europe 1",
+   "citation": "Le problème des banlieues n'est plus un sujet d'urbanisme, c'est un marché criminel structuré.",
+   "ticker": "BAUER-MARCHE-CRIMINEL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le JDD / Europe 1 (URL à compléter)",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 14
+  },
+  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Bruno Retailleau",
@@ -5887,6 +7025,25 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/bruno-retailleau-nouveau-ministre-de-linterieur-promet-le-retablissement-de-lordre-et-la-fermete",
    "valeurs": [],
    "mots": 18
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Éric Brunet",
+   "affil": "RTL",
+   "fonction": "Éditorialiste",
+   "date": "2024-09-18",
+   "contexte": "RTL / LCI",
+   "citation": "La justice est devenue un frein à l'action policière par excès d'idéologie des droits de l'homme.",
+   "ticker": "BRUNET-FREIN-JUDICIAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "RTL / LCI (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
@@ -6004,6 +7161,40 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
+   "auteur": "Éric Tegnér",
+   "affil": "Sud Radio",
+   "fonction": "Éditorialiste",
+   "date": "2024-03-21",
+   "contexte": "Sud Radio",
+   "citation": "Les réseaux de drogue gèrent des territoires entiers où l'État français a capitulé depuis des années.",
+   "ticker": "TEGNER-CAPITULATION-ETAT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Sud Radio (URL à compléter)",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Mathieu Bock-Côté",
+   "affil": "Le Figaro",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2024-03-18",
+   "contexte": "Le Figaro",
+   "citation": "Le multiculturalisme sans assimilation mène inévitablement au morcellement tribal de la société.",
+   "ticker": "BOCK-COTE-MORCELLEMENT-TRIBAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "Le Figaro (URL à compléter)",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
    "auteur": "Thibault de Montbrial",
    "affil": "Expert / CRSI",
    "fonction": "Avocat / Expert sécurité",
@@ -6019,6 +7210,24 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 19
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Véronique Jacquier",
+   "affil": "Boulevard Voltaire",
+   "fonction": "Éditorialiste",
+   "date": "2024-01-18",
+   "contexte": "Boulevard Voltaire",
+   "citation": "Sans rétablissement de la peine minimale et suppression du juge des enfants, le désordre règnera.",
+   "ticker": "JACQUIER-PEINES-MINIMALES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Boulevard Voltaire (URL à compléter)",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 15
   },
   {
    "pole": "Politique",
@@ -6037,6 +7246,158 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Matthieu Valet",
+   "affil": "BFM TV",
+   "fonction": "Syndicaliste policier",
+   "date": "2023-11-15",
+   "contexte": "BFM TV",
+   "citation": "Les peines planchers et la majorité pénale à 16 ans sont indispensables pour stopper l'escalade.",
+   "ticker": "VALET-PEINES-PLANCHERS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "BFM TV (URL à compléter)",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Matthieu Valet",
+   "affil": "CNews",
+   "fonction": "Syndicaliste policier",
+   "date": "2023-10-12",
+   "contexte": "CNews / Europe 1",
+   "citation": "On ne peut plus fermer les yeux sur la surreprésentation des étrangers dans la délinquance de voie publique.",
+   "ticker": "VALET-DELINQUANCE-ETRANGERE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews / Europe 1 (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Éric Tegnér",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2023-10-05",
+   "contexte": "CNews",
+   "citation": "Dès que vous pointez du doigt le profil des délinquants sur le terrain, vous êtes immédiatement étiqueté.",
+   "ticker": "TEGNER-TABOU-PROFIL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "POLE"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Véronique Jacquier",
+   "affil": "Sud Radio",
+   "fonction": "Éditorialiste",
+   "date": "2023-10-04",
+   "contexte": "Sud Radio / CNews",
+   "citation": "L’immigration massive non assimilée défigure nos quartiers et détruit le sentiment de sécurité des Français.",
+   "ticker": "JACQUIER-NON-ASSIMILATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "Sud Radio / CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "VIOL",
+    "IMMI"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Pascal Praud",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2023-09-28",
+   "contexte": "CNews / Europe 1",
+   "citation": "Y a-t-il un lien entre le profil des délinquants et l'immigration ? Tout le monde le voit.",
+   "ticker": "PRAUD-PROFIL-DES-DELINQUANTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews / Europe 1 (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Geoffroy Lejeune",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2023-09-15",
+   "contexte": "CNews (L'Heure des Pros)",
+   "citation": "Il faut arrêter l'immigration : l'immense majorité des Français ne sont pas délinquants car ils ont des règles.",
+   "ticker": "LEJEUNE-ARRET-IMMIGRATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (L'Heure des Pros) (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Consigny",
+   "affil": "RMC",
+   "fonction": "Éditorialiste",
+   "date": "2023-09-15",
+   "contexte": "RMC",
+   "citation": "Il faut faire preuve d'une grande fermeté pénalisante tout en maintenant une exigence d'intégration républicaine.",
+   "ticker": "CONSIGNY-FERMETE-REPUBLICAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "RMC (URL à compléter)",
+   "valeurs": [
+    "INST",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "Midi Libre",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2023-09-12",
+   "contexte": "Midi Libre",
+   "citation": "Il n’y a pas qu'un sentiment d’insécurité mais un climat objectif de violence et d'accélération criminelle.",
+   "ticker": "BAUER-CLIMAT-OBJECTIF",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Midi Libre (URL à compléter)",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
@@ -6058,6 +7419,25 @@ window.BOURSE = {
    "mots": 11
   },
   {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Geoffroy Lejeune",
+   "affil": "Le Journal du Dimanche",
+   "fonction": "Éditorialiste",
+   "date": "2023-07-09",
+   "contexte": "Le Journal du Dimanche",
+   "citation": "L'immigration n'est pas une chance, c'est un drame qui transforme la France et menace notre identité.",
+   "ticker": "LEJEUNE-MENACE-IDENTITAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "Le Journal du Dimanche (URL à compléter)",
+   "valeurs": [
+    "IMMI",
+    "PEUR"
+   ],
+   "mots": 16
+  },
+  {
    "pole": "Politique",
    "famille": "Centre & exécutif",
    "auteur": "Élisabeth Borne",
@@ -6074,6 +7454,24 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Consigny",
+   "affil": "France Télévisions",
+   "fonction": "Éditorialiste",
+   "date": "2023-07-04",
+   "contexte": "France Télévisions",
+   "citation": "La réponse face aux émeutiers ne doit pas être sociale, elle doit être judiciaire et financière.",
+   "ticker": "CONSIGNY-SANCTION-JUDICIAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "France Télévisions (URL à compléter)",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 16
   },
   {
    "pole": "Médiatique",
@@ -6098,6 +7496,82 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
+   "auteur": "Éric Tegnér",
+   "affil": "L'Incorrect",
+   "fonction": "Éditorialiste",
+   "date": "2023-07-03",
+   "contexte": "L'Incorrect",
+   "citation": "La jeunesse des quartiers de reconquête républicaine a rejeté tout symbole ou drapeau français.",
+   "ticker": "TEGNER-SYMBOLES-REPUBLICAINS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "L'Incorrect (URL à compléter)",
+   "valeurs": [
+    "INST",
+    "VIOL",
+    "ECOL"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alain Bauer",
+   "affil": "CNews",
+   "fonction": "Consultant, expert sécurité",
+   "date": "2023-07-03",
+   "contexte": "CNews",
+   "citation": "La génération des émeutes considère la violence comme son mode d'expression naturel, rejetant toute institution.",
+   "ticker": "BAUER-MODE-EXPRESSION-VIOLENT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "RMC",
+   "fonction": "Syndicaliste policier",
+   "date": "2023-07-02",
+   "contexte": "RMC",
+   "citation": "La police ne peut pas compenser seule la faillite sociétale, la démission parentale et le laxisme judiciaire.",
+   "ticker": "KEBBAB-FAILLITE-SOCIETALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "RMC (URL à compléter)",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Gilles-William Goldnadel",
+   "affil": "CNews",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2023-07-02",
+   "contexte": "CNews",
+   "citation": "Le sous-armement juridique de la France face aux émeutiers s'explique par la colonisation des esprits.",
+   "ticker": "GOLDNADEL-COLONISATION-DES-ESPRITS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
    "auteur": "Mathieu Bock-Côté",
    "affil": "Média / Indépendant",
    "fonction": "Essayiste / Éditorialiste",
@@ -6112,6 +7586,80 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Véronique Jacquier",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2023-07-01",
+   "contexte": "CNews",
+   "citation": "La justice traite les délinquants en victimes et les victimes en quantité négligeable.",
+   "ticker": "JACQUIER-TRAITEMENT-DES-VICTIMES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Eugénie Bastié",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2023-07-01",
+   "contexte": "CNews",
+   "citation": "L'impuissance publique face aux émeutes démontre la crise de souveraineté de l'État sur son territoire.",
+   "ticker": "BASTIE-IMPUISSANCE-PUBLIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Matthieu Valet",
+   "affil": "Europe 1",
+   "fonction": "Syndicaliste policier",
+   "date": "2023-07-01",
+   "contexte": "Europe 1",
+   "citation": "La peur doit revenir dans le camp des voyous et des trafiquants, pas dans celui des policiers.",
+   "ticker": "VALET-CAMP-PEUR",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Europe 1 (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Mathieu Bock-Côté",
+   "affil": "CNews",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2023-07-01",
+   "contexte": "CNews / Europe 1",
+   "citation": "Ce n'est pas un simple problème de banlieue, c'est un problème de décivilisation massive et culturelle.",
+   "ticker": "BOCK-COTE-DECIVILISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "CNews / Europe 1 (URL à compléter)",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 16
   },
   {
    "pole": "Médiatique",
@@ -6131,6 +7679,24 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "BFM TV",
+   "fonction": "Syndicaliste policier",
+   "date": "2023-06-30",
+   "contexte": "BFM TV",
+   "citation": "Nos collègues font face à une impunité totale de mineurs récidivistes sur le terrain au quotidien.",
+   "ticker": "KEBBAB-MINEURS-RECIDIVISTES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "BFM TV (URL à compléter)",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
@@ -6297,6 +7863,103 @@ window.BOURSE = {
    "mots": 24
   },
   {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Eugénie Bastié",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2022-11-15",
+   "contexte": "CNews (Savoir comprendre)",
+   "citation": "Le droit d'asile est devenu une filière d'immigration clandestine massive que la justice protège.",
+   "ticker": "BASTIE-FILIERE-ASILE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (Savoir comprendre) (URL à compléter)",
+   "valeurs": [
+    "JUST",
+    "IMMI"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Ivan Rioufol",
+   "affil": "Le Figaro",
+   "fonction": "Éditorialiste",
+   "date": "2022-10-14",
+   "contexte": "Le Figaro (Bloc-notes)",
+   "citation": "L'immigration de masse alimente, en réaction, la révolution du réel face à l'hégémonie du mensonge.",
+   "ticker": "RIOUFOL-IMMIGRATION-MASSE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Le Figaro (Bloc-notes) (URL à compléter)",
+   "valeurs": [
+    "IMMI",
+    "POLE"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Consigny",
+   "affil": "RMC Story",
+   "fonction": "Éditorialiste",
+   "date": "2022-10-12",
+   "contexte": "RMC Story",
+   "citation": "La France est devenue une passoire sécuritaire parce que la justice sanctionne plus sévèrement les honnêtes gens.",
+   "ticker": "CONSIGNY-PASSOIRE-SECURITAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "RMC Story (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Éric Tegnér",
+   "affil": "Sud Radio",
+   "fonction": "Éditorialiste",
+   "date": "2022-09-14",
+   "contexte": "Sud Radio / L'Incorrect",
+   "citation": "Dire que l'insécurité n'a pas de lien avec l'immigration, c'est du déni ou de la complicité idéologique.",
+   "ticker": "TEGNER-COMPLICITE-IDEOLOGIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Sud Radio / L'Incorrect (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "CNews",
+   "fonction": "Syndicaliste policier",
+   "date": "2022-05-10",
+   "contexte": "CNews",
+   "citation": "Quand les policiers sont attaqués aux mortiers, ce n'est pas un appel au secours, c'est de la haine.",
+   "ticker": "KEBBAB-MORTIERS-ARTIFICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "VIOL",
+    "PEUR"
+   ],
+   "mots": 18
+  },
+  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Éric Zemmour",
@@ -6316,6 +7979,59 @@ window.BOURSE = {
    "mots": 21
   },
   {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Ivan Rioufol",
+   "affil": "CNews",
+   "fonction": "Éditorialiste",
+   "date": "2021-11-18",
+   "contexte": "CNews (L'Heure des Pros)",
+   "citation": "La France subit une colonisation à l'envers et un changement de peuple qui menace notre civilisation.",
+   "ticker": "RIOUFOL-IDENTITE-CIVILISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "CNews (L'Heure des Pros) (URL à compléter)",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Eugénie Bastié",
+   "affil": "Le Figaro",
+   "fonction": "Éditorialiste",
+   "date": "2021-10-20",
+   "contexte": "Le Figaro",
+   "citation": "L’assimilation était le modèle français historique ; le multiculturalisme a cédé la place à la fragmentation identitaire.",
+   "ticker": "BASTIE-MODELE-REPUBLICAIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "Le Figaro (URL à compléter)",
+   "valeurs": [],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Gilles-William Goldnadel",
+   "affil": "Le Figaro Vox",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2021-09-20",
+   "contexte": "Le Figaro Vox",
+   "citation": "Nier le racisme anti-blanc dans certaines agressions urbaines, c’est déjà commencer à l’absoudre idéologiquement.",
+   "ticker": "GOLDNADEL-RACISME-ANTI-BLANC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "Le Figaro Vox (URL à compléter)",
+   "valeurs": [
+    "SECU",
+    "IDEN"
+   ],
+   "mots": 14
+  },
+  {
    "pole": "Politique",
    "famille": "Droite",
    "auteur": "Rachida Dati",
@@ -6332,6 +8048,59 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 26
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charlotte d'Ornellas",
+   "affil": "Valeurs Actuelles",
+   "fonction": "Éditorialiste",
+   "date": "2021-01-14",
+   "contexte": "Valeurs Actuelles",
+   "citation": "Les zones de non-droit ne sont plus une menace future : ce sont des territoires aujourd'hui conquis.",
+   "ticker": "D'ORNELLAS-TERRITOIRES-CONQUIS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "Valeurs Actuelles (URL à compléter)",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Yves Thréard",
+   "affil": "LCI",
+   "fonction": "Éditorialiste",
+   "date": "2020-11-12",
+   "contexte": "LCI (Le Grand Soir)",
+   "citation": "L'islam de France est un leurre ; la République s'est couchée face au communautarisme par lâcheté.",
+   "ticker": "THREARD-COMMUNAUTARISME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "LCI (Le Grand Soir) (URL à compléter)",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "CNews",
+   "fonction": "Essayiste, intellectuel",
+   "date": "2020-10-15",
+   "contexte": "CNews",
+   "citation": "Je n’ai pas parlé de race ni de couleur de peau, mais de la faillite de l'intégration.",
+   "ticker": "ONFRAY-FAILLITE-INTEGRATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "CNews (URL à compléter)",
+   "valeurs": [],
+   "mots": 17
   },
   {
    "pole": "Politique",
@@ -6609,6 +8378,47 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Droite",
+   "auteur": "Philippe Goujon",
+   "affil": "LR",
+   "fonction": "Député de Paris",
+   "date": "2016-02-05",
+   "contexte": "Assemblée nationale, 2e séance du 05/02/2016 — projet de loi constitutionnelle de protection de la Nation (déchéance de nationalité)",
+   "citation": "[…] il est totalement légitime de déchoir de sa nationalité un individu coupable d’actes terroristes, qui a déchiré le lien qui l’attachait à la Nation.",
+   "ticker": "GOUJON-DECHEANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/14/pdf/cri/2015-2016/20160123.pdf",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "PEUR",
+    "POLE",
+    "POPU"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marion Maréchal-Le Pen",
+   "affil": "FN",
+   "fonction": "Députée du Vaucluse",
+   "date": "2016-02-05",
+   "contexte": "Assemblée nationale, 2e séance du 05/02/2016 — projet de loi constitutionnelle de protection de la Nation (déchéance de nationalité)",
+   "citation": "[…] le code civil permet déjà de déchoir de leur nationalité des binationaux nés français.",
+   "ticker": "MARECHAL-DECHEANCE-INUTILE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/14/pdf/cri/2015-2016/20160123.pdf",
+   "valeurs": [
+    "INST",
+    "IMMI"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
    "auteur": "Marine Le Pen",
    "affil": "FN",
    "fonction": "Présidente du Front national",
@@ -6642,6 +8452,43 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Président de la République",
+   "date": "2015-11-16",
+   "contexte": "Discours devant le Parlement réuni en Congrès, Versailles, après les attentats du 13 novembre 2015",
+   "citation": "[…] mesdames, messieurs les parlementaires, la France est en guerre. Les actes commis vendredi soir à Paris et près du Stade de France sont des actes de guerre.",
+   "ticker": "HOLLANDE-FRANCE-EN-GUERRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/14/pdf/cri/congres/20154001.pdf",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Président de la République",
+   "date": "2015-11-16",
+   "contexte": "Discours devant le Parlement réuni en Congrès, Versailles — passage sur le surcroît de dépenses de sécurité",
+   "citation": "Mais dans de telles circonstances, je considère que le pacte de sécurité l’emporte sur le pacte de stabilité.",
+   "ticker": "HOLLANDE-PACTE-SECURITE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.assemblee-nationale.fr/14/pdf/cri/congres/20154001.pdf",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 18
   },
   {
    "pole": "Politique",
@@ -6798,6 +8645,25 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2006-01-03",
+   "contexte": "Vœux au Gouvernement, palais de l’Élysée",
+   "citation": "Mais face au cercle vicieux de la dette, face au risque de voir les frais de fonctionnement évincer les dépenses d'avenir, l'État doit retrouver des marges de manœuvre financières.",
+   "ticker": "CHIRAC-CERCLE-DETTE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.elysee.fr/jacques-chirac/2006/01/03/declaration-de-m-jacques-chirac-president-de-la-republique-sur-les-priorites-de-la-politique-gouvernementale-notamment-lemploi-la-securite-et-les-finances-publiques-a-paris-le-3-janvier-2006",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 29
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
    "auteur": "Nicolas Sarkozy",
    "affil": "UMP (en 2005)",
    "fonction": "Ministre Intérieur",
@@ -6830,6 +8696,68 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "UMP / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2005-11-08",
+   "contexte": "Assemblée nationale, 2e séance du 08/11/2005 — déclaration du Gouvernement sur les violences urbaines (état d’urgence)",
+   "citation": "À tous, je veux dire ici solennellement que l’État sera ferme et juste. […] La République garantira l’ordre public à chacun de nos concitoyens.",
+   "ticker": "VILLEPIN-FERME-JUSTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060053.pdf",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL",
+    "AUTO",
+    "POPU"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Marc Ayrault",
+   "affil": "PS",
+   "fonction": "Député, président du groupe socialiste",
+   "date": "2005-11-08",
+   "contexte": "Assemblée nationale, 2e séance du 08/11/2005 — réponse à la déclaration du Gouvernement sur les violences urbaines",
+   "citation": "L’état d’urgence, mes chers collègues, c’est d’abord l’état d’urgence sociale.",
+   "ticker": "AYRAULT-URGENCE-SOCIALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060053.pdf",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2005-11-06",
+   "contexte": "Déclaration à la suite du Conseil de sécurité intérieure, Paris (émeutes de 2005)",
+   "citation": "Mais il y a un préalable c'est une priorité, je le répète, il s'agit du rétablissement de la sécurité et de l'ordre public.",
+   "ticker": "CHIRAC-ORDRE-PREALABLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/jacques-chirac/2005/11/06/declaration-de-m-jacques-chirac-president-de-la-republique-a-la-suite-du-conseil-de-securite-interieure-a-paris-le-6-novembre-2005",
+   "valeurs": [
+    "SECU",
+    "VIOL",
+    "AUTO"
+   ],
+   "mots": 23
   },
   {
    "pole": "Politique",
