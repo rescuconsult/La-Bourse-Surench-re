@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:28",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX13.xlsx",
+ "maj": "2026-11-07T12:32",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX14.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7090,6 +7090,108 @@ window.BOURSE = {
    ],
    "mots": 19,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "dans une négociation euh il est parfois nécessaire de mentir.",
+   "ticker": "LEMAIRE-MENTIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je n'ai eu que le tort d'avoir eu raison trop tôt sur ce sujet.",
+   "ticker": "LEMAIRE-RAISON-TROP-TOT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "No limites. Voilà la religion américaine aujourd'hui.",
+   "ticker": "LEMAIRE-NO-LIMITES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Sur chaque politique vous avez 15 clampins qui sont responsables que ça ne marche plus.",
+   "ticker": "LEMAIRE-CLAMPINS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "non, il n'y a plus d'État qui fonctionne comme il devrait fonctionner.",
+   "ticker": "LEMAIRE-PLUS-D-ETAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances",
+   "date": "2026-07-08",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "vous avez un état qui ne faisant rien en particulier fait tout mal en général.",
+   "ticker": "LEMAIRE-TOUT-MAL",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/UOeJVA7tZxw",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 15
   },
   {
    "pole": "Politique",
