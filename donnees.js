@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:08",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX42.xlsx",
+ "maj": "2026-11-07T15:11",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX43.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10022,6 +10022,121 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "la question de la dette est souvent aussi convoquée pour empêcher ou justifier des politiques d'austérité",
+   "ticker": "HASSAN-DETTE-AUSTERITE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "ce régime présidentiel vraiment va toujours présenter le président comme le sauveur d'un moment",
+   "ticker": "HASSAN-SAUVEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "quand on est en politique, faut aussi faire preuve d'humilité.",
+   "ticker": "HASSAN-HUMILITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "moi, je me présente pas au présidentiel",
+   "ticker": "HASSAN-PAS-PRESIDENTIELLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "tout le système politique repose justement sur cette mobilisation citoyenne visant à élire ses représentants.",
+   "ticker": "HASSAN-MOBILISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "BUDG"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Rima Hassan",
+   "affil": "LFI",
+   "fonction": "Députée européenne LFI",
+   "date": "2025-09-02",
+   "contexte": "Thinkerview — entretien en direct (dette, démocratie, régime présidentiel)",
+   "citation": "il faut vraiment ouvrir le chantier de la démocratisation de la politique.",
+   "ticker": "HASSAN-DEMOCRATISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/K3UBNnpvxpw",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 12
   },
   {
    "pole": "Politique",
