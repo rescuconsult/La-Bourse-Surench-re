@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:54",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX20.xlsx",
+ "maj": "2026-11-07T12:56",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX21.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -5894,6 +5894,107 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "diaboliser l'adversaire. C'est toujours une forme de de faillite intellectuelle.",
+   "ticker": "TANGUY-DIABOLISER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je le referai parce que c'est un péché véniel mais c'est pas bien.",
+   "ticker": "TANGUY-PECHE-VENIEL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "j'ai une confiance infinie dans la capacité du peuple et des citoyens à choisir leur destin.",
+   "ticker": "TANGUY-PEUPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je suis toujours en train d'interroger les ordres même au parti.",
+   "ticker": "TANGUY-INDISCIPLINE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Où est passé le pognon ?",
+   "ticker": "TANGUY-POGNON",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [],
+   "mots": 5
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Philippe Tanguy",
+   "affil": "RN",
+   "fonction": "Député de la Somme, président délégué du groupe RN",
+   "date": "2026-10-07",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la plus grave déchirure entre les élites françaises et le peuple.",
+   "ticker": "TANGUY-DECHIRURE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/3p0UFTkWBYc",
+   "valeurs": [
+    "POPU",
+    "INDI"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
