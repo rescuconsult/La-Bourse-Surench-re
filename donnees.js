@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T10:53",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX.xlsx",
+ "maj": "2026-11-07T10:55",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX2.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6309,6 +6309,80 @@ window.BOURSE = {
    "source": "CNews",
    "valeurs": [],
    "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Bally Bagayoko",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
+   "date": "2026-03-25",
+   "contexte": "Parole d’Honneur (chaîne YouTube) — police municipale de Saint-Denis",
+   "citation": "Moi, je suis d'abord pour m'attaquer à l'insécurité sociale, mettre des moyens très en amont",
+   "ticker": "BAGAYOKO-INSECURITE-SOCIALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-bQExEhMMEg",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Bally Bagayoko",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
+   "date": "2026-03-25",
+   "contexte": "Parole d’Honneur (chaîne YouTube) — police municipale de Saint-Denis",
+   "citation": "on a été très transparent, on supprime le LBD.",
+   "ticker": "BAGAYOKO-SUPPRESSION-LBD",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-bQExEhMMEg",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Bally Bagayoko",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
+   "date": "2026-03-25",
+   "contexte": "Parole d’Honneur (chaîne YouTube) — police municipale de Saint-Denis",
+   "citation": "Est-ce qu'en faisant ça, je suis antipolice ? Non, je suis juste à un moment donné quelqu'un de responsable, c'est tout.",
+   "ticker": "BAGAYOKO-ANTIPOLICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-bQExEhMMEg",
+   "valeurs": [
+    "SECU",
+    "POLE"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Bally Bagayoko",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
+   "date": "2026-03-25",
+   "contexte": "Parole d’Honneur (chaîne YouTube) — police municipale de Saint-Denis",
+   "citation": "Mais nous, on n'est pas un laboratoire pour défoncer les gens.",
+   "ticker": "BAGAYOKO-LABORATOIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-bQExEhMMEg",
+   "valeurs": [
+    "SECU",
+    "POPU"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
