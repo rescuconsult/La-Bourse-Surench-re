@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:14",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX11.xlsx",
+ "maj": "2026-11-07T12:22",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX12.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -116,7 +116,8 @@ window.BOURSE = {
    "valeurs": [
     "BUDG"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -135,7 +136,8 @@ window.BOURSE = {
     "INST",
     "MANF"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -172,7 +174,8 @@ window.BOURSE = {
    "valeurs": [
     "MANF"
    ],
-   "mots": 28
+   "mots": 28,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -636,7 +639,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://x.com/BFMTV/status/2118069690014535741",
    "valeurs": [],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -859,7 +863,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://x.com/BFMTV/status/2117733676184223750",
    "valeurs": [],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -971,7 +976,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -1294,7 +1300,8 @@ window.BOURSE = {
     "MANF",
     "AUTO"
    ],
-   "mots": 30
+   "mots": 30,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1314,7 +1321,8 @@ window.BOURSE = {
     "AUTO",
     "INDI"
    ],
-   "mots": 25
+   "mots": 25,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1332,7 +1340,8 @@ window.BOURSE = {
    "valeurs": [
     "MANF"
    ],
-   "mots": 22
+   "mots": 22,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -1422,7 +1431,8 @@ window.BOURSE = {
     "SECU",
     "IMMI"
    ],
-   "mots": 13
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1551,7 +1561,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.cnews.fr/france/2026-10-27/trappes-le-rn-demande-des-excuses-publiques-au-monde-apres-une-fausse-information",
    "valeurs": [],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1567,7 +1578,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "20 Minutes",
    "valeurs": [],
-   "mots": 5
+   "mots": 5,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1585,7 +1597,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 19
+   "mots": 19,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1603,7 +1616,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 13
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1641,7 +1655,8 @@ window.BOURSE = {
     "IDEN",
     "INDI"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1660,7 +1675,8 @@ window.BOURSE = {
     "SECU",
     "IMMI"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1699,7 +1715,8 @@ window.BOURSE = {
     "SECU",
     "IMMI"
    ],
-   "mots": 13
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1808,7 +1825,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "Discours Orléans",
    "valeurs": [],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1845,7 +1863,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 3
+   "mots": 3,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1863,7 +1882,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -1897,7 +1917,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.cnews.fr/france/2026-10-24/un-acte-odieux-une-reponse-implacable-la-classe-politique-semeut-apres-la",
    "valeurs": [],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2022,7 +2043,8 @@ window.BOURSE = {
    "valeurs": [
     "ECOL"
    ],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -2238,7 +2260,8 @@ window.BOURSE = {
    "valeurs": [
     "MANF"
    ],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -2272,7 +2295,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 7
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2381,7 +2405,8 @@ window.BOURSE = {
     "SECU",
     "IMMI"
    ],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -2454,7 +2479,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2470,7 +2496,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://lcp.fr/actualites/violences-du-17-octobre-marine-le-pen-et-edouard-philippe-accusent-lfi-jean-luc",
    "valeurs": [],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2508,7 +2535,8 @@ window.BOURSE = {
    "valeurs": [
     "AUTO"
    ],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2543,7 +2571,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "LCP",
    "valeurs": [],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2580,7 +2609,8 @@ window.BOURSE = {
    "valeurs": [
     "MANF"
    ],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2766,7 +2796,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.bfmtv.com/",
    "valeurs": [],
-   "mots": 22
+   "mots": 22,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2898,7 +2929,8 @@ window.BOURSE = {
     "SECU",
     "AUTO"
    ],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2986,7 +3018,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "X",
    "valeurs": [],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -3021,7 +3054,8 @@ window.BOURSE = {
     "MANF",
     "AUTO"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -3387,7 +3421,8 @@ window.BOURSE = {
     "INST",
     "IDEN"
    ],
-   "mots": 22
+   "mots": 22,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -3554,7 +3589,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://x.com/rglucks1/status/2110965460145688671",
    "valeurs": [],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -3713,7 +3749,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -3729,7 +3766,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "France Inter",
    "valeurs": [],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -3787,7 +3825,8 @@ window.BOURSE = {
     "IMMI",
     "PEUR"
    ],
-   "mots": 27
+   "mots": 27,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -3826,7 +3865,8 @@ window.BOURSE = {
     "AUTO",
     "INDI"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -3995,7 +4035,8 @@ window.BOURSE = {
     "SECU",
     "AUTO"
    ],
-   "mots": 25
+   "mots": 25,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4013,7 +4054,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -4176,7 +4218,8 @@ window.BOURSE = {
    "valeurs": [
     "ECOL"
    ],
-   "mots": 17
+   "mots": 17,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4234,7 +4277,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -5148,7 +5192,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "France 3",
    "valeurs": [],
-   "mots": 13
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -5185,7 +5230,8 @@ window.BOURSE = {
    "valeurs": [
     "AUTO"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -5351,7 +5397,8 @@ window.BOURSE = {
     "SECU",
     "PEUR"
    ],
-   "mots": 7
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -5467,7 +5514,8 @@ window.BOURSE = {
     "AUTO",
     "INDI"
    ],
-   "mots": 21
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -5486,7 +5534,8 @@ window.BOURSE = {
     "INST",
     "ECOL"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -5851,7 +5900,8 @@ window.BOURSE = {
    "valeurs": [
     "AUTO"
    ],
-   "mots": 21
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -6046,7 +6096,7 @@ window.BOURSE = {
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "quand on se présente à une élection présidentielle, c'est pas pour faire du cinéma.",
@@ -6057,14 +6107,15 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "Notre richesse, elle a été kidnappée",
@@ -6073,14 +6124,15 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/SxyeRAZNHCc",
    "valeurs": [],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "on se saigne, on meurt, ils nous tiennent par la gorge.",
@@ -6089,14 +6141,15 @@ window.BOURSE = {
    "pilier": "Budget & finances",
    "source": "https://youtu.be/SxyeRAZNHCc",
    "valeurs": [],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "avoir l'objectif d'être un pays sans dette, ça n'existe pas.",
@@ -6107,14 +6160,15 @@ window.BOURSE = {
    "valeurs": [
     "BUDG"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "On sait trouver de l'argent pour produire des armes et on ne sait pas en trouver pour produire ce dont on a besoin.",
@@ -6123,14 +6177,15 @@ window.BOURSE = {
    "pilier": "Budget & finances",
    "source": "https://youtu.be/SxyeRAZNHCc",
    "valeurs": [],
-   "mots": 23
+   "mots": 23,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Fabien Roussel",
    "affil": "PCF",
-   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
    "date": "2026-09-23",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "vouloir la paix c'est pas qu'un slogan c'est une volonté politique.",
@@ -6139,7 +6194,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/SxyeRAZNHCc",
    "valeurs": [],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -6430,7 +6486,8 @@ window.BOURSE = {
     "VIOL",
     "PEUR"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -6646,7 +6703,7 @@ window.BOURSE = {
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "Si je suis à plus de 15 dans les sondages, je suis le prochain président de la République et c'est ça mon objectif.",
@@ -6657,14 +6714,15 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 23
+   "mots": 23,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "Nous sommes un peuple rancunier qui déteste le mépris.",
@@ -6673,14 +6731,15 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/csMzvdSaqC4",
    "valeurs": [],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "j'en ai assez de cette espèce de nostalgie du passé, de cette colère du présent et cette peur de l'avenir.",
@@ -6691,14 +6750,15 @@ window.BOURSE = {
    "valeurs": [
     "PEUR"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "quand je suis candidat pour être président de la République, j'ai 70 millions de patrons.",
@@ -6709,14 +6769,15 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "le premier patrimoine, il est pas économique, il est pas social, il est humain. Il s'appelle la dignité.",
@@ -6725,14 +6786,15 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/csMzvdSaqC4",
    "valeurs": [],
-   "mots": 18
+   "mots": 18,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Karim Bouamrane",
    "affil": "PS",
-   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
    "date": "2026-09-02",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
    "citation": "il n'y a rien dans la sphère publique qui soit au-dessus de la République.",
@@ -6743,7 +6805,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -6802,7 +6865,8 @@ window.BOURSE = {
     "INST",
     "AUTO"
    ],
-   "mots": 21
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6818,7 +6882,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/ZTrufBwLlso",
    "valeurs": [],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6836,7 +6901,8 @@ window.BOURSE = {
    "valeurs": [
     "IMMI"
    ],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6854,7 +6920,8 @@ window.BOURSE = {
    "valeurs": [
     "PEUR"
    ],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6872,7 +6939,8 @@ window.BOURSE = {
    "valeurs": [
     "PEUR"
    ],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6890,7 +6958,8 @@ window.BOURSE = {
    "valeurs": [
     "PEUR"
    ],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -6909,7 +6978,110 @@ window.BOURSE = {
     "INST",
     "PEUR"
    ],
-   "mots": 19
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "L'extrême droite, viscéralement, profondément.",
+   "ticker": "AUTAIN-VISCERAL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 4,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "La gauche aurait pu disparaître en France comme en Italie depuis 2022.",
+   "ticker": "AUTAIN-DISPARITION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on règle nos comptes chaque matin sur Twitter",
+   "ticker": "AUTAIN-TWITTER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Les petits payent petits, les gros payent gros.",
+   "ticker": "AUTAIN-PETITS-GROS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on enverrait la gauche dans le mur à imaginer qu'on est cinq candidatures.",
+   "ticker": "AUTAIN-CINQ-CANDIDATURES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-07-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Il y a personne qui a l'hégémonie.",
+   "ticker": "AUTAIN-HEGEMONIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ay_6ztX0hFM",
+   "valeurs": [],
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -7017,7 +7189,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 7
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7434,7 +7607,8 @@ window.BOURSE = {
     "IMMI",
     "POPU"
    ],
-   "mots": 8
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7452,7 +7626,8 @@ window.BOURSE = {
    "valeurs": [
     "IMMI"
    ],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7615,7 +7790,8 @@ window.BOURSE = {
    "valeurs": [
     "AUTO"
    ],
-   "mots": 13
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7703,7 +7879,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7724,7 +7901,8 @@ window.BOURSE = {
     "ECOL",
     "AUTO"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7781,7 +7959,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8003,7 +8182,8 @@ window.BOURSE = {
    "valeurs": [
     "JUST"
    ],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8188,7 +8368,8 @@ window.BOURSE = {
    "hof": {
     "prix": "Arrogance",
     "medaille": "Argent"
-   }
+   },
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8226,7 +8407,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8331,7 +8513,8 @@ window.BOURSE = {
     "IDEN",
     "PEUR"
    ],
-   "mots": 17
+   "mots": 17,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8409,7 +8592,8 @@ window.BOURSE = {
     "VIOL",
     "IDEN"
    ],
-   "mots": 17
+   "mots": 17,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8540,7 +8724,8 @@ window.BOURSE = {
    "hof": {
     "prix": "Classique",
     "medaille": ""
-   }
+   },
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",

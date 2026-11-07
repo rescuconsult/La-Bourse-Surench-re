@@ -578,6 +578,7 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
       <div class="filtres">
         <div class="rang" id="f-pole" role="group" aria-label="Pôle"></div>
         <div class="rang" id="f-pilier" role="group" aria-label="Pilier"></div>
+        <div class="rang" id="f-candidat" role="group" aria-label="Candidats à l'élection présidentielle"></div>
         <div class="rang">
           <label class="label" for="q" hidden>Rechercher</label>
           <input class="recherche" id="q" type="search" placeholder="Rechercher un nom, un mot, un ticker…">
@@ -751,8 +752,8 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
   function quinq(d){for(var i=0;i<ERES.length;i++){if(d>=ERES[i].de&&d<ERES[i].a)return ERES[i].k}return 'av'}
 
   /* --- Filtres --- */
-  var etat = {pole:'Tous', pilier:'Tous', q:'', periode:'tout', tri:'recent', n:30};
-  try{ var s=JSON.parse(localStorage.getItem('bourse-filtres')||'null'); if(s){etat.pole=s.pole||'Tous';etat.pilier=s.pilier||'Tous'} }catch(e){}
+  var etat = {pole:'Tous', pilier:'Tous', candidat:'Tous', q:'', periode:'tout', tri:'recent', n:30};
+  try{ var s=JSON.parse(localStorage.getItem('bourse-filtres')||'null'); if(s){etat.pole=s.pole||'Tous';etat.pilier=s.pilier||'Tous';etat.candidat=s.candidat||'Tous'} }catch(e){}
   function chips(id,cle,valeurs){
     var cpt=compte(C,cle);
     var html=['Tous'].concat(valeurs).map(function(v){
@@ -763,12 +764,13 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
   }
   chips('#f-pole','pole',['Politique','Médiatique','Experts & invités']);
   chips('#f-pilier','pilier',['Tranquillité publique','Citoyenneté & civisme','Budget & finances']);
+  chips('#f-candidat','candidat',['Candidats 2027']);
   document.querySelectorAll('.filtres').forEach(function(f){
     f.addEventListener('click',function(e){
       var b=e.target.closest('.chip'); if(!b)return;
       etat[b.dataset.k]=b.dataset.v; etat.n=30;
       b.parentNode.querySelectorAll('.chip').forEach(function(c){c.setAttribute('aria-pressed',c===b)});
-      try{localStorage.setItem('bourse-filtres',JSON.stringify({pole:etat.pole,pilier:etat.pilier}))}catch(e){}
+      try{localStorage.setItem('bourse-filtres',JSON.stringify({pole:etat.pole,pilier:etat.pilier,candidat:etat.candidat}))}catch(e){}
       rendre(true);
     });
   });
@@ -782,6 +784,7 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
     var r=C.filter(function(x){
       if(etat.pole!=='Tous'&&x.pole!==etat.pole)return false;
       if(etat.pilier!=='Tous'&&x.pilier!==etat.pilier)return false;
+      if(etat.candidat!=='Tous'&&x.candidat!==etat.candidat)return false;
       if(etat.periode!=='tout'&&quinq(x.date)!==etat.periode)return false;
       if(etat.q){var t=(x.auteur+' '+x.citation+' '+x.ticker+' '+x.affil+' '+x.contexte).toLowerCase(); if(t.indexOf(etat.q)<0)return false}
       return true;
@@ -802,7 +805,7 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
     var html = vue.map(function(x,i){
       var anim = (!calme && i>=debut) ? ' entre" style="animation-delay:'+Math.min((i-debut)*35,700)+'ms' : '';
       return '<article class="ligne'+anim+'" tabindex="0" data-auteur="'+esc(x.auteur)+'">'+
-        '<div class="tk">'+esc(x.ticker)+'<small>'+esc(x.pole)+' · '+esc(x.pilier)+'</small></div>'+
+        '<div class="tk">'+esc(x.ticker)+'<small>'+esc(x.pole)+' · '+esc(x.pilier)+(x.candidat?' · Présidentielle 2027':'')+'</small></div>'+
         '<div class="cit"><q>'+esc(x.citation)+'</q><div class="qui"><strong>'+esc(x.auteur)+'</strong>'+(x.affil?' · '+esc(x.affil):'')+(x.contexte?' · '+esc(x.contexte):'')+'</div></div>'+
         '<div class="meta">'+dateFr(x.date)+'<br>'+x.mots+' mots<br><span class="statut">▲ Coté</span>'+boutonsPartage(x)+'</div></article>';
     }).join('');
