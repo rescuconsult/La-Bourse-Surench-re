@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:24",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX48.xlsx",
+ "maj": "2026-11-07T15:26",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX49.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11276,6 +11276,106 @@ window.BOURSE = {
     "SECU"
    ],
    "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique) — à propos du poste de haut-commissaire",
+   "citation": "il est très facile de devenir célèbre, il suffit d'être le deuxième à se faire virer pour des raisons politiques",
+   "ticker": "BRECHET-CELEBRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique)",
+   "citation": "comme toutes les institutions bien structurées, elle a une capacité d'enfumage qui est pas du tout négligeable",
+   "ticker": "BRECHET-ENFUMAGE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique) — à propos de son pays et de sa démission",
+   "citation": "qu'on le voit systématiquement prendre toutes les décisions stupides qu'on pourrait parfaitement éviter, un moment vous dites ça suffit",
+   "ticker": "BRECHET-CA-SUFFIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique)",
+   "citation": "c'est de la stupidité, c'est de l'incompétence ou c'est de la forfaiture",
+   "ticker": "BRECHET-FORFAITURE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique)",
+   "citation": "quand le discours n'est pas cohérent et ne conduit pas une action, la parole n'engage plus",
+   "ticker": "BRECHET-PAROLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Yves Bréchet",
+   "affil": "Académie des sciences",
+   "fonction": "Scientifique (science des matériaux), ancien haut-commissaire à l'énergie atomique",
+   "date": "2023-04-10",
+   "contexte": "Thinkerview — entretien (énergie, nucléaire, expertise et décision politique)",
+   "citation": "on va se retrouver comme parc d'attraction pour touristes asiatiques",
+   "ticker": "BRECHET-PARC-ATTRACTION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/1VIJn67HpaU",
+   "valeurs": [],
+   "mots": 10
   },
   {
    "pole": "Experts & invités",
