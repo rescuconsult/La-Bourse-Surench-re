@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:53",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX35.xlsx",
+ "maj": "2026-11-07T14:56",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX36.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11013,6 +11013,115 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/du-pognon-de-dingue-a-la-responsabilisation-des-personnes-le-double-langage-d",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "La Constitution, c'est pas un texte joli, c'est un texte politique.",
+   "ticker": "CHOUARD-TEXTE-POLITIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "Les élus, en 1789, ont mis en place un régime qui s'appelle “le gouvernement représentatif” qui est une anti-démocratie.",
+   "ticker": "CHOUARD-ANTI-DEMOCRATIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "les Parlementaires quand ils écrivent la Constitution, les Ministres quand ils écrivent la Constitution, les pouvoirs quand ils écrivent la Constitution, sont en conflit d'intérêt !",
+   "ticker": "CHOUARD-CONFLIT-INTERET",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "La vraie démocratie, c'est l'anarchie, en fait.",
+   "ticker": "CHOUARD-ANARCHIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "Le peuple doit créer lui-même la monnaie dont il a besoin !",
+   "ticker": "CHOUARD-MONNAIE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Étienne Chouard",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Enseignant, militant du tirage au sort et des ateliers constituants",
+   "date": "2017-08-04",
+   "contexte": "Thinkerview — entretien en direct (démocratie, Constitution, création monétaire)",
+   "citation": "ce qui est écrit dans la Constitution, c'est une absence : nous ne sommes pas dans la Constitution.",
+   "ticker": "CHOUARD-ABSENCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/DROqR_7EKvs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
   },
   {
    "pole": "Politique",
