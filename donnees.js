@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:38",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX18.xlsx",
+ "maj": "2026-11-07T12:42",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_orthographe.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -74,7 +74,7 @@ window.BOURSE = {
    "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
    "date": "2026-11-06",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
-   "citation": "sans kalashnikov on n'est pas grand-chose sur ce marché",
+   "citation": "sans kalachnikov on n'est pas grand-chose sur ce marché",
    "ticker": "PLOQUIN-KALASHNIKOV",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
@@ -1023,7 +1023,7 @@ window.BOURSE = {
    "fonction": "Ancienne ministre, ancienne candidate à la présidentielle",
    "date": "2026-11-03",
    "contexte": "Post X après un débat sur BFMTV (expression « issus de l’immigration », mobilisation lycéenne)",
-   "citation": "quand un médecin a l’hôpital, parmi les 6000 « issus de l’immigration» va vous soigner, vous allez lui demander la permission ?",
+   "citation": "quand un médecin à l’hôpital, parmi les 6000 « issus de l’immigration» va vous soigner, vous allez lui demander la permission ?",
    "ticker": "ROYAL-MEDECIN-PERMISSION",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -1310,7 +1310,7 @@ window.BOURSE = {
    "fonction": "Eurodéputée",
    "date": "2026-11-02",
    "contexte": "franceinfo (canal 16) — sur les propos d’Édouard Philippe à propos des pilleurs",
-   "citation": "Il y a un monde entre dire 'la majorité des pilleurs est issue de l'immigration', comme le fait Edouard Philippe […] et ce que dit l'extrême droite raciste",
+   "citation": "Il y a un monde entre dire 'la majorité des pilleurs est issue de l'immigration', comme le fait Édouard Philippe […] et ce que dit l'extrême droite raciste",
    "ticker": "LOISEAU-UN-MONDE-ENTRE",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -1698,7 +1698,7 @@ window.BOURSE = {
    "fonction": "Candidat à l’élection présidentielle 2027",
    "date": "2026-10-27",
    "contexte": "Les Mardis de l’Essec, retour sur la perquisition de 2018",
-   "citation": "Je ne lui dis pas 'la République c'est moi' au sens du Roi soleil qui dit 'l'Etat c'est moi'",
+   "citation": "Je ne lui dis pas 'la République c'est moi' au sens du Roi-Soleil qui dit 'l'État c'est moi'",
    "ticker": "MELENCHON-PAS-ROI-SOLEIL",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -1706,7 +1706,7 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 19,
+   "mots": 18,
    "candidat": "Candidats 2027"
   },
   {
@@ -2923,26 +2923,6 @@ window.BOURSE = {
    "source": "https://www.bfmtv.com/",
    "valeurs": [],
    "mots": 20
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Marc Pena",
-   "affil": "Socialiste / Député",
-   "fonction": "Député",
-   "date": "2026-10-17",
-   "contexte": "Assemblée Nationale",
-   "citation": "Les 11 jeunes arrestations hier ont tous été relâchés pour défaut de motifs. Pourrait-il que la police devienne un problème pour la justice ?",
-   "ticker": "PENA-POLICE-JUSTICE",
-   "categorie": "Institutions & Répression",
-   "pilier": "Tranquillité publique",
-   "source": "https://www.assemblee-nationale.fr/",
-   "valeurs": [
-    "SECU",
-    "INST",
-    "JUST"
-   ],
-   "mots": 23
   },
   {
    "pole": "Politique",
@@ -4470,7 +4450,7 @@ window.BOURSE = {
    "fonction": "Journaliste / Présentatrice",
    "date": "2026-10-14",
    "contexte": "Apolline Matin - RMC / BFMTV",
-   "citation": "Les Français demandent des actes et des sanctions immédiates, pas encore une énième commission théodule !",
+   "citation": "Les Français demandent des actes et des sanctions immédiates, pas encore une énième commission Théodule !",
    "ticker": "SANCTIONS-IMMEDIATES",
    "categorie": "Ordre public & sécurité",
    "pilier": "Tranquillité publique",
@@ -4529,7 +4509,7 @@ window.BOURSE = {
    "fonction": "Grands reporters",
    "date": "2026-10-14",
    "contexte": "France Inter / X (Marc Endeweld)",
-   "citation": "Depuis plus d’une décennie, des puissances financières et médiatiques oeuvrent pour faire basculer la France dans un régime illibéral, convaincre les Français de donner le pouvoir à l’extrême droite",
+   "citation": "Depuis plus d’une décennie, des puissances financières et médiatiques œuvrent pour faire basculer la France dans un régime illibéral, convaincre les Français de donner le pouvoir à l’extrême droite",
    "ticker": "REGIME-ILLIBERAL",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -5481,7 +5461,7 @@ window.BOURSE = {
    "fonction": "Éditorialiste / Analyste",
    "date": "2026-10-11",
    "contexte": "X / Analyse politique",
-   "citation": "Le tout-sécuritaire est devenu l’alpha et l’omega d’un personnel politique en panne de vision sociale.",
+   "citation": "Le tout-sécuritaire est devenu l’alpha et l’oméga d’un personnel politique en panne de vision sociale.",
    "ticker": "TOUT-SECURITAIRE",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -6058,7 +6038,7 @@ window.BOURSE = {
    "fonction": "Ancien ministre",
    "date": "2026-09-30",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "Vous êtes tous dingues. Vous êtes shooté à la monarchie.",
+   "citation": "Vous êtes tous dingues. Vous êtes shootés à la monarchie.",
    "ticker": "BORLOO-SHOOTE-MONARCHIE",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -6439,7 +6419,7 @@ window.BOURSE = {
    "fonction": "Députée de Mayotte (1re circonscription)",
    "date": "2026-09-16",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
-   "citation": "je pense qu'il faut appeler l'OMS. Ah, c'est une épidémie de de candidat à la présidentielle.",
+   "citation": "je pense qu'il faut appeler l'OMS. Ah, c'est une épidémie de de candidats à la présidentielle.",
    "ticker": "YOUSSOUFA-EPIDEMIE-CANDIDATS",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -6577,28 +6557,6 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 15
-  },
-  {
-   "pole": "Politique",
-   "famille": "Centre & exécutif",
-   "auteur": "Gabriel Attal",
-   "affil": "Renaissance / Député",
-   "fonction": "Président de groupe parlementaire",
-   "date": "2026-09-10",
-   "contexte": "Rentrée politique Renaissance",
-   "citation": "La République ne doit trembler ni devant les casseurs, ni devant ceux qui cherchent à border le chaos dans l’hémicycle.",
-   "ticker": "BORDER-CHAOS",
-   "categorie": "Ordre public & sécurité",
-   "pilier": "Tranquillité publique",
-   "source": "BFMTV / Le Figaro",
-   "valeurs": [
-    "SECU",
-    "INST",
-    "VIOL",
-    "PEUR"
-   ],
-   "mots": 20,
-   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -7132,7 +7090,7 @@ window.BOURSE = {
    "fonction": "Ancien ministre de l'Économie et des Finances",
    "date": "2026-07-08",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "No limites. Voilà la religion américaine aujourd'hui.",
+   "citation": "No limits. Voilà la religion américaine aujourd'hui.",
    "ticker": "LEMAIRE-NO-LIMITES",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -7184,7 +7142,7 @@ window.BOURSE = {
    "fonction": "Ancien ministre de l'Économie et des Finances",
    "date": "2026-07-08",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "vous avez un état qui ne faisant rien en particulier fait tout mal en général.",
+   "citation": "vous avez un État qui ne faisant rien en particulier fait tout mal en général.",
    "ticker": "LEMAIRE-TOUT-MAL",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
@@ -7323,7 +7281,7 @@ window.BOURSE = {
    "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
    "date": "2026-05-15",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
-   "citation": "le système leur permet d'être raciste à ces policiers.",
+   "citation": "le système leur permet d'être racistes à ces policiers.",
    "ticker": "SEYDIBA-SYSTEME",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -7511,7 +7469,7 @@ window.BOURSE = {
    "fonction": "Députée de la 8e circonscription des Français établis hors de France",
    "date": "2026-04-29",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
-   "citation": "les juifs en France aujourd'hui ont leur bagage imaginaire dans l'entrée",
+   "citation": "les Juifs en France aujourd'hui ont leur bagage imaginaire dans l'entrée",
    "ticker": "YADAN-BAGAGE",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -7663,7 +7621,7 @@ window.BOURSE = {
    "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
    "date": "2026-04-15",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "la tortue Herman est moins stupide que l'agent qui nous dit cela",
+   "citation": "la tortue Hermann est moins stupide que l'agent qui nous dit cela",
    "ticker": "LISNARD-TORTUE",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -7747,6 +7705,108 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "On peut pas dire à la fois la politique c'est des tweets et se plaindre quand il y a du fond.",
+   "ticker": "BEAUNE-TWEETS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je connais pas de ministres qui demandent spontanément à ne plus l'être.",
+   "ticker": "BEAUNE-MINISTRES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "si on en dégoûte tout le monde, on se retrouve avec les pires.",
+   "ticker": "BEAUNE-LES-PIRES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on attend tellement d'un président qu'on est toujours déçu.",
+   "ticker": "BEAUNE-DECU",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on n'a pas la culture du compromis et de la responsabilité partagée",
+   "ticker": "BEAUNE-COMPROMIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Clément Beaune",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Haut-commissaire au Plan, ancien ministre",
+   "date": "2026-04-01",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "faire reculer l'extrême droite, vous le décrétez pas.",
+   "ticker": "BEAUNE-DECRETER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nEvxosp8Frs",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Bally Bagayoko",
    "affil": "LFI",
@@ -7771,13 +7831,14 @@ window.BOURSE = {
    "fonction": "Maire de Saint-Denis",
    "date": "2026-03-25",
    "contexte": "Parole d’Honneur (chaîne YouTube) — police municipale de Saint-Denis",
-   "citation": "on a été très transparent, on supprime le LBD.",
+   "citation": "on a été très transparents, on supprime le LBD.",
    "ticker": "BAGAYOKO-SUPPRESSION-LBD",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/-bQExEhMMEg",
    "valeurs": [
-    "SECU"
+    "SECU",
+    "ECOL"
    ],
    "mots": 9
   },
@@ -8016,7 +8077,7 @@ window.BOURSE = {
    "fonction": "Député de l’Essonne",
    "date": "2025-12-08",
    "contexte": "RMC, Les Grandes Gueules (extrait vidéo YouTube)",
-   "citation": "faut pas arrêter de poursuivre les délinquants, faut arrêter de faire des courses poursuites",
+   "citation": "faut pas arrêter de poursuivre les délinquants, faut arrêter de faire des courses-poursuites",
    "ticker": "LEAUMENT-COURSES-POURSUITES",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
@@ -8024,7 +8085,7 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 14
+   "mots": 13
   },
   {
    "pole": "Politique",
@@ -8337,7 +8398,7 @@ window.BOURSE = {
    "fonction": "Président du groupe PS à l’Assemblée",
    "date": "2025-01-28",
    "contexte": "Questions au gouvernement, réponse aux propos sur la « submersion »",
-   "citation": "A gouverner avec les préjugés de l’extrême droite, nous finirons par être gouvernés par l’extrême droite",
+   "citation": "À gouverner avec les préjugés de l’extrême droite, nous finirons par être gouvernés par l’extrême droite",
    "ticker": "VALLAUD-PREJUGES",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
@@ -9682,7 +9743,7 @@ window.BOURSE = {
    "fonction": "Ministre Intérieur",
    "date": "2005-06-19",
    "contexte": "La Courneuve",
-   "citation": "Dès demain, on va nettoyer au Karcher la cité.",
+   "citation": "Dès demain, on va nettoyer au Kärcher la cité.",
    "ticker": "SARKO-05",
    "categorie": "Hall of Fame",
    "pilier": "Tranquillité publique",
