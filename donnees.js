@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:05",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX8.xlsx",
+ "maj": "2026-11-07T12:09",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX9.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6449,6 +6449,104 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Parce que la gauche française, elle est blanche.",
+   "ticker": "DRAY-GAUCHE-BLANCHE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la prison, la prison, la prison en pensant que c'est la recette miracle",
+   "ticker": "DRAY-PRISON",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la punition, ça fait partie de notre de notre ADN.",
+   "ticker": "DRAY-PUNITION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Ils ont un pétard et le pétard a pris. Puis maintenant, on ne parle plus que de ça.",
+   "ticker": "DRAY-PETARD",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "sur le marché il y a pas grand-chose hein de qualité.",
+   "ticker": "DRAY-MARCHE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Julien Dray",
+   "affil": "Ex-député PS",
+   "fonction": "Ancien député PS, chroniqueur",
+   "date": "2026-09-09",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "tout le monde est candidat en se levant le matin",
+   "ticker": "DRAY-CANDIDATS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi9RqJMV9uk",
+   "valeurs": [],
+   "mots": 10
   },
   {
    "pole": "Médiatique",
