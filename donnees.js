@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:40",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX55.xlsx",
+ "maj": "2026-11-07T15:42",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX56.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10060,6 +10060,118 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "je ne peux pas vous empêcher de larguer Mayotte et de nous abandonner, mais par contre, on va pas crever en silence.",
+   "ticker": "YOUSSOUFFA-CREVER-SILENCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "on n'accède pas à nos droits humains, on n'accède pas à l'égalité républicaine.",
+   "ticker": "YOUSSOUFFA-EGALITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "C'est pas les Russes qui ont coupé l'eau à Mayotte, c'est la France qui a pas investi pour qu'on ait de l'eau dans des territoires français.",
+   "ticker": "YOUSSOUFFA-EAU",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "si vous dites ben en fait vous êtes français mais peut-être pas ou alors c'était un CDD, c'est quand même extrêmement grave.",
+   "ticker": "YOUSSOUFFA-CDD",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST",
+    "POLE",
+    "INDI"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "j'ai jamais entendu dans les discours quand il y avait des problèmes de corruption à Marseille, à Lyon ou à Paris, on va vous couper l'eau.",
+   "ticker": "YOUSSOUFFA-CORRUPTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2025-11-24",
+   "contexte": "Thinkerview — entretien en direct (Mayotte, reconstruction, égalité républicaine)",
+   "citation": "Ma seule capacité, c'est de porter la voix de mes concitoyens",
+   "ticker": "YOUSSOUFFA-VOIX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/LRnJeLC8EI8",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
