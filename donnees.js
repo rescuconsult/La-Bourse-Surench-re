@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:34",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX26.xlsx",
+ "maj": "2026-11-07T14:36",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX27.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8713,6 +8713,108 @@ window.BOURSE = {
    "source": "https://youtu.be/KhRS7Wz3lc4",
    "valeurs": [],
    "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "Ben, jusqu'à ce que je vous le dise.",
+   "ticker": "DATI-JUSQUA-QUAND",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "Une ville avec plus de 40 % de logements sociaux, c'est plus une ville, c'est un ghetto.",
+   "ticker": "DATI-GHETTO",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "La gauche se gargarise de la mixité. Elle a transformé des quartiers entiers en ghetto.",
+   "ticker": "DATI-MIXITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "Paris c'est pas Londres.",
+   "ticker": "DATI-LONDRES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [],
+   "mots": 4
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "rouvrir les voies sur berge, c'est une hérésie.",
+   "ticker": "DATI-VOIES-SUR-BERGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Rachida Dati",
+   "affil": "LR",
+   "fonction": "Ministre de la Culture, maire du 7e arrondissement, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "Il faut être inventif et créatif quand vous êtes maire.",
+   "ticker": "DATI-INVENTIF",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gdA5dGAWtqk",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 10
   },
   {
    "pole": "Politique",
