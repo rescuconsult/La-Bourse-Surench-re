@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:37",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX17.xlsx",
+ "maj": "2026-11-07T12:38",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX18.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -4779,7 +4779,8 @@ window.BOURSE = {
    "valeurs": [
     "JUST"
    ],
-   "mots": 6
+   "mots": 6,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7619,6 +7620,114 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "je mens pas, je mens que par omission.",
+   "ticker": "LISNARD-OMISSION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on a les meilleurs ingénieurs, mais on a les les bureaucrates les les plus fous et les politiques les plus soumis.",
+   "ticker": "LISNARD-BUREAUCRATES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la tortue Herman est moins stupide que l'agent qui nous dit cela",
+   "ticker": "LISNARD-TORTUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "si vous voulez plus de policiers, plus d'infirmières, plus de des des profs mieux payés et cetera, il faut qu'il y ait moins de bureaucrates.",
+   "ticker": "LISNARD-MOINS-BUREAUCRATES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [
+    "SECU",
+    "POLE"
+   ],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "le déclassement de l'école, c'est le plus grave problème du pays.",
+   "ticker": "LISNARD-ECOLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [
+    "ECOL",
+    "INDI"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
+   "date": "2026-04-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "ce qu'on appelle la carte scolaire est la plus grosse trappe à pauvreté",
+   "ticker": "LISNARD-CARTE-SCOLAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/mTXT5_TP2v8",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
