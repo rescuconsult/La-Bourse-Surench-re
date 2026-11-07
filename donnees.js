@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:51",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX34.xlsx",
+ "maj": "2026-11-07T14:53",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX35.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6206,6 +6206,104 @@ window.BOURSE = {
     "INDI"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "citation": "l'audiovisuel public est au fond une sorte de magistère moral.",
+   "ticker": "ALLONCLE-MAGISTERE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "citation": "Dans une démocratie normale, en fait, tout ça se fait simplement avec des gens qui font preuve de probité.",
+   "ticker": "ALLONCLE-PROBITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "citation": "on est enfermé de plus en plus dans une sorte de confort idéologique.",
+   "ticker": "ALLONCLE-CONFORT-IDEO",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "citation": "L'audiovisuel public dans ce monde qui se polarise, qui s'archipélise, […] devrait se dire “Ma mission doit être le pluralisme à tout prix.",
+   "ticker": "ALLONCLE-PLURALISME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public — question : quelle proposition de loi avant la fin du mandat",
+   "citation": "Si j'en avais une, ce serait de déposséder une partie de cette représentation nationale qui détourne les intérêts des Français pour redonner vraiment le pouvoir au peuple.",
+   "ticker": "ALLONCLE-DEPOSSEDER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Charles Alloncle",
+   "affil": "UDR",
+   "fonction": "Député de l'Hérault, rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "date": "2026-10-07",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — rapporteur de la commission d'enquête sur l'audiovisuel public",
+   "citation": "je suis pas un obsédé, je suis pas en mission, je suis pas en croisade",
+   "ticker": "ALLONCLE-CROISADE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/jfTgi0D2i4g",
+   "valeurs": [],
+   "mots": 15
   },
   {
    "pole": "Politique",
