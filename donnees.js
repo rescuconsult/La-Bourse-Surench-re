@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:43",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX31.xlsx",
+ "maj": "2026-11-07T14:44",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX32.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9230,6 +9230,117 @@ window.BOURSE = {
    "source": "https://youtu.be/7MCrykSJGJw",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Amine Kessaci",
+   "affil": "Association Conscience (Marseille)",
+   "fonction": "Militant contre le narcotrafic, président de l'association Conscience",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "Aujourd'hui, c'est une lutte à mort qui est engagée.",
+   "ticker": "KESSACI-LUTTE-A-MORT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Amine Kessaci",
+   "affil": "Association Conscience (Marseille)",
+   "fonction": "Militant contre le narcotrafic, président de l'association Conscience",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "dans cette guerre de la drogue, je le dis, on s'est trompé d'ennemis.",
+   "ticker": "KESSACI-ENNEMIS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Amine Kessaci",
+   "affil": "Association Conscience (Marseille)",
+   "fonction": "Militant contre le narcotrafic, président de l'association Conscience",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "on n'est pas capable d'aller attraper les têtes de réseau qui sont à Dubaï […] mais par contre on est capable de venir punir des mamans toutes seules",
+   "ticker": "KESSACI-TETES-DE-RESEAU",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU",
+    "AUTO"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Fanta Macalou",
+   "affil": "Association Femmes solidaires (Villeneuve-Saint-Georges)",
+   "fonction": "Présidente de Femmes solidaires Villeneuve-Saint-Georges (« brigade des daronnes »)",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "Nous avons quitté nos pays. C'est pas pour faire du mal à la France.",
+   "ticker": "MACALOU-NOS-PAYS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Fanta Macalou",
+   "affil": "Association Femmes solidaires (Villeneuve-Saint-Georges)",
+   "fonction": "Présidente de Femmes solidaires Villeneuve-Saint-Georges (« brigade des daronnes »)",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "À Villeneuve aujourd'hui, les mamans ont gagné le terrain.",
+   "ticker": "MACALOU-TERRAIN",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Fanta Macalou",
+   "affil": "Association Femmes solidaires (Villeneuve-Saint-Georges)",
+   "fonction": "Présidente de Femmes solidaires Villeneuve-Saint-Georges (« brigade des daronnes »)",
+   "date": "2026-02-11",
+   "contexte": "Bourdin Media — débat sur la lutte contre le narcotrafic (Amine Kessaci et Fanta Macalou)",
+   "citation": "quand il y a un problème, quelque part, il y a une solution. S'il y a pas de solution, ça veut dire qu'il y a pas de problème.",
+   "ticker": "MACALOU-SOLUTION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gSGgvyuVThA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 28
   },
   {
    "pole": "Politique",
