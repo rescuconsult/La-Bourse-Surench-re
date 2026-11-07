@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:36",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX27.xlsx",
+ "maj": "2026-11-07T14:38",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX28.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8815,6 +8815,106 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "La seule chose qu'il y a d'extrême, c'est le bon sens. Je suis extrêmement de bon sens.",
+   "ticker": "KNAFO-BON-SENS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "J'ai été la dernière à me présenter et pourtant grand paradoxe, j'ai été la première à sortir un programme.",
+   "ticker": "KNAFO-PREMIERE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "je suis la seule à pouvoir vous le dire.",
+   "ticker": "KNAFO-LA-SEULE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "J'aime les interviews musclées. Faites-vous plaisir.",
+   "ticker": "KNAFO-MUSCLEES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "Je vais arrêter les flatteries maintenant, il faut commencer quelque part.",
+   "ticker": "KNAFO-FLATTERIES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête, candidate à la mairie de Paris",
+   "date": "2026-02-27",
+   "contexte": "Bourdin Media — grand oral des candidats à la mairie de Paris, questions du public (YouTube/Twitch)",
+   "citation": "les enfants c'est la prunelle de nos yeux.",
+   "ticker": "KNAFO-PRUNELLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2DxeoQoo6o8",
+   "valeurs": [],
+   "mots": 8
   },
   {
    "pole": "Politique",
