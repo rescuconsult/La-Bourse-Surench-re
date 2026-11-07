@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T11:46",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX6.xlsx",
+ "maj": "2026-11-07T12:05",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX8.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6042,6 +6042,106 @@ window.BOURSE = {
    "mots": 15
   },
   {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "quand on se présente à une élection présidentielle, c'est pas pour faire du cinéma.",
+   "ticker": "ROUSSEL-CINEMA",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Notre richesse, elle a été kidnappée",
+   "ticker": "ROUSSEL-RICHESSE-KIDNAPPEE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on se saigne, on meurt, ils nous tiennent par la gorge.",
+   "ticker": "ROUSSEL-GORGE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "avoir l'objectif d'être un pays sans dette, ça n'existe pas.",
+   "ticker": "ROUSSEL-DETTE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "On sait trouver de l'argent pour produire des armes et on ne sait pas en trouver pour produire ce dont on a besoin.",
+   "ticker": "ROUSSEL-ARMES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux",
+   "date": "2026-09-23",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "vouloir la paix c'est pas qu'un slogan c'est une volonté politique.",
+   "ticker": "ROUSSEL-PAIX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SxyeRAZNHCc",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
    "pole": "Médiatique",
    "famille": null,
    "auteur": "Mathieu Bock-Côté",
@@ -6115,6 +6215,106 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "Je pense que l'État favorise le pourrissement de la situation.",
+   "ticker": "YOUSSOUFA-POURRISSEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "Mayotte a tellement accueilli qu'elle ne peut plus accueillir.",
+   "ticker": "YOUSSOUFA-ACCUEIL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "c'est un envahissement de la France par la Russie.",
+   "ticker": "YOUSSOUFA-ENVAHISSEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "je pense qu'il faut appeler l'OMS. Ah, c'est une épidémie de de candidat à la présidentielle.",
+   "ticker": "YOUSSOUFA-EPIDEMIE-CANDIDATS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "il ne nous reste pour les politiques que le verbe et en fait on ne peut que décevoir.",
+   "ticker": "YOUSSOUFA-VERBE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Estelle Youssoufa",
+   "affil": "LIOT",
+   "fonction": "Députée de Mayotte (1re circonscription)",
+   "date": "2026-09-16",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
+   "citation": "je suis absolument rétive à toute autorité.",
+   "ticker": "YOUSSOUFA-RETIVE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/dhenF5obLVs",
+   "valeurs": [
+    "AUTO"
+   ],
+   "mots": 7
   },
   {
    "pole": "Médiatique",
