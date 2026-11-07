@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:36",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX16.xlsx",
+ "maj": "2026-11-07T12:37",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX17.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7519,6 +7519,106 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "Il n'y a que des hommes autour de la table. Il n'y a que des hommes en photo.",
+   "ticker": "BRAUNPIVET-HOMMES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "La France est très en retard.",
+   "ticker": "BRAUNPIVET-RETARD",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "Je vais pas faire la féministe à deux balles, mais est-ce que vous la posez à un homme cette question de la compétence ?",
+   "ticker": "BRAUNPIVET-DEUX-BALLES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "il faut que les femmes osent et il faut aussi que les hommes leur laissent un peu de place.",
+   "ticker": "BRAUNPIVET-OSER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "la question de la capacité des femmes ne se pose absolument plus aujourd'hui.",
+   "ticker": "BRAUNPIVET-CAPACITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Yaël Braun-Pivet",
+   "affil": "Renaissance",
+   "fonction": "Présidente de l'Assemblée nationale",
+   "date": "2026-04-22",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — place des femmes en politique",
+   "citation": "notre premier combat c'est pour la République.",
+   "ticker": "BRAUNPIVET-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZWsiuOwwDOE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 7
   },
   {
    "pole": "Experts & invités",
