@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T11:01",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX4.xlsx",
+ "maj": "2026-11-07T10:56",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX3.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1916,76 +1916,6 @@ window.BOURSE = {
     "MANF"
    ],
    "mots": 9
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Ali Rabeh",
-   "affil": "Génération.s",
-   "fonction": "Maire de Trappes",
-   "date": "2026-10-23",
-   "contexte": "BFMTV (extrait vidéo YouTube) — après l’attentat visant la mosquée de La Verrière",
-   "citation": "j'aimerais que dans notre débat politique et médiatique, on soit capable d'utiliser des bons termes",
-   "ticker": "RABEH-BONS-TERMES",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/ObQ8M0hgs7Q",
-   "valeurs": [],
-   "mots": 15
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Ali Rabeh",
-   "affil": "Génération.s",
-   "fonction": "Maire de Trappes",
-   "date": "2026-10-23",
-   "contexte": "BFMTV (extrait vidéo YouTube) — après l’attentat visant la mosquée de La Verrière",
-   "citation": "C'est aussi sur ces plateaux que se fabrique le discours idéologique qui permet à des personnes comme ce monsieur d'organiser, de planifier leurs attentats",
-   "ticker": "RABEH-PLATEAUX",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/ObQ8M0hgs7Q",
-   "valeurs": [],
-   "mots": 24
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Ali Rabeh",
-   "affil": "Génération.s",
-   "fonction": "Maire de Trappes",
-   "date": "2026-10-23",
-   "contexte": "BFMTV (extrait vidéo YouTube) — après l’attentat visant la mosquée de La Verrière",
-   "citation": "C'est soit le camp de la République, soit le camp des racistes qui veulent organiser la guerre civile.",
-   "ticker": "RABEH-CAMP-REPUBLIQUE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/ObQ8M0hgs7Q",
-   "valeurs": [
-    "INST",
-    "IDEN",
-    "PEUR"
-   ],
-   "mots": 18
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Ali Rabeh",
-   "affil": "Génération.s",
-   "fonction": "Maire de Trappes",
-   "date": "2026-10-23",
-   "contexte": "BFMTV (extrait vidéo YouTube) — après l’attentat visant la mosquée de La Verrière",
-   "citation": "Et c'est à ça que j'aspire, à la Concorde républicaine.",
-   "ticker": "RABEH-CONCORDE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/ObQ8M0hgs7Q",
-   "valeurs": [
-    "INST"
-   ],
-   "mots": 10
   },
   {
    "pole": "Politique",
