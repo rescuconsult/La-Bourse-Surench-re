@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:36",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX53.xlsx",
+ "maj": "2026-11-07T15:38",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX54.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11855,6 +11855,104 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Pierre Larrouturou",
+   "affil": "Nouvelle Donne",
+   "fonction": "Député européen, rapporteur général du budget au Parlement européen (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "A priori, c'est foutu s'il y a pas une réaction massive des citoyens.",
+   "ticker": "LARROUTUROU-FOUTU",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Pierre Larrouturou",
+   "affil": "Nouvelle Donne",
+   "fonction": "Député européen, rapporteur général du budget au Parlement européen (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "Au lieu de s'engueuler sur chaque sujet, on pourrait se rassembler avec un vrai plan d'action pour le climat et la biodiversité.",
+   "ticker": "LARROUTUROU-RASSEMBLER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Pierre Larrouturou",
+   "affil": "Nouvelle Donne",
+   "fonction": "Député européen, rapporteur général du budget au Parlement européen (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "il faut être très optimiste pour penser que la croissance revient.",
+   "ticker": "LARROUTUROU-CROISSANCE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Valérie Masson-Delmotte",
+   "affil": "GIEC",
+   "fonction": "Paléoclimatologue, coprésidente du groupe de travail I du GIEC (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "quand on regarde un changement climatique non maîtrisé, ça fout tout en l'air.",
+   "ticker": "MASSONDELMOTTE-FOUT-EN-LAIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Valérie Masson-Delmotte",
+   "affil": "GIEC",
+   "fonction": "Paléoclimatologue, coprésidente du groupe de travail I du GIEC (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "la question de fond, c'est pas la question de la croissance en tant que telle, c'est la question de la redistribution des richesses produites.",
+   "ticker": "MASSONDELMOTTE-REDISTRIBUTION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Valérie Masson-Delmotte",
+   "affil": "GIEC",
+   "fonction": "Paléoclimatologue, coprésidente du groupe de travail I du GIEC (à l'époque)",
+   "date": "2021-09-08",
+   "contexte": "Thinkerview — entretien à deux invités (rapport du GIEC, climat, finance)",
+   "citation": "Un futur où on agit maintenant, on réoriente les investissements, c'est pas délirant en fait.",
+   "ticker": "MASSONDELMOTTE-FUTUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/9X4bV9fYkfs",
+   "valeurs": [],
+   "mots": 15
   },
   {
    "pole": "Politique",
