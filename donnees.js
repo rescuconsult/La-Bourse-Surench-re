@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:40",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX29.xlsx",
+ "maj": "2026-11-07T14:41",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX30.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9015,6 +9015,107 @@ window.BOURSE = {
    "source": "https://youtu.be/j8W9yCDjiSU",
    "valeurs": [],
    "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "nos compatriotes n'acceptent pas le mensonge, mais ils n'acceptent pas non plus la vérité.",
+   "ticker": "DUPONDMORETTI-VERITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [
+    "POLE",
+    "POPU"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "Moi, je n'ai pas vocation à être directeur de conscience des uns et des autres, sinon j'aurais fait curé.",
+   "ticker": "DUPONDMORETTI-CURE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "si vous défendez quelqu'un qui aux yeux de l'opinion publique est un salaud, vous êtes un salaud quand vous êtes avocat.",
+   "ticker": "DUPONDMORETTI-SALAUD",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "on est dans une époque de radicalité.",
+   "ticker": "DUPONDMORETTI-RADICALITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "parce qu'un morceau avalé n'a plus de saveur",
+   "ticker": "DUPONDMORETTI-MORCEAU-AVALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Éric Dupond-Moretti",
+   "affil": "Bâtissons ensemble (ancien ministre)",
+   "fonction": "Ancien garde des Sceaux, avocat",
+   "date": "2026-02-13",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "Mais toi, tu es pas un intermittent de la connerie.",
+   "ticker": "DUPONDMORETTI-INTERMITTENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/7MCrykSJGJw",
+   "valeurs": [],
+   "mots": 10
   },
   {
    "pole": "Politique",
