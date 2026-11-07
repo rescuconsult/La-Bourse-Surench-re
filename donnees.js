@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:11",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX10.xlsx",
+ "maj": "2026-11-07T12:14",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX11.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6803,6 +6803,113 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "je n'ai jamais brandi ma foi comme un signe identitaire",
+   "ticker": "RETAILLEAU-FOI",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la remigration c'est stupide et infaisable.",
+   "ticker": "RETAILLEAU-REMIGRATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "je veux constituer une deuxième armée.",
+   "ticker": "RETAILLEAU-DEUXIEME-ARMEE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "quand on veut éviter la guerre, on la prépare.",
+   "ticker": "RETAILLEAU-GUERRE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on a gagné la bataille militaire, on a perdu la guerre informationnelle.",
+   "ticker": "RETAILLEAU-GUERRE-INFO",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "Les Républicains",
+   "fonction": "Président des Républicains, candidat LR à la présidentielle 2027",
+   "date": "2026-07-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "l'élection 2027, c'est l'élection de la dernière chance. Ce sera ou le sursaut ou le chaos ou la chute.",
+   "ticker": "RETAILLEAU-DERNIERE-CHANCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ZTrufBwLlso",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 19
   },
   {
    "pole": "Experts & invités",
