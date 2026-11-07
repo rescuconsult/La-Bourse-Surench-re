@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T11:01",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX4.xlsx",
+ "maj": "2026-11-07T11:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_medailles.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2139,7 +2139,7 @@ window.BOURSE = {
    "ticker": "LECORNU-SCHEMA-INSURRECTIONNEL",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
-   "source": "Les Echos",
+   "source": "https://www.brut.media/fr/articles/passage-mouvemente-de-sebastien-lecornu-devant-l-assemblee-nationale-ce-mardi-20-octobre",
    "valeurs": [
     "MANF"
    ],
@@ -4019,30 +4019,6 @@ window.BOURSE = {
    "fonction": "Auteur & Critique",
    "date": "2026-10-15",
    "contexte": "Sud Radio (La France dans tous ses états)",
-   "citation": "Mon quartier est devenu le laboratoire de la Nouvelle-France : l’alliance de la racaille, des islamistes et des bobos.",
-   "ticker": "NAULLEAU-3TRIBUS",
-   "categorie": "Sociologie & Territoires",
-   "pilier": "Tranquillité publique",
-   "source": "https://www.sudradio.fr/",
-   "valeurs": [
-    "SECU",
-    "VIOL",
-    "IDEN"
-   ],
-   "mots": 18,
-   "hof": {
-    "prix": "Surenchère",
-    "medaille": "Argent"
-   }
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Éric Naulleau",
-   "affil": "Essayiste / Média",
-   "fonction": "Auteur & Critique",
-   "date": "2026-10-15",
-   "contexte": "Sud Radio (La France dans tous ses états)",
    "citation": "Nous sommes dans la production industrielle de la haine de soi. Vous vous réclamez d'un héritage français, vous êtes fasciste.",
    "ticker": "NAULLEAU-HAINE-SOI",
    "categorie": "Identité & Culture",
@@ -4205,31 +4181,6 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 17
-  },
-  {
-   "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Olivier Faure",
-   "affil": "PS",
-   "fonction": "Premier secrétaire du Parti socialiste",
-   "date": "2026-10-14",
-   "contexte": "Communiqué / X",
-   "citation": "Entre la surenchère autoritaire de la droite et le chaos social, il y a urgence à recréer du pacte républicain par l’éducation.",
-   "ticker": "PACTE-EDUCATION",
-   "categorie": "Ordre public & sécurité",
-   "pilier": "Tranquillité publique",
-   "source": "X @OlivierFaure",
-   "valeurs": [
-    "INST",
-    "ECOL",
-    "PEUR",
-    "AUTO"
-   ],
-   "mots": 22,
-   "hof": {
-    "prix": "Langue de bois",
-    "medaille": "Argent"
-   }
   },
   {
    "pole": "Politique",
@@ -4507,6 +4458,29 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Éric Naulleau",
+   "affil": "Essayiste / Média",
+   "fonction": "Auteur & Critique",
+   "date": "2026-10-14",
+   "contexte": "Sud Radio (La France dans tous ses états)",
+   "citation": "L’Est parisien est devenu le laboratoire de la nouvelle France avec 3 tribus : la racaille, les islamistes et les bobos.",
+   "ticker": "NAULLEAU-3TRIBUS",
+   "categorie": "Sociologie & Territoires",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/sud-radio/eric-naulleau-lest-parisien-est-devenu-le-laboratoire-de-la-nouvelle-france",
+   "valeurs": [
+    "SECU",
+    "IDEN"
+   ],
+   "mots": 20,
+   "hof": {
+    "prix": "Surenchère",
+    "medaille": "Argent"
+   }
   },
   {
    "pole": "Experts & invités",
@@ -5074,52 +5048,6 @@ window.BOURSE = {
   {
    "pole": "Médiatique",
    "famille": null,
-   "auteur": "Jean-Jacques Bourdin",
-   "affil": "Sud Radio",
-   "fonction": "Journaliste / Intervieweur",
-   "date": "2026-10-12",
-   "contexte": "Parlons Vrai - Sud Radio",
-   "citation": "Regardez-moi dans les yeux... Vous y croyez vraiment à vos chiffres ? Parce que les Français, eux, n'y croient plus.",
-   "ticker": "REGARDEZ-MOI-YEUX",
-   "categorie": "Surenchère & provocation",
-   "pilier": "Tranquillité publique",
-   "source": "Sud Radio",
-   "valeurs": [
-    "POLE",
-    "POPU"
-   ],
-   "mots": 19,
-   "hof": {
-    "prix": "Arrogance",
-    "medaille": "Bronze"
-   }
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Laurence Parisot",
-   "affil": "Ancienne présidente du MEDEF",
-   "fonction": "Personnalité économique",
-   "date": "2026-10-12",
-   "contexte": "X / Débat socio-économique",
-   "citation": "La cohésion sociale et républicaine ne peut s’accommoder d’une banalisation de la violence dans l’espace public.",
-   "ticker": "COHESION-MENACEE",
-   "categorie": "Ordre public & sécurité",
-   "pilier": "Tranquillité publique",
-   "source": "X @LaurenceParisot",
-   "valeurs": [
-    "SECU",
-    "INST"
-   ],
-   "mots": 16,
-   "hof": {
-    "prix": "Langue de bois",
-    "medaille": "Or"
-   }
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
    "auteur": "Didier Maisto",
    "affil": "Fialog / Indépendant",
    "fonction": "Analyste / Essayiste",
@@ -5132,28 +5060,6 @@ window.BOURSE = {
    "source": "X @DidierMaisto",
    "valeurs": [],
    "mots": 13
-  },
-  {
-   "pole": "Médiatique",
-   "famille": null,
-   "auteur": "Laurent Obertone",
-   "affil": "Essayiste / Indépendant",
-   "fonction": "Écrivain",
-   "date": "2026-10-12",
-   "contexte": "X / Analyse sécuritaire",
-   "citation": "La décivilisation n’est plus une hypothèse ni une prophétie, c’est le paysage quotidien des Français.",
-   "ticker": "PAYSAGE-DECIVILISATION",
-   "categorie": "Ordre public & sécurité",
-   "pilier": "Tranquillité publique",
-   "source": "X @LaurentObertone",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 15,
-   "hof": {
-    "prix": "Catastrophe",
-    "medaille": "Argent"
-   }
   },
   {
    "pole": "Politique",
@@ -5670,29 +5576,6 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 13
-  },
-  {
-   "pole": "Politique",
-   "famille": "Centre & exécutif",
-   "auteur": "Aurore Bergé",
-   "affil": "Renaissance",
-   "fonction": "Ministre",
-   "date": "2026-10-07",
-   "contexte": "CNews",
-   "citation": "Il faut ramener les enfants à la raison et responsabiliser les parents",
-   "ticker": "PARENTS-RAISON",
-   "categorie": "Ordre public & sécurité",
-   "pilier": "Tranquillité publique",
-   "source": "Le Figaro / CNews",
-   "valeurs": [
-    "ECOL",
-    "POLE"
-   ],
-   "mots": 12,
-   "hof": {
-    "prix": "Langue de bois",
-    "medaille": "Bronze"
-   }
   },
   {
    "pole": "Politique",
