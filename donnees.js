@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-06T15:17",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261106_verif.xlsx",
+ "maj": "2026-11-07T10:53",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6460,6 +6460,61 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2025-12-08",
+   "contexte": "RMC, Les Grandes Gueules (extrait vidéo YouTube)",
+   "citation": "Oui, il y a un problème systémique qui existe dans la police française.",
+   "ticker": "LEAUMENT-POLICE-SYSTEMIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/eyEvx2SmDSM",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2025-12-08",
+   "contexte": "RMC, Les Grandes Gueules (extrait vidéo YouTube)",
+   "citation": "Moi je considère qu'il y a un racisme systémique qui existe dans la société française, pas que dans la police.",
+   "ticker": "LEAUMENT-RACISME-SYSTEMIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/eyEvx2SmDSM",
+   "valeurs": [
+    "SECU",
+    "IDEN"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2025-12-08",
+   "contexte": "RMC, Les Grandes Gueules (extrait vidéo YouTube)",
+   "citation": "faut pas arrêter de poursuivre les délinquants, faut arrêter de faire des courses poursuites",
+   "ticker": "LEAUMENT-COURSES-POURSUITES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/eyEvx2SmDSM",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 14
   },
   {
    "pole": "Politique",
