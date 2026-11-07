@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:22",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX12.xlsx",
+ "maj": "2026-11-07T12:28",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX13.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,115 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "la corruption elle est exponentielle aujourd'hui.",
+   "ticker": "PLOQUIN-CORRUPTION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "la cocaïne a tout balayé.",
+   "ticker": "PLOQUIN-COCAINE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 5
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "sans kalashnikov on n'est pas grand-chose sur ce marché",
+   "ticker": "PLOQUIN-KALASHNIKOV",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "pas encore parce qu'officiellement on lutte contre contre la drogue",
+   "ticker": "PLOQUIN-NARCOETAT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "Le journaliste, il est ni procureur, ni magistrat ni flic.",
+   "ticker": "PLOQUIN-JOURNALISTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Frédéric Ploquin",
+   "affil": "Journaliste",
+   "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
+   "date": "2026-11-06",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
+   "citation": "personne n'a envie que ça sorte en fait les affaires de corruption parce que ça nuit à tout le monde.",
+   "ticker": "PLOQUIN-OMERTA",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/1fFtgcdeytA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 20
+  },
   {
    "pole": "Experts & invités",
    "famille": null,
@@ -4187,7 +4296,7 @@ window.BOURSE = {
    "famille": "Droite",
    "auteur": "Dominique de Villepin",
    "affil": "Divers Droite / Ancien Premier ministre",
-   "fonction": "Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
    "date": "2026-10-14",
    "contexte": "X / Déclaration politique",
    "citation": "La fuite en avant sécuritaire et la stigmatisation de la jeunesse mènent directement à l’impasse démocratique.",
@@ -4200,7 +4309,8 @@ window.BOURSE = {
     "INST",
     "ECOL"
    ],
-   "mots": 16
+   "mots": 16,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7430,7 +7540,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "20 Minutes (sur 2005)",
    "valeurs": [],
-   "mots": 5
+   "mots": 5,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -8947,7 +9058,8 @@ window.BOURSE = {
     "AUTO",
     "POPU"
    ],
-   "mots": 23
+   "mots": 23,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
