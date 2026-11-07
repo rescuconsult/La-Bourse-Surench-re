@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:44",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX32.xlsx",
+ "maj": "2026-11-07T14:47",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX33.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1425,6 +1425,108 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "au moment où je te parle, je ne suis pas candidat.",
+   "ticker": "LEMAIRE-PAS-CANDIDAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "le pouvoir est pas le meilleur endroit pour réfléchir.",
+   "ticker": "LEMAIRE-REFLECHIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "Très souvent les Américains, ils vous écrasent le pied avec la Rangers et ils s'excusent.",
+   "ticker": "LEMAIRE-RANGERS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "la dette, c'est pas le problème d'une personne, c'est le problème d'un modèle qui prend l'eau de toute part.",
+   "ticker": "LEMAIRE-DETTE-MODELE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "je me suis aperçu à quel point le modèle était mort.",
+   "ticker": "LEMAIRE-MODELE-MORT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "Renaissance (ancien ministre)",
+   "fonction": "Ancien ministre de l'Économie et des Finances, conseiller spécial du groupe ASML",
+   "date": "2026-11-02",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — prospective",
+   "citation": "l'hypocrisie, ça a jamais mené très loin en politique.",
+   "ticker": "LEMAIRE-HYPOCRISIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/ALIPF5lqIpw",
+   "valeurs": [],
+   "mots": 9
   },
   {
    "pole": "Médiatique",
