@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:34",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX52.xlsx",
+ "maj": "2026-11-07T15:36",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX53.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12304,6 +12304,104 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant)",
+   "citation": "pour le dire simplement, les vivants sur terre sont tous en train de crever.",
+   "ticker": "BARRAU-CREVER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant) — à propos du dérèglement climatique",
+   "citation": "Nier aujourd'hui cela et notre influence sur cela, c'est faire un négationnisme du futur et non pas du passé.",
+   "ticker": "BARRAU-NEGATIONNISME-FUTUR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant)",
+   "citation": "Moi, j'appelle ça un crime contre l'avenir en fait.",
+   "ticker": "BARRAU-CRIME-AVENIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant)",
+   "citation": "la préoccupation écologique est incompatible avec une croissance économique exponentielle et continuelle.",
+   "ticker": "BARRAU-CROISSANCE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant)",
+   "citation": "on le ressentirait comme une privation de liberté, mais c'est comme un gamin auquel on interdit de casser son jouet",
+   "ticker": "BARRAU-JOUET",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Barrau",
+   "affil": "Université Grenoble-Alpes",
+   "fonction": "Astrophysicien, professeur des universités",
+   "date": "2018-09-14",
+   "contexte": "Thinkerview — entretien (urgence écologique, effondrement du vivant)",
+   "citation": "je pense que ce qu'on fait dans les abattoirs et cetera, c'est un crime contre la vie.",
+   "ticker": "BARRAU-ABATTOIRS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/XO4q9oVrWWw",
+   "valeurs": [],
+   "mots": 17
   },
   {
    "pole": "Politique",
