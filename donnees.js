@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:59",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX37.xlsx",
+ "maj": "2026-11-07T15:00",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX38.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10591,6 +10591,112 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "je suis en retrait mais pas en retraite",
+   "ticker": "MELENCHON-RETRAIT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "à la fin du siècle la boutique sera fermée",
+   "ticker": "MELENCHON-BOUTIQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "c'est pas du maïs que tu exportes, c'est de l'eau",
+   "ticker": "MELENCHON-MAIS-EAU",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "les guerres sont pas déclenchées par les peuples",
+   "ticker": "MELENCHON-GUERRES-PEUPLES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "je m'excuse, vous êtes déjà créolisé, les petits, vous en rendez même pas compte",
+   "ticker": "MELENCHON-CREOLISE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Fondateur de La France insoumise, ancien député",
+   "date": "2023-10-03",
+   "contexte": "Thinkerview — entretien en direct (géopolitique, climat, créolisation)",
+   "citation": "les êtres humains négocient leur rapport à l'exploitation à travers un filtre qui s'appelle la dignité",
+   "ticker": "MELENCHON-DIGNITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/FzzQgJntbqQ",
+   "valeurs": [],
+   "mots": 16,
    "candidat": "Candidats 2027"
   },
   {
