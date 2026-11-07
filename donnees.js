@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:04",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX40.xlsx",
+ "maj": "2026-11-07T15:06",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX41.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9772,6 +9772,108 @@ window.BOURSE = {
     "INDI"
    ],
    "mots": 15
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Alexis Poulin",
+   "affil": "Média / Indépendant",
+   "fonction": "Cofondateur du Monde moderne, éditorialiste",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "on se retrouve avec aujourd'hui cette lutte extrêmement violente avec des lois de censure qui se mettent en place soi-disant pour protéger la jeunesse.",
+   "ticker": "POULIN-CENSURE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Alexis Poulin",
+   "affil": "Média / Indépendant",
+   "fonction": "Cofondateur du Monde moderne, éditorialiste",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "on joue trop sur les peurs à l'heure actuelle.",
+   "ticker": "POULIN-PEURS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Alexis Poulin",
+   "affil": "Média / Indépendant",
+   "fonction": "Cofondateur du Monde moderne, éditorialiste",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "la peur peut être mauvaise conseillère, elle est aussi un moteur.",
+   "ticker": "POULIN-PEUR-MOTEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Bascuñana",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Consultant en stratégie (analyste stratégique), fondateur d'un mouvement citoyen",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "C'est l'art et la manière de fabriquer une opinion publique avec de fausses foules",
+   "ticker": "BASCUNANA-FAUSSES-FOULES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Bascuñana",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Consultant en stratégie (analyste stratégique), fondateur d'un mouvement citoyen",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "c'est là que le docteur Spock rencontre Homer Simpson.",
+   "ticker": "BASCUNANA-SPOCK-HOMER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Bascuñana",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Consultant en stratégie (analyste stratégique), fondateur d'un mouvement citoyen",
+   "date": "2026-02-05",
+   "contexte": "Thinkerview — entretien à deux invités (astroturfing, censure, manipulation de l'opinion)",
+   "citation": "apprenez que poser de bonnes questions est toujours beaucoup plus puissant que de chercher des réponses toutes faites.",
+   "ticker": "BASCUNANA-BONNES-QUESTIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
+   "valeurs": [],
+   "mots": 18
   },
   {
    "pole": "Médiatique",
