@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:56",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX21.xlsx",
+ "maj": "2026-11-07T14:26",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX22.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -769,6 +769,111 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "C'est plus un déclin, c'est une faillite.",
+   "ticker": "RUFFIN-FAILLITE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "J'avais beaucoup d'amis imaginaires.",
+   "ticker": "RUFFIN-AMIS-IMAGINAIRES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [],
+   "mots": 4,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la politique finalement ça m'intéresse pas.",
+   "ticker": "RUFFIN-POLITIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [],
+   "mots": 6,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "On doit se faire aimer du pays.",
+   "ticker": "RUFFIN-AIMER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je peux me lever en pleine nuit pour regarder une équipe de curling si c'est la France qui joue quoi.",
+   "ticker": "RUFFIN-CURLING",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-11-04",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la violence est une faute morale mais c'est aussi une faute politique.",
+   "ticker": "RUFFIN-VIOLENCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/pFdyN8Ae2mc",
+   "valeurs": [
+    "SECU",
+    "POLE"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -3934,7 +4039,8 @@ window.BOURSE = {
     "SECU",
     "VIOL"
    ],
-   "mots": 29
+   "mots": 29,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4031,7 +4137,8 @@ window.BOURSE = {
     "SECU",
     "VIOL"
    ],
-   "mots": 26
+   "mots": 26,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4049,7 +4156,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 24
+   "mots": 24,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4067,7 +4175,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 18
+   "mots": 18,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -6532,9 +6641,9 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
-   "famille": "Droite",
+   "famille": "Gauche",
    "auteur": "François Ruffin",
-   "affil": "Debout la France / Ex-LFI / Député",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
    "fonction": "Député de la Somme",
    "date": "2026-09-18",
    "contexte": "Assemblée Nationale / X",
@@ -6549,7 +6658,8 @@ window.BOURSE = {
     "ECOL",
     "POLE"
    ],
-   "mots": 21
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7459,6 +7569,206 @@ window.BOURSE = {
    "valeurs": [],
    "mots": 7,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la France insoumise est le parti le plus patriote de l'échiquier politique français",
+   "ticker": "DUFOUR-PATRIOTE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "J'ai voté j'ai voté François Hollande au premier tour.",
+   "ticker": "DUFOUR-VOTE-2012",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "imaginons dans un an, je pleure déjà.",
+   "ticker": "DUFOUR-PLEURE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "le système produit des sous-français.",
+   "ticker": "DUFOUR-SOUS-FRANCAIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [],
+   "mots": 5
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on est le meilleur enfin on est le le le parti le moins mauvais",
+   "ticker": "DUFOUR-MOINS-MAUVAIS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Alma Dufour",
+   "affil": "LFI",
+   "fonction": "Députée LFI de Seine-Maritime",
+   "date": "2026-06-17",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "la police française crée de l'insécurité.",
+   "ticker": "DUFOUR-POLICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/J_KaMEpfheU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "On n'est pas en monarchie en fait.",
+   "ticker": "BORNE-MONARCHIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "pourquoi j'ai donné ma démission ? J'ai peut-être été trop bonne élève.",
+   "ticker": "BORNE-BONNE-ELEVE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "je trouve que ça fait puéril.",
+   "ticker": "BORNE-PUERIL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Il y a pas de paix durable si on s'assoit sur le droit international",
+   "ticker": "BORNE-DROIT-INTERNATIONAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "On doit jamais critiquer le Conseil constitutionnel.",
+   "ticker": "BORNE-CONSEIL-CONSTIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Bâtissons ensemble (ancienne Renaissance)",
+   "fonction": "Ancienne Première ministre, fondatrice de Bâtissons ensemble",
+   "date": "2026-06-03",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "il y a rien de pire que d'avoir des hommes politiques ou des femmes politiques qui vous font des annonces et concrètement rien ne change dans votre vie.",
+   "ticker": "BORNE-ANNONCES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kulb_jzeMP4",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 28
   },
   {
    "pole": "Experts & invités",
