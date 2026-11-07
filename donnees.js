@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T11:30",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_medailles.xlsx",
+ "maj": "2026-11-07T11:39",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX5.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2110,6 +2110,79 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marie-Hélène Thoraval",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Romans-sur-Isère",
+   "date": "2026-10-21",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — affaire de Crépol, quartier de la Monnaie",
+   "citation": "Il y a un racisme antiblanc.",
+   "ticker": "THORAVAL-RACISME-ANTIBLANC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ryZig-39p2I",
+   "valeurs": [
+    "VIOL",
+    "IDEN"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marie-Hélène Thoraval",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Romans-sur-Isère",
+   "date": "2026-10-21",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — affaire de Crépol, quartier de la Monnaie",
+   "citation": "Je pense que le débat gêne. Le débat gêne. Le débat il dérange.",
+   "ticker": "THORAVAL-DEBAT-GENE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ryZig-39p2I",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marie-Hélène Thoraval",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Romans-sur-Isère",
+   "date": "2026-10-21",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — affaire de Crépol, quartier de la Monnaie",
+   "citation": "Oui, il y a un ordre mais c'est pas le nôtre.",
+   "ticker": "THORAVAL-ORDRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ryZig-39p2I",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marie-Hélène Thoraval",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Romans-sur-Isère",
+   "date": "2026-10-21",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — affaire de Crépol, quartier de la Monnaie",
+   "citation": "on y retrouve ce que j'appelle quelquefois des zones d'un autre droit.",
+   "ticker": "THORAVAL-ZONES-AUTRE-DROIT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ryZig-39p2I",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 12
   },
   {
    "pole": "Politique",
