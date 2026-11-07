@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:14",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX45.xlsx",
+ "maj": "2026-11-07T15:16",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX46.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11276,6 +11276,130 @@ window.BOURSE = {
     "SECU"
    ],
    "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction)",
+   "citation": "c'est l'intérêt général, c'est-à-dire c'est jamais complètement perdu d'avance.",
+   "ticker": "VANRUYMBEKE-INTERET-GENERAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction)",
+   "citation": "Si vous considérez que c'est pas la peine, […] vous assurez l'impunité totale, autant rendre son tablier tout de suite.",
+   "ticker": "VANRUYMBEKE-TABLIER",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL",
+    "POLE"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction)",
+   "citation": "Si vous persévérez, d'accord, vous aurez un taux d'échec mais quelquefois vous arriverez à faire bouger un peu les lignes.",
+   "ticker": "VANRUYMBEKE-PERSEVERER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL",
+    "AUTO",
+    "POLE"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction) — à propos de l'évasion fiscale",
+   "citation": "je souhaite qu'on évolue vers de la fraude parce que je trouve que c'est la même chose, c'est même pire.",
+   "ticker": "VANRUYMBEKE-EVASION-FRAUDE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL",
+    "BUDG"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction)",
+   "citation": "Les juges appliquent la loi point barre hein. Moi, je n'ai fait qu'appliquer la loi toute ma vie.",
+   "ticker": "VANRUYMBEKE-APPLIQUER-LOI",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Renaud Van Ruymbeke",
+   "affil": "Magistrature (honoraire)",
+   "fonction": "Ancien juge d'instruction au pôle financier",
+   "date": "2022-11-24",
+   "contexte": "Thinkerview — entretien en direct (délinquance financière, paradis fiscaux, métier de juge d'instruction)",
+   "citation": "Pour moi, la détention n'a jamais été un but en soi.",
+   "ticker": "VANRUYMBEKE-DETENTION",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/_x8lmFjSB0A",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
