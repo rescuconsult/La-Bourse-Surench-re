@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:42",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX56.xlsx",
+ "maj": "2026-11-07T15:44",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX57.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12452,6 +12452,104 @@ window.BOURSE = {
     "IMMI"
    ],
    "mots": 24
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "dans notre pays tous ceux qui devraient défendre l'intérêt national ne le font pas toujours.",
+   "ticker": "MARLEIX-INTERET-NATIONAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "la politique industrielle de la France, elle est dictée par des banques d'affaires au nom de leurs intérêts personnels",
+   "ticker": "MARLEIX-BANQUES-AFFAIRES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "Ce qui est coupable, c'est que ceux qui sont en charge de défendre les intérêts nationaux soient aussi bienveillants.",
+   "ticker": "MARLEIX-BIENVEILLANTS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "amitié doit rimer avec lucidité et pas naïveté.",
+   "ticker": "MARLEIX-LUCIDITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "c'est vraiment que l'État se remette à identifier ce qu'il considère comme stratégique.",
+   "ticker": "MARLEIX-STRATEGIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Olivier Marleix",
+   "affil": "LR",
+   "fonction": "Député LR d'Eure-et-Loir, président de la commission d'enquête sur la politique industrielle de l'État (à l'époque)",
+   "date": "2019-09-17",
+   "contexte": "Thinkerview — entretien (souveraineté industrielle, commission d'enquête parlementaire)",
+   "citation": "l'Europe puissance, elle doit passer aussi par une espèce de colbertisme européen, mais il est pas encore né.",
+   "ticker": "MARLEIX-COLBERTISME",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/2mor2qort4U",
+   "valeurs": [],
+   "mots": 18
   },
   {
    "pole": "Médiatique",
