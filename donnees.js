@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T11:39",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX5.xlsx",
+ "maj": "2026-11-07T11:46",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX6.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -192,7 +192,7 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
-   "famille": null,
+   "famille": "Centre & exécutif",
    "auteur": "Olivier Henno",
    "affil": "Union centriste (UDI)",
    "fonction": "Sénateur du Nord, rapporteur du PLFSS 2027 au Sénat",
@@ -5888,6 +5888,88 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 4
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Louis Borloo",
+   "affil": "UDI (ancien ministre)",
+   "fonction": "Ancien ministre",
+   "date": "2026-09-30",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Vous êtes tous dingues. Vous êtes shooté à la monarchie.",
+   "ticker": "BORLOO-SHOOTE-MONARCHIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/n_LiCGFoS3E",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Louis Borloo",
+   "affil": "UDI (ancien ministre)",
+   "fonction": "Ancien ministre",
+   "date": "2026-09-30",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "c'est une monarchie de quasiment droit divin.",
+   "ticker": "BORLOO-DROIT-DIVIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/n_LiCGFoS3E",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Louis Borloo",
+   "affil": "UDI (ancien ministre)",
+   "fonction": "Ancien ministre",
+   "date": "2026-09-30",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Un système qui n'a aucune chaîne de commandement, strictement aucune.",
+   "ticker": "BORLOO-CHAINE-COMMANDEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/n_LiCGFoS3E",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Louis Borloo",
+   "affil": "UDI (ancien ministre)",
+   "fonction": "Ancien ministre",
+   "date": "2026-09-30",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Moi j'ai jamais vu un gamin frapper à la porte d'un dispositif.",
+   "ticker": "BORLOO-DISPOSITIF",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/n_LiCGFoS3E",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Louis Borloo",
+   "affil": "UDI (ancien ministre)",
+   "fonction": "Ancien ministre",
+   "date": "2026-09-30",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Quand un truc marche pas, c'est jamais pour la raison qu'on te donne.",
+   "ticker": "BORLOO-RAISON",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/n_LiCGFoS3E",
+   "valeurs": [],
+   "mots": 13
   },
   {
    "pole": "Politique",
