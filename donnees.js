@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:09",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX9.xlsx",
+ "maj": "2026-11-07T12:11",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX10.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -6640,6 +6640,110 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Si je suis à plus de 15 dans les sondages, je suis le prochain président de la République et c'est ça mon objectif.",
+   "ticker": "BOUAMRANE-PROCHAIN-PRESIDENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Nous sommes un peuple rancunier qui déteste le mépris.",
+   "ticker": "BOUAMRANE-RANCUNIER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "j'en ai assez de cette espèce de nostalgie du passé, de cette colère du présent et cette peur de l'avenir.",
+   "ticker": "BOUAMRANE-NOSTALGIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "quand je suis candidat pour être président de la République, j'ai 70 millions de patrons.",
+   "ticker": "BOUAMRANE-70-MILLIONS-PATRONS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "le premier patrimoine, il est pas économique, il est pas social, il est humain. Il s'appelle la dignité.",
+   "ticker": "BOUAMRANE-DIGNITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine",
+   "date": "2026-09-02",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "il n'y a rien dans la sphère publique qui soit au-dessus de la République.",
+   "ticker": "BOUAMRANE-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/csMzvdSaqC4",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
   },
   {
    "pole": "Médiatique",
