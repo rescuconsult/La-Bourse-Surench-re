@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:26",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX22.xlsx",
+ "maj": "2026-11-07T14:28",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX23.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9032,6 +9032,56 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/bruno-retailleau-nouveau-ministre-de-linterieur-promet-le-retablissement-de-lordre-et-la-fermete",
    "valeurs": [],
    "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Steevy Gustave",
+   "affil": "Les Écologistes",
+   "fonction": "Député écologiste du Val-d'Oise",
+   "date": "2024-08-07",
+   "contexte": "Post X (@SteevyGustave) — « Être de gauche, c'est… »",
+   "citation": "Être de gauche, c'est embrasser la complexité du monde plutôt que de céder aux solutions simplistes et à l'amour des clashs ou des buzz.",
+   "ticker": "GUSTAVE-COMPLEXITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/SteevyGustave/status/1821230934445707482",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Steevy Gustave",
+   "affil": "Les Écologistes",
+   "fonction": "Député écologiste du Val-d'Oise",
+   "date": "2024-08-07",
+   "contexte": "Post X (@SteevyGustave) — « Être de gauche, c'est… »",
+   "citation": "Être de gauche, c'est penser au-delà des raccourcis faciles.",
+   "ticker": "GUSTAVE-RACCOURCIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://x.com/SteevyGustave/status/1821230934445707482",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Steevy Gustave",
+   "affil": "Les Écologistes",
+   "fonction": "Député écologiste du Val-d'Oise",
+   "date": "2024-08-07",
+   "contexte": "Post X (@SteevyGustave) — « Être de gauche, c'est… »",
+   "citation": "Laissons les amalgames à CNEWS et construisons ensemble une France unie et solidaire.",
+   "ticker": "GUSTAVE-CNEWS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://x.com/SteevyGustave/status/1821230934445707482",
+   "valeurs": [],
+   "mots": 13
   },
   {
    "pole": "Politique",
