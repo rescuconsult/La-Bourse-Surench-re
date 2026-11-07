@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:12",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX44.xlsx",
+ "maj": "2026-11-07T15:14",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX45.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11581,6 +11581,106 @@ window.BOURSE = {
     "IMMI"
    ],
    "mots": 24
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "Le droit de savoir, c'est beaucoup plus important que le droit de vote.",
+   "ticker": "PLENEL-DROIT-SAVOIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "quand on commence un cours autoritaire, les premiers adversaires, ce sont pas les opposants politiques, ce sont les journalistes.",
+   "ticker": "PLENEL-ADVERSAIRES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [
+    "AUTO"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "Notre armée est pacifique, c'est l'information.",
+   "ticker": "PLENEL-ARMEE-PACIFIQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "la liberté c'est les faits.",
+   "ticker": "PLENEL-LIBERTE-FAITS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [],
+   "mots": 5
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "Hélas, les journalistes y ont mis du leur.",
+   "ticker": "PLENEL-MIS-DU-LEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Edwy Plenel",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, cofondateur et président de Mediapart (à l'époque)",
+   "date": "2019-05-24",
+   "contexte": "Thinkerview — entretien en direct (liberté de la presse, droit de savoir)",
+   "citation": "On n'est pas au service du patron, on n'est pas au service du pouvoir, on est au service des citoyens.",
+   "ticker": "PLENEL-SERVICE-CITOYENS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/PFaD3NP6-Lk",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
   },
   {
    "pole": "Politique",
