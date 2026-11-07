@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:16",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX46.xlsx",
+ "maj": "2026-11-07T15:20",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX47.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11419,6 +11419,115 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 21
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "Le langage politique n'est pas transparent.",
+   "ticker": "VIKTOROVITCH-TRANSPARENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "toute une partie du discours politique ou de la langue politique, pour le dire autrement, qui s'est déconnectée du sens.",
+   "ticker": "VIKTOROVITCH-SENS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "En une génération, on éradique la langue de bois.",
+   "ticker": "VIKTOROVITCH-ERADIQUER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "Moi, je suis pour des citoyens un peu pénibles parce que pour moi, le rôle d'un citoyen c'est d'être un peu pénible.",
+   "ticker": "VIKTOROVITCH-PENIBLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "je pense que l'indignation, c'est un moteur politique sain.",
+   "ticker": "VIKTOROVITCH-INDIGNATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST",
+    "INDI"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2021-12-01",
+   "contexte": "Thinkerview — entretien en direct (rhétorique, langue de bois, démocratie)",
+   "citation": "je crois que l'histoire de la démocratie, c'est l'histoire de l'engagement.",
+   "ticker": "VIKTOROVITCH-ENGAGEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/E7e7v-Ig9Ds",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
