@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:29",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX24.xlsx",
+ "maj": "2026-11-07T14:32",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX25.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -92,7 +92,7 @@ window.BOURSE = {
    "fonction": "Journaliste d'investigation, auteur de « Les Narcos français brisent l'omerta »",
    "date": "2026-11-06",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — narcotrafic",
-   "citation": "pas encore parce qu'officiellement on lutte contre contre la drogue",
+   "citation": "pas encore parce qu'officiellement on lutte contre la drogue",
    "ticker": "PLOQUIN-NARCOETAT",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
@@ -100,7 +100,7 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 10
+   "mots": 9
   },
   {
    "pole": "Médiatique",
@@ -4595,7 +4595,7 @@ window.BOURSE = {
    "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
    "date": "2026-10-14",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "Il faut nettoyer nettoyer nettoyer les écuries d'Augias.",
+   "citation": "Il faut nettoyer, nettoyer, nettoyer les écuries d'Augias.",
    "ticker": "VILLEPIN-AUGIAS",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
@@ -6012,13 +6012,13 @@ window.BOURSE = {
    "fonction": "Député de la Somme, président délégué du groupe RN",
    "date": "2026-10-07",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "diaboliser l'adversaire. C'est toujours une forme de de faillite intellectuelle.",
+   "citation": "diaboliser l'adversaire. C'est toujours une forme de faillite intellectuelle.",
    "ticker": "TANGUY-DIABOLISER",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/3p0UFTkWBYc",
    "valeurs": [],
-   "mots": 10
+   "mots": 9
   },
   {
    "pole": "Politique",
@@ -6735,7 +6735,7 @@ window.BOURSE = {
    "fonction": "Députée de Mayotte (1re circonscription)",
    "date": "2026-09-16",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — Mayotte",
-   "citation": "je pense qu'il faut appeler l'OMS. Ah, c'est une épidémie de de candidats à la présidentielle.",
+   "citation": "je pense qu'il faut appeler l'OMS. Ah, c'est une épidémie de candidats à la présidentielle.",
    "ticker": "YOUSSOUFA-EPIDEMIE-CANDIDATS",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
@@ -6743,7 +6743,7 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 16
+   "mots": 15
   },
   {
    "pole": "Politique",
@@ -7374,13 +7374,13 @@ window.BOURSE = {
    "fonction": "Ancien ministre de l'Économie et des Finances",
    "date": "2026-07-08",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "dans une négociation euh il est parfois nécessaire de mentir.",
+   "citation": "dans une négociation il est parfois nécessaire de mentir.",
    "ticker": "LEMAIRE-MENTIR",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/UOeJVA7tZxw",
    "valeurs": [],
-   "mots": 10
+   "mots": 9
   },
   {
    "pole": "Politique",
@@ -7594,13 +7594,13 @@ window.BOURSE = {
    "fonction": "Députée LFI de Seine-Maritime",
    "date": "2026-06-17",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "J'ai voté j'ai voté François Hollande au premier tour.",
+   "citation": "J'ai voté François Hollande au premier tour.",
    "ticker": "DUFOUR-VOTE-2012",
    "categorie": "Citoyenneté et civisme",
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/J_KaMEpfheU",
    "valeurs": [],
-   "mots": 9
+   "mots": 7
   },
   {
    "pole": "Politique",
@@ -7642,13 +7642,13 @@ window.BOURSE = {
    "fonction": "Députée LFI de Seine-Maritime",
    "date": "2026-06-17",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "on est le meilleur enfin on est le le le parti le moins mauvais",
+   "citation": "on est le meilleur enfin on est le parti le moins mauvais",
    "ticker": "DUFOUR-MOINS-MAUVAIS",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/J_KaMEpfheU",
    "valeurs": [],
-   "mots": 14
+   "mots": 12
   },
   {
    "pole": "Politique",
@@ -7813,13 +7813,13 @@ window.BOURSE = {
    "fonction": "Ancien président de la République, député de Corrèze",
    "date": "2026-05-27",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "Je pense qu' ils ne m'ont pas vu partir d'abord.",
+   "citation": "Je pense qu'ils ne m'ont pas vu partir d'abord.",
    "ticker": "HOLLANDE-PAS-PARTI",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/o-EwPPFBg5U",
    "valeurs": [],
-   "mots": 10
+   "mots": 9
   },
   {
    "pole": "Politique",
@@ -7975,7 +7975,7 @@ window.BOURSE = {
    "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
    "date": "2026-05-15",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
-   "citation": "un magistrat en prison, attendez, il faut faut le chercher",
+   "citation": "un magistrat en prison, attendez, il faut le chercher",
    "ticker": "SEYDIBA-MAGISTRAT",
    "categorie": "Tranquillité publique",
    "pilier": "Tranquillité publique",
@@ -7984,7 +7984,107 @@ window.BOURSE = {
     "SECU",
     "JUST"
    ],
-   "mots": 10
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "la science décrit le réel et pour qu'une démocratie fonctionne, il faut que nous vivions dans la même réalité.",
+   "ticker": "BUZYN-REEL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "Mais ça n'est pas parce qu'on est fou qu'on est génial.",
+   "ticker": "BUZYN-FOU-GENIAL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "un scientifique péremptoire qui n'exprime pas de doute doit nous faire peur.",
+   "ticker": "BUZYN-DOUTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "La désinformation tue bien sûr, surtout en santé.",
+   "ticker": "BUZYN-DESINFORMATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "j'ai servi de fusible, de bouc émissaire.",
+   "ticker": "BUZYN-FUSIBLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Agnès Buzyn",
+   "affil": "Bâtissons ensemble (ancienne ministre)",
+   "fonction": "Ancienne ministre de la Santé, médecin hématologue",
+   "date": "2026-05-12",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — science, Covid",
+   "citation": "c'est toujours bien dans les crises que quelqu'un prenne la foudre.",
+   "ticker": "BUZYN-FOUDRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SIXn-iIqFrM",
+   "valeurs": [],
+   "mots": 11
   },
   {
    "pole": "Politique",
@@ -8221,13 +8321,13 @@ window.BOURSE = {
    "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
    "date": "2026-04-15",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "on a les meilleurs ingénieurs, mais on a les les bureaucrates les les plus fous et les politiques les plus soumis.",
+   "citation": "on a les meilleurs ingénieurs, mais on a les bureaucrates les plus fous et les politiques les plus soumis.",
    "ticker": "LISNARD-BUREAUCRATES",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
    "source": "https://youtu.be/mTXT5_TP2v8",
    "valeurs": [],
-   "mots": 21,
+   "mots": 19,
    "candidat": "Candidats 2027"
   },
   {
@@ -8255,7 +8355,7 @@ window.BOURSE = {
    "fonction": "Maire de Cannes, président de l'AMF, candidat à la présidentielle 2027",
    "date": "2026-04-15",
    "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
-   "citation": "si vous voulez plus de policiers, plus d'infirmières, plus de des des profs mieux payés et cetera, il faut qu'il y ait moins de bureaucrates.",
+   "citation": "si vous voulez plus de policiers, plus d'infirmières, plus de profs mieux payés et cetera, il faut qu'il y ait moins de bureaucrates.",
    "ticker": "LISNARD-MOINS-BUREAUCRATES",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
@@ -8264,7 +8364,7 @@ window.BOURSE = {
     "SECU",
     "POLE"
    ],
-   "mots": 25,
+   "mots": 23,
    "candidat": "Candidats 2027"
   },
   {
