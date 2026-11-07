@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:20",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX47.xlsx",
+ "maj": "2026-11-07T15:24",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX48.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12082,6 +12082,106 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/du-pognon-de-dingue-a-la-responsabilisation-des-personnes-le-double-langage-d",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi)",
+   "citation": "Moi, je suis un fonctionnaire instable",
+   "ticker": "CONESA-FONCTIONNAIRE-INSTABLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi)",
+   "citation": "J'ai un cycle d'emmerdement d'à peu près de 5 ans.",
+   "ticker": "CONESA-CYCLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi)",
+   "citation": "Quand on est dans un cercle stratégique et qu'il y a plus d'ennemis, soit tu licencies, soit tu inventes des ennemis.",
+   "ticker": "CONESA-INVENTER-ENNEMIS",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi)",
+   "citation": "la France n'est plus une moyenne puissance, c'est une moyenne impuissance.",
+   "ticker": "CONESA-MOYENNE-IMPUISSANCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi)",
+   "citation": "La propagande, c'est de la publicité politique et la publicité, c'est de la propagande commerciale.",
+   "ticker": "CONESA-PROPAGANDE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre Conesa",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Ancien haut fonctionnaire au ministère de la Défense, essayiste",
+   "date": "2018-04-25",
+   "contexte": "Thinkerview — entretien (géopolitique, diplomatie, fabrication de l'ennemi) — parodie d'un « télégramme diplomatique sans objet » qu'il dit avoir écrit",
+   "citation": "La France, membre permanent du Conseil de sécurité, puissance nucléaire, pays des droits de l'homme ne peut pas se désintéresser de cette région du monde […]",
+   "ticker": "CONESA-TELEGRAMME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/luJBZfVWhXM",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 25
   },
   {
    "pole": "Experts & invités",
