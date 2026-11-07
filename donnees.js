@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:28",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX23.xlsx",
+ "maj": "2026-11-07T14:29",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX24.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7769,6 +7769,107 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Être candidat, c'est pour simplement faire un tour. Pour moi, ça n'a aucun intérêt.",
+   "ticker": "HOLLANDE-UN-TOUR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "il faut être un président grave, faut être un président lourd.",
+   "ticker": "HOLLANDE-GRAVE-LOURD",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [
+    "INST",
+    "INDI"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Je pense qu' ils ne m'ont pas vu partir d'abord.",
+   "ticker": "HOLLANDE-PAS-PARTI",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "on attend pas François Hollande, on attend d'ailleurs personne.",
+   "ticker": "HOLLANDE-PERSONNE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Si je me suis présenté comme président normal, c'est parce que je suis normal.",
+   "ticker": "HOLLANDE-NORMAL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Ancien président de la République, député de Corrèze",
+   "date": "2026-05-27",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin)",
+   "citation": "Être normal, c'est pas être banal.",
+   "ticker": "HOLLANDE-BANAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/o-EwPPFBg5U",
+   "valeurs": [],
+   "mots": 6
   },
   {
    "pole": "Experts & invités",
