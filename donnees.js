@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:38",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX28.xlsx",
+ "maj": "2026-11-07T14:40",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX29.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8915,6 +8915,106 @@ window.BOURSE = {
    "source": "https://youtu.be/2DxeoQoo6o8",
    "valeurs": [],
    "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "L'immigration zéro, c'est une imbécilité absolue.",
+   "ticker": "MENARD-IMMIGRATION-ZERO",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "Tu peux pas demander des efforts à tout le monde et pas en demander aux gens les plus riches.",
+   "ticker": "MENARD-EFFORTS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "Il y a de la cocaïne dans tous les vestiaires aujourd'hui.",
+   "ticker": "MENARD-COCAINE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "à moment donné j'ai dit de vraies conneries",
+   "ticker": "MENARD-CONNERIES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "j'ai le sentiment aujourd'hui de n'avoir jamais été aussi libre.",
+   "ticker": "MENARD-LIBRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-02-20",
+   "contexte": "Bourdin Media — podcast « Les yeux dans les yeux »",
+   "citation": "j'étais un branleur absolu en philo",
+   "ticker": "MENARD-PHILO",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/j8W9yCDjiSU",
+   "valeurs": [],
+   "mots": 6
   },
   {
    "pole": "Politique",
