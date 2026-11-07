@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:30",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX51.xlsx",
+ "maj": "2026-11-07T15:34",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX52.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9948,6 +9948,118 @@ window.BOURSE = {
     "SECU"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "La sécurité c'est un besoin primaire de l'être humain.",
+   "ticker": "MONTBRIAL-BESOIN-PRIMAIRE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "il faut que la peur change de camp.",
+   "ticker": "MONTBRIAL-PEUR-CAMP",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "L'affaissement peut virer à l'effondrement.",
+   "ticker": "MONTBRIAL-EFFONDREMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 5
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "un pays ne peut rester libre, ne peut rester maître de son destin que si sa population est prête à l'engagement au sens le plus large.",
+   "ticker": "MONTBRIAL-ENGAGEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "S'il y a un effondrement moral, on aura perdu avant même qu'il y ait le moindre affrontement.",
+   "ticker": "MONTBRIAL-EFFONDREMENT-MORAL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, fondateur du CRSI, lieutenant-colonel de la réserve opérationnelle de la gendarmerie",
+   "date": "2025-12-08",
+   "contexte": "Thinkerview — entretien en direct (sécurité intérieure, autorité de l'État, résilience)",
+   "citation": "La peur, tu réagis, la crainte, tu t'organises.",
+   "ticker": "MONTBRIAL-PEUR-CRAINTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/kqKxOiZUwXU",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 8
   },
   {
    "pole": "Politique",
