@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T10:55",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX2.xlsx",
+ "maj": "2026-11-07T10:56",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX3.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2482,8 +2482,8 @@ window.BOURSE = {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Bally Bagayoko",
-   "affil": "LFI / NFP",
-   "fonction": "Député / Figure LFI",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
    "date": "2026-10-17",
    "contexte": "France Info (7h40)",
    "citation": "La violence à un moment donné peut être légitime, mais elle doit être évitée. La première violence, c'est la violence institutionnelle.",
@@ -2501,8 +2501,8 @@ window.BOURSE = {
    "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Bally Bagayoko",
-   "affil": "LFI / NFP",
-   "fonction": "Député / Figure LFI",
+   "affil": "LFI",
+   "fonction": "Maire de Saint-Denis",
    "date": "2026-10-17",
    "contexte": "France Info (7h40)",
    "citation": "Vos décisions, le mode d'intervention que vous prévoyez risquent de faire en sorte qu'il y ait des enfants de France qui meurent.",
