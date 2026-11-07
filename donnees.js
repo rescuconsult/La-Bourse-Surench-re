@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:56",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX36.xlsx",
+ "maj": "2026-11-07T14:59",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX37.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10057,6 +10057,119 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "Incroyable l'État qui se prend pour notre père et notre mère en même temps.",
+   "ticker": "KNAFO-ETAT-PARENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "Vous avez dans tous les ministères une armée de hauts fonctionnaires qui se sent investie de la mission de rédiger chaque jour plus de normes.",
+   "ticker": "KNAFO-ARMEE-NORMES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "BUDG",
+    "POLE"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "Dès lors que vous achetez une seule arme américaine, vous n'êtes plus souverain.",
+   "ticker": "KNAFO-ARME-SOUVERAIN",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "BUDG",
+    "POLE"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "les dépenses sociales les plus élevées de tout le monde occidental et pour autant ce sentiment qu'on manque de tout.",
+   "ticker": "KNAFO-MANQUE-DE-TOUT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "ECOL",
+    "BUDG"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "C'est oublier le travailleur, c'est oublier le citoyen.",
+   "ticker": "KNAFO-TRAVAILLEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-05-16",
+   "contexte": "Thinkerview — entretien (finances publiques, souveraineté, Europe)",
+   "citation": "la nation française a toujours beaucoup compté sur l'État.",
+   "ticker": "KNAFO-NATION-ETAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/watch?v=AN98CFjpGuk",
+   "valeurs": [
+    "BUDG",
+    "POPU"
+   ],
+   "mots": 9
   },
   {
    "pole": "Politique",
