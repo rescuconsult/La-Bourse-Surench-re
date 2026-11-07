@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:11",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX43.xlsx",
+ "maj": "2026-11-07T15:12",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX44.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11431,6 +11431,104 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "Dire ce que je veux, à qui je veux, quand je veux, comme je le veux, c'est un luxe absolu.",
+   "ticker": "ONFRAY-LUXE-ABSOLU",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "nous sommes dans une civilisation d'épuisement où nous n'aimons que ce qui nous déteste.",
+   "ticker": "ONFRAY-EPUISEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "Une civilisation dans laquelle l'émotion fait la loi, ça s'appelle la barbarie.",
+   "ticker": "ONFRAY-EMOTION-BARBARIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "Je pense que la France en est à un stade de presque de coma avancé, je dirais.",
+   "ticker": "ONFRAY-COMA",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "Moi je persistais à penser non pas en terme de droite ou de gauche, […] mais en terme de justice, de justesse ou de vérité.",
+   "ticker": "ONFRAY-NI-DROITE-NI-GAUCHE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2020-07-17",
+   "contexte": "Thinkerview — entretien en direct (civilisation, souveraineté, Europe, liberté d'expression)",
+   "citation": "tout le monde veut l'Europe mais une Europe avec des nations qui restent libres.",
+   "ticker": "ONFRAY-EUROPE-NATIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/txl6l5ORhzo",
+   "valeurs": [],
+   "mots": 14
   },
   {
    "pole": "Politique",
