@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:06",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX41.xlsx",
+ "maj": "2026-11-07T15:08",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX42.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11198,6 +11198,106 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "un monde sans frontières, c'est un Titanic",
+   "ticker": "VILLIERS-TITANIC",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "les nations sont les compartiments étanches de la mondialisation",
+   "ticker": "VILLIERS-COMPARTIMENTS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "c'est moi qui a inventé le mot souverainisme",
+   "ticker": "VILLIERS-SOUVERAINISME",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "c'est un peuple créateur et on s'en est toujours sorti",
+   "ticker": "VILLIERS-PEUPLE-CREATEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "on a délégué notre souveraineté militaire à l'OTAN […] on a délégué notre souveraineté pharmaceutique à la Chine",
+   "ticker": "VILLIERS-DELEGATION",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Philippe de Villiers",
+   "affil": "Souverainiste / Essayiste",
+   "fonction": "Fondateur du Puy du Fou, ancien ministre",
+   "date": "2021-05-19",
+   "contexte": "Thinkerview — entretien en direct (souveraineté, mondialisation, Puy du Fou)",
+   "citation": "quand vous n'avez plus la souveraineté, comme vous n'avez plus le régalien, il vous reste que le capitalisme de surveillance",
+   "ticker": "VILLIERS-SURVEILLANCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/q1Lm9aS0Oxg",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 20
   },
   {
    "pole": "Politique",
