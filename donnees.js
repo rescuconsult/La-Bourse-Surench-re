@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:28",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX50.xlsx",
+ "maj": "2026-11-07T15:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX51.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10479,6 +10479,121 @@ window.BOURSE = {
     "INDI"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "moi l'urgence c'est pas les marchés",
+   "ticker": "GUIRAUD-URGENCE-MARCHES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "j'aime pas le misérabilisme",
+   "ticker": "GUIRAUD-MISERABILISME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 4
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "je me dis pas que ça me va qu'une ville comme Roubaix soit sous perfusion de l'argent public",
+   "ticker": "GUIRAUD-PERFUSION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "il y a un contrôle hyper fort sur les plus pauvres […] mais par contre il y a un relâchement quand il s'agit d'aide aux entreprises qui est terrible",
+   "ticker": "GUIRAUD-CONTROLE-PAUVRES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "un policier peut pas résoudre tous les problèmes du monde",
+   "ticker": "GUIRAUD-POLICIER",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "David Guiraud",
+   "affil": "LFI",
+   "fonction": "Député LFI du Nord (8e circonscription)",
+   "date": "2025-01-30",
+   "contexte": "Thinkerview — entretien en direct (Roubaix, pauvreté, fiscalité, sécurité)",
+   "citation": "tu n'es pas obligé de rester statique par rapport à la catastrophe",
+   "ticker": "GUIRAUD-STATIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/Oo8-m8K_foY",
+   "valeurs": [
+    "SECU",
+    "BUDG",
+    "PEUR"
+   ],
+   "mots": 12
   },
   {
    "pole": "Politique",
