@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:32",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX14.xlsx",
+ "maj": "2026-11-07T12:34",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX15.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7294,6 +7294,121 @@ window.BOURSE = {
    "valeurs": [],
    "mots": 7,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "En France, on ne juge plus des gens, on gère des flux.",
+   "ticker": "SEYDIBA-FLUX",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "le système leur permet d'être raciste à ces policiers.",
+   "ticker": "SEYDIBA-SYSTEME",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "IDEN"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "Il y a deux justices clairement.",
+   "ticker": "SEYDIBA-DEUX-JUSTICES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "le principe de mon cabinet, c'est que les plus riches payent pour les plus pauvres.",
+   "ticker": "SEYDIBA-CABINET",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "on devient riche en défendant les plus pauvres",
+   "ticker": "SEYDIBA-RICHE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Seydi Ba",
+   "affil": "Avocat",
+   "fonction": "Avocat pénaliste, auteur de « Comme on traverse un feu. Ce que la robe exige »",
+   "date": "2026-05-15",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — justice et police",
+   "citation": "un magistrat en prison, attendez, il faut faut le chercher",
+   "ticker": "SEYDIBA-MAGISTRAT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/co4kywjl9yY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
   },
   {
    "pole": "Experts & invités",
