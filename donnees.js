@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T12:34",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX15.xlsx",
+ "maj": "2026-11-07T12:36",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX16.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7409,6 +7409,116 @@ window.BOURSE = {
     "JUST"
    ],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "le cauchemar absolu, les extrêmes au second tour de la présidentielle.",
+   "ticker": "YADAN-CAUCHEMAR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "je pense que la France n'est pas antisémite.",
+   "ticker": "YADAN-FRANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "on ne peut pas faire de hiérarchisation dans les racismes.",
+   "ticker": "YADAN-RACISMES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "À partir du moment où on accepte l'inacceptable, on accepte, on banalise en fait le mal",
+   "ticker": "YADAN-INACCEPTABLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "IDEN",
+    "INDI"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "moi je suis une femme de paix",
+   "ticker": "YADAN-PAIX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Caroline Yadan",
+   "affil": "Apparentée Ensemble pour la République",
+   "fonction": "Députée de la 8e circonscription des Français établis hors de France",
+   "date": "2026-04-29",
+   "contexte": "Bourdin Media (entretien avec Jean-Jacques Bourdin) — proposition de loi contre l'antisémitisme",
+   "citation": "les juifs en France aujourd'hui ont leur bagage imaginaire dans l'entrée",
+   "ticker": "YADAN-BAGAGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ViJLMVCBDQg",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 11
   },
   {
    "pole": "Experts & invités",
