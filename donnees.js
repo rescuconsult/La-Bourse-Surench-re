@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:47",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX33.xlsx",
+ "maj": "2026-11-07T14:51",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX34.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -7091,6 +7091,123 @@ window.BOURSE = {
    "source": "https://youtu.be/zi9RqJMV9uk",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique",
+   "citation": "Pourquoi est-ce qu'on appelle à une révolution politique ? Pourquoi est-ce qu'on constitue une armée de l'ombre qui se prépare à diriger le pays ?",
+   "ticker": "BRANCO-ARMEE-OMBRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique",
+   "citation": "la stabilité pour les Français aujourd'hui, c'est une dégradation de leurs conditions de vie au quotidien et encore une fois, c'est la menace de la guerre.",
+   "ticker": "BRANCO-STABILITE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST",
+    "PEUR",
+    "POPU"
+   ],
+   "mots": 26,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique",
+   "citation": "cette guerre majeure dans laquelle encore une fois nous on est les dindons de la farce.",
+   "ticker": "BRANCO-DINDONS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique — à propos de l'Union européenne",
+   "citation": "c'est un édifice bureaucratique lent qui n'est pas en capacité de répondre à la crise",
+   "ticker": "BRANCO-UE-EDIFICE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique",
+   "citation": "l'État souverain est de loin le modèle le plus efficace.",
+   "ticker": "BRANCO-ETAT-SOUVERAIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-09",
+   "contexte": "Entretien en direct sur YouTube (Thinkerview, à confirmer) — campagne présidentielle, géopolitique",
+   "citation": "il va falloir établir un rapport de force.",
+   "ticker": "BRANCO-RAPPORT-FORCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/BwisLTtzSik",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
