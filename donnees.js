@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:38",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX54.xlsx",
+ "maj": "2026-11-07T15:40",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX55.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11138,6 +11138,107 @@ window.BOURSE = {
    ],
    "mots": 10,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "c'est des corps qui tiennent le pays.",
+   "ticker": "MOATTI-CORPS-PAYS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "c'était des castes qui sont seuls habilités à la direction des grands groupes français.",
+   "ticker": "MOATTI-CASTES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "la clé de voûte du système des grands corps, c'est le cabinet ministériel.",
+   "ticker": "MOATTI-CLE-DE-VOUTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "C'est toujours les mêmes qui président les tables rondes dans les cocktails et les déjeuners alors qu'ils ont gravement failli.",
+   "ticker": "MOATTI-COCKTAILS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [
+    "INST",
+    "INDI"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "dès que ces élites se sentent menacées, elles disent “Ah ben, on va faire la diversification sociale”.",
+   "ticker": "MOATTI-DIVERSIFICATION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Alexandre Moatti",
+   "affil": "Haute fonction publique (corps des Mines)",
+   "fonction": "Ingénieur général des mines, chercheur en histoire des sciences (Université Paris Cité)",
+   "date": "2023-10-10",
+   "contexte": "Thinkerview — entretien (« la faille des élites », grands corps de l'État)",
+   "citation": "ces grands corps n'ont jamais été aussi puissants.",
+   "ticker": "MOATTI-PUISSANTS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/5ZimuPQc8cY",
+   "valeurs": [],
+   "mots": 8
   },
   {
    "pole": "Politique",
