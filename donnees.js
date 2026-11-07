@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:26",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX49.xlsx",
+ "maj": "2026-11-07T15:28",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX50.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12182,6 +12182,90 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/du-pognon-de-dingue-a-la-responsabilisation-des-personnes-le-double-langage-d",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Fabrice Arfi",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, responsable du pôle enquêtes de Mediapart",
+   "date": "2018-05-23",
+   "contexte": "Thinkerview — entretien en direct (journalisme d'investigation, secret, corruption)",
+   "citation": "nous journalistes, on est là pour documenter le réel tel qu'il est, mettre sur la table des informations d'intérêt public",
+   "ticker": "ARFI-DOCUMENTER-REEL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/U-mpUyTOrLI",
+   "valeurs": [],
+   "mots": 20
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Fabrice Arfi",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, responsable du pôle enquêtes de Mediapart",
+   "date": "2018-05-23",
+   "contexte": "Thinkerview — entretien en direct (journalisme d'investigation, secret, corruption)",
+   "citation": "j'ai toujours considéré qu'il fallait du secret en démocratie.",
+   "ticker": "ARFI-SECRET-DEMOCRATIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/U-mpUyTOrLI",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Fabrice Arfi",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, responsable du pôle enquêtes de Mediapart",
+   "date": "2018-05-23",
+   "contexte": "Thinkerview — entretien en direct (journalisme d'investigation, secret, corruption)",
+   "citation": "on voit beaucoup de pouvoirs exécutifs utiliser et agiter le secret pour protéger des intérêts qui n'ont rien à voir avec l'objet que le secret est censé protéger.",
+   "ticker": "ARFI-AGITER-SECRET",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/U-mpUyTOrLI",
+   "valeurs": [],
+   "mots": 28
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Fabrice Arfi",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, responsable du pôle enquêtes de Mediapart",
+   "date": "2018-05-23",
+   "contexte": "Thinkerview — entretien en direct (journalisme d'investigation, secret, corruption)",
+   "citation": "dans toutes les enquêtes que j'ai faites, j'y ai trouvé deux invariants […] le deuxième invariant, c'est le sentiment d'impunité.",
+   "ticker": "ARFI-IMPUNITE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/U-mpUyTOrLI",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Fabrice Arfi",
+   "affil": "Mediapart",
+   "fonction": "Journaliste, responsable du pôle enquêtes de Mediapart",
+   "date": "2018-05-23",
+   "contexte": "Thinkerview — entretien en direct (journalisme d'investigation, secret, corruption)",
+   "citation": "C'est les paradis fiscaux, espèce de boîte noire comme ça au cœur de la mondialisation",
+   "ticker": "ARFI-BOITE-NOIRE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/U-mpUyTOrLI",
+   "valeurs": [],
+   "mots": 15
   },
   {
    "pole": "Experts & invités",
