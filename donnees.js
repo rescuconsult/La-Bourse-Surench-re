@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T14:41",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX30.xlsx",
+ "maj": "2026-11-07T14:43",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX31.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9015,6 +9015,120 @@ window.BOURSE = {
    "source": "https://youtu.be/j8W9yCDjiSU",
    "valeurs": [],
    "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "Unité SGP Police",
+   "fonction": "Brigadier-cheffe, secrétaire nationale du syndicat Unité SGP Police",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "les décisions de justice, elles sont incomprises par les policiers.",
+   "ticker": "KEBBAB-INCOMPRISES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "Unité SGP Police",
+   "fonction": "Brigadier-cheffe, secrétaire nationale du syndicat Unité SGP Police",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "ils avaient pas encore terminé le procès verbal qu'il était libéré.",
+   "ticker": "KEBBAB-PROCES-VERBAL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Linda Kebbab",
+   "affil": "Unité SGP Police",
+   "fonction": "Brigadier-cheffe, secrétaire nationale du syndicat Unité SGP Police",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "les remontées des collègues, c'est la perte de sens.",
+   "ticker": "KEBBAB-PERTE-DE-SENS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Martini",
+   "affil": "USM (Union syndicale des magistrats)",
+   "fonction": "Procureur adjoint de la République (Meaux), secrétaire général adjoint de l'USM",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "la police sans la justice ne peut rien et l'inverse est vrai aussi.",
+   "ticker": "MARTINI-POLICE-JUSTICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Martini",
+   "affil": "USM (Union syndicale des magistrats)",
+   "fonction": "Procureur adjoint de la République (Meaux), secrétaire général adjoint de l'USM",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "La justice pénale dans ce pays, elle est extrêmement ferme",
+   "ticker": "MARTINI-FERME",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Aurélien Martini",
+   "affil": "USM (Union syndicale des magistrats)",
+   "fonction": "Procureur adjoint de la République (Meaux), secrétaire général adjoint de l'USM",
+   "date": "2026-02-18",
+   "contexte": "Bourdin Media — débat police / justice (Linda Kebbab et Aurélien Martini)",
+   "citation": "Quand un maillon de la chaîne qui dysfonctionne, c'est toute la chaîne qui dysfonctionne.",
+   "ticker": "MARTINI-MAILLON",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/F7BWVj2tdno",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 14
   },
   {
    "pole": "Politique",
