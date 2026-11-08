@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:03",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX.xlsx",
+ "maj": "2026-11-08T09:11",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX2.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1903,6 +1903,117 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 3
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027)",
+   "citation": "ce que nous disons nous, c'est qu'il faut les régler de manière démocratique. […] utiliser nos bulletins de vote plutôt que la violence pour régler les problèmes.",
+   "ticker": "LEAUMENT-BULLETINS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027)",
+   "citation": "Les médias, ils sont libres quand ils sont pluralistes.",
+   "ticker": "LEAUMENT-PLURALISME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027)",
+   "citation": "il y avait une promesse républicaine avant qui était quand on a le bac, on a le droit d'accéder aux études supérieures et aux études universitaires.",
+   "ticker": "LEAUMENT-PROMESSE-BAC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027) — à propos de la sélection à l'université",
+   "citation": "c'est pas une question de démagogie, c'est une question de qu'est-ce qu'on veut comme société",
+   "ticker": "LEAUMENT-DEMAGOGIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027) — à propos de ceux qui moquaient les « députés youtubeurs »",
+   "citation": "Bien fait, ils avaient qu'à pas être méprisant.",
+   "ticker": "LEAUMENT-BIEN-FAIT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Antoine Léaument",
+   "affil": "LFI",
+   "fonction": "Député de l’Essonne",
+   "date": "2026-10-28",
+   "contexte": "Sud Radio, invité de la matinale (violence politique, médias, université, campagne 2027) — à propos des relations internationales",
+   "citation": "il y a pas de gentil dans le monde.",
+   "ticker": "LEAUMENT-PAS-DE-GENTIL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/GERXbc2TDEg",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
   },
   {
    "pole": "Médiatique",
