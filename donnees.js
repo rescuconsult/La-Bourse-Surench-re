@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T11:00",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX32.xlsx",
+ "maj": "2026-11-08T11:05",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX33.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12533,6 +12533,163 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Président du groupe Droite républicaine à l'Assemblée nationale, candidat à la présidence des Républicains",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "Le RSA, ça doit être une aide temporaire quand on connaît un accident de la vie.",
+   "ticker": "WAUQUIEZ-RSA-TEMPORAIRE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Président du groupe Droite républicaine à l'Assemblée nationale, candidat à la présidence des Républicains",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "La vraie solidarité, c'est pas d'aider des gens qui peuvent repartir au travail par des aides sociales, c'est de les ramener en direction du travail.",
+   "ticker": "WAUQUIEZ-VRAIE-SOLIDARITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Président du groupe Droite républicaine à l'Assemblée nationale, candidat à la présidence des Républicains",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "Moi, je suis favorable à ce qu'il y a plus de riches.",
+   "ticker": "WAUQUIEZ-PLUS-DE-RICHES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Président du groupe Droite républicaine à l'Assemblée nationale, candidat à la présidence des Républicains",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "La sanction ça peut être des travaux d'intérêt général. C'est-à-dire que quand on a fait une dégradation, et ben on répare les dégâts qu'on a fait.",
+   "ticker": "WAUQUIEZ-REPARER-DEGATS",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "BUDG",
+    "AUTO"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Manuel Bompard",
+   "affil": "LFI",
+   "fonction": "Coordinateur national de LFI",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "Si vous voulez qu'on s'envoie des attaques à la figure pendant toute la soirée, j'ai mon stock, je l'ai avec moi.",
+   "ticker": "BOMPARD-MON-STOCK",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG",
+    "POLE"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Manuel Bompard",
+   "affil": "LFI",
+   "fonction": "Coordinateur national de LFI",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "je suis favorable à ce qu'on fasse en sorte que dans ce pays, les plus riches, les plus grandes fortunes contribuent davantage.",
+   "ticker": "BOMPARD-GRANDES-FORTUNES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Manuel Bompard",
+   "affil": "LFI",
+   "fonction": "Coordinateur national de LFI",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "vous dites prison, prison, prison. Et le problème, vous savez, c'est que la prison produit de la récidive.",
+   "ticker": "BOMPARD-PRISON-RECIDIVE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "BUDG",
+    "POLE"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Manuel Bompard",
+   "affil": "LFI",
+   "fonction": "Coordinateur national de LFI",
+   "date": "2025-05-12",
+   "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
+   "citation": "Attaquez-moi sur mon programme, attaquez-moi sur ce que je propose réellement.",
+   "ticker": "BOMPARD-ATTAQUEZ-MOI",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/vuBwwwctaCU",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Jean-Luc Mélenchon",
    "affil": "La France Insoumise",
@@ -16694,6 +16851,44 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Valéry Giscard d'Estaing",
+   "affil": "Républicains indépendants",
+   "fonction": "Ministre de l'Économie et des Finances, candidat à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "vous n'avez pas, monsieur Mitterrand, le monopole du cœur. Vous ne l'avez pas. J'ai un cœur comme le vôtre qui bat sa cadence et qui est le mien.",
+   "ticker": "GISCARD-MONOPOLE-DU-COEUR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Valéry Giscard d'Estaing",
+   "affil": "Républicains indépendants",
+   "fonction": "Ministre de l'Économie et des Finances, candidat à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "vous êtes un homme qui est lié au passé par toutes vos fibres",
+   "ticker": "GISCARD-LIE-AU-PASSE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 13
   },
   {
    "pole": "Politique",
