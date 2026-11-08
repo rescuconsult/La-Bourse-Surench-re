@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:24",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX26.xlsx",
+ "maj": "2026-11-08T10:34",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX27.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -13800,6 +13800,121 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "l'égalité est un combat qui peut être gagné",
+   "ticker": "PIKETTY-COMBAT-GAGNE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "rien ne peut remplacer les luttes sociales, les mobilisations politiques, la réappropriation citoyenne des questions économiques et financières",
+   "ticker": "PIKETTY-REAPPROPRIATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "on a réussi à inventer un système d'enseignement supérieur en toute bonne conscience républicaine, comme il se doit",
+   "ticker": "PIKETTY-BONNE-CONSCIENCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "MANF"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "il suffit pas de bazarder les institutions actuelles, il faut savoir par lesquelles on les remplace",
+   "ticker": "PIKETTY-BAZARDER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "les conceptions économiques sont des conceptions à chaque fois historiquement datées",
+   "ticker": "PIKETTY-CONCEPTIONS-DATEES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2021-09-15",
+   "contexte": "France Culture, « La Grande Table » (Olivia Gesbert) — à propos de « Une brève histoire de l'égalité » (Seuil) — marche vers l'égalité, institutions, mobilisations",
+   "citation": "les conservatismes peuvent être remis en cause par des événements",
+   "ticker": "PIKETTY-CONSERVATISMES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/h95miOOnHLg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 10
   },
   {
    "pole": "Politique",
