@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:33",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX10.xlsx",
+ "maj": "2026-11-08T09:35",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX11.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2098,6 +2098,108 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "on est devenu un pays méprisant et nous mourrons à cause de ce mépris.",
+   "ticker": "BOUAMRANE-PAYS-MEPRISANT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "La gauche, mon camp, a toujours traité avec mépris ceux qui se prenaient en pleine figure, le déclassement, le ghetto territorial, l'absence de services publics",
+   "ticker": "BOUAMRANE-GAUCHE-MEPRIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "c'est une question à la con ! Quand on fait de la politique, on ne raisonne pas comme ça !",
+   "ticker": "BOUAMRANE-QUESTION-A-LA-CON",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "Ce n'est pas parce que tu penses que la sécurité, il faut mettre des gens en prison, que tu es un facho méprisable.",
+   "ticker": "MENARD-FACHO-MEPRISABLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "Parce que je ne leur raconte pas des craques, madame.",
+   "ticker": "MENARD-CRAQUES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-01",
+   "contexte": "Débat Robert Ménard / Karim Bouamrane, émission de Sonia Mabrouk (chaîne à confirmer) — « l'espoir ou le mépris », à la sortie du livre de K. Bouamrane",
+   "citation": "C'est ce qui me différencie d'un homme politique. C'est que je réponds clairement aux questions qu'on me pose.",
+   "ticker": "MENARD-HOMME-POLITIQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gtyhVVue8pY",
+   "valeurs": [],
+   "mots": 18
   },
   {
    "pole": "Médiatique",
