@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:44",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX15.xlsx",
+ "maj": "2026-11-08T09:49",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX16.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -13874,6 +13874,111 @@ window.BOURSE = {
     "INDI"
    ],
    "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "Si les gens savaient qu'il n'y a pas de pilote dans l'avion, là ils auraient vraiment peur.",
+   "ticker": "TODD-PILOTE-ABSENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [
+    "PEUR",
+    "POPU"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "le véritable drame de la période, c'est que les gens qui sont en haut sont aussi perdus ou aussi égarés dans l'histoire",
+   "ticker": "TODD-ELITE-EGAREE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "j'ai perdu tous mes combats politiques. J'étais contre l'euro",
+   "ticker": "TODD-COMBATS-PERDUS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "tous ces systèmes d'encadrement collectifs ou de moralité collective se sont effondrés",
+   "ticker": "TODD-MORALE-EFFONDREE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "quand on a peur du déclassement, on se retourne vers ce qui est en dessous",
+   "ticker": "TODD-PEUR-DECLASSEMENT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2018-11-07",
+   "contexte": "Thinkerview — entretien en direct (archive 2018) — élites, euro, morale collective, déclassement",
+   "citation": "si on veut transformer les choses, il faut un appareil",
+   "ticker": "TODD-APPAREIL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/6adEOQR3ea4",
+   "valeurs": [],
+   "mots": 10
   },
   {
    "pole": "Politique",
