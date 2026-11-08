@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:36",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX28.xlsx",
+ "maj": "2026-11-08T10:44",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX29.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -757,6 +757,27 @@ window.BOURSE = {
     "MANF"
    ],
    "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-11-05",
+   "contexte": "Prise de parole du matin (extrait diffusé sur CNews le 05/11/2026) — réponse à la polémique sur les propos d'un autre candidat",
+   "citation": "La République, elle est une et indivisible. Donc distinguer les Français, c'est rentrer dans une logique où on les sépare selon la couleur de peau, selon la religion.",
+   "ticker": "VILLEPIN-UNE-ET-INDIVISIBLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2A_u_vLHAgU",
+   "valeurs": [
+    "INST",
+    "IDEN",
+    "POPU"
+   ],
+   "mots": 28,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
