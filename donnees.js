@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:25",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX6.xlsx",
+ "maj": "2026-11-08T09:28",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX7.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,106 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale",
+   "citation": "la République c'est pas la tyrannie des minorités, c'est éventuellement la tyrannie des majorités.",
+   "ticker": "ONFRAY-TYRANNIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale",
+   "citation": "la révolution finit toujours à un moment donné par décapiter celui-ci qui est pas assez révolutionnaire.",
+   "ticker": "ONFRAY-DECAPITER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale",
+   "citation": "on commence par s'attaquer à la presse libre et puis après on s'attaque à toutes les presses en disant c'est nous qui allons dire la vérité.",
+   "ticker": "ONFRAY-PRESSE-LIBRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [],
+   "mots": 26
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale",
+   "citation": "Moi je pense simplement que la liberté elle devrait être totale et générale.",
+   "ticker": "ONFRAY-LIBERTE-TOTALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale",
+   "citation": "tant que le peuple sera le souverain, il pourra changer les lois.",
+   "ticker": "ONFRAY-PEUPLE-SOUVERAIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Essayiste / Philosophe",
+   "fonction": "Philosophe",
+   "date": "2026-11-07",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray » — mouvement lycéen, liberté de la presse, mémoire de la Seconde Guerre mondiale — à propos de la mémoire de la Résistance",
+   "citation": "ces silences dans l'histoire ont contribué à fabriquer des mythologies, mythologies dont on ne se défait pas.",
+   "ticker": "ONFRAY-MYTHOLOGIES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/nbU3Lapm7Wk",
+   "valeurs": [],
+   "mots": 17
+  },
   {
    "pole": "Médiatique",
    "famille": null,
