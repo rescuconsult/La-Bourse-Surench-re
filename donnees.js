@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:06",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX19.xlsx",
+ "maj": "2026-11-08T10:09",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX20.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -14409,6 +14409,121 @@ window.BOURSE = {
     "SECU"
    ],
    "mots": 25
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "je crois que la violence est précisément le viol de l'humanité de l'homme",
+   "ticker": "MULLER-VIOL-HUMANITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "c'est significatif que le 14 juillet, par exemple, on fait défiler l'armée […] et non pas, par exemple, les bergers ou les intellectuels",
+   "ticker": "MULLER-DEFILE-BERGERS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "l'idéologie de la violence est une forme de crétinerie",
+   "ticker": "MULLER-CRETINERIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "la violence de contestation se contredit elle-même",
+   "ticker": "MULLER-CONTESTATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "la sanction doit être un facteur d'insertion",
+   "ticker": "MULLER-SANCTION-INSERTION",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jean-Marie Muller",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Philosophe, théoricien de la non-violence (cofondateur du MAN)",
+   "date": "2017-12-03",
+   "contexte": "Thinkerview (YouTube) — entretien (archive 2017) — non-violence, conflit, violence légitime, justice",
+   "citation": "la majorité peut se tromper, mais comment prendre des décisions sinon par l'expression d'une majorité ?",
+   "ticker": "MULLER-MAJORITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/8xL6XxKTieA",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 15
   },
   {
    "pole": "Experts & invités",
