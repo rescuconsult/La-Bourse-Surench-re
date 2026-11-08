@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:19",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX24.xlsx",
+ "maj": "2026-11-08T10:22",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX25.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12424,6 +12424,114 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "moi je l'appelle l'idéologie de la discorde : tout est motif de discorde",
+   "ticker": "TAVOILLOT-DISCORDE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "la France est un peuple d'intellectuels",
+   "ticker": "TAVOILLOT-PEUPLE-INTELLECTUELS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "la démocratie c'est le seul régime qui dit tout le monde est adulte. On a du mal à être adulte ensemble",
+   "ticker": "TAVOILLOT-ADULTES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "la clé absolue c'est de se dire : voilà, les autres sont pas des idiots et sont pas des salauds",
+   "ticker": "TAVOILLOT-NI-IDIOTS-NI-SALAUDS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "une discussion c'est pas avoir raison, une discussion c'est partager des opinions",
+   "ticker": "TAVOILLOT-DISCUSSION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Pierre-Henri Tavoillot",
+   "affil": "Philosophe, politologue",
+   "fonction": "Philosophe, politologue, président du Collège de philosophie",
+   "date": "2024-11-25",
+   "contexte": "Sud Radio, « La vérité en face » (Patrick Roger) — à propos de son livre « Voulons-nous encore vivre ensemble ? » (Odile Jacob) — conflictualité, débat, démocratie",
+   "citation": "le doute c'est ce qui nous permet d'entrer en contact avec les autres",
+   "ticker": "TAVOILLOT-DOUTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/VEiN04QzSMs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
   },
   {
    "pole": "Politique",
