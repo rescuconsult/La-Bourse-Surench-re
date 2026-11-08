@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T11:10",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX35.xlsx",
+ "maj": "2026-11-08T14:03",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX36.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16458,6 +16458,116 @@ window.BOURSE = {
    "famille": "Gauche",
    "auteur": "François Hollande",
    "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "un président qui ne veut pas être président de tout, chef de tout, et en définitive responsable de rien",
+   "ticker": "HOLLANDE-RESPONSABLE-DE-RIEN",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "moi président de la République, je ne serai pas le chef de la majorité",
+   "ticker": "HOLLANDE-PAS-CHEF-MAJORITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "moi président de la République, je ne traiterai pas mon Premier ministre de collaborateur",
+   "ticker": "HOLLANDE-COLLABORATEUR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "moi président de la République, je ferai en sorte que mon comportement soit à chaque instant exemplaire",
+   "ticker": "HOLLANDE-EXEMPLAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "moi président de la République, je constituerai un gouvernement qui sera paritaire, autant de femmes que d'hommes",
+   "ticker": "HOLLANDE-PARITAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 2012",
+   "date": "2012-05-02",
+   "contexte": "France 2 / TF1 — débat télévisé de l'entre-deux-tours de la présidentielle 2012 : tirade « Moi président de la République »",
+   "citation": "rien n'est normal quand on est président de la République, puisque les conditions sont exceptionnelles",
+   "ticker": "HOLLANDE-RIEN-N-EST-NORMAL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/53b-pBPvjmA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Hollande",
+   "affil": "PS",
    "fonction": "Candidat à l’élection présidentielle",
    "date": "2012-01-22",
    "contexte": "Meeting du Bourget",
@@ -16922,6 +17032,24 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Lionel Jospin",
+   "affil": "Parti socialiste",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "il vaut mieux cinq ans avec Jospin que sept ans avec Jacques Chirac",
+   "ticker": "JOSPIN-CINQ-ANS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
    "famille": "Droite",
    "auteur": "Jacques Chirac",
    "affil": "RPR",
@@ -17081,6 +17209,24 @@ window.BOURSE = {
    "ticker": "MARCHAIS-PAYS-RICHE",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Président du RPR, maire de Paris, tête de liste Défense des intérêts de la France en Europe (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "Il ne suffit pas d'affirmer, monsieur Marchais, pour dire la vérité.",
+   "ticker": "CHIRAC-IL-NE-SUFFIT-PAS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
    "source": "https://youtu.be/UFyRS3_n_rc",
    "valeurs": [
     "INST"
