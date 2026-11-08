@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:44",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX29.xlsx",
+ "maj": "2026-11-08T11:00",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX32.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,131 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Pierre Farandou",
+   "affil": "Sans étiquette / Gouvernement",
+   "fonction": "Ministre du Travail",
+   "date": "2026-11-07",
+   "contexte": "Entretien à La Tribune Dimanche (parution du 08/11), repris par l'AFP le 07/11, avant la conférence sociale de Matignon",
+   "citation": "Je ne proposerai pas de mesure qui nuirait à l'emploi",
+   "ticker": "FARANDOU-SMIC",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/societe/hausse-du-smic-ne-pas-nuire-a-lemploi-demande-farandou",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Candidat LFI à l’élection présidentielle 2027",
+   "date": "2026-11-07",
+   "contexte": "Meeting LFI, Parc des expositions du Bourget, 07/11 (présentation du programme L'Avenir en commun)",
+   "citation": "Ils font une politique dans un sens, nous allons faire exactement le contraire",
+   "ticker": "MELENCHON-CONTRAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/je-vais-l-offrir-a-mes-grands-parents-au-meeting-de-melenchon-les-militants-repartent",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Assita Kanko",
+   "affil": "N-VA / ECR (Belgique)",
+   "fonction": "Eurodéputée",
+   "date": "2026-11-07",
+   "contexte": "Public Sénat / LCP, Ici l'Europe, « L'Europe face aux colères sociales », 07/11",
+   "citation": "On ne peut pas dépenser, dépenser, dépenser sans créer de la valeur et de la prospérité durable.",
+   "ticker": "KANKO-DEPENSER",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/mobilisation-de-la-jeunesse-nous-avons-construit-un-etat-providence-qui-fonctionne-seulement-pour-les-adultes-reconnait-cette-eurodeputee",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Emma Fourreau",
+   "affil": "LFI (La Gauche, Parlement européen)",
+   "fonction": "Eurodéputée",
+   "date": "2026-11-07",
+   "contexte": "Public Sénat / LCP, Ici l'Europe, « L'Europe face aux colères sociales », 07/11",
+   "citation": "Notre place est toujours du côté de ceux qui manifestent pour leur dignité dans la vie.",
+   "ticker": "FOURREAU-DIGNITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/mobilisation-de-la-jeunesse-nous-avons-construit-un-etat-providence-qui-fonctionne-seulement-pour-les-adultes-reconnait-cette-eurodeputee",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Hélène Denéchère",
+   "affil": "Préfecture de police de Paris",
+   "fonction": "Porte-parole de la préfecture de police",
+   "date": "2026-11-07",
+   "contexte": "franceinfo, matinale du 07/11 (avant la manifestation parisienne, acte IV)",
+   "citation": "Lorsque l’on entend la détermination de prendre la Concorde, on peut effectivement craindre des troubles à l’ordre public",
+   "ticker": "DENECHERE-CONCORDE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france",
+   "valeurs": [
+    "SECU",
+    "MANF",
+    "AUTO"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Benjamin Ball",
+   "affil": "Coordination des Gilets jaunes",
+   "fonction": "Membre de la coordination des Gilets jaunes",
+   "date": "2026-11-07",
+   "contexte": "Sud Radio, Grand Matin Week-End, 07/11 (parcours de la manifestation vers l'Assemblée)",
+   "citation": "Ce qui est dangereux pour le pouvoir, c'est le symbole du peuple face à l'Assemblée",
+   "ticker": "BALL-ASSEMBLEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/en-direct-lacte-4-des-gilets-jaunes-avec-90-mobilisations-dans-toute-la-france",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "PEUR"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Bernard Cohen-Hadad",
+   "affil": "CPME Paris",
+   "fonction": "Président de la CPME Paris et du think tank Étienne Marcel",
+   "date": "2026-11-07",
+   "contexte": "Sud Radio, L'invité éco du samedi (nom de l'émission à confirmer), 07/11",
+   "citation": "Nous avons le sentiment que les commerçants, les indépendants, les professions libérales et les artisans sont devenus les nouveaux pauvres.",
+   "ticker": "COHEN-HADAD-NOUVEAUX-PAUVRES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/sud-radio/bernard-cohen-hadad-les-commercants-et-les-independants-sont-devenus-les-nouveaux-pauvres",
+   "valeurs": [],
+   "mots": 20
+  },
   {
    "pole": "Experts & invités",
    "famille": null,
@@ -129,6 +254,63 @@ window.BOURSE = {
    "source": "https://youtu.be/nbU3Lapm7Wk",
    "valeurs": [],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Laurent Nuñez",
+   "affil": "Gouvernement",
+   "fonction": "Ministre de l’Intérieur",
+   "date": "2026-11-06",
+   "contexte": "Conférence de presse au ministère de l’Intérieur (dispositif de sécurité pour les manifestations du 07/11), 06/11",
+   "citation": "S'il devait y avoir des casseurs et des pilleurs, […] on les attendra de pied ferme",
+   "ticker": "NUNEZ-PIED-FERME",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/societe/manifestations-samedi-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises",
+   "valeurs": [
+    "SECU",
+    "VIOL",
+    "MANF"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Laurent Nuñez",
+   "affil": "Gouvernement",
+   "fonction": "Ministre de l’Intérieur",
+   "date": "2026-11-06",
+   "contexte": "Point presse du vendredi soir 06/11 (après l’annonce d’une saisine de la CJR par des avocats de manifestants blessés)",
+   "citation": "Je serai prêt à répondre de toute plainte qui est déposée contre moi",
+   "ticker": "NUNEZ-PLAINTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/societe/manifestants-blesses-des-avocats-annoncent-saisir-la-cjr-contre-laurent-nunez",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Candidat LFI à l’élection présidentielle 2027",
+   "date": "2026-11-06",
+   "contexte": "Introduction écrite du livre-programme de LFI pour 2027 (« La nouvelle France »), paru le 06/11",
+   "citation": "Le choix que nous allons faire en 2027, à l’occasion de l’élection présidentielle, est historique",
+   "ticker": "MELENCHON-HISTORIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -367,6 +549,43 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Agnès Verdier-Molinié",
+   "affil": "Fondation iFRAP",
+   "fonction": "Directrice de la Fondation iFRAP",
+   "date": "2026-11-06",
+   "contexte": "Sud Radio, Le Grand Matin (entretien avec Benjamin Glaise), 06/11",
+   "citation": "On a cassé la croissance potentielle de la France par plus de dépenses publiques et plus de taxes.",
+   "ticker": "VERDIER-MOLINIE-CROISSANCE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/sud-radio/agnes-verdier-molinie-non-la-solution-nest-pas-de-taxer-les-riches",
+   "valeurs": [
+    "VIOL",
+    "BUDG"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Benjamin Ball",
+   "affil": "Gilets jaunes (coordination)",
+   "fonction": "Membre de la coordination des gilets jaunes",
+   "date": "2026-11-06",
+   "contexte": "Déclaration à la presse à la sortie de la préfecture de police de Paris, 06/11 (veille de l’« acte IV » du 07/11)",
+   "citation": "Nous appelons à désobéir massivement",
+   "ticker": "BALL-DESOBEIR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/societe/acte-iv-de-la-colere-sociale-avant-les-annonces-attendues-du-gouvernement",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 5
   },
   {
    "pole": "Experts & invités",
@@ -918,6 +1137,25 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement",
    "valeurs": [],
    "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Sophie Binet",
+   "affil": "CGT",
+   "fonction": "Secrétaire générale de la CGT",
+   "date": "2026-11-05",
+   "contexte": "Manifestation parisienne du 05/11 (République → Nation), mobilisation contre la vie chère",
+   "citation": "Jamais on a eu autant d’entraves à la liberté de manifester",
+   "ticker": "BINET-LIBERTE-MANIFESTER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/societe/reportage-manifestation-a-paris-a-6-mois-de-lelection-presidentielle-on-veut-montrer-quon-est-la-pour-defendre-notre-etat-de-droit",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
@@ -13268,6 +13506,27 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "LR",
+   "fonction": "Président du groupe LR au Sénat",
+   "date": "2023-07-05",
+   "contexte": "Sénat, questions d’actualité au gouvernement, 05/07/2023 (« Violences urbaines (IV) »)",
+   "citation": "Un émeutier n'est pas un déshérité ; un délinquant, pas une victime",
+   "ticker": "RETAILLEAU-EMEUTIER",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.senat.fr/cra/s20230705/s20230705_mono.html",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
    "famille": "Centre & exécutif",
    "auteur": "Élisabeth Borne",
    "affil": "Renaissance",
@@ -13283,6 +13542,65 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gérald Darmanin",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l’Intérieur",
+   "date": "2023-07-04",
+   "contexte": "Assemblée nationale, questions au gouvernement, 04/07/2023 (réponse au député RN Michaël Taverne)",
+   "citation": "Il faut se rappeler que la République est un équilibre. Oui, l'ordre juste, mais pas juste l'ordre",
+   "ticker": "DARMANIN-ORDRE-JUSTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/emeutes-a-l-assemblee-elisabeth-borne-appelle-a-l-unite-nationale-reprochant-a-lfi-et-au",
+   "valeurs": [
+    "INST",
+    "AUTO"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Mathilde Panot",
+   "affil": "LFI",
+   "fonction": "Présidente du groupe LFI à l’Assemblée nationale",
+   "date": "2023-07-04",
+   "contexte": "Assemblée nationale, questions au gouvernement, 04/07/2023 (question à la Première ministre)",
+   "citation": "Comment un jeune de 17 ans peut-il être tué par un policier en République française ?",
+   "ticker": "PANOT-REPUBLIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/emeutes-a-l-assemblee-elisabeth-borne-appelle-a-l-unite-nationale-reprochant-a-lfi-et-au",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "RN",
+   "fonction": "Présidente du groupe RN à l’Assemblée nationale",
+   "date": "2023-07-04",
+   "contexte": "Assemblée nationale, questions au gouvernement, 04/07/2023 (dernière question de la séance, émeutes)",
+   "citation": "Qu'avez-vous fait de la France ?",
+   "ticker": "LE-PEN-FRANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/emeutes-a-l-assemblee-elisabeth-borne-appelle-a-l-unite-nationale-reprochant-a-lfi-et-au",
+   "valeurs": [
+    "INST",
+    "VIOL",
+    "POLE"
+   ],
+   "mots": 5,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -13321,6 +13639,26 @@ window.BOURSE = {
     "VIOL"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "Renaissance / Exécutif",
+   "fonction": "Président de la République",
+   "date": "2023-06-30",
+   "contexte": "Déclaration après la réunion de la cellule interministérielle de crise (émeutes après la mort de Nahel), 30/06/2023",
+   "citation": "Il y a une instrumentalisation de la mort d'un adolescent, que nous déplorons tous, alors que la période devrait être au recueillement et au respect",
+   "ticker": "MACRON-INSTRUMENTALISATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/emeutes-emmanuel-macron-annonce-le-deploiement-de-moyens-supplementaires-par-le-ministere-de-linterieur",
+   "valeurs": [
+    "VIOL",
+    "PEUR",
+    "POLE"
+   ],
+   "mots": 25
   },
   {
    "pole": "Médiatique",
@@ -14192,6 +14530,64 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "LREM",
+   "fonction": "Président de la République",
+   "date": "2020-10-02",
+   "contexte": "Discours « La République en actes » sur la lutte contre les séparatismes, Les Mureaux (Yvelines)",
+   "citation": "je demande à tout citoyen, quelle que soit sa religion ou pas, de respecter absolument toutes les lois de la République.",
+   "ticker": "MACRON-LOIS-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.elysee.fr/emmanuel-macron/2020/10/02/la-republique-en-actes-discours-du-president-de-la-republique-sur-le-theme-de-la-lutte-contre-les-separatismes",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "LREM",
+   "fonction": "Président de la République",
+   "date": "2020-10-02",
+   "contexte": "Discours « La République en actes » sur la lutte contre les séparatismes, Les Mureaux (Yvelines)",
+   "citation": "Et la réponse passe par des mesures d'ordre public, elle passe aussi par des mesures de réengagement de la République",
+   "ticker": "MACRON-ORDRE-REENGAGEMENT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/emmanuel-macron/2020/10/02/la-republique-en-actes-discours-du-president-de-la-republique-sur-le-theme-de-la-lutte-contre-les-separatismes",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "IDEN"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "LREM",
+   "fonction": "Président de la République",
+   "date": "2020-10-02",
+   "contexte": "Discours « La République en actes » sur la lutte contre les séparatismes, Les Mureaux (Yvelines)",
+   "citation": "Les actes sont là, je les assume, le Gouvernement avec moi, ils valent souvent mieux que les mots.",
+   "ticker": "MACRON-ACTES-MOTS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.elysee.fr/emmanuel-macron/2020/10/02/la-republique-en-actes-discours-du-president-de-la-republique-sur-le-theme-de-la-lutte-contre-les-separatismes",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
    "auteur": "Gérald Darmanin",
    "affil": "LREM / Gouvernement",
    "fonction": "Ministre de l’Intérieur",
@@ -14572,6 +14968,86 @@ window.BOURSE = {
     "SECU",
     "INST",
     "INDI"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "André Chassaigne",
+   "affil": "PCF",
+   "fonction": "Président du groupe GDR à l’Assemblée nationale",
+   "date": "2018-12-13",
+   "contexte": "Assemblée nationale, débat sur la motion de censure (gilets jaunes), 13/12/2018",
+   "citation": "Nos concitoyens sont conscients de votre responsabilité directe dans le sort qui leur est fait, lequel conjugue déclassement social et matraquage fiscal.",
+   "ticker": "CHASSAIGNE-MATRAQUAGE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2018-2019/seance-du-jeudi-13-decembre-2018.pdf",
+   "valeurs": [
+    "INST",
+    "BUDG",
+    "POLE",
+    "POPU"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "LFI",
+   "fonction": "Président du groupe LFI à l’Assemblée nationale",
+   "date": "2018-12-13",
+   "contexte": "Assemblée nationale, débat sur la motion de censure (gilets jaunes), 13/12/2018",
+   "citation": "Nous avons besoin d’abolir d’urgence les privilèges fiscaux, tous les privilèges fiscaux !",
+   "ticker": "MELENCHON-PRIVILEGES-FISCAUX",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2018-2019/seance-du-jeudi-13-decembre-2018.pdf",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Christophe Lagarde",
+   "affil": "UDI",
+   "fonction": "Président du groupe UDI-Agir à l’Assemblée nationale",
+   "date": "2018-12-13",
+   "contexte": "Assemblée nationale, débat sur la motion de censure (gilets jaunes), 13/12/2018",
+   "citation": "Il ne sortira rien de bon du chaos démocratique dont nous avons senti les premières effluves ces dernières semaines.",
+   "ticker": "LAGARDE-CHAOS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2018-2019/seance-du-jeudi-13-decembre-2018.pdf",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Sans étiquette (ex-LR) / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2018-12-13",
+   "contexte": "Assemblée nationale, débat sur la motion de censure (gilets jaunes), 13/12/2018 (réponse du Premier ministre)",
+   "citation": "Je l’ai dit la semaine dernière : aucune taxe ne justifie de mettre en danger l’unité de la nation.",
+   "ticker": "PHILIPPE-TAXE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2018-2019/seance-du-jeudi-13-decembre-2018.pdf",
+   "valeurs": [
+    "INST",
+    "BUDG",
+    "PEUR",
+    "POPU"
    ],
    "mots": 18
   },
@@ -16218,6 +16694,79 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Valéry Giscard d'Estaing",
+   "affil": "Républicains indépendants",
+   "fonction": "Ministre de l'Économie et des Finances, candidat à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "l'élection présidentielle pourtant, c'est le choix des sept prochaines années, ce n'est pas le choix des sept dernières années",
+   "ticker": "GISCARD-SEPT-ANNEES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Mitterrand",
+   "affil": "Parti socialiste",
+   "fonction": "Premier secrétaire du Parti socialiste, candidat de l'union de la gauche à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "la richesse de la France, qui est le fruit du travail de tous, est confisquée par une minorité",
+   "ticker": "MITTERRAND-RICHESSE-CONFISQUEE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Mitterrand",
+   "affil": "Parti socialiste",
+   "fonction": "Premier secrétaire du Parti socialiste, candidat de l'union de la gauche à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "c'est presque une question naturellement d'intelligence, c'est aussi une affaire de cœur",
+   "ticker": "MITTERRAND-AFFAIRE-DE-COEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Mitterrand",
+   "affil": "Parti socialiste",
+   "fonction": "Premier secrétaire du Parti socialiste, candidat de l'union de la gauche à l'élection présidentielle 1974",
+   "date": "1974-05-10",
+   "contexte": "ORTF (1re et 2e chaînes, France Inter) — débat télévisé de l'entre-deux-tours de la présidentielle 1974 (Jacqueline Baudrier, Alain Duhamel)",
+   "citation": "le changement, qu'est-ce que c'est ? C'est de faire ce que vous n'avez pas fait",
+   "ticker": "MITTERRAND-CHANGEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OiiL-3ceMek",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 14
   }
  ]
 };
