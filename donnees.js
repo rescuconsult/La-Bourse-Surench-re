@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:11",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX2.xlsx",
+ "maj": "2026-11-08T09:15",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX3.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1679,6 +1679,122 @@ window.BOURSE = {
    "source": "https://x.com/CNEWS/status/2116796959096795594",
    "valeurs": [],
    "mots": 8
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Rokhaya Diallo",
+   "affil": "Média / Indépendant",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "notre démocratie est née dans la rue",
+   "ticker": "DIALLO-NEE-DANS-LA-RUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Rokhaya Diallo",
+   "affil": "Média / Indépendant",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "ce qui est fou c'est de penser que la démocratie c'est pas la rue.",
+   "ticker": "DIALLO-DEMOCRATIE-RUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Rokhaya Diallo",
+   "affil": "Média / Indépendant",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "on dit aux gens qui sont dans la rue bon en gros vous avez voté il y a 5 ans. C'est gentil merci. Maintenant, vous vous taisez jusqu'aux élections.",
+   "ticker": "DIALLO-TAISEZ-VOUS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "POLE"
+   ],
+   "mots": 29
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Sapin",
+   "affil": "Valeurs actuelles",
+   "fonction": "Directeur adjoint de la rédaction de Valeurs actuelles",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "la mobilisation dans la rue permet d'alerter un pouvoir politique ou faire valoir des revendications politiques. […] les urnes, ça permet de trancher",
+   "ticker": "SAPIN-RUE-URNES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Sapin",
+   "affil": "Valeurs actuelles",
+   "fonction": "Directeur adjoint de la rédaction de Valeurs actuelles",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "la rue a une voix évidemment mais elle a pas le dernier mot. Sinon on est plus en démocratie.",
+   "ticker": "SAPIN-DERNIER-MOT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Charles Sapin",
+   "affil": "Valeurs actuelles",
+   "fonction": "Directeur adjoint de la rédaction de Valeurs actuelles",
+   "date": "2026-11-01",
+   "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
+   "citation": "les Français vont aux urnes et se rendent compte que l'essentiel de ce pourquoi ils votent en fait est toujours confisqué.",
+   "ticker": "SAPIN-VOTE-CONFISQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/0wuMKytdaW0",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "POPU"
+   ],
+   "mots": 21
   },
   {
    "pole": "Experts & invités",
