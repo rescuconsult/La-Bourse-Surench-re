@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:15",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX3.xlsx",
+ "maj": "2026-11-08T09:20",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX4.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1685,7 +1685,7 @@ window.BOURSE = {
    "famille": null,
    "auteur": "Rokhaya Diallo",
    "affil": "Média / Indépendant",
-   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis",
    "date": "2026-11-01",
    "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
    "citation": "notre démocratie est née dans la rue",
@@ -1704,7 +1704,7 @@ window.BOURSE = {
    "famille": null,
    "auteur": "Rokhaya Diallo",
    "affil": "Média / Indépendant",
-   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis",
    "date": "2026-11-01",
    "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
    "citation": "ce qui est fou c'est de penser que la démocratie c'est pas la rue.",
@@ -1723,7 +1723,7 @@ window.BOURSE = {
    "famille": null,
    "auteur": "Rokhaya Diallo",
    "affil": "Média / Indépendant",
-   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis (selon la présentation de l'émission)",
+   "fonction": "Journaliste, éditorialiste au Guardian, présidente de Politis",
    "date": "2026-11-01",
    "contexte": "Débat télévisé du dimanche (chaîne à confirmer) — « la rue, est-ce la démocratie ? », à six mois de la présidentielle",
    "citation": "on dit aux gens qui sont dans la rue bon en gros vous avez voté il y a 5 ans. C'est gentil merci. Maintenant, vous vous taisez jusqu'aux élections.",
