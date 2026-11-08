@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:09",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX20.xlsx",
+ "maj": "2026-11-08T10:12",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX21.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -14750,6 +14750,122 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "tous les candidats doivent avoir un casier judiciaire vierge",
+   "ticker": "ASSELINEAU-CASIER-VIERGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "je suis le candidat du Frexit, aucun autre dirigeant politique français ne propose ce que je propose",
+   "ticker": "ASSELINEAU-CANDIDAT-FREXIT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "je pense qu'il faut protéger les gens qui essayent de faire vivre la démocratie et qui ont du courage",
+   "ticker": "ASSELINEAU-LANCEURS-ALERTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "moi je suis honnêtement démocrate, je suis un vrai démocrate",
+   "ticker": "ASSELINEAU-VRAI-DEMOCRATE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "ça affaiblit l'état de droit, nos libertés publiques",
+   "ticker": "ASSELINEAU-ETAT-DE-DROIT",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2017",
+   "date": "2017-03-08",
+   "contexte": "Thinkerview (YouTube) — entretien de la série « présidentielle 2017 » (archive) — Frexit, institutions, référendum, libertés publiques",
+   "citation": "moi je veux rétablir la démocratie en France",
+   "ticker": "ASSELINEAU-RETABLIR-DEMOCRATIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rTCDnKckCiY",
+   "valeurs": [
+    "INST",
+    "AUTO"
+   ],
+   "mots": 8,
    "candidat": "Candidats 2027"
   },
   {
