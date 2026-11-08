@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:49",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX16.xlsx",
+ "maj": "2026-11-08T09:59",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX17.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -14790,6 +14790,104 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "plus de productivisme ou de consumérisme ne peut pas guérir les maux du consumérisme",
+   "ticker": "BLAMONT-MAUX-CONSUMERISME",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "on peut pas dire l'homme s'en est toujours tiré. Aujourd'hui, c'est pas vrai",
+   "ticker": "BLAMONT-HOMME-TIRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "les pénuries seront aggravées par la science et la technologie, au contraire de ce qu'on pense",
+   "ticker": "BLAMONT-PENURIES-AGGRAVEES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [
+    "INDI"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "il n'est pas possible de réduire le niveau de vie, il est pas possible de réduire les consommations par la politique",
+   "ticker": "BLAMONT-NIVEAU-DE-VIE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "ce qui est arrivé, c'est que la machine s'est emballée",
+   "ticker": "BLAMONT-MACHINE-EMBALLEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jacques Blamont",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Astrophysicien, pionnier de la recherche spatiale française (CNES)",
+   "date": "2013-01-30",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — loi de Moore, monde fini, ressources, « Le siècle des menaces », « L'action sœur du rêve »",
+   "citation": "faut passer du rêve à la réalité, c'est ça, la vie",
+   "ticker": "BLAMONT-REVE-REALITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/6VUpicNBMzg",
+   "valeurs": [],
+   "mots": 11
   },
   {
    "pole": "Politique",
