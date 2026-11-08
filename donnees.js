@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:17",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX23.xlsx",
+ "maj": "2026-11-08T10:19",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX24.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8182,6 +8182,120 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "quand demain je serai élu président de la République, je ne prendrai pas un centime.",
+   "ticker": "LALANNE-PAS-UN-CENTIME",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "La politique telle qu'elle est conçue aujourd'hui, c'est triste à mourir.",
+   "ticker": "LALANNE-TRISTE-A-MOURIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "La politique, ça m'a jamais plu. J'ai jamais aimé ça.",
+   "ticker": "LALANNE-JAMAIS-PLU",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "Ils avaient proposé 5 étoiles. Moi, je propose neuf étoiles.",
+   "ticker": "LALANNE-NEUF-ETOILES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "Moi, je me bats contre plus fort que moi.",
+   "ticker": "LALANNE-PLUS-FORT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-09-16",
+   "contexte": "Bistro Liberté (Éric Morillot, YouTube) — débat « Et si la présidentielle était déjà verrouillée ? » — candidature 2027, parrainages, système médiatique",
+   "citation": "Est-ce que c'est possible d'accomplir l'impossible ? […] oui, bien sûr, c'est possible.",
+   "ticker": "LALANNE-ACCOMPLIR-IMPOSSIBLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/VMcoH3UYkLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
