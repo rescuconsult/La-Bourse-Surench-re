@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:30",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX8.xlsx",
+ "maj": "2026-11-08T09:31",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX9.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -129,6 +129,116 @@ window.BOURSE = {
    "source": "https://youtu.be/nbU3Lapm7Wk",
    "valeurs": [],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "on est en train de danser au bord du gouffre.",
+   "ticker": "GROUARD-GOUFFRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "il y a une immense majorité silencieuse qui est silencieuse […] il y a une ultra minorité aboyeuse.",
+   "ticker": "GROUARD-MINORITE-ABOYEUSE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "Donc la vie politique, elle sert à quoi ? Sert à rien. Elle sert à nous emmerder.",
+   "ticker": "GROUARD-VIE-POLITIQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "un État qui paralyse au lieu d'inciter, d'encourager, d'aider, de porter, de donner une vision. Il vous emmerde tous les jours.",
+   "ticker": "GROUARD-ETAT-PARALYSE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF",
+    "POLE"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "On est sur le Titanic. […] L'équipage s'engueule et le bateau coule.",
+   "ticker": "GROUARD-TITANIC",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Serge Grouard",
+   "affil": "Divers droite (ex-LR)",
+   "fonction": "Maire d'Orléans, président d'Orléans Métropole",
+   "date": "2026-11-06",
+   "contexte": "Europe 1 / CNews, La Grande Interview (06/11) — appel « Il y en a marre » devant la mairie d'Orléans, mobilisations, campagne 2027",
+   "citation": "On est tous français, bon sang.",
+   "ticker": "GROUARD-TOUS-FRANCAIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/LjVfByN6aE4",
+   "valeurs": [
+    "MANF",
+    "PEUR"
+   ],
+   "mots": 6
   },
   {
    "pole": "Médiatique",
