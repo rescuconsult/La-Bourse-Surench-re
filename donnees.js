@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:35",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX11.xlsx",
+ "maj": "2026-11-08T09:37",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX12.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2554,6 +2554,128 @@ window.BOURSE = {
    "source": "https://youtu.be/zrNOJjX5w70",
    "valeurs": [],
    "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "il y a pas de prédestination en politique.",
+   "ticker": "VILLEPIN-PREDESTINATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "enfant, je rêvais de franchir tous les matins un porche avec le drapeau français et marqué République française.",
+   "ticker": "VILLEPIN-PORCHE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "Je suis beaucoup plus fier d'être un personnage de bande dessinée que d'être un personnage de cinéma.",
+   "ticker": "VILLEPIN-BANDE-DESSINEE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "une des grandes souffrances démocratiques de nos concitoyens, c'est la rupture d'égalité.",
+   "ticker": "VILLEPIN-RUPTURE-EGALITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "POPU"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "La République, elle n'appartient à aucune idéologie.",
+   "ticker": "VILLEPIN-REPUBLIQUE-IDEOLOGIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "Divers Droite / Ancien Premier ministre",
+   "fonction": "Ancien Premier ministre, candidat à la présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Émission « Personnage principal » (YouTube) — parcours, République, jeunesse, campagne 2027",
+   "citation": "les repères habituels et très classiques qui permettaient à chacun de se situer sur le jeu politique ont été complètement bouleversés.",
+   "ticker": "VILLEPIN-REPERES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/yB0Uxb_pQTw",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "PEUR"
+   ],
+   "mots": 21,
    "candidat": "Candidats 2027"
   },
   {
