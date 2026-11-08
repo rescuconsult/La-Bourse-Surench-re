@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:34",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX27.xlsx",
+ "maj": "2026-11-08T10:36",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX28.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -9504,6 +9504,42 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "Renaissance",
+   "fonction": "Président de la République",
+   "date": "2026-05-31",
+   "contexte": "Allocution de l'Élysée (extrait diffusé sur Europe 1 / CNews le 02/06/2026) — violences après la victoire du PSG",
+   "citation": "On sera intraitable avec ceux qui ont été attrapés. On ne veut plus voir ça. Fini. On en a le bol. Terminé.",
+   "ticker": "MACRON-LE-BOL",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kdlRly2xZS0",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "Renaissance",
+   "fonction": "Président de la République",
+   "date": "2026-05-31",
+   "contexte": "Allocution de l'Élysée (extrait diffusé sur Europe 1 / CNews le 02/06/2026) — violences après la victoire du PSG",
+   "citation": "C'est pas le sport, c'est pas ce qu'on aime.",
+   "ticker": "MACRON-PAS-LE-SPORT",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kdlRly2xZS0",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 9
   },
   {
    "pole": "Politique",
