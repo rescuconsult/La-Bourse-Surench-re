@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:12",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX21.xlsx",
+ "maj": "2026-11-08T10:15",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX22.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8546,6 +8546,106 @@ window.BOURSE = {
     "VIOL",
     "AUTO"
    ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "c'est une idéologie sociale que j'ai vu beaucoup […] en terme d'éducation et de transmission de la culture, l'idéologie d'un nivellement par le bas",
+   "ticker": "ROUCHER-NIVELLEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "l'esquive, ça c'est un sport national",
+   "ticker": "ROUCHER-ESQUIVE-NATIONALE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "Les gens ont beaucoup de mal avec un constat d'échec.",
+   "ticker": "ROUCHER-CONSTAT-ECHEC",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "il faut raréfier la parole, ça j'en suis persuadé. Il faut la rendre plus incisive et plus efficace.",
+   "ticker": "ROUCHER-RAREFIER-PAROLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "C'est très long de faire court.",
+   "ticker": "ROUCHER-FAIRE-COURT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Astrid Roucher",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Romancière, ancienne plume à l'Élysée",
+   "date": "2026-09-05",
+   "contexte": "Entretien vidéo (chaîne à confirmer) — à propos de son roman « La plume et le prince » — éléments de langage, novlangue, écriture des discours",
+   "citation": "Moi je me méfie des modes et en particulier en ce qui concerne la langue.",
+   "ticker": "ROUCHER-MODES-LANGUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/-229Bc7cKY8",
+   "valeurs": [],
    "mots": 15
   },
   {
