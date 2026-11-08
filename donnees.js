@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T11:07",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX34.xlsx",
+ "maj": "2026-11-08T11:10",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX35.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16829,6 +16829,96 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Maire de Paris, président du RPR, candidat à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "une fracture sociale qui met en cause la cohésion de notre pays et donc sa force. La réduction de cette fracture, c'est le problème essentiel",
+   "ticker": "CHIRAC-FRACTURE-SOCIALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Maire de Paris, président du RPR, candidat à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "l'État doit être un État impartial",
+   "ticker": "CHIRAC-ETAT-IMPARTIAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Maire de Paris, président du RPR, candidat à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "il faut faire confiance aux Français, il faut aimer la France",
+   "ticker": "CHIRAC-AIMER-LA-FRANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Lionel Jospin",
+   "affil": "Parti socialiste",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "je pense pas que ce soit une fracture, parce qu'une fracture au moins c'est net, ça bouge pas et on la réduit. Là, il s'agit plutôt d'une faille",
+   "ticker": "JOSPIN-FAILLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Lionel Jospin",
+   "affil": "Parti socialiste",
+   "fonction": "Candidat du Parti socialiste à l'élection présidentielle 1995",
+   "date": "1995-05-02",
+   "contexte": "TF1 / France 2 — débat télévisé de l'entre-deux-tours de la présidentielle 1995 (Guillaume Durand, Alain Duhamel)",
+   "citation": "j'ai dit ce que je ferais, je ferai ce que j'ai dit",
+   "ticker": "JOSPIN-JE-FERAI",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DkOhoVJTY0Q",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
   },
   {
    "pole": "Politique",
