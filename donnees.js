@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:21",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX5.xlsx",
+ "maj": "2026-11-08T09:25",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX6.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1029,6 +1029,120 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 22
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "Si la République dépend des statues en plâtre, il y a de quoi vous rendre iconoclaste.",
+   "ticker": "SUREAU-STATUES-PLATRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "POLE"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "Il n'y a pas de camp en démocratie. Il n'y a pas un camp opposé à l'autre. Il n'y a pas le camp de l'ordre opposé au camp du désordre.",
+   "ticker": "SUREAU-PAS-DE-CAMP",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "INST",
+    "MANF",
+    "AUTO"
+   ],
+   "mots": 30
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "les principes sont là pour nous rendre la vie difficile. S'ils ne nous rendaient pas la vie difficile, ça ne serait pas des principes.",
+   "ticker": "SUREAU-PRINCIPES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "on assiste en réalité à un excès d'autorité de la part d'un pouvoir qui manque absolument de force",
+   "ticker": "SUREAU-EXCES-AUTORITE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "MANF",
+    "AUTO"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "le gouvernement est mal venu de se plaindre de conséquences dont il continue de chérir les causes",
+   "ticker": "SUREAU-CHERIR-CAUSES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "François Sureau",
+   "affil": "Académie française",
+   "fonction": "Avocat, écrivain, membre de l'Académie française, ancien membre du Conseil d'État",
+   "date": "2026-11-04",
+   "contexte": "Émission « Vacarme » (radio, chaîne à confirmer) — liberté de manifester, ordre et autorité après le 17 octobre",
+   "citation": "Pour qu'il y ait révolution il faut qu'il y ait l'espoir organisé d'un monde meilleur après.",
+   "ticker": "SUREAU-REVOLUTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/405niuK-Rvg",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
