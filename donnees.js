@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:31",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX9.xlsx",
+ "maj": "2026-11-08T09:33",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX10.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2345,6 +2345,114 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027",
+   "citation": "la question européenne qui surplombe toutes les autres puisqu'en réalité toutes les grandes décisions de la nation sont désormais volées aux Français.",
+   "ticker": "ASSELINEAU-DECISIONS-VOLEES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027 — à propos de la guerre en Ukraine et des États-Unis",
+   "citation": "l'Union européenne ressort de cette affaire ruinée, cocu et hors jeu.",
+   "ticker": "ASSELINEAU-COCU",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027",
+   "citation": "plus on construit l'Europe, plus les pays d'Europe disparaissent.",
+   "ticker": "ASSELINEAU-PAYS-DISPARAISSENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027",
+   "citation": "La question de l'euro est interdite en France […] Mais parlons-en, c'est aujourd'hui la catastrophe.",
+   "ticker": "ASSELINEAU-EURO-INTERDIT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027",
+   "citation": "les membres du Conseil constitutionnel sont neuf personnes qui ne sont d'ailleurs élues par personne",
+   "ticker": "ASSELINEAU-CONSEIL-CONSTIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, « Faut qu'on s'organise » (André Bercoff) — Frexit, Union européenne, campagne 2027",
+   "citation": "Donc mon programme c'est la sortie de l'Union européenne.",
+   "ticker": "ASSELINEAU-PROGRAMME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zrNOJjX5w70",
+   "valeurs": [],
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
