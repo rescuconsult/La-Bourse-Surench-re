@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T10:22",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX25.xlsx",
+ "maj": "2026-11-08T10:24",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX26.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11760,6 +11760,116 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "la richesse elle est toujours collective",
+   "ticker": "PIKETTY-RICHESSE-COLLECTIVE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "il faut arrêter de se flageller en disant : voilà, on fait tout mal, c'est horrible, et cetera.",
+   "ticker": "PIKETTY-FLAGELLATION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "Bah oui, je suis désolé, ça demande des ressources publiques.",
+   "ticker": "PIKETTY-RESSOURCES-PUBLIQUES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "on perd un peu parfois tout sens commun dans cette discussion.",
+   "ticker": "PIKETTY-SENS-COMMUN",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "les Français auraient beaucoup plus de clarté démocratique en ayant un choix clair de gouverner avec la gauche, de gouverner avec la droite",
+   "ticker": "PIKETTY-CLARTE-DEMOCRATIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "INST",
+    "BUDG",
+    "POPU"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thomas Piketty",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Économiste, directeur d'études à l'EHESS",
+   "date": "2025-09-24",
+   "contexte": "Entretien télévisé (chaîne à confirmer — « ce soir sur France… », face à Nathalie Saint-Cricq) — taxe minimale sur les très hauts patrimoines, dette publique, à propos de « Ce que l'égalité veut dire »",
+   "citation": "partager le pouvoir, c'est une très bonne chose.",
+   "ticker": "PIKETTY-PARTAGER-POUVOIR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/T_iKw7RoX3Q",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 8
   },
   {
    "pole": "Politique",
