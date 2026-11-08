@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:28",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX7.xlsx",
+ "maj": "2026-11-08T09:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX8.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -536,6 +536,117 @@ window.BOURSE = {
    "source": "https://lcp.fr/actualites/presidentielle-la-moitie-des-deputes-communistes-choisit-jean-luc-melenchon-plutot-que",
    "valeurs": [],
    "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027",
+   "citation": "La liberté de presse, ça ne se découpe pas en rondelle.",
+   "ticker": "MENARD-RONDELLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027 — sa définition de la liberté d'expression",
+   "citation": "[…] discuter, argumenter avec des gens qui te hérissent le poil, que tu ne supportes pas",
+   "ticker": "MENARD-HERISSER-LE-POIL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027",
+   "citation": "Parce que le policier me protège madame et il protège les gens qui doivent être protégés. C'est juste ça la règle.",
+   "ticker": "MENARD-POLICIER-PROTEGE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "SECU",
+    "MANF",
+    "POPU"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027 — à propos de l'union de la droite",
+   "citation": "si je devais soutenir que des gens qui sont 100 % d'accord avec moi, je me soutiendrais moi-même",
+   "ticker": "MENARD-ME-SOUTENIR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027",
+   "citation": "les gens ils sont désespérés, désespérés et ils ont besoin d'espoir.",
+   "ticker": "MENARD-DESESPERES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "MANF",
+    "POPU"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Robert Ménard",
+   "affil": "Divers droite (sans étiquette)",
+   "fonction": "Maire de Béziers",
+   "date": "2026-11-05",
+   "contexte": "Europe 1 / CNews, La Grande Interview (05/11) — journée de mobilisation, liberté de la presse, droite avant 2027 — à propos du film consacré à Jean Moulin",
+   "citation": "le courage c'est la plus belle des vertus.",
+   "ticker": "MENARD-COURAGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lrf_8bhsVI4",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 8
   },
   {
    "pole": "Experts & invités",
