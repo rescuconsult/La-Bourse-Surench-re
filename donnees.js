@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T11:05",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX33.xlsx",
+ "maj": "2026-11-08T11:07",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX34.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16851,6 +16851,151 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Simone Veil",
+   "affil": "UDF",
+   "fonction": "Ministre de la Santé, tête de liste Union pour la France en Europe (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "le suffrage universel, c'est l'expression de la démocratie, c'est l'expression des peuples",
+   "ticker": "VEIL-SUFFRAGE-UNIVERSEL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Simone Veil",
+   "affil": "UDF",
+   "fonction": "Ministre de la Santé, tête de liste Union pour la France en Europe (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "je suis prête complètement à me défaire de toutes mes fonctions, je l'ai dit, mais aussi à renoncer à une vie organisée à Paris pour siéger dans cette assemblée",
+   "ticker": "VEIL-RENONCER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 29
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Mitterrand",
+   "affil": "Parti socialiste",
+   "fonction": "Premier secrétaire du Parti socialiste, tête de liste PS-MRG (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "si le rôle de la France n'est pas précisément de servir de modèle, d'être en tête en Europe pour la démocratie, alors de quoi parle-t-on ?",
+   "ticker": "MITTERRAND-MODELE-DEMOCRATIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 25
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Mitterrand",
+   "affil": "Parti socialiste",
+   "fonction": "Premier secrétaire du Parti socialiste, tête de liste PS-MRG (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "tous ensemble ici autour de cette table et ailleurs, mais tous ensemble, nous sommes la France. Personne ne peut se l'approprier.",
+   "ticker": "MITTERRAND-NOUS-SOMMES-LA-FRANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Président du RPR, maire de Paris, tête de liste Défense des intérêts de la France en Europe (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "je ne voudrais pas que l'Europe devienne une mode",
+   "ticker": "CHIRAC-EUROPE-MODE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "RPR",
+   "fonction": "Président du RPR, maire de Paris, tête de liste Défense des intérêts de la France en Europe (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "L'Europe organisée, oui naturellement, mais dans le respect de la souveraineté de chacun des États qui la composent",
+   "ticker": "CHIRAC-EUROPE-SOUVERAINETE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Georges Marchais",
+   "affil": "Parti communiste français",
+   "fonction": "Secrétaire général du PCF, tête de liste du PCF (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "je suis le plus à l'aise, compte tenu que vous avez tous les trois été ministres, vous l'êtes encore, madame Veil. Moi, je ne l'ai jamais été.",
+   "ticker": "MARCHAIS-JAMAIS-MINISTRE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Georges Marchais",
+   "affil": "Parti communiste français",
+   "fonction": "Secrétaire général du PCF, tête de liste du PCF (européennes 1979)",
+   "date": "1979-05-17",
+   "contexte": "TF1 / RTL — face-à-face des quatre têtes de liste aux élections européennes du 10 juin 1979",
+   "citation": "la France n'est pas pauvre. La France est un pays riche",
+   "ticker": "MARCHAIS-PAYS-RICHE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/UFyRS3_n_rc",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
   },
   {
    "pole": "Politique",
