@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-07T15:48",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261107_postsX58.xlsx",
+ "maj": "2026-11-08T09:03",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -157,6 +157,106 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil)",
+   "citation": "On n'est pas dans la déploration d'un âge d'or révolu où tout était magnifique",
+   "ticker": "FOURQUET-AGE-DOR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil)",
+   "citation": "cet individu, il est à la fois narcissique mais il gère beaucoup moins bien qu'avant la frustration.",
+   "ticker": "FOURQUET-NARCISSIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil)",
+   "citation": "l'individu contemporain aujourd'hui, il est en surcharge et pour la moindre chose, il va éclater.",
+   "ticker": "FOURQUET-SURCHARGE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil)",
+   "citation": "tout le monde est roi.",
+   "ticker": "FOURQUET-PEUPLE-ROI",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [],
+   "mots": 5
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil) — à propos de la campagne présidentielle 2027",
+   "citation": "pour beaucoup de gens aujourd'hui 10 ans, c'est énorme.",
+   "ticker": "FOURQUET-DIX-ANS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Ifop",
+   "fonction": "Politologue, directeur du département Opinion de l'Ifop",
+   "date": "2026-11-06",
+   "contexte": "RMC, Les Grandes Gueules — à propos de son livre « Homo occidentalis. Que sommes-nous devenus ? » (Seuil) — à propos de la campagne présidentielle 2027",
+   "citation": "aujourd'hui, les boussoles sont assez déréglées.",
+   "ticker": "FOURQUET-BOUSSOLES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JX3XS4ltzXA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 6
   },
   {
    "pole": "Politique",
