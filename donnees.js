@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T09:37",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX12.xlsx",
+ "maj": "2026-11-08T09:39",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX13.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2080,6 +2080,116 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 28
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation",
+   "citation": "Je suis embêté parce que chaque fois que je suis objectif, on me dit que je suis cruel ou avec une intention malfaisante.",
+   "ticker": "TODD-OBJECTIF-CRUEL",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation",
+   "citation": "je vais être un traître à ma génération, je vais scandaliser. Il faut absolument diminuer, comprimer les retraites.",
+   "ticker": "TODD-TRAITRE-GENERATION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL",
+    "INDI"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation",
+   "citation": "un pays ne peut pas financer son État social par l'emprunt.",
+   "ticker": "TODD-ETAT-SOCIAL-EMPRUNT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation",
+   "citation": "il faudra enfin changer dans la douleur plutôt que réformer à l'avance.",
+   "ticker": "TODD-DOULEUR",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation — à propos des pillages",
+   "citation": "J'ai une moralité à l'ancienne. Il faut travailler et payer et pas voler.",
+   "ticker": "TODD-MORALITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Emmanuel Todd",
+   "affil": "Société civile (sans étiquette)",
+   "fonction": "Historien, démographe et anthropologue",
+   "date": "2026-11-02",
+   "contexte": "Entretien télévisé à propos de son livre « La Dislocation » (chaîne à confirmer) — gérontocratie, jeunesse, retraites, désindustrialisation",
+   "citation": "je m'empresse de faire une faute de français pour montrer mon populisme natif.",
+   "ticker": "TODD-POPULISME-NATIF",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kPvUWYfeN3I",
+   "valeurs": [
+    "ECOL",
+    "POLE"
+   ],
+   "mots": 13
   },
   {
    "pole": "Politique",
