@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-09T09:04",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261109_postsX1.xlsx",
+ "maj": "2026-11-09T09:07",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261109_postsX2.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -12577,7 +12577,7 @@ window.BOURSE = {
    "fonction": "Président du groupe Droite républicaine à l'Assemblée nationale, candidat à la présidence des Républicains",
    "date": "2025-05-12",
    "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
-   "citation": "Moi, je suis favorable à ce qu'il y a plus de riches.",
+   "citation": "Moi, je suis favorable à ce qu'il y ait plus de riches.",
    "ticker": "WAUQUIEZ-PLUS-DE-RICHES",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
