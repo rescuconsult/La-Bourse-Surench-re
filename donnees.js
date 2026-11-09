@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-08T14:03",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261108_postsX36.xlsx",
+ "maj": "2026-11-09T09:04",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261109_postsX1.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16771,6 +16771,25 @@ window.BOURSE = {
    "auteur": "Jacques Chirac",
    "affil": "UMP",
    "fonction": "Président de la République",
+   "date": "2006-06-26",
+   "contexte": "France 2, entretien télévisé avec Arlette Chabot au palais de l'Élysée, 26/06/2006 — bilan et priorités du gouvernement après la crise du CPE",
+   "citation": "Il y a le problème de la délinquance des jeunes.",
+   "ticker": "CHIRAC-DELINQUANCE-JEUNES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/jacques-chirac/2006/06/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-juin-2006-sur-les-resultats-et-priorites-de-la-politique-gouvernementale",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jacques Chirac",
+   "affil": "UMP",
+   "fonction": "Président de la République",
    "date": "2006-01-03",
    "contexte": "Vœux au Gouvernement, palais de l’Élysée",
    "citation": "Mais face au cercle vicieux de la dette, face au risque de voir les frais de fonctionnement évincer les dépenses d'avenir, l'État doit retrouver des marges de manœuvre financières.",
@@ -16783,6 +16802,65 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 29
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "PS",
+   "fonction": "Sénateur de l'Essonne",
+   "date": "2005-11-16",
+   "contexte": "Sénat, séance du 16/11/2005 — projet de loi prorogeant l'état d'urgence (loi du 3 avril 1955), émeutes de 2005, discussion de l'article 1er",
+   "citation": "Il faut dire à tous nos concitoyens que les banlieues ne sont pas seulement ce qu'on en montre.",
+   "ticker": "MELENCHON-BANLIEUES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.senat.fr/seances/s200511/s20051116/s20051116007.html",
+   "valeurs": [
+    "INST",
+    "VIOL",
+    "POPU"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Jean-Jacques Hyest",
+   "affil": "UMP",
+   "fonction": "Sénateur de Seine-et-Marne, rapporteur du projet de loi",
+   "date": "2005-11-16",
+   "contexte": "Sénat, séance du 16/11/2005 — projet de loi prorogeant l'état d'urgence (loi du 3 avril 1955), émeutes de 2005, discussion de l'article 1er",
+   "citation": "C'est une loi de la République, que l'on applique quand cela paraît nécessaire.",
+   "ticker": "HYEST-LOI-REPUBLIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.senat.fr/seances/s200511/s20051116/s20051116007.html",
+   "valeurs": [
+    "INST",
+    "VIOL"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Alima Boumediene-Thiery",
+   "affil": "Les Verts",
+   "fonction": "Sénatrice de Paris",
+   "date": "2005-11-16",
+   "contexte": "Sénat, séance du 16/11/2005 — projet de loi prorogeant l'état d'urgence (loi du 3 avril 1955), émeutes de 2005, discussion de l'article 1er",
+   "citation": "Ce conflit est social, il n'a rien à voir avec nos origines, nos cultures ou nos religions.",
+   "ticker": "BOUMEDIENE-THIERY-CONFLIT-SOCIAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.senat.fr/seances/s200511/s20051116/s20051116007.html",
+   "valeurs": [
+    "VIOL",
+    "IDEN"
+   ],
+   "mots": 17
   },
   {
    "pole": "Politique",
