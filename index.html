@@ -88,6 +88,24 @@ section{padding-block:3.5rem}
 .sec-head{display:flex;justify-content:space-between;align-items:end;gap:1rem;flex-wrap:wrap;margin-bottom:1.6rem}
 .mention{font-family:var(--f-chiffre);font-size:var(--s-1);color:var(--acier);border:1px solid var(--ligne);padding:.25rem .55rem;letter-spacing:.06em}
 
+/* Anti-amnésie : l'éphéméride des amnésiques */
+#memoire{background:var(--graphite);border-bottom:1px solid var(--ligne)}
+.mem{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.2rem;align-items:start}
+.mem-an{font-family:var(--f-titre);font-weight:700;font-size:clamp(4.2rem,11vw,7.5rem);line-height:.86;color:var(--ambre);letter-spacing:.01em}
+.mem-recul{font-family:var(--f-titre);font-weight:600;text-transform:uppercase;font-size:var(--s-5);line-height:1.05;margin-top:.5rem}
+.mem-quand{margin-top:.6rem}
+.mem-corps{border-left:4px solid var(--ambre);padding-left:1.4rem;min-width:0}
+.mem-q{font-size:clamp(1.3rem,3vw,2rem);line-height:1.3;font-weight:500;text-wrap:pretty;margin:0}
+.mem-qui{margin-top:1.1rem;font-weight:600;font-size:var(--s-4)}
+.mem-role{color:var(--acier);font-size:var(--s-2);margin-top:.15rem}
+.mem-src{margin-top:.5rem}
+.mem-src a{color:var(--acier)}
+.mem-actions{display:flex;flex-wrap:wrap;gap:.7rem;margin-top:1.4rem}
+.mem-actions .btn{padding:.55rem .9rem}
+.btn.discret{color:var(--acier);border-color:var(--ligne)}
+.btn.discret:hover{color:var(--ambre);border-color:var(--ambre)}
+@media (max-width:720px){.mem{grid-template-columns:1fr;gap:1.2rem}.mem-corps{padding-left:1rem}}
+
 /* Indices */
 .indices{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--ligne);border:1px solid var(--ligne)}
 .indice{background:var(--graphite);padding:1.2rem;display:flex;flex-direction:column;gap:.6rem;min-width:0}
@@ -430,7 +448,7 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
   <div class="wrap">
     <a class="logo" href="#ouverture">LA BOURSE <b>SURENCHÈRE</b></a>
     <nav class="nav" aria-label="Sections">
-      <a href="#semaine">Semaine</a><a href="#marche">Marché</a><a href="#portefeuille">Portefeuille</a><a href="#indices">Indices</a><a href="#frise">Archives</a><a href="#hof">Hall of Fame</a><a href="#cote">La cote</a><a href="#methode">Méthode</a><a href="#regles">Règles</a>
+      <a href="#memoire">Anti-amnésie</a><a href="#semaine">Semaine</a><a href="#marche">Marché</a><a href="#portefeuille">Portefeuille</a><a href="#indices">Indices</a><a href="#frise">Archives</a><a href="#hof">Hall of Fame</a><a href="#cote">La cote</a><a href="#methode">Méthode</a><a href="#regles">Règles</a>
     </nav>
   </div>
   <div class="tape" aria-hidden="true"><div class="tape-track" id="tape"></div></div>
@@ -456,6 +474,33 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
       </div>
     </div>
     <svg class="courbe" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 100 L130 88 L230 96 L360 70 L470 78 L600 52 L720 60 L840 38 L960 46 L1080 22 L1200 10"/></svg>
+  </section>
+
+  <section id="memoire" aria-labelledby="mem-titre">
+    <div class="wrap">
+      <div class="sec-head">
+        <div><div class="label">L'éphéméride des amnésiques</div><h2 id="mem-titre">L'anti-amnésie verbale</h2></div>
+        <span class="mention">Un souvenir par jour · verbatim certifié</span>
+      </div>
+      <div class="mem">
+        <div>
+          <div class="mem-an mono" id="mem-an">—</div>
+          <div class="mem-recul" id="mem-recul"></div>
+          <div class="label mem-quand" id="mem-quand"></div>
+        </div>
+        <div class="mem-corps" aria-live="polite">
+          <p class="mem-q" id="mem-q"></p>
+          <div class="mem-qui" id="mem-qui"></div>
+          <div class="mem-role" id="mem-role"></div>
+          <div class="label mem-src" id="mem-src"></div>
+          <div class="mem-actions">
+            <button type="button" class="btn" id="mem-autre">Un autre souvenir</button>
+            <button type="button" class="btn discret" id="mem-copier">Copier pour X</button>
+          </div>
+        </div>
+      </div>
+      <p class="label" style="margin-top:1.4rem">Chaque jour, la Bourse ressort une phrase prononcée à la même date, une autre année. À défaut, la plus proche dans le calendrier. Les mots restent : nous les gardons.</p>
+    </div>
   </section>
 
   <section id="semaine">
@@ -1328,6 +1373,73 @@ footer a{color:var(--acier)}footer a:hover{color:var(--ambre)}
       }).catch(function(){});
     }
     setInterval(verifier,120000);
+  })();
+
+  /* --- Anti-amnésie : l'éphéméride des amnésiques --- */
+  (function(){
+    var MOIS_L=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+    var auj;
+    try{auj=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())}
+    catch(e){auj=new Date().toISOString().slice(0,10)}
+    var an=+auj.slice(0,4), md=auj.slice(5);
+    function rang(s){var p=s.split('-');return Math.round((Date.UTC(2024,+p[0]-1,+p[1])-Date.UTC(2024,0,1))/864e5)}
+    function ecart(a,b){var d=Math.abs(rang(a)-rang(b));return Math.min(d,366-d)}
+    var arch=C.filter(function(x){return /^\d{4}-\d{2}-\d{2}$/.test(x.date) && +x.date.slice(0,4)<an});
+    if(!arch.length){$('#memoire').hidden=true;return}
+    var anc=function(a,b){return a.date<b.date?-1:a.date>b.date?1:0};
+    var jour=arch.filter(function(x){return x.date.slice(5)===md}).sort(anc);
+    var mode='jour', file=jour;
+    if(!file.length){
+      var mini=Math.min.apply(null,arch.map(function(x){return ecart(x.date.slice(5),md)}));
+      if(mini<=7){mode='semaine';file=arch.filter(function(x){return ecart(x.date.slice(5),md)===mini}).sort(anc)}
+      else{
+        mode='hasard';
+        var g=0;for(var i=0;i<auj.length;i++){g=(g*31+auj.charCodeAt(i))>>>0}
+        var tri=arch.slice().sort(anc);file=[tri[g%tri.length]];
+      }
+    }
+    var reste=arch.filter(function(x){return file.indexOf(x)<0});
+    var k=0, courant=null;
+    function recul(x){
+      var n=an-(+x.date.slice(0,4));
+      return 'Il y a '+n+' an'+(n>1?'s':'');
+    }
+    function quand(x,m){
+      var p=x.date.split('-'), j=(+p[2])+(p[2]==='01'?'er':'')+' '+MOIS_L[+p[1]-1]+' '+p[0];
+      return (m==='jour'?'Ce jour-là · ':m==='semaine'?'Cette semaine-là · ':'Souvenir · ')+j;
+    }
+    function montrer(x,m){
+      courant={x:x,m:m};
+      $('#mem-an').textContent=x.date.slice(0,4);
+      $('#mem-recul').textContent=recul(x);
+      $('#mem-quand').textContent=quand(x,m);
+      $('#mem-q').textContent='« '+x.citation+' »';
+      $('#mem-qui').textContent=x.auteur;
+      $('#mem-role').textContent=[x.fonction,x.affil&&x.affil!=='—'&&!/^Société civile/.test(x.affil)?x.affil:''].filter(Boolean).join(' · ');
+      var s=$('#mem-src');s.textContent='';
+      if(/^https?:/.test(x.source||'')){
+        var a=document.createElement('a');a.href=x.source;a.target='_blank';a.rel='noopener';
+        a.textContent='Source : '+x.source.split('//')[1].split('/')[0].replace('www.','')+' ↗';s.appendChild(a);
+      }else if(x.source){s.textContent='Source : '+x.source}
+      $('#mem-copier').textContent='Copier pour X';
+    }
+    montrer(file[0],mode);
+    $('#mem-autre').addEventListener('click',function(){
+      k++;
+      if(k<file.length){montrer(file[k],mode);return}
+      if(!reste.length){k=0;montrer(file[0],mode);return}
+      montrer(reste[Math.floor(Math.random()*reste.length)],'hasard');
+    });
+    $('#mem-copier').addEventListener('click',function(){
+      var b=this, x=courant.x;
+      var t='🧠 ANTI-AMNÉSIE #BOUDE — '+(courant.m==='jour'?'Ce jour-là, il':courant.m==='semaine'?'Cette semaine-là, il':'Il')+recul(x).slice(2).toLowerCase()+'\n\n'+
+        '👤 '+x.auteur+(x.fonction?' ('+x.fonction+')':'')+'\n'+
+        '💬 « '+x.citation+' »\n'+
+        '🗓️ '+dateFr(x.date)+'\n\n[SATIRE] · [INDICE FICTIF]';
+      var ok=function(){b.textContent='Post copié'};
+      var ko=function(){b.textContent='Copie impossible ici'};
+      try{navigator.clipboard.writeText(t).then(ok,ko)}catch(e){ko()}
+    });
   })();
 
   /* --- Copier l'adresse --- */
