@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T18:13",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne14.xlsx",
+ "maj": "2026-11-14T18:17",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne15.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1813,6 +1813,174 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — immigration et intégration",
+   "citation": "notre politique d'intégration ne fonctionne pas et que un certain nombre de nos services publics sont saturés par une immigration qui est aujourd'hui trop importante.",
+   "ticker": "PHILIPPE-INTEGRATION",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — maîtrise de l'immigration",
+   "citation": "Il me paraît parfaitement légitime que la France décide qui a le droit ou pas le droit de résider régulièrement sur son territoire.",
+   "ticker": "PHILIPPE-PARFAITEMENT-LEGITIME",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — identité de la France",
+   "citation": "La France c'est ce pays où on est autour de la table en famille ou avec des amis et on s'engueule autour de la politique.",
+   "ticker": "PHILIPPE-AUTOUR-DE-LA-TABLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — identité de la France",
+   "citation": "La France, elle n'est pas grande parce qu'on la regarde dans le rétroviseur.",
+   "ticker": "PHILIPPE-RETROVISEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — identité de la France",
+   "citation": "cette identité aujourd'hui elle est fracturée à bien des égards. On vit dans une société où les gens se regardent, se méfient",
+   "ticker": "PHILIPPE-IDENTITE-FRACTUREE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — identité de la France, « l'identité fière »",
+   "citation": "cette identité, il faut la défendre et il faut la projeter dans l'avenir",
+   "ticker": "PHILIPPE-IDENTITE-FIERE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — laïcité et Constitution",
+   "citation": "D'autant que la France a des racines judéo-chrétiennes, mais que la République est laïque.",
+   "ticker": "PHILIPPE-REPUBLIQUE-LAIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — laïcité",
+   "citation": "je respecte la liberté religieuse. Mais je dis que l'État et les autorités publiques doivent être d'une neutralité totale.",
+   "ticker": "PHILIPPE-NEUTRALITE-TOTALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "IDEN",
+    "AUTO"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-08",
+   "contexte": "Débat télévisé (extrait publié par franceinfo), échange avec Eugénie Bastié (Le Figaro), 08/11 — laïcité et règles de la République",
+   "citation": "ceux qui au nom d'une religion veulent remettre en cause les règles de la République ne gagneront pas et n'ont pas leur place dans notre pays.",
+   "ticker": "PHILIPPE-NE-GAGNERONT-PAS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OOGLaN9vZ7g",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 26,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -4565,6 +4733,158 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Député",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "Pour moi, la France est un pays qui a des traditions, qui a une langue, qui a une histoire, qui a une culture",
+   "ticker": "WAUQUIEZ-TRADITIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Député",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "Je suis attaché à ce qu'est la France de la République, la France de l'intégration, de l'assimilation, de la laïcité, qui est fière de ses valeurs",
+   "ticker": "WAUQUIEZ-FRANCE-DE-LA-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Député",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "La République c'est l'assimilation.",
+   "ticker": "WAUQUIEZ-ASSIMILATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "INST",
+    "IMMI"
+   ],
+   "mots": 4
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Laurent Wauquiez",
+   "affil": "LR",
+   "fonction": "Député",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "Pour moi, l'immigration est devenue un problème dans notre pays parce qu'elle est incontrôlée.",
+   "ticker": "WAUQUIEZ-INCONTROLEE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Benoît Hamon",
+   "affil": "Sans étiquette (ex-PS, fondateur de Génération.s)",
+   "fonction": "Ancien ministre, auteur de « Accueillir toute la richesse du monde »",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "justement la République, pardon, c'est pas la colonisation.",
+   "ticker": "HAMON-PAS-LA-COLONISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "INST",
+    "IMMI"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Benoît Hamon",
+   "affil": "Sans étiquette (ex-PS, fondateur de Génération.s)",
+   "fonction": "Ancien ministre, auteur de « Accueillir toute la richesse du monde »",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "le racisme c'est interdit et vous êtes garant de la loi, vous êtes parlementaire, c'est un délit.",
+   "ticker": "HAMON-C-EST-UN-DELIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "IMMI",
+    "IDEN",
+    "POLE"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Benoît Hamon",
+   "affil": "Sans étiquette (ex-PS, fondateur de Génération.s)",
+   "fonction": "Ancien ministre, auteur de « Accueillir toute la richesse du monde »",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "plus on est loin des immigrés, plus on a peur.",
+   "ticker": "HAMON-PLUS-ON-EST-LOIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "IMMI",
+    "PEUR"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Benoît Hamon",
+   "affil": "Sans étiquette (ex-PS, fondateur de Génération.s)",
+   "fonction": "Ancien ministre, auteur de « Accueillir toute la richesse du monde »",
+   "date": "2026-11",
+   "contexte": "France Inter / France 2, débat Benoît Hamon – Laurent Wauquiez sur l'immigration (extrait publié par franceinfo) — novembre 2026",
+   "citation": "Je pense qu'il y a de l'inquiétude chez les Français et qui s'inquiètent aujourd'hui de la manière dont le pays change sous leurs yeux.",
+   "ticker": "HAMON-INQUIETUDE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2qaMMeYYDaQ",
+   "valeurs": [
+    "IMMI",
+    "POPU"
+   ],
+   "mots": 24
   },
   {
    "pole": "Politique",
@@ -14431,6 +14751,102 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2025-11-26",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Sonia Mabrouk), 26/11 — narcotrafic",
+   "citation": "Aujourd'hui l’État a toujours un temps de retard sur les narcotrafiquants",
+   "ticker": "ATTAL-TEMPS-DE-RETARD",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/en-direct-la-france-en-face-suivez-linterview-de-gabriel-attal-dans-notre-nouveau-rendez-vous-872843",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2025-11-26",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Sonia Mabrouk), 26/11 — exécution des peines",
+   "citation": "Je propose de supprimer le juge d’application des peines",
+   "ticker": "ATTAL-JUGE-APPLICATION-DES-PEINES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/en-direct-la-france-en-face-suivez-linterview-de-gabriel-attal-dans-notre-nouveau-rendez-vous-872843",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2025-11-26",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Sonia Mabrouk), 26/11 — narcotrafic",
+   "citation": "Aujourd'hui, on n'a plus besoin des points de deal pour acheter. Il suffit de commander",
+   "ticker": "ATTAL-POINTS-DE-DEAL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/en-direct-la-france-en-face-suivez-linterview-de-gabriel-attal-dans-notre-nouveau-rendez-vous-872843",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2025-11-26",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Sonia Mabrouk), 26/11 — quartiers",
+   "citation": "On a besoin d'un retour de la République, car malheureusement, elle s'est éloignée de ces quartiers",
+   "ticker": "ATTAL-RETOUR-DE-LA-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.europe1.fr/politique/en-direct-la-france-en-face-suivez-linterview-de-gabriel-attal-dans-notre-nouveau-rendez-vous-872843",
+   "valeurs": [
+    "INST",
+    "VIOL"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2025-11-26",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Sonia Mabrouk), 26/11 — autorité à l'école",
+   "citation": "Il y a celui qui sait et celui qui apprend.",
+   "ticker": "ATTAL-CELUI-QUI-SAIT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.europe1.fr/politique/en-direct-la-france-en-face-suivez-linterview-de-gabriel-attal-dans-notre-nouveau-rendez-vous-872843",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
    "famille": null,
    "auteur": "Estelle Youssouffa",
    "affil": "LIOT",
@@ -14540,6 +14956,64 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, coprésident de Place Publique",
+   "date": "2025-11-19",
+   "contexte": "Public Sénat, plateau au congrès des maires de France (Paris), 19/11 — narcotrafic",
+   "citation": "L’insécurité touche d’abord les plus faibles d’entre nous.",
+   "ticker": "GLUCKSMANN-PLUS-FAIBLES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, coprésident de Place Publique",
+   "date": "2025-11-19",
+   "contexte": "Public Sénat, plateau au congrès des maires de France (Paris), 19/11 — narcotrafic",
+   "citation": "Quand on est de gauche, on a le souci d’assurer la liberté des citoyens français et d’abord des plus fragiles d’entre eux",
+   "ticker": "GLUCKSMANN-LIBERTE-DES-FRAGILES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, coprésident de Place Publique",
+   "date": "2025-11-19",
+   "contexte": "Public Sénat, plateau au congrès des maires de France (Paris), 19/11 — narcotrafic",
+   "citation": "il y a des maires de gauche qui ont une politique sans naïveté aucune sur la sécurité",
+   "ticker": "GLUCKSMANN-SANS-NAIVETE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -14724,6 +15198,43 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR",
+   "date": "2025-09-18",
+   "contexte": "Sud Radio, « Bercoff dans tous ses états » (André Bercoff), 18/09",
+   "citation": "Nous ne sommes pas des souverainistes, nous sommes un mouvement de libération nationale.",
+   "ticker": "ASSELINEAU-LIBERATION-NATIONALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/asselineau-nous-ne-sommes-pas-des-souverainistes",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR",
+   "date": "2025-09-18",
+   "contexte": "Sud Radio, « Bercoff dans tous ses états » (André Bercoff), 18/09",
+   "citation": "il faut que les Français se rassemblent pour récupérer notre indépendance et notre souveraineté nationale",
+   "ticker": "ASSELINEAU-SOUVERAINETE-NATIONALE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/asselineau-nous-ne-sommes-pas-des-souverainistes",
+   "valeurs": [
+    "POLE",
+    "POPU"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -14995,6 +15506,85 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons",
+   "date": "2025-05-20",
+   "contexte": "Sud Radio, « L'invité politique » (Jean-Jacques Bourdin), 20/05 — réponse pénale",
+   "citation": "Je propose des peines courtes mais prononcées dès la première infraction",
+   "ticker": "PHILIPPE-PEINES-COURTES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/linvite-politique/la-victoire-de-bruno-retailleau-ne-maffaiblit-pas-affirme-edouard-philippe",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons",
+   "date": "2025-05-20",
+   "contexte": "Sud Radio, « L'invité politique » (Jean-Jacques Bourdin), 20/05",
+   "citation": "Ma première priorité, c’est l’école",
+   "ticker": "PHILIPPE-PRIORITE-ECOLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/linvite-politique/la-victoire-de-bruno-retailleau-ne-maffaiblit-pas-affirme-edouard-philippe",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 5,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons",
+   "date": "2025-05-20",
+   "contexte": "Sud Radio, « L'invité politique » (Jean-Jacques Bourdin), 20/05",
+   "citation": "Si on retape l’école, on devient un pays plus puissant, plus prospère et plus heureux",
+   "ticker": "PHILIPPE-RETAPER-L-ECOLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/linvite-politique/la-victoire-de-bruno-retailleau-ne-maffaiblit-pas-affirme-edouard-philippe",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons",
+   "date": "2025-05-20",
+   "contexte": "Sud Radio, « L'invité politique » (Jean-Jacques Bourdin), 20/05",
+   "citation": "Ce qui intéresse les Français, ce n’est pas la logique des partis, c’est ce qu’on fait sur l’école, la justice, la sécurité",
+   "ticker": "PHILIPPE-LOGIQUE-DES-PARTIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/linvite-politique/la-victoire-de-bruno-retailleau-ne-maffaiblit-pas-affirme-edouard-philippe",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "ECOL",
+    "POPU"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
