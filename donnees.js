@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T18:02",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne12.xlsx",
+ "maj": "2026-11-14T18:06",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne13.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -670,6 +670,362 @@ window.BOURSE = {
    "source": "https://youtu.be/OhDnmJpFZvA",
    "valeurs": [],
    "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police et sécurité",
+   "citation": "nous serons le camp dans cette élection de la vraie sécurité.",
+   "ticker": "GLUCKSMANN-VRAIE-SECURITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police de proximité",
+   "citation": "Comment on fait vraiment de la sécurité ? Une présence continue sur le terrain de la police.",
+   "ticker": "GLUCKSMANN-PRESENCE-CONTINUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police et sécurité",
+   "citation": "on a besoin de penser la sécurité comme un continuum.",
+   "ticker": "GLUCKSMANN-CONTINUUM",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police municipale",
+   "citation": "je ne désarmerai pas les policiers municipaux",
+   "ticker": "GLUCKSMANN-POLICIERS-MUNICIPAUX",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "si la France n'est pas capable de rétablir les financements de la justice […], on n'arrivera pas à maintenir un climat de paix civile.",
+   "ticker": "GLUCKSMANN-PAIX-CIVILE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — école",
+   "citation": "un pays qui traite aussi mal ses enseignants est un pays qui abandonne et sacrifie son avenir.",
+   "ticker": "GLUCKSMANN-ENSEIGNANTS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — école",
+   "citation": "Notre pays a été façonné par l'école publique.",
+   "ticker": "GLUCKSMANN-ECOLE-PUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, candidat Place Publique - Parti socialiste à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — services publics",
+   "citation": "Nous ne sommes pas des partisans de la bureaucratie. Nous sommes des partisans du service public.",
+   "ticker": "GLUCKSMANN-BUREAUCRATIE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/UTdHJUoZyPk",
+   "valeurs": [],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "Nous sommes le pays de la peine virtuelle au début, nous sommes le pays de la peine non exécutée",
+   "ticker": "PHILIPPE-PEINE-VIRTUELLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — prisons",
+   "citation": "on ne construit pas assez de place de prison et qu'on enferme trop tard et trop longtemps.",
+   "ticker": "PHILIPPE-TROP-TARD-TROP-LONGTEMPS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "je suis partisan de peines qui sont prononcées rapidement et qui sont exécutées dans un temps très bref.",
+   "ticker": "PHILIPPE-PEINES-RAPIDES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "il faut interdire la possibilité de se syndiquer dans la magistrature.",
+   "ticker": "PHILIPPE-SYNDICATS-MAGISTRATS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "Il faut être impartial lorsqu'on est juge.",
+   "ticker": "PHILIPPE-JUGE-IMPARTIAL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — rythmes scolaires",
+   "citation": "Pour moi, l'école c'est le lieu de la transmission et c'est l'intérêt de l'enfant qui prime.",
+   "ticker": "PHILIPPE-ECOLE-TRANSMISSION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — école",
+   "citation": "Nous devons ramener de la sérénité à l'école car l'apprentissage demande de la sérénité, demande de la sécurité, demande du calme",
+   "ticker": "PHILIPPE-SERENITE-A-L-ECOLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "SECU",
+    "ECOL"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — refus de la primaire",
+   "citation": "je suis pas homme à changer d'avis au gré des circonstances ou des alliances de circonstances.",
+   "ticker": "PHILIPPE-PAS-HOMME-A-CHANGER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — refus de la primaire",
+   "citation": "un peu de constance et de cohérence ne nuit pas lorsqu'on veut présider au destin de la France.",
+   "ticker": "PHILIPPE-CONSTANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — réforme de l'État",
+   "citation": "pour gérer l'État, il faut moins de circulaire, moins de normes et plus de décideurs et plus de patrons.",
+   "ticker": "PHILIPPE-PLUS-DE-PATRONS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Maire du Havre, président d'Horizons, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — finances publiques",
+   "citation": "Je pense que notre pays est déjà rentré dans la crise financière.",
+   "ticker": "PHILIPPE-CRISE-FINANCIERE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/rvBF25qV2Y8",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 12,
    "candidat": "Candidats 2027"
   },
   {
