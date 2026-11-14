@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T16:30",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne2.xlsx",
+ "maj": "2026-11-14T16:36",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne4.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -363,6 +363,45 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Vidéo d'annonce de candidature publiée sur ses réseaux sociaux (et entretien au Parisien), 09/11",
+   "citation": "Je m'appelle Teddy Riner et je vous le dis, les yeux dans les yeux, je suis candidat à l'élection présidentielle",
+   "ticker": "RINER-YEUX-DANS-LES-YEUX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Vidéo d'annonce de candidature publiée sur ses réseaux sociaux (et entretien au Parisien), 09/11",
+   "citation": "Si refuser de baisser la tête et refuser le chaos fait de moi un fou, alors oui je suis complètement fou !",
+   "ticker": "RINER-COMPLETEMENT-FOU",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
