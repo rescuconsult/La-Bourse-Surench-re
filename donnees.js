@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T17:54",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne10.xlsx",
+ "maj": "2026-11-14T17:59",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne11.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -288,6 +288,176 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — justice et prisons",
+   "citation": "je préfère enfermer quelques dizaines de milliers de personnes pour que des millions de personnes se sentent enfin en sécurité.",
+   "ticker": "ZEMMOUR-ENFERMER",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — à propos de la justice",
+   "citation": "On la trouve soit trop lente, soit trop laxiste ou carrément trop politisée, et c'est souvent les trois en même temps.",
+   "ticker": "ZEMMOUR-JUSTICE-LENTE-LAXISTE-POLITISEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — justice",
+   "citation": "je veux que les magistrats deviennent responsables de leurs actes.",
+   "ticker": "ZEMMOUR-MAGISTRATS-RESPONSABLES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "JUST",
+    "POLE"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — question sur les menaces visant des élus",
+   "citation": "je le dis depuis 20 ans, depuis 30 ans, une société multiculturelle est une société multiconflictuelle.",
+   "ticker": "ZEMMOUR-MULTICONFLICTUELLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — question sur les menaces visant des élus",
+   "citation": "pour avoir une société apaisée, il faut une société qui soit culturellement uniformisée.",
+   "ticker": "ZEMMOUR-SOCIETE-UNIFORMISEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — responsabilité des mots en politique",
+   "citation": "je pense moi que la République c'est la liberté. Voilà, c'est la liberté d'expression.",
+   "ticker": "ZEMMOUR-REPUBLIQUE-LIBERTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — à propos de l'école d'autrefois",
+   "citation": "c'est pas que c'était mieux avant, c'était 1000 fois mieux.",
+   "ticker": "ZEMMOUR-MILLE-FOIS-MIEUX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — école",
+   "citation": "c'est une école de la sélection madame et du mérite la sélection par le travail.",
+   "ticker": "ZEMMOUR-ECOLE-DU-MERITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale consacrée aux services publics, 12/11 — réforme de l'État, emplois publics",
+   "citation": "À force de vouloir être omnipotent, l'État est devenu impotent.",
+   "ticker": "ZEMMOUR-ETAT-IMPOTENT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/S2OuKlPzeqg",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -5435,24 +5605,6 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
-   "famille": "Gauche",
-   "auteur": "Philippe Poutou",
-   "affil": "NPA",
-   "fonction": "Porte-parole",
-   "date": "2026-10-17",
-   "contexte": "CNews / Europe 1",
-   "citation": "On aimerait bien que ça pète vraiment et que ça repète à nouveau : la population doit redescendre dans la rue, s'organiser et faire un rapport de force.",
-   "ticker": "POUTOU-EXPLOSION-SOCIALE",
-   "categorie": "Surenchère & provocation",
-   "pilier": "Tranquillité publique",
-   "source": "https://www.cnews.fr/",
-   "valeurs": [
-    "MANF"
-   ],
-   "mots": 27
-  },
-  {
-   "pole": "Politique",
    "famille": "Droite",
    "auteur": "Marine Le Pen",
    "affil": "Rassemblement National",
@@ -10195,6 +10347,133 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole",
+   "date": "2026-09",
+   "contexte": "CNews / Europe 1",
+   "citation": "On aimerait bien que ça pète vraiment et que ça repète à nouveau : la population doit redescendre dans la rue, s'organiser et faire un rapport de force.",
+   "ticker": "POUTOU-EXPLOSION-SOCIALE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.cnews.fr/",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "La dette, ça fait partie des choses normales de la vie économique et c'est vraiment un outil de détournement des richesses.",
+   "ticker": "POUTOU-DETTE-DETOURNEMENT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "Tout le monde sait très bien que l'argent, il est quelque part dans la poche des ultra-riches.",
+   "ticker": "POUTOU-POCHE-DES-ULTRA-RICHES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "il faut annuler la dette. Les banques se sont assez enrichies là dessus.",
+   "ticker": "POUTOU-ANNULER-LA-DETTE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "on fait partie de ceux qui pensent que la TVA c'est un impôt injuste et qu'il faut le supprimer globalement.",
+   "ticker": "POUTOU-SUPPRIMER-LA-TVA",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "Oui, il faut que ça pète socialement, il faut qu'on reprenne la rue et qu'on se défend, s'auto-organise, c'est ça aussi.",
+   "ticker": "POUTOU-REPRENDRE-LA-RUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "MANF",
+    "BUDG"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-09",
+   "contexte": "Débat télévisé sur la dette et le budget (face à Guilhem Carayon), septembre — vidéo de la chaîne NPA - L'Anticapitaliste",
+   "citation": "nous on pense qu'il faut une autre révolution, effectivement, et pas seulement une révolution dans les urnes.",
+   "ticker": "POUTOU-AUTRE-REVOLUTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/ANgJ-T3XGWQ",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 17
   },
   {
    "pole": "Politique",
