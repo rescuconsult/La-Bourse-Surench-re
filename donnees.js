@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T15:57",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_postsX1.xlsx",
+ "maj": "2026-11-14T16:00",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_postsX2.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -89,6 +89,228 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
+   "auteur": "Édouard Geffray",
+   "affil": "Gouvernement",
+   "fonction": "Ministre de l’Éducation nationale",
+   "date": "2026-11-12",
+   "contexte": "Collège du Val-d'Oise, 12/11/2026 (jeudi) — violences en marge des blocus lycéens",
+   "citation": "La République, ce n'est pas l'impunité",
+   "ticker": "GEFFRAY-IMPUNITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.boursorama.com/actualite-economique/actualites/lycees-le-gouvernement-hausse-le-ton-face-a-une-intensification-des-violences-d3acbe9f9da6f6e33921cc8e83b33f1c",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "JUST"
+   ],
+   "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Jean-Pierre Farandou",
+   "affil": "Sans étiquette / Gouvernement",
+   "fonction": "Ministre du Travail et des Solidarités",
+   "date": "2026-11-12",
+   "contexte": "Sénat, examen du PLFSS 2027, 12/11/2026 (fin de matinée) — baisse des allègements de cotisations patronales",
+   "citation": "Il n’est pas incohérent, au nom de l’intérêt général, de demander un effort aux entreprises",
+   "ticker": "FARANDOU-EFFORT-ENTREPRISES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-reporte-au-1er-avril-la-baisse-des-allegements-de-cotisations-patronales",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Clément Pernot",
+   "affil": "LR",
+   "fonction": "Sénateur LR",
+   "date": "2026-11-12",
+   "contexte": "Sénat, examen du PLFSS 2027, 12/11/2026 — débat sur les allègements de cotisations patronales",
+   "citation": "La quête obsessionnelle d’économies ne doit pas entrer en contradiction avec un certain discernement.",
+   "ticker": "PERNOT-QUETE-ECONOMIES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-reporte-au-1er-avril-la-baisse-des-allegements-de-cotisations-patronales",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Céline Brulin",
+   "affil": "PCF",
+   "fonction": "Sénatrice communiste",
+   "date": "2026-11-12",
+   "contexte": "Sénat, examen du PLFSS 2027, 12/11/2026 — débat sur les allègements de cotisations patronales",
+   "citation": "un outil de détricotage des 35 heures, plutôt qu’un levier d’augmentation générale des salaires.",
+   "ticker": "BRULIN-35-HEURES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-reporte-au-1er-avril-la-baisse-des-allegements-de-cotisations-patronales",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place publique",
+   "fonction": "Candidat à l'élection présidentielle, député européen",
+   "date": "2026-11-12",
+   "contexte": "Radio France, journée spéciale « grand oral » des candidats à la présidentielle sur les services publics, 12/11/2026 — absence de Marine Le Pen",
+   "citation": "Je regrette que la principale candidate qui prône la fin de l’audiovisuel public ne soit pas ici pour répondre",
+   "ticker": "GLUCKSMANN-AUDIOVISUEL-PUBLIC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Candidat à l'élection présidentielle, maire du Havre",
+   "date": "2026-11-12",
+   "contexte": "Radio France, journée spéciale « grand oral » des candidats à la présidentielle sur les services publics, 12/11/2026 — volet école",
+   "citation": "nous devons ramener de la sécurité à l’école",
+   "ticker": "PHILIPPE-SECURITE-ECOLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "ECOL"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Candidat à l'élection présidentielle",
+   "date": "2026-11-12",
+   "contexte": "Radio France, journée spéciale « grand oral » des candidats à la présidentielle sur les services publics, 12/11/2026 — volet santé / emploi public",
+   "citation": "Il n’y a pas trop de médecins, il y a trop d’emplois publics",
+   "ticker": "ZEMMOUR-EMPLOIS-PUBLICS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Céline Brulin",
+   "affil": "PCF",
+   "fonction": "Sénatrice communiste",
+   "date": "2026-11-12",
+   "contexte": "Sénat, séance publique, PLFSS 2027, 12/11/2026 — amendement Henno sur la hausse des cotisations CNRACL",
+   "citation": "Cet amendement donne un petit peu l’impression que c’est une mission sauvetage du gouvernement",
+   "ticker": "BRULIN-MISSION-SAUVETAGE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-cnracl-le-senat-attenue-la-hausse-prevue-sur-les-cotisations-retraites-des-collectivites-locales-et-des-hopitaux",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Jacques Michau",
+   "affil": "RDSE",
+   "fonction": "Sénateur",
+   "date": "2026-11-12",
+   "contexte": "Sénat, séance publique, PLFSS 2027, 12/11/2026 — amendement Henno sur la hausse des cotisations CNRACL",
+   "citation": "On ne peut pas demander aux collectivités de maîtriser leurs dépenses tout en transférant ce déficit […]",
+   "ticker": "MICHAU-DEFICIT-COLLECTIVITES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-cnracl-le-senat-attenue-la-hausse-prevue-sur-les-cotisations-retraites-des-collectivites-locales-et-des-hopitaux",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Stéphanie Rist",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de la Santé",
+   "date": "2026-11-12",
+   "contexte": "Sénat, séance publique, PLFSS 2027, 12/11/2026 — amendement Henno sur la hausse des cotisations CNRACL — avis du gouvernement",
+   "citation": "Je comprends votre intention, mais il me semble responsable et important de pouvoir diminuer le déficit […]",
+   "ticker": "RIST-DIMINUER-DEFICIT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-cnracl-le-senat-attenue-la-hausse-prevue-sur-les-cotisations-retraites-des-collectivites-locales-et-des-hopitaux",
+   "valeurs": [
+    "INST",
+    "BUDG",
+    "POLE"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Erwan Balanant",
+   "affil": "Les Démocrates (MoDem)",
+   "fonction": "Député",
+   "date": "2026-11-12",
+   "contexte": "Assemblée nationale, hémicycle, 12/11/2026 — avant le vote de la proposition de loi sur les droits voisins de la presse (géants du numérique)",
+   "citation": "Des dizaines de millions d'euros sont en jeu et la presse a cruellement besoin de cette manne financière",
+   "ticker": "BALANANT-MANNE-PRESSE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/les-deputes-votent-une-loi-pour-obliger-google-et-les-autres-geants-du-numerique-a-mieux",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Julien Bonnet",
+   "affil": "Université de Montpellier",
+   "fonction": "Professeur à l’université de Montpellier (constitutionnaliste)",
+   "date": "2026-11-12",
+   "contexte": "Propos recueillis par publicsenat.fr, 12/11/2026 (déduite : date de l'article) — tribune de 110 constitutionnalistes sur le référendum de l'article 11",
+   "citation": "Avec ce référendum, les Français avaient aussi par la même occasion la possibilité de mettre fin au mandat du Président.",
+   "ticker": "BONNET-REFERENDUM-MANDAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/revision-de-la-constitution-110-constitutionnalistes-rappellent-a-marine-le-pen-et-jean-luc-melenchon-quils-ne-pourront-pas-avoir-recours-au-referendum-via-larticle-11",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
    "auteur": "Sébastien Lecornu",
    "affil": "Renaissance / Gouvernement",
    "fonction": "Premier ministre",
@@ -157,6 +379,42 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/manifestations-etudiants-lyceens-profsa-quoi-faut-il-sattendre-ce-mardi-10-novembre",
    "valeurs": [],
    "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Amélie de Montchalin",
+   "affil": "Cour des comptes",
+   "fonction": "Première présidente de la Cour des comptes",
+   "date": "2026-11-09",
+   "contexte": "Cour des comptes, conférence de presse du 09/11/2026 (lundi matin) — 18 mesures d'économies de court terme",
+   "citation": "Si aucune des niches fiscales n’existait, ce serait 106 milliards d’euros de recettes de plus pour l’Etat",
+   "ticker": "MONTCHALIN-NICHES-FISCALES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/gel-dun-an-des-promotions-des-fonctionnaires-non-revalorisation-des-prestations-baisse-des-dotations-la-cour-des-comptes-avance-ses-idees-deconomies",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Carine Camby",
+   "affil": "Cour des comptes",
+   "fonction": "Présidente de la première chambre de la Cour des comptes",
+   "date": "2026-11-09",
+   "contexte": "Cour des comptes, conférence de presse du 09/11/2026 (lundi matin) — 18 mesures d'économies de court terme",
+   "citation": "Le gel du point d’indice n’a pas évité de très fortes augmentations de la masse salariale des agents publics",
+   "ticker": "CAMBY-POINT-INDICE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/gel-dun-an-des-promotions-des-fonctionnaires-non-revalorisation-des-prestations-baisse-des-dotations-la-cour-des-comptes-avance-ses-idees-deconomies",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 19
   },
   {
    "pole": "Experts & invités",
@@ -1159,7 +1417,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/2A_u_vLHAgU",
    "valeurs": [],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -1177,7 +1436,8 @@ window.BOURSE = {
    "valeurs": [
     "INST"
    ],
-   "mots": 23
+   "mots": 23,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -3704,7 +3964,8 @@ window.BOURSE = {
    "hof": {
     "prix": "Catastrophe",
     "medaille": "Or"
-   }
+   },
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4521,7 +4782,8 @@ window.BOURSE = {
     "SECU",
     "POLE"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -4597,7 +4859,8 @@ window.BOURSE = {
     "MANF",
     "AUTO"
    ],
-   "mots": 7
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -4779,7 +5042,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.bfmtv.com/",
    "valeurs": [],
-   "mots": 20
+   "mots": 20,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -7004,7 +7268,8 @@ window.BOURSE = {
    "valeurs": [
     "SECU"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -13198,7 +13463,8 @@ window.BOURSE = {
     "IMMI",
     "PEUR"
    ],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -13217,7 +13483,8 @@ window.BOURSE = {
     "IMMI",
     "PEUR"
    ],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -13530,7 +13797,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 10
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -14035,6 +14303,25 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
+   "auteur": "Gérald Darmanin",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l'Intérieur et des Outre-mer",
+   "date": "2023-07-05",
+   "contexte": "Sénat, questions d'actualité au gouvernement, 05/07/2023 — émeutes après la mort de Nahel",
+   "citation": "Si elle doit se réformer, elle doit aussi éviter d’être un bouc émissaire pour se poser les bonnes questions",
+   "ticker": "DARMANIN-BOUC-EMISSAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/emeutes-pour-gerald-darmanin-si-la-police-doit-se-reformer-elle-ne-doit-pas-servir-de-boucs-emissaires",
+   "valeurs": [
+    "INST",
+    "VIOL"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
    "auteur": "Élisabeth Borne",
    "affil": "Renaissance",
    "fonction": "Première ministre",
@@ -14302,6 +14589,24 @@ window.BOURSE = {
    "mots": 13
   },
   {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Ciotti",
+   "affil": "LR",
+   "fonction": "Président des Républicains",
+   "date": "2023-06-29",
+   "contexte": "Communiqué, 29/06/2023 (déduite : date de l'article) — émeutes après la mort de Nahel, demande d'état d'urgence",
+   "citation": "le déclenchement sans délai de l’état d’urgence partout où des incidents ont éclaté",
+   "ticker": "CIOTTI-ETAT-URGENCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/violences-apres-la-mort-de-nahel-faut-il-decreter-letat-durgence-comme-le-demande-lr",
+   "valeurs": [
+    "VIOL"
+   ],
+   "mots": 13
+  },
+  {
    "pole": "Médiatique",
    "famille": null,
    "auteur": "Apolline de Malherbe",
@@ -14353,6 +14658,43 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Thomas Dossus",
+   "affil": "EELV",
+   "fonction": "Sénateur écologiste",
+   "date": "2023-06-28",
+   "contexte": "Sénat, questions d'actualité au gouvernement, 28/06/2023 — mort de Nahel à Nanterre",
+   "citation": "Il y a des raisons qui ont conduit à ce drame.",
+   "ticker": "DOSSUS-RAISONS-DRAME",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/mort-de-nahel-il-ne-peut-pas-y-avoir-de-recuperation-politique-rappelle-gerald-darmanin",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gérald Darmanin",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l'Intérieur et des Outre-mer",
+   "date": "2023-06-28",
+   "contexte": "Sénat, questions d'actualité au gouvernement, 28/06/2023 — réponse à Thomas Dossus après la mort de Nahel",
+   "citation": "Au moment où une famille pleure son enfant […] Il ne peut pas y avoir de récupération politique",
+   "ticker": "DARMANIN-RECUPERATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/mort-de-nahel-il-ne-peut-pas-y-avoir-de-recuperation-politique-rappelle-gerald-darmanin",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 17
   },
   {
    "pole": "Politique",
@@ -14648,7 +14990,8 @@ window.BOURSE = {
     "POLE",
     "POPU"
    ],
-   "mots": 21
+   "mots": 21,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -15612,7 +15955,8 @@ window.BOURSE = {
     "PEUR",
     "POPU"
    ],
-   "mots": 18
+   "mots": 18,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -16265,6 +16609,24 @@ window.BOURSE = {
    "mots": 15
   },
   {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Albéric de Montgolfier",
+   "affil": "LR",
+   "fonction": "Sénateur, rapporteur général du budget au Sénat",
+   "date": "2017-11-25",
+   "contexte": "Sénat, examen du projet de loi de finances 2018, 25/11/2017 (après-midi) — suppression de l'ISF",
+   "citation": "L’ISF est l’exemple type du mauvais impôt",
+   "ticker": "MONTGOLFIER-MAUVAIS-IMPOT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/le-senat-supprime-la-totalite-de-l-impot-sur-la-fortune-80181",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 7
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Marc Luyckx Ghisi",
@@ -16361,6 +16723,60 @@ window.BOURSE = {
    "source": "https://www.youtube.com/live/JDRzEdRQF5s",
    "valeurs": [],
    "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Bruno Le Maire",
+   "affil": "LREM / Gouvernement",
+   "fonction": "Ministre de l'Économie et des Finances",
+   "date": "2017-10-17",
+   "contexte": "Assemblée nationale, ouverture du débat sur le projet de loi de finances 2018 (suppression de l'ISF), 17/10/2017 (déduite : « mardi »)",
+   "citation": "Sans capital, pas d’investissement. Sans investissement, pas d’innovation. Sans innovation, pas d’emploi",
+   "ticker": "LEMAIRE-CAPITAL-INVESTISSEMENT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/le-premier-budget-macron-dans-l-hemicycle-premieres-passes-d-armes-sur-l-isf-78751",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Valérie Rabault",
+   "affil": "PS",
+   "fonction": "Députée, ex-rapporteure générale du Budget",
+   "date": "2017-10-17",
+   "contexte": "Assemblée nationale, débat sur le projet de loi de finances 2018 (ISF), octobre 2017 (date déduite : article du 17/10/2017)",
+   "citation": "Rien n'est fléché vers le financement de l'économie. Vous faites un chèque en blanc",
+   "ticker": "RABAULT-CHEQUE-EN-BLANC",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/le-premier-budget-macron-dans-l-hemicycle-premieres-passes-d-armes-sur-l-isf-78751",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "LREM",
+   "fonction": "Président de la République",
+   "date": "2017-10-15",
+   "contexte": "TF1, entretien télévisé, 15/10/2017 — suppression de l'ISF",
+   "citation": "si l'on commence à jeter des cailloux sur les premiers de cordée c'est toute la cordée qui dégringole",
+   "ticker": "MACRON-PREMIERS-DE-CORDEE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/isf-macron-ne-croit-pas-a-la-jalousie-envers-les-riches-78619",
+   "valeurs": [],
+   "mots": 18
   },
   {
    "pole": "Experts & invités",
