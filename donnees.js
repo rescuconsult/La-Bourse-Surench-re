@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T16:00",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_postsX2.xlsx",
+ "maj": "2026-11-14T16:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne2.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8331,6 +8331,25 @@ window.BOURSE = {
    "mots": 14
   },
   {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député",
+   "date": "2026-10-02",
+   "contexte": "Public Sénat, émission « À l'EHPAD ! », article du 02/10 — justice des mineurs",
+   "citation": "un mineur de 2026, ce n’est pas un mineur de 1945",
+   "ticker": "ATTAL-MINEUR-DE-2026",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/politique/a-lehpad-gabriel-attal-face-aux-questions-sans-filtre-de-nos-aines",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Grégory Joron",
@@ -10378,6 +10397,45 @@ window.BOURSE = {
    "source": "https://youtu.be/o-EwPPFBg5U",
    "valeurs": [],
    "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête",
+   "date": "2026-05-19",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Pierre de Vilno), 19/05 — narcotrafic",
+   "citation": "Nous sommes dans une France mexicanisée",
+   "ticker": "ZEMMOUR-FRANCE-MEXICANISEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/en-direct-immigration-pouvoir-dachat-narcotrafic-ce-quil-faut-retenir-de-linterview-deric-zemmour-dans-la-france-en-face-936419",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 6,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Zemmour",
+   "affil": "Reconquête",
+   "fonction": "Président de Reconquête",
+   "date": "2026-05-19",
+   "contexte": "Europe 1 / CNews, « La France en face » (Laurence Ferrari, Pierre de Vilno), 19/05 — narcotrafic, peines",
+   "citation": "Il faut qu'ils aillent en prison, qu'ils restent en prison",
+   "ticker": "ZEMMOUR-RESTENT-EN-PRISON",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/en-direct-immigration-pouvoir-dachat-narcotrafic-ce-quil-faut-retenir-de-linterview-deric-zemmour-dans-la-france-en-face-936419",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
