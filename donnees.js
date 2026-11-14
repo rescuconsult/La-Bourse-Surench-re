@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T18:06",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne13.xlsx",
+ "maj": "2026-11-14T18:13",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne14.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -1026,6 +1026,336 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — justice et prisons",
+   "citation": "Le problème fondamental qu'on a dans notre système judiciaire, c'est qu'on a aujourd'hui une politique pénale qui est pilotée par la surpopulation carcérale.",
+   "ticker": "ATTAL-POLITIQUE-PENALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — exécution des peines",
+   "citation": "Je suis pour effectivement la suppression des réductions automatiques de peine.",
+   "ticker": "ATTAL-REDUCTIONS-DE-PEINE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — surpopulation carcérale",
+   "citation": "on est fou quand même si on se dit qu'on a un système où on fait des allègements de peine parce qu'il y a trop de gens dans les prisons.",
+   "ticker": "ATTAL-ON-EST-FOU",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 30,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — code de procédure pénale",
+   "citation": "Je veux qu'on se fixe 100 jours pour réécrire […] intégralement le code de procédure pénale pour qu'il soit beaucoup plus simple.",
+   "ticker": "ATTAL-100-JOURS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — code de procédure pénale",
+   "citation": "Vous avez des gens qui s'en sortent par vice de procédure parce qu'on a un code trop compliqué.",
+   "ticker": "ATTAL-VICE-DE-PROCEDURE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST",
+    "POLE"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — juge d'application des peines",
+   "citation": "En France, on a effectivement le juge d'application des peines qui en réalité rejuge quelque part ce qui vient d'être jugé par le juge en première instance.",
+   "ticker": "ATTAL-JUGE-QUI-REJUGE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 27,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — délais de la justice pour les violences faites aux enfants",
+   "citation": "je veux qu'on puisse garantir que pour chaque plainte, il y a de premiers actes de procédure en 48 heures",
+   "ticker": "ATTAL-48-HEURES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — rôle de l'État",
+   "citation": "Moi, je plaide pour un État qui se recentre sur ses missions régaliennes. Assurer la sécurité dans le pays, faire respecter les frontières, former des républicains grâce à l'école",
+   "ticker": "ATTAL-MISSIONS-REGALIENNES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 29,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — école, niveau des élèves",
+   "citation": "Et puis vous avez des élèves qu'on laisse de façon totalement hypocrite glisser de classe en classe alors qu'ils n'ont pas le niveau",
+   "ticker": "ATTAL-GLISSER-DE-CLASSE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL",
+    "POLE"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — école primaire",
+   "citation": "C'est pour ça que je veux rétablir un certificat d'études à la fin de la classe de CM2 et avant l'entrée en 6e.",
+   "ticker": "ATTAL-CERTIFICAT-D-ETUDES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL",
+    "AUTO"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — bien-être à l'école, harcèlement",
+   "citation": "Moi, je veux une école où les élèves et où les enseignants se sentent bien. Une école où on lutte contre le harcèlement",
+   "ticker": "ATTAL-ECOLE-BIEN-ETRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — stabilité à la tête de l'Éducation nationale",
+   "citation": "si les Français me font confiance, il y aura un capitaine à la tête du bateau de l'éducation nationale pendant 5 ans.",
+   "ticker": "ATTAL-CAPITAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL",
+    "POPU"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — Parcoursup et sélection à l'université",
+   "citation": "Pour moi, il faut maintenir un processus de sélection et pour ça, il faudra toujours un outil.",
+   "ticker": "ATTAL-SELECTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — rémunération des enseignants",
+   "citation": "La réalité, c'est qu'il y a une forme de smicardisation du métier d'enseignant.",
+   "ticker": "ATTAL-SMICARDISATION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — dette et services publics",
+   "citation": "Tout l'argent qu'on met pour payer les intérêts de notre dette, bah c'est de l'argent qu'on ne met pas sur l'éducation, sur la santé […]",
+   "ticker": "ATTAL-INTERETS-DE-LA-DETTE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL",
+    "BUDG"
+   ],
+   "mots": 24,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — bilan des deux quinquennats, logement",
+   "citation": "Il y a eu un certain nombre de réussites économiques. Il y a eu un gros échec, c'est le logement.",
+   "ticker": "ATTAL-GROS-ECHEC",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gabriel Attal",
+   "affil": "Renaissance",
+   "fonction": "Ancien Premier ministre, député, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo (radio, canal 16, Twitch, YouTube), journée spéciale « Nos services publics », 12/11 — primaire du centre et de la droite",
+   "citation": "Moi je refuse ce deuxième tour entre Jean-Luc Mélenchon et Marine Le Pen. […] notre pays ne s'en relèverait pas.",
+   "ticker": "ATTAL-NE-S-EN-RELEVERAIT-PAS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/zi7drTEs_1w",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 19,
    "candidat": "Candidats 2027"
   },
   {
