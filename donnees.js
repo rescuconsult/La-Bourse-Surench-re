@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T16:36",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne4.xlsx",
+ "maj": "2026-11-14T17:27",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne6.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -401,6 +401,83 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Sud Radio, « L'invité politique » (Thomas Rannou), 09/11",
+   "citation": "Le tronc commun, le creuset commun, c’est l’école républicaine.",
+   "ticker": "BOUAMRANE-ECOLE-REPUBLICAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Sud Radio, « L'invité politique » (Thomas Rannou), 09/11",
+   "citation": "Constitutionnellement, il n’y a pas de Français de premier ou de deuxième niveau.",
+   "ticker": "BOUAMRANE-FRANCAIS-DE-PREMIER-NIVEAU",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-il-faut-arreter-de-regarder-melenchon-comme-le-superman-de-la-gauche",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Vidéo d'annonce de candidature publiée sur ses réseaux sociaux, 09/11",
+   "citation": "parce qu'on a laissé la rue aux voyous, et que l'autorité de l'Etat a disparu",
+   "ticker": "RINER-RUE-AUX-VOYOUS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+   "valeurs": [
+    "SECU",
+    "MANF",
+    "AUTO"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Vidéo d'annonce de candidature publiée sur ses réseaux sociaux, 09/11",
+   "citation": "Aujourd'hui on vit côte à côte, je crains que demain on doive vivre face-à-face",
+   "ticker": "RINER-COTE-A-COTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+   "valeurs": [],
+   "mots": 14,
    "candidat": "Candidats 2027"
   },
   {
@@ -8502,6 +8579,47 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka",
+   "date": "2026-10",
+   "contexte": "Post X, début octobre — violences et dégradations dans les lycées",
+   "citation": "Aucune colère ne justifie cela. Les responsables doivent être identifiés et sanctionnés",
+   "ticker": "RINER-AUCUNE-COLERE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "AUTO",
+    "POLE"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka",
+   "date": "2026-10",
+   "contexte": "Déclaration de début octobre — mouvement lycéen (support non précisé par LCP)",
+   "citation": "Écouter les difficultés des jeunes, oui. Laisser la violence décider s’ils peuvent aller en cours, jamais",
+   "ticker": "RINER-VIOLENCE-EN-COURS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
    "famille": "Centre & exécutif",
    "auteur": "Sébastien Lecornu",
    "affil": "Gouvernement",
@@ -9415,6 +9533,25 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, candidat à la présidentielle 2027",
+   "date": "2026-09-06",
+   "contexte": "TF1, journal de 20 heures, 06/09 — annonce de sa candidature",
+   "citation": "Il faut que les fraudeurs passent par la case prison, par la déchéance des droits civiques […]",
+   "ticker": "ROUSSEL-CASE-PRISON",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
    "auteur": "Mathilde Panot",
    "affil": "LFI / Députée",
    "fonction": "Présidente du groupe LFI à l'Assemblée",
@@ -9530,6 +9667,23 @@ window.BOURSE = {
    "source": "https://youtu.be/-229Bc7cKY8",
    "valeurs": [],
    "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Marine Tondelier",
+   "affil": "Les Écologistes",
+   "fonction": "Secrétaire nationale des Écologistes, candidate à la présidentielle 2027",
+   "date": "2026-09-04",
+   "contexte": "Note de blog publiée sur son site marinetondelier.fr, 04/09 — mensonge en politique",
+   "citation": "On ne peut pas continuer comme cela dans cette ère de post-vérité, comme si c’était une fatalité",
+   "ticker": "TONDELIER-POST-VERITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/marine-tondelier-veut-interdire-le-mensonge-en-politique-et-sanctionner-les-elus-pris-en",
+   "valeurs": [],
+   "mots": 17,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
@@ -9976,6 +10130,141 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "Un crime d’adulte appelle une réponse d’adulte.",
+   "ticker": "LISNARD-CRIME-D-ADULTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "L’excuse de minorité sera levée pour les crimes de sang.",
+   "ticker": "LISNARD-EXCUSE-DE-MINORITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [
+    "JUST",
+    "PEUR"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "Nous mettrons un terme à l’extension de la loi du plus fort, des bandes organisées, des émeutes, de la violence juvénile.",
+   "ticker": "LISNARD-LOI-DU-PLUS-FORT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [
+    "SECU",
+    "VIOL"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "La France est une communauté républicaine de citoyens et de destin.",
+   "ticker": "LISNARD-COMMUNAUTE-REPUBLICAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "Rien ne se fera sans l’école et la culture.",
+   "ticker": "LISNARD-ECOLE-ET-CULTURE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-07-03",
+   "contexte": "Discours de Saint-Raphaël (réunion militante de Nouvelle Énergie), 03/07",
+   "citation": "La responsabilité, c’est d’abord assumer ses convictions.",
+   "ticker": "LISNARD-RESPONSABILITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.unenouvelleenergie.fr/app/uploads/2026/07/Discours-de-David-Lisnard-a-Saint-Raphael.pdf",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-07-02",
+   "contexte": "Sud Radio, « L'invité politique » (Jean-François Achilli), 02/07 — bouches d'incendie ouvertes pendant les fortes chaleurs",
+   "citation": "On interdit, on sanctionne lourdement lorsqu’on ouvre les bouches d’incendie.",
+   "ticker": "BOUAMRANE-BOUCHES-D-INCENDIE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.sudradio.fr/linvite-politique/karim-bouamrane-je-nirai-pas-a-la-primaire-du-parti-socialiste",
+   "valeurs": [
+    "VIOL",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 10,
    "candidat": "Candidats 2027"
   },
   {
@@ -10436,6 +10725,45 @@ window.BOURSE = {
    "source": "https://youtu.be/o-EwPPFBg5U",
    "valeurs": [],
    "mots": 6
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "David Lisnard",
+   "affil": "Nouvelle Énergie",
+   "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+   "date": "2026-05-27",
+   "contexte": "Europe 1 / CNews, « La Grande Interview » (Laurence Ferrari), 27/05",
+   "citation": "Moi, qu'importe la couleur de peau des gens, qu'importe leur croyance, je suis profondément républicain.",
+   "ticker": "LISNARD-PROFONDEMENT-REPUBLICAIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.europe1.fr/politique/jean-luc-melenchon-veut-imposer-cette-alliance-du-wokisme-et-de-lislamisme-denonce-david-lisnard-938957",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "Place Publique",
+   "fonction": "Eurodéputé, coprésident de Place Publique",
+   "date": "2026-05-26",
+   "contexte": "Livre « Nous avons encore envie » (Allary éditions, 28/05), extraits publiés le 26/05",
+   "citation": "La gauche républicaine doit prendre à bras-le-corps la question de la sécurité",
+   "ticker": "GLUCKSMANN-BRAS-LE-CORPS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -11933,6 +12261,25 @@ window.BOURSE = {
    "mots": 10
   },
   {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "LR",
+   "fonction": "Président des Républicains",
+   "date": "2026-02-12",
+   "contexte": "Déclaration de candidature publiée sur ses réseaux sociaux, 12/02",
+   "citation": "Je ne veux pas être président de la République par obsession du pouvoir, mais par sens du devoir",
+   "ticker": "RETAILLEAU-SENS-DU-DEVOIR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
    "pole": "Experts & invités",
    "famille": null,
    "auteur": "Amine Kessaci",
@@ -12258,6 +12605,23 @@ window.BOURSE = {
    "source": "https://www.youtube.com/live/-Iu7_FUuU6I",
    "valeurs": [],
    "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis",
+   "date": "2026-01-28",
+   "contexte": "Politis, entretien publié le 28/01",
+   "citation": "Je veux que l’esprit public guide le sommet de l’État.",
+   "ticker": "AUTAIN-ESPRIT-PUBLIC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.politis.fr/articles/2026/01/clementine-autain-nous-devons-avoir-le-discours-dune-gauche-decomplexee/",
+   "valeurs": [],
+   "mots": 10,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
