@@ -309,6 +309,219 @@ window.BOURSE = {
    "mots": 20
   },
   {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "la justice est conformiste et ce conformisme confine à une forme de laxisme",
+   "ticker": "MONTBRIAL-JUSTICE-CONFORMISTE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "la justice, elle est restée, elle s'est pas adaptée à l'évolution de la violence de notre société.",
+   "ticker": "MONTBRIAL-JUSTICE-PAS-ADAPTEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "le premier courage dont on va avoir besoin, c'est le courage de faire et que le courage de faire, il suppose d'appliquer la loi existante.",
+   "ticker": "MONTBRIAL-COURAGE-DE-FAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [],
+   "mots": 25
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "Il y a pas de petite violence physique. Il y a une échelle de la gravité.",
+   "ticker": "MONTBRIAL-PETITE-VIOLENCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "l'article 2 de la […] déclaration des droits de l'homme de 1789 […] déclare comme droit imprescriptible la sécurité et la propriété privée.",
+   "ticker": "MONTBRIAL-ARTICLE-2",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11 — loi de 2018 sur les fausses informations en période électorale",
+   "citation": "c'est une loi scélérate parce que elle va judiciariser le débat public.",
+   "ticker": "MONTBRIAL-LOI-SCELERATE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/gkzUvx3o3P8",
+   "valeurs": [],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11 — protection juridique des policiers",
+   "citation": "je prends le droit tel qu'il existe. Simplement, il faut l'appliquer correctement.",
+   "ticker": "MONTBRIAL-APPLIQUER-LE-DROIT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11 — protection juridique des policiers",
+   "citation": "création de juridiction spécialisée sur les dossiers impliquant la police",
+   "ticker": "MONTBRIAL-JURIDICTION-SPECIALISEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11 — usage de l'arme par les policiers",
+   "citation": "ce serait bien d'avoir des juges acculturés à cette difficulté.",
+   "ticker": "MONTBRIAL-JUGES-ACCULTURES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "les Français ne croient plus dans la classe politique actuelle pour prendre les mesures rudes que la situation sécuritaire mais aussi économique nécessiteront.",
+   "ticker": "MONTBRIAL-CLASSE-POLITIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [
+    "SECU",
+    "POPU"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "il faut aussi savoir ce que c'est que d'avoir peur pour ses filles quand elles sortent le soir.",
+   "ticker": "MONTBRIAL-PEUR-POUR-SES-FILLES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Thibault de Montbrial",
+   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
+   "fonction": "Avocat, président du CRSI",
+   "date": "2026-11-12",
+   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), 12/11",
+   "citation": "je suis vraiment dans une logique de m'engager au service de mon pays avec beaucoup de détermination.",
+   "ticker": "MONTBRIAL-ENGAGEMENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Lxdh4JOPZRM",
+   "valeurs": [],
+   "mots": 17
+  },
+  {
    "pole": "Politique",
    "famille": "Centre & exécutif",
    "auteur": "Sébastien Lecornu",
@@ -3283,219 +3496,6 @@ window.BOURSE = {
     "IDEN"
    ],
    "mots": 22
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "la justice est conformiste et ce conformisme confine à une forme de laxisme",
-   "ticker": "MONTBRIAL-JUSTICE-CONFORMISTE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [
-    "JUST"
-   ],
-   "mots": 13
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "la justice, elle est restée, elle s'est pas adaptée à l'évolution de la violence de notre société.",
-   "ticker": "MONTBRIAL-JUSTICE-PAS-ADAPTEE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [
-    "SECU",
-    "JUST"
-   ],
-   "mots": 17
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "le premier courage dont on va avoir besoin, c'est le courage de faire et que le courage de faire, il suppose d'appliquer la loi existante.",
-   "ticker": "MONTBRIAL-COURAGE-DE-FAIRE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [],
-   "mots": 25
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "Il y a pas de petite violence physique. Il y a une échelle de la gravité.",
-   "ticker": "MONTBRIAL-PETITE-VIOLENCE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 16
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "l'article 2 de la […] déclaration des droits de l'homme de 1789 […] déclare comme droit imprescriptible la sécurité et la propriété privée.",
-   "ticker": "MONTBRIAL-ARTICLE-2",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 21
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer — loi de 2018 sur les fausses informations en période électorale",
-   "citation": "c'est une loi scélérate parce que elle va judiciariser le débat public.",
-   "ticker": "MONTBRIAL-LOI-SCELERATE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/gkzUvx3o3P8",
-   "valeurs": [],
-   "mots": 12
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer — protection juridique des policiers",
-   "citation": "je prends le droit tel qu'il existe. Simplement, il faut l'appliquer correctement.",
-   "ticker": "MONTBRIAL-APPLIQUER-LE-DROIT",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 12
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer — protection juridique des policiers",
-   "citation": "création de juridiction spécialisée sur les dossiers impliquant la police",
-   "ticker": "MONTBRIAL-JURIDICTION-SPECIALISEE",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [
-    "SECU"
-   ],
-   "mots": 10
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer — usage de l'arme par les policiers",
-   "citation": "ce serait bien d'avoir des juges acculturés à cette difficulté.",
-   "ticker": "MONTBRIAL-JUGES-ACCULTURES",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [
-    "SECU",
-    "JUST"
-   ],
-   "mots": 10
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "les Français ne croient plus dans la classe politique actuelle pour prendre les mesures rudes que la situation sécuritaire mais aussi économique nécessiteront.",
-   "ticker": "MONTBRIAL-CLASSE-POLITIQUE",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [
-    "SECU",
-    "POPU"
-   ],
-   "mots": 23
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "il faut aussi savoir ce que c'est que d'avoir peur pour ses filles quand elles sortent le soir.",
-   "ticker": "MONTBRIAL-PEUR-POUR-SES-FILLES",
-   "categorie": "Tranquillité publique",
-   "pilier": "Tranquillité publique",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [
-    "PEUR"
-   ],
-   "mots": 18
-  },
-  {
-   "pole": "Experts & invités",
-   "famille": null,
-   "auteur": "Thibault de Montbrial",
-   "affil": "Centre de réflexion sur la sécurité intérieure (CRSI)",
-   "fonction": "Avocat, président du CRSI",
-   "date": "2026-11",
-   "contexte": "Europe 1, émission de Pascal Praud (entretien d'une heure, à l'occasion de son livre « La France a besoin de nous », Fayard), novembre — jour à confirmer",
-   "citation": "je suis vraiment dans une logique de m'engager au service de mon pays avec beaucoup de détermination.",
-   "ticker": "MONTBRIAL-ENGAGEMENT",
-   "categorie": "Citoyenneté et civisme",
-   "pilier": "Citoyenneté & civisme",
-   "source": "https://youtu.be/Lxdh4JOPZRM",
-   "valeurs": [],
-   "mots": 17
   },
   {
    "pole": "Politique",
