@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T17:59",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne11.xlsx",
+ "maj": "2026-11-14T18:02",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne12.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -457,6 +457,219 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police",
+   "citation": "La sécurité, c'est un service public. La sécurité est un service public qui doit être garanti par l'État.",
+   "ticker": "ROUSSEL-SECURITE-SERVICE-PUBLIC",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police de proximité",
+   "citation": "La sécurité et la justice sont deux piliers importants d'une République qui protège et qui garantit les mêmes droits pour toutes et pour tous.",
+   "ticker": "ROUSSEL-DEUX-PILIERS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "JUST"
+   ],
+   "mots": 24,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police de proximité",
+   "citation": "Je ne suis pas pour la police municipale qui remplace la police nationale.",
+   "ticker": "ROUSSEL-POLICE-MUNICIPALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — maintien de l'ordre et mouvement lycéen",
+   "citation": "je n'utiliserai pas de grenade contre nos enfants.",
+   "ticker": "ROUSSEL-PAS-DE-GRENADE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — police",
+   "citation": "je demande à doubler les moyens de la police nationale et de la gendarmerie.",
+   "ticker": "ROUSSEL-DOUBLER-LES-MOYENS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — justice",
+   "citation": "la justice n'est pas la même quand on peut la rendre tout de suite ou quand on la rend 3 ans ou 4 ans après.",
+   "ticker": "ROUSSEL-JUSTICE-TROIS-ANS-APRES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "JUST"
+   ],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — violences contre les élus",
+   "citation": "Les élus représentent la démocratie. Chaque acte à leur encontre est un coup de poignard dans le dos contre la démocratie.",
+   "ticker": "ROUSSEL-COUP-DE-POIGNARD",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — violences contre les élus",
+   "citation": "je propose d'inscrire même dans la loi un durcissement de la chaîne pénale contre les auteurs de propos racistes et antisémites",
+   "ticker": "ROUSSEL-PROPOS-RACISTES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "IDEN"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — logement",
+   "citation": "Le logement social, c'est indispensable pour faire vivre ensemble nos concitoyens.",
+   "ticker": "ROUSSEL-LOGEMENT-SOCIAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — mouvement lycéen",
+   "citation": "j'aurais écouté cette jeunesse qui s'est levée spontanément",
+   "ticker": "ROUSSEL-ECOUTER-LA-JEUNESSE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Fabien Roussel",
+   "affil": "PCF",
+   "fonction": "Secrétaire national du PCF, maire de Saint-Amand-les-Eaux, candidat à la présidentielle 2027",
+   "date": "2026-11-12",
+   "contexte": "franceinfo / Radio France (studio 104 de la Maison de la radio), journée spéciale « Nos services publics », 12/11 — financement des services publics",
+   "citation": "Privatiser ça coûte cher. C'est pas investir dans les services publics qui coûtent cher, c'est privatiser.",
+   "ticker": "ROUSSEL-PRIVATISER-COUTE-CHER",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/OhDnmJpFZvA",
+   "valeurs": [],
+   "mots": 16,
    "candidat": "Candidats 2027"
   },
   {
