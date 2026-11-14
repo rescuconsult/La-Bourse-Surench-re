@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T17:27",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne6.xlsx",
+ "maj": "2026-11-14T17:42",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne8.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -10747,6 +10747,124 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — chapitre « La justice »",
+   "citation": "Notre système judiciaire est en état de mort clinique.",
+   "ticker": "BRANCO-MORT-CLINIQUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "INST",
+    "JUST",
+    "PEUR"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — chapitre « L'intérieur »",
+   "citation": "La légitimité des forces de l’ordre est largement remise en question.",
+   "ticker": "BRANCO-FORCES-DE-L-ORDRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "AUTO"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — « L'urgence »",
+   "citation": "Il nous faut donc rendre au peuple sa voix et les instruments de son émancipation.",
+   "ticker": "BRANCO-RENDRE-AU-PEUPLE-SA-VOIX",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — préambule",
+   "citation": "Notre époque s’est attaquée au merveilleux et l’a réduit en miettes. Elle a renoncé à la discipline et à l’honneur.",
+   "ticker": "BRANCO-DISCIPLINE-ET-HONNEUR",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — « L'urgence »",
+   "citation": "Nous proposons l’adoption par référendum des mesures de rupture constitutionnelles et législatives dans les six mois qui suivront l’accession au pouvoir.",
+   "ticker": "BRANCO-REFERENDUM-SIX-MOIS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Juan Branco",
+   "affil": "Mouvement citoyen (sans étiquette)",
+   "fonction": "Avocat, candidat à l'élection présidentielle 2027",
+   "date": "2026-05-27",
+   "contexte": "Programme présidentiel « La Voie — Pour sauver le peuple Français » (site de campagne ruches.org), version du 27/05 — chapitre « Société »",
+   "citation": "Instauration d’un service d’État, civil et militaire annuel.",
+   "ticker": "BRANCO-SERVICE-D-ETAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://ruches.org/le-projet",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
    "famille": "Gauche",
    "auteur": "Raphaël Glucksmann",
    "affil": "Place Publique",
@@ -14241,6 +14359,116 @@ window.BOURSE = {
    "source": "https://x.com/SteevyGustave/status/1821230934445707482",
    "valeurs": [],
    "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "on est dans l'ambiance sécuritaire, c'est-à-dire plus de policiers, plus de surveillance, plus de caméras.",
+   "ticker": "POUTOU-AMBIANCE-SECURITAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "En fait, la violence pour vous, c'est de la délinquance juste c'est des incivilités et comme par hasard, c'est plutôt ciblé évidemment sur les quartiers populaires.",
+   "ticker": "POUTOU-QUARTIERS-POPULAIRES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU",
+    "VIOL"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "La question des violences policières aussi, ça fait partie des violences quotidiennes. Elles existent.",
+   "ticker": "POUTOU-VIOLENCES-POLICIERES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "il y a une insécurité sociale qui est dominante avant tout et c'est de celle-là qu'il faudrait traiter.",
+   "ticker": "POUTOU-INSECURITE-SOCIALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "On ne peut pas juste parler de délinquance ou de méchants trafiquants.",
+   "ticker": "POUTOU-MECHANTS-TRAFIQUANTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Philippe Poutou",
+   "affil": "NPA",
+   "fonction": "Conseiller municipal de Bordeaux, porte-parole du NPA",
+   "date": "2024-07-09",
+   "contexte": "Conseil municipal de Bordeaux, 09/07 — débat sur un accord de sécurité (vidéo de la chaîne NPA - L'Anticapitaliste)",
+   "citation": "il y a un danger aujourd'hui de glisser petit à petit sur ce discours sécuritaire.",
+   "ticker": "POUTOU-DISCOURS-SECURITAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DIM87ag3SBY",
+   "valeurs": [
+    "SECU",
+    "PEUR"
+   ],
+   "mots": 15
   },
   {
    "pole": "Politique",
