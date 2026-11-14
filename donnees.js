@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-09T09:07",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261109_postsX2.xlsx",
+ "maj": "2026-11-14T15:57",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_postsX1.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,153 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Céline Malaisé",
+   "affil": "PCF",
+   "fonction": "Présidente du groupe communiste au conseil régional d'Île-de-France",
+   "date": "2026-11-12",
+   "contexte": "Déclaration à l'AFP, 12/11/2026 — réaction à la suppression des aides régionales facultatives pour les lycéens exclus pour violences",
+   "citation": "Nous allons donc en contester la légalité",
+   "ticker": "MALAISE-CONTESTER-LEGALITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Valérie Pécresse",
+   "affil": "LR",
+   "fonction": "Présidente de la Région Île-de-France",
+   "date": "2026-11-12",
+   "contexte": "Annonce du 12/11/2026 (jeudi) — violences en marge des blocus lycéens ; mesure régionale",
+   "citation": "Quand un élève aura été exclu pour violences ou dégradations, il n’aura plus accès aux aides facultatives de la Région",
+   "ticker": "PECRESSE-AIDES-EXCLUS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+   "valeurs": [
+    "SECU",
+    "ECOL"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Le Maire",
+   "affil": "LR",
+   "fonction": "Ancien ministre de l'Économie, non-candidat déclaré à la présidentielle",
+   "date": "2026-11-12",
+   "contexte": "Live YouTube, 12/11/2026 (jeudi) — présentation de son projet pour la France",
+   "citation": "J’entends tous les partis vous parler boutique. Moi, je vous propose de parler de la France",
+   "ticker": "LEMAIRE-PARLER-BOUTIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Sébastien Lecornu",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2026-11-10",
+   "contexte": "Courrier aux présidents d'université daté du 10/11/2026 (révélé par l'AFP le 11/11) — mouvement étudiant",
+   "citation": "Des moyens supplémentaires vous seront apportés, notamment pour permettre l’ouverture […] de 5 000 étudiants supplémentaires en licence",
+   "ticker": "LECORNU-MOYENS-LICENCE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/education/mouvement-etudiant-le-premier-ministre-annonce-5-000-places-supplementaires-en-licence",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Raphaël Glucksmann",
+   "affil": "PS-Place publique",
+   "fonction": "Eurodéputé, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-09",
+   "contexte": "Paris (18e), 09/11/2026 — présentation de son projet présidentiel, aux côtés de Yannick Jadot",
+   "citation": "Le nouveau contrat patriotique que je veux présenter aux Français est un contrat de rupture.",
+   "ticker": "GLUCKSMANN-CONTRAT-RUPTURE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Yannick Jadot",
+   "affil": "Les Écologistes",
+   "fonction": "Sénateur de Paris",
+   "date": "2026-11-09",
+   "contexte": "Paris (18e), 09/11/2026 — présentation du projet présidentiel de Raphaël Glucksmann",
+   "citation": "Raphaël porte dans son projet, notamment sur les bas salaires, quasiment un 13e mois de revenus.",
+   "ticker": "JADOT-TREIZIEME-MOIS",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Ryad Rani",
+   "affil": "Union syndicale lycéenne (USL)",
+   "fonction": "Président de l'Union syndicale lycéenne",
+   "date": "2026-11-09",
+   "contexte": "Matignon, 09/11/2026 (lundi soir) — à l'issue d'une réunion sur la réforme de Parcoursup",
+   "citation": "Le rapport de force est de notre côté, il faut continuer.",
+   "ticker": "RANI-RAPPORT-DE-FORCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/manifestations-etudiants-lyceens-profsa-quoi-faut-il-sattendre-ce-mardi-10-novembre",
+   "valeurs": [],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Xavier Timbeau",
+   "affil": "Économiste / Chercheur",
+   "fonction": "Directeur de l'OFCE",
+   "date": "2026-11-08",
+   "contexte": "France Culture, 08/11/2026 (dimanche) — budget 2027 et marges de manœuvre du gouvernement Lecornu",
+   "citation": "Il y a un petit côté fable de la Fontaine",
+   "ticker": "TIMBEAU-FABLE-FONTAINE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.sudradio.fr/societe/sans-latitude-lecornu-tente-de-repondre-a-la-colere-sociale",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 10
+  },
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
@@ -997,6 +1144,40 @@ window.BOURSE = {
    ],
    "mots": 28,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Ancien Premier ministre",
+   "date": "2026-11-05",
+   "contexte": "Déclaration à l'origine de la polémique (extrait diffusé sur CNews le 05/11/2026)",
+   "citation": "Nous vivons dans une France qui est crispée, dans une France qui est violente",
+   "ticker": "PHILIPPE-FRANCE-CRISPEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/2A_u_vLHAgU",
+   "valeurs": [],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Édouard Philippe",
+   "affil": "Horizons",
+   "fonction": "Ancien Premier ministre",
+   "date": "2026-11-05",
+   "contexte": "Déclaration à l'origine de la polémique (extrait diffusé sur CNews le 05/11/2026)",
+   "citation": "La République, c'est pas la couleur de peau. […] La République, c'est vouloir vivre ensemble, être rassemblé par des valeurs et par un projet.",
+   "ticker": "PHILIPPE-REPUBLIQUE-PROJET",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/2A_u_vLHAgU",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 23
   },
   {
    "pole": "Experts & invités",
@@ -2234,7 +2415,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.youtube.com/live/ALIPF5lqIpw",
    "valeurs": [],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2250,7 +2432,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://www.youtube.com/live/ALIPF5lqIpw",
    "valeurs": [],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2268,7 +2451,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2286,7 +2470,8 @@ window.BOURSE = {
    "valeurs": [
     "BUDG"
    ],
-   "mots": 19
+   "mots": 19,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2304,7 +2489,8 @@ window.BOURSE = {
    "valeurs": [
     "PEUR"
    ],
-   "mots": 11
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -2320,7 +2506,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://www.youtube.com/live/ALIPF5lqIpw",
    "valeurs": [],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Médiatique",
@@ -5501,7 +5688,7 @@ window.BOURSE = {
    "date": "2026-10-15",
    "contexte": "Point Presse",
    "citation": "Des chiffres invraisemblables de policiers blessés... ils ont dû se blesser avec un trombone",
-   "ticker": "TROMBONE-CORP",
+   "ticker": "MELENCHON-TROMBONE",
    "categorie": "Surenchère & provocation",
    "pilier": "Tranquillité publique",
    "source": "X / Conférence",
@@ -9374,7 +9561,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/UOeJVA7tZxw",
    "valeurs": [],
-   "mots": 9
+   "mots": 9,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9390,7 +9578,8 @@ window.BOURSE = {
    "pilier": "Tranquillité publique",
    "source": "https://youtu.be/UOeJVA7tZxw",
    "valeurs": [],
-   "mots": 14
+   "mots": 14,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9408,7 +9597,8 @@ window.BOURSE = {
    "valeurs": [
     "IDEN"
    ],
-   "mots": 7
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9426,7 +9616,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9442,7 +9633,8 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/UOeJVA7tZxw",
    "valeurs": [],
-   "mots": 12
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9460,7 +9652,8 @@ window.BOURSE = {
    "valeurs": [
     "POLE"
    ],
-   "mots": 15
+   "mots": 15,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
@@ -9763,6 +9956,26 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 28
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Maud Bregeon",
+   "affil": "Gouvernement",
+   "fonction": "Porte-parole du gouvernement",
+   "date": "2026-06-01",
+   "contexte": "Déclaration de la porte-parole du gouvernement (extrait diffusé dans un sujet Europe 1 / CNews le 02/06/2026) — mineurs interpellés après la victoire du PSG",
+   "citation": "On a un problème avec l'éducation d'une partie de nos enfants en France.",
+   "ticker": "BREGEON-EDUCATION-ENFANTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kdlRly2xZS0",
+   "valeurs": [
+    "INST",
+    "JUST",
+    "ECOL"
+   ],
+   "mots": 13
   },
   {
    "pole": "Politique",
@@ -12420,6 +12633,25 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "Renaissance",
+   "fonction": "Président de la République",
+   "date": "2025-06-01",
+   "contexte": "Déclaration de l'Élysée « il y a un an » (extrait diffusé sur Europe 1 / CNews le 02/06/2026) — violences après la victoire du PSG en 2025",
+   "citation": "la réponse de l'État sera à la hauteur. Nous poursuivrons, nous punirons, on sera implacable.",
+   "ticker": "MACRON-IMPLACABLE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/kdlRly2xZS0",
+   "valeurs": [
+    "SECU",
+    "AUTO"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
    "famille": "Droite",
    "auteur": "Sarah Knafo",
    "affil": "Reconquête",
@@ -12637,7 +12869,7 @@ window.BOURSE = {
    "fonction": "Coordinateur national de LFI",
    "date": "2025-05-12",
    "contexte": "BFMTV, « C'est pas tous les jours dimanche » (Benjamin Duhamel) — débat Manuel Bompard / Laurent Wauquiez : travail et RSA, fiscalité, sécurité",
-   "citation": "je suis favorable à ce qu'on fasse en sorte que dans ce pays, les plus riches, les plus grandes fortunes contribuent davantage.",
+   "citation": "Moi, par exemple, je suis favorable […] à ce qu'on fasse en sorte que dans ce pays, les plus riches, les plus grandes fortunes contribuent davantage.",
    "ticker": "BOMPARD-GRANDES-FORTUNES",
    "categorie": "Budget & Finances",
    "pilier": "Budget & finances",
@@ -12646,7 +12878,7 @@ window.BOURSE = {
     "SECU",
     "BUDG"
    ],
-   "mots": 22
+   "mots": 25
   },
   {
    "pole": "Politique",
@@ -13418,6 +13650,65 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Emmanuel Macron",
+   "affil": "Renaissance",
+   "fonction": "Président de la République",
+   "date": "2024-01-16",
+   "contexte": "Conférence de presse au palais de l'Élysée, 16/01/2024 (mardi soir) — ordre public, « réarmement » du pays",
+   "citation": "Avoir une France plus forte, c'est aussi assurer l'ordre",
+   "ticker": "MACRON-ASSURER-ORDRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.europe1.fr/politique/conference-de-presse-demmanuel-macron-deux-heures-dexercice-sans-surprise-et-sans-plus-de-clarte-4225482",
+   "valeurs": [
+    "SECU",
+    "AUTO"
+   ],
+   "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Marie-Pierre de la Gontrie",
+   "affil": "PS",
+   "fonction": "Sénatrice de Paris",
+   "date": "2023-12-20",
+   "contexte": "Sénat, questions au gouvernement, 20/12/2023 — loi immigration",
+   "citation": "Vous avez jeté la majorité présidentielle et le pays dans les bras du Front national",
+   "ticker": "DELAGONTRIE-BRAS-FN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/lextreme-droite-na-plus-besoin-detre-elue-vous-appliquez-son-programme-lance-marie-pierre-de-la-gontrie-au-gouvernement",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "POLE"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Gérald Darmanin",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l'Intérieur",
+   "date": "2023-12-19",
+   "contexte": "Assemblée nationale, salle des Quatre colonnes, 19/12/2023 — accord en CMP sur le projet de loi immigration",
+   "citation": "C’est un accord avec le Sénat, je me réjouis d’avoir cet accord pour protéger les Français",
+   "ticker": "DARMANIN-ACCORD-SENAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/projet-de-loi-immigration-cest-une-victoire-pour-le-president-et-le-gouvernement-estime-gerald-darmanin",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "POPU"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
    "famille": "Droite",
    "auteur": "Marine Le Pen",
    "affil": "Rassemblement National",
@@ -13434,6 +13725,24 @@ window.BOURSE = {
    ],
    "mots": 10,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Première ministre",
+   "date": "2023-10-18",
+   "contexte": "Assemblée nationale, 18/10/2023 — engagement de la responsabilité du gouvernement (49.3) sur la partie « recettes » du PLF 2024",
+   "citation": "aucun groupe d'opposition n'est prêt à voter ce projet de loi de finances",
+   "ticker": "BORNE-AUCUN-GROUPE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://lcp.fr/actualites/budget-2024-elisabeth-borne-annonce-le-recours-au-493-sur-la-partie-recettes-du-projet",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
   },
   {
    "pole": "Experts & invités",
@@ -13685,6 +13994,47 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
+   "auteur": "Gérald Darmanin",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l'Intérieur et des Outre-mer",
+   "date": "2023-07-05",
+   "contexte": "Sénat, séance du 05/07/2023 — questions d'actualité au gouvernement, « Violences urbaines (II) », émeutes de juillet 2023",
+   "citation": "Ne cherchons pas toujours des excuses dans le comportement de la police.",
+   "ticker": "DARMANIN-EXCUSES-POLICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.senat.fr/cra/s20230705/s20230705_mono.html",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Jérôme Durain",
+   "affil": "PS",
+   "fonction": "Sénateur (groupe socialiste SER)",
+   "date": "2023-07-05",
+   "contexte": "Sénat, séance du 05/07/2023 — questions d'actualité au gouvernement, « Violences urbaines (II) », émeutes de juillet 2023",
+   "citation": "la République ne peut exister sans ordre - mais elle ne peut se résumer à l'ordre",
+   "ticker": "DURAIN-REPUBLIQUE-ORDRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.senat.fr/cra/s20230705/s20230705_mono.html",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL",
+    "AUTO"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
    "auteur": "Élisabeth Borne",
    "affil": "Renaissance",
    "fonction": "Première ministre",
@@ -13757,6 +14107,27 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 5,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Bruno Retailleau",
+   "affil": "LR",
+   "fonction": "Président du groupe LR au Sénat",
+   "date": "2023-07-03",
+   "contexte": "Matignon, 03/07/2023 (soir) — réception des groupes parlementaires par la Première ministre après les émeutes ; propos visant LFI",
+   "citation": "Ce n’est pas le camp de la République, c’est le camp de la violence théorisée",
+   "ticker": "RETAILLEAU-VIOLENCE-THEORISEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.publicsenat.fr/actualites/politique/emeutes-les-senateurs-divises-sur-les-pistes-de-sortie-de-crise",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL"
+   ],
+   "mots": 15,
    "candidat": "Candidats 2027"
   },
   {
@@ -14100,6 +14471,41 @@ window.BOURSE = {
    "source": "https://www.youtube.com/live/1VIJn67HpaU",
    "valeurs": [],
    "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Élisabeth Borne",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Première ministre",
+   "date": "2023-03-16",
+   "contexte": "Assemblée nationale, 16/03/2023 — annonce du recours au 49.3 sur la réforme des retraites",
+   "citation": "On ne peut pas prendre le risque de voir 175 heures de débat parlementaire s'effondrer",
+   "ticker": "BORNE-RISQUE-49-3",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/reforme-des-retraites-elisabeth-borne-annonce-le-recours-au-493-la-responsabilite-du",
+   "valeurs": [
+    "INST",
+    "PEUR"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Éric Ciotti",
+   "affil": "LR",
+   "fonction": "Président des Républicains",
+   "date": "2023-03-16",
+   "contexte": "Réaction au 49.3 sur la réforme des retraites, 16/03/2023",
+   "citation": "Nous ne nous associerons à aucune motion de censure et ne voterons aucune motion de censure",
+   "ticker": "CIOTTI-AUCUNE-CENSURE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://lcp.fr/actualites/reforme-des-retraites-elisabeth-borne-annonce-le-recours-au-493-la-responsabilite-du",
+   "valeurs": [],
+   "mots": 16
   },
   {
    "pole": "Experts & invités",
@@ -17147,6 +17553,43 @@ window.BOURSE = {
     "prix": "Classique",
     "medaille": ""
    }
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "André Lajoinie",
+   "affil": "Parti communiste français",
+   "fonction": "Président du groupe communiste à l'Assemblée nationale, candidat à l'élection présidentielle 1988",
+   "date": "1988-01-01",
+   "contexte": "La Cinq — face-à-face André Lajoinie / Jean-Marie Le Pen, candidats déclarés à la présidentielle de 1988 (première émission politique de la chaîne)",
+   "citation": "nous ne demandons pas de propagande pour le parti communiste, nous demandons la vérité et le pluralisme à la télévision",
+   "ticker": "LAJOINIE-PLURALISME",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/MDg7Wnc7PlQ",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "André Lajoinie",
+   "affil": "Parti communiste français",
+   "fonction": "Président du groupe communiste à l'Assemblée nationale, candidat à l'élection présidentielle 1988",
+   "date": "1988-01-01",
+   "contexte": "La Cinq — face-à-face André Lajoinie / Jean-Marie Le Pen, candidats déclarés à la présidentielle de 1988 (première émission politique de la chaîne)",
+   "citation": "la France doit être libre, souveraine, elle doit avoir des coopérations avec tous les pays, mais une coopération librement consentie",
+   "ticker": "LAJOINIE-COOPERATION-CONSENTIE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/MDg7Wnc7PlQ",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
   },
   {
    "pole": "Politique",
