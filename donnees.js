@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T17:42",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne8.xlsx",
+ "maj": "2026-11-14T17:51",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne9.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -8371,6 +8371,117 @@ window.BOURSE = {
     "SECU"
    ],
    "mots": 9
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "il y a quelque chose qui se passe et bon courage au pouvoir politique pour arrêter ça.",
+   "ticker": "BESANCENOT-BON-COURAGE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "plus le pouvoir politique attend et plus toutes les colères vont se cristalliser et là ça sera incontournable.",
+   "ticker": "BESANCENOT-COLERES-CRISTALLISER",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "la dernière fois que les CRS ont mis les pieds à la Sorbonne, il y a une grève générale derrière, c'était en mai 68.",
+   "ticker": "BESANCENOT-CRS-SORBONNE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "MANF"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "la jeunesse, elle va se libérer d'elle-même, besoin de personne.",
+   "ticker": "BESANCENOT-JEUNESSE-SE-LIBERER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "ECOL",
+    "MANF"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "quand les révoltes sont légitimes, je suis pour les accompagner solidairement.",
+   "ticker": "BESANCENOT-REVOLTES-LEGITIMES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "MANF",
+    "INDI"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Olivier Besancenot",
+   "affil": "NPA",
+   "fonction": "Porte-parole du NPA",
+   "date": "2026-10-06",
+   "contexte": "Émission télévisée du soir de la manifestation lycéenne nationale, 06/10 (vidéo de la chaîne NPA - L'Anticapitaliste ; émission à préciser)",
+   "citation": "je crois à l'émancipation, c'est-à-dire une société qui s'organise démocratiquement.",
+   "ticker": "BESANCENOT-EMANCIPATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/BmlMsjyUVik",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 10
   },
   {
    "pole": "Experts & invités",
