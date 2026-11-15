@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:44",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur24.xlsx",
+ "maj": "2026-11-15T12:46",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur25.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -5650,6 +5650,43 @@ window.BOURSE = {
    "valeurs": [],
    "mots": 16,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Robert Zarader",
+   "affil": "Communicant",
+   "fonction": "Conseiller en communication",
+   "date": "2026-11",
+   "contexte": "franceinfo, débat sur la présidentielle 2027 (plateau à plusieurs voix), novembre 2026 — entrée en campagne d'un candidat issu de la société civile, primaires du bloc central",
+   "citation": "je pense qu'on est à un moment où le spectacle a emporté […] la politique et que effectivement tout devient une espèce de démonstration spectaculaire",
+   "ticker": "ZARADER-LE-SPECTACLE-A-EMPORTE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/SaCYeNKoW8s",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Robert Zarader",
+   "affil": "Communicant",
+   "fonction": "Conseiller en communication",
+   "date": "2026-11",
+   "contexte": "franceinfo, débat sur la présidentielle 2027 (plateau à plusieurs voix), novembre 2026 — entrée en campagne d'un candidat issu de la société civile, primaires du bloc central",
+   "citation": "en principe c'est une primaire de mobilisation pour redonner une dynamique au candidat qui en sort",
+   "ticker": "ZARADER-PRIMAIRE-DE-MOBILISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/SaCYeNKoW8s",
+   "valeurs": [
+    "INST",
+    "MANF"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
