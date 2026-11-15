@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-14T18:17",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261114_campagne15.xlsx",
+ "maj": "2026-11-15T10:03",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur1.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,179 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Laurent Nuñez",
+   "affil": "Exécutif / Gouvernement",
+   "fonction": "Ministre de l'Intérieur",
+   "date": "2026-11-13",
+   "contexte": "LCI, interview du 13/11 — violences en marge du mouvement lycéen",
+   "citation": "Dans une infime minorité de cas, on a bien des complicités.",
+   "ticker": "NUNEZ-COMPLICITES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/violences-dans-les-lycees-laurent-nunez-evoque-a-son-tour-la-complicite-de-personnels-de",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Stéphanie Rist",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de la Santé",
+   "date": "2026-11-13",
+   "contexte": "Sénat, PLFSS 2027, amendement sur la réforme de l'allocation de rentrée scolaire, 13/11",
+   "citation": "Je suis un peu gênée avec le terme concertation, qui a une valeur parfois juridique",
+   "ticker": "RIST-CONCERTATION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/societe/reforme-de-lallocation-de-rentree-scolaire-le-senat-sanctuarise-la-concertation-annoncee-par-le-gouvernement",
+   "valeurs": [],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Mathilde Ollivier",
+   "affil": "Les Écologistes",
+   "fonction": "Sénatrice",
+   "date": "2026-11-13",
+   "contexte": "Sénat, PLFSS 2027, amendement sur la réforme de l'allocation de rentrée scolaire, 13/11",
+   "citation": "Une concertation qui servirait à habiller 600 millions d’euros d’économies ne serait qu’un alibi.",
+   "ticker": "OLLIVIER-ALIBI",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/societe/reforme-de-lallocation-de-rentree-scolaire-le-senat-sanctuarise-la-concertation-annoncee-par-le-gouvernement",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Frédérique Puissat",
+   "affil": "LR",
+   "fonction": "Sénatrice",
+   "date": "2026-11-13",
+   "contexte": "Sénat, PLFSS 2027, débat sur le volet recettes, 13/11",
+   "citation": "Mais nous allons aussi toucher à un moment donné les dépenses",
+   "ticker": "PUISSAT-DEPENSES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Christine Lavarde",
+   "affil": "LR",
+   "fonction": "Sénatrice des Hauts-de-Seine, rapporteure générale du budget",
+   "date": "2026-11-13",
+   "contexte": "LCP, Parlement Hebdo, 13/11 (date déduite : « ce vendredi ») — débat avec Arthur Delaporte sur le gel de la réforme des retraites",
+   "citation": "Je ne doute pas des votes de la majorité sénatoriale",
+   "ticker": "LAVARDE-MAJORITE-SENATORIALE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget",
+   "valeurs": [],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Arthur Delaporte",
+   "affil": "PS",
+   "fonction": "Député",
+   "date": "2026-11-13",
+   "contexte": "LCP, Parlement Hebdo, 13/11 (date déduite : « ce vendredi ») — débat avec Christine Lavarde sur le gel de la réforme des retraites",
+   "citation": "Je ne vois pas comment les socialistes pourraient cautionner un budget",
+   "ticker": "DELAPORTE-CAUTIONNER-BUDGET",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Olivier Henno",
+   "affil": "Union centriste",
+   "fonction": "Sénateur, rapporteur général de la commission des affaires sociales",
+   "date": "2026-11-13",
+   "contexte": "Sénat, examen du PLFSS 2027 (volet recettes), 13/11 — projets de la majorité sénatoriale pour le volet dépenses",
+   "citation": "Nous interviendrons pour transférer des dépenses qui sont aujourd’hui portées par la Sécurité sociale […]",
+   "ticker": "HENNO-TRANSFERT-DEPENSES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli",
+   "valeurs": [
+    "SECU",
+    "BUDG"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "David Amiel",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de l’Action et des Comptes publics",
+   "date": "2026-11-13",
+   "contexte": "Sénat, examen du PLFSS 2027 (volet recettes), 13/11 — mise à jour des tableaux d'équilibre",
+   "citation": "Je me permets de le préciser, parce que j’ai bien entendu notamment la volonté de la majorité sénatoriale […]",
+   "ticker": "AMIEL-MAJORITE-SENATORIALE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Centre & exécutif",
+   "auteur": "Stéphanie Rist",
+   "affil": "Renaissance / Gouvernement",
+   "fonction": "Ministre de la Santé",
+   "date": "2026-11-13",
+   "contexte": "Sénat, PLFSS 2027, 13/11 (milieu de matinée) — suppression de la taxe sur les mutuelles",
+   "citation": "Oui, c’est vrai, cette contribution devait être exceptionnelle.",
+   "ticker": "RIST-CONTRIBUTION-EXCEPTIONNELLE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/economie/budget-de-la-secu-le-senat-supprime-la-taxe-de-205-sur-les-mutuelles",
+   "valeurs": [
+    "BUDG"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Arthur Delaporte",
+   "affil": "PS",
+   "fonction": "Député",
+   "date": "2026-11-13",
+   "contexte": "LCP, « Parlement Hebdo », 13/11 (date déduite : « ce vendredi ») — débat sur le gel de la réforme des retraites",
+   "citation": "Il faut intégrer la question de la pénibilité des métiers pour partir à la retraite plus tôt.",
+   "ticker": "DELAPORTE-PENIBILITE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget",
+   "valeurs": [],
+   "mots": 17
+  },
   {
    "pole": "Politique",
    "famille": "Gauche",
@@ -1357,6 +1530,24 @@ window.BOURSE = {
    ],
    "mots": 19,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Aurélien Pradié",
+   "affil": "Non inscrit",
+   "fonction": "Député du Lot",
+   "date": "2026-11-12",
+   "contexte": "Conférence de presse à Cahors, 12/11 (date déduite : « ce jeudi ») — mission parlementaire sur le narcotrafic",
+   "citation": "Les gangs ne sont pas seulement des organisations de commerce ou de drogue […]",
+   "ticker": "PRADIE-GANGS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://lcp.fr/actualites/lutte-contre-le-narcotrafic-une-mission-parlementaire-confiee-au-depute-aurelien-pradie",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 13
   },
   {
    "pole": "Experts & invités",
@@ -5210,6 +5401,42 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, invité d'André Bercoff, 30/10/2026 (date déduite de l'article) — élection présidentielle",
+   "citation": "Nous avons des élections présidentielles qui sont désormais sous la coupe des oligarques.",
+   "ticker": "ASSELINEAU-OLIGARQUES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/francois-asselineau-je-suis-plus-courageux-que-melenchon-et-le-pen-qui-sont-des-laches",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "François Asselineau",
+   "affil": "UPR",
+   "fonction": "Président de l'UPR, candidat à l'élection présidentielle 2027",
+   "date": "2026-10-30",
+   "contexte": "Sud Radio, invité d'André Bercoff, 30/10/2026 (date déduite de l'article) — appel aux maires pour les parrainages",
+   "citation": "Je ne leur demande pas un vote mais un parrainage.",
+   "ticker": "ASSELINEAU-PARRAINAGE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.sudradio.fr/sud-radio/francois-asselineau-je-suis-plus-courageux-que-melenchon-et-le-pen-qui-sont-des-laches",
+   "valeurs": [],
+   "mots": 10,
    "candidat": "Candidats 2027"
   },
   {
@@ -20287,6 +20514,80 @@ window.BOURSE = {
    "auteur": "Nicolas Sarkozy",
    "affil": "UMP",
    "fonction": "Président de la République",
+   "date": "2010-07-30",
+   "contexte": "Discours de Grenoble, 30/07/2010 — lutte contre la criminalité et la délinquance",
+   "citation": "Les policiers ont bien agi, il n'y a rien à leur reprocher.",
+   "ticker": "SARKOZY-POLICIERS-BIEN-AGI",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2010/07/30/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-la-lutte-contre-la-criminalite-la-delinquance-et-limmigration-illegale-a-grenoble-le-30-juillet-2010",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
+   "date": "2010-07-30",
+   "contexte": "Discours de Grenoble, 30/07/2010 — lutte contre la criminalité et la délinquance",
+   "citation": "Et il ne peut pas y avoir de naïveté et d'angélisme en la matière.",
+   "ticker": "SARKOZY-NAIVETE-ANGELISME",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.elysee.fr/nicolas-sarkozy/2010/07/30/declaration-de-m-nicolas-sarkozy-president-de-la-republique-sur-la-lutte-contre-la-criminalite-la-delinquance-et-limmigration-illegale-a-grenoble-le-30-juillet-2010",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Brice Hortefeux",
+   "affil": "UMP / Gouvernement",
+   "fonction": "Ministre de l'Intérieur",
+   "date": "2010-07-21",
+   "contexte": "Europe 1, 21/07/2010 (date déduite : « mercredi ») — refus d'un « Grenelle » national de la sécurité",
+   "citation": "Il n'existe pas une solution nationale, il faut une adaptation point par point",
+   "ticker": "HORTEFEUX-POINT-PAR-POINT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.banquedesterritoires.fr/brice-hortefeux-tance-les-maires-qui-nen-font-pas-assez",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Brice Hortefeux",
+   "affil": "UMP / Gouvernement",
+   "fonction": "Ministre de l'Intérieur",
+   "date": "2010-07-21",
+   "contexte": "Europe 1, 21/07/2010 (date déduite : « mercredi ») — rôle des maires dans la sécurité",
+   "citation": "Pourquoi certains maires ne responsabilisent pas les parents ?",
+   "ticker": "HORTEFEUX-RESPONSABILISER-PARENTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.banquedesterritoires.fr/brice-hortefeux-tance-les-maires-qui-nen-font-pas-assez",
+   "valeurs": [
+    "SECU",
+    "ECOL",
+    "POLE"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP",
+   "fonction": "Président de la République",
    "date": "2009-11-12",
    "contexte": "Discours sur l’identité nationale, La Chapelle-en-Vercors",
    "citation": "On ne peut pas vouloir bénéficier des droits sans se sentir obligé par les devoirs.",
@@ -20485,6 +20786,28 @@ window.BOURSE = {
   },
   {
    "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Martine David",
+   "affil": "PS",
+   "fonction": "Députée",
+   "date": "2005-11-09",
+   "contexte": "Assemblée nationale, questions au Gouvernement du 09/11/2005 — violences urbaines",
+   "citation": "Mais la fermeté sans la justice, c’est l’impuissance.",
+   "ticker": "DAVID-FERMETE-JUSTICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060055.pdf",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 8
+  },
+  {
+   "pole": "Politique",
    "famille": "Droite",
    "auteur": "Nicolas Sarkozy",
    "affil": "UMP (en 2005)",
@@ -20547,6 +20870,29 @@ window.BOURSE = {
   {
    "pole": "Politique",
    "famille": "Droite",
+   "auteur": "Dominique de Villepin",
+   "affil": "UMP / Gouvernement",
+   "fonction": "Premier ministre",
+   "date": "2005-11-08",
+   "contexte": "Assemblée nationale, 2e séance du 08/11/2005 — déclaration du Gouvernement sur la situation créée par les violences urbaines",
+   "citation": "La République garantira l’ordre public à chacun de nos concitoyens.",
+   "ticker": "VILLEPIN-ORDRE-PUBLIC-2005",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060053.pdf",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL",
+    "AUTO",
+    "POPU"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
    "auteur": "Jacques Chirac",
    "affil": "UMP",
    "fonction": "Président de la République",
@@ -20563,6 +20909,46 @@ window.BOURSE = {
     "AUTO"
    ],
    "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Nicolas Sarkozy",
+   "affil": "UMP / Gouvernement",
+   "fonction": "Ministre d'État, ministre de l'Intérieur et de l'Aménagement du territoire",
+   "date": "2005-11-02",
+   "contexte": "Assemblée nationale, 2e séance du 02/11/2005 — projet de loi de finances pour 2006, mission Sécurité",
+   "citation": "Les services de police et de gendarmerie sont faits d’abord pour les victimes […]",
+   "ticker": "SARKOZY-POLICE-VICTIMES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060044.pdf",
+   "valeurs": [
+    "SECU",
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Maxime Gremetz",
+   "affil": "PCF",
+   "fonction": "Député",
+   "date": "2005-11-02",
+   "contexte": "Assemblée nationale, 2e séance du 02/11/2005 — débat budgétaire, mission Sécurité (interpellation en séance)",
+   "citation": "Regardez ce qui se passe aujourd’hui en banlieue !",
+   "ticker": "GREMETZ-BANLIEUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.assemblee-nationale.fr/12/pdf/cri/2005-2006/20060044.pdf",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "VIOL",
+    "BUDG"
+   ],
+   "mots": 8
   },
   {
    "pole": "Politique",
