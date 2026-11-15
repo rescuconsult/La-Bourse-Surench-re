@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T10:14",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur4.xlsx",
+ "maj": "2026-11-15T10:17",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur5.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -30,6 +30,219 @@ window.BOURSE = {
   }
  ],
  "cotations": [
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — violence dans les lycées et les manifestations",
+   "citation": "je suis opposé à la violence mais de manière radicale.",
+   "ticker": "ONFRAY-OPPOSE-A-LA-VIOLENCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "SECU",
+    "MANF"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — violence dans les lycées et les manifestations",
+   "citation": "on ne peut pas construire une société sur la violence.",
+   "ticker": "ONFRAY-SOCIETE-ET-VIOLENCE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "SECU",
+    "MANF"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — conférence sociale, « pays un peu fracturé »",
+   "citation": "Le pays n'est pas un peu fracturé. Il est en train de sombrer, coupé en deux avec deux France qui s'opposent.",
+   "ticker": "ONFRAY-DEUX-FRANCE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — conférence sociale, « pays un peu fracturé »",
+   "citation": "On est déjà dans la guerre civile.",
+   "ticker": "ONFRAY-GUERRE-CIVILE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — candidats à la présidentielle et SMIC",
+   "citation": "plutôt que 500 signatures, on devrait leur demander de vivre un mois avec le SMIG.",
+   "ticker": "ONFRAY-UN-MOIS-AU-SMIG",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — histoire et classe politique",
+   "citation": "Toute l'histoire de France est notre histoire.",
+   "ticker": "ONFRAY-NOTRE-HISTOIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [],
+   "mots": 7
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — enseignement de l'histoire, 11 Novembre",
+   "citation": "On ne fait plus d'histoire, on ne fait plus que de la propagande.",
+   "ticker": "ONFRAY-PROPAGANDE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "ECOL",
+    "POLE"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — mémoire à l'école, 11 Novembre",
+   "citation": "j'ai fait partie d'une époque où les résistants venaient parler dans les écoles, où les déportés, les anciens déportés venaient parler dans les écoles.",
+   "ticker": "ONFRAY-RESISTANTS-A-L-ECOLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — candidature de Teddy Riner",
+   "citation": "Il est un citoyen et il a le droit de se présenter à la présidentielle.",
+   "ticker": "ONFRAY-LE-DROIT-DE-SE-PRESENTER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — candidature de Teddy Riner, démocratie",
+   "citation": "Moi je suis pour la tyrannie des majorités donc pas des minorités.",
+   "ticker": "ONFRAY-TYRANNIE-DES-MAJORITES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — syndicats lycéens et liberté de la presse",
+   "citation": "quand on a 16 ans, on a le droit d'être bête, c'est l'âge bête et c'est fait pour.",
+   "ticker": "ONFRAY-L-AGE-BETE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [],
+   "mots": 18
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Michel Onfray",
+   "affil": "Philosophe",
+   "fonction": "Philosophe, essayiste",
+   "date": "2026-11-14",
+   "contexte": "CNews / Europe 1, « Face à Michel Onfray », 14/11 — mémoire et débat public",
+   "citation": "je pense que la deuxième guerre mondiale n'est pas finie",
+   "ticker": "ONFRAY-PAS-FINIE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/DAXRyUpgH34",
+   "valeurs": [
+    "PEUR"
+   ],
+   "mots": 10
+  },
   {
    "pole": "Politique",
    "famille": "Centre & exécutif",
