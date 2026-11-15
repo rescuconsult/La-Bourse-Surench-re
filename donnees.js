@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T11:53",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur10.xlsx",
+ "maj": "2026-11-15T11:57",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur11.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16053,6 +16053,157 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "L'insécurité, c'est pas juste un sentiment. L'insécurité, elle nous empoisonne la vie, elle nous malmène, elle nous violente.",
+   "ticker": "AUTAIN-PAS-JUSTE-UN-SENTIMENT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "je pense que l'insécurité doit être combattue.",
+   "ticker": "AUTAIN-INSECURITE-COMBATTUE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "lutter contre l'insécurité, c'est pas non plus s'en prendre aux jeunes délinquants des quartiers populaires et ne rien voir de la criminalité en col blanc",
+   "ticker": "AUTAIN-COL-BLANC",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "SECU",
+    "VIOL"
+   ],
+   "mots": 25,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "l'insécurité, elle est dans les maisons et dans l'emploi, dans les assiettes et dans les têtes.",
+   "ticker": "AUTAIN-INSECURITE-PARTOUT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "sécuriser nos vies en augmentant les protections sociales et en luttant contre toutes les violences.",
+   "ticker": "AUTAIN-SECURISER-NOS-VIES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "Elle a pensé la laïcité comme un outil de paix civile",
+   "ticker": "AUTAIN-LAICITE-PAIX-CIVILE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "IDEN"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "on n'est pas libre quand on n'a pas un toit sur la tête […], quand on n'a pas accès à la santé, à l'éducation, à la culture.",
+   "ticker": "AUTAIN-PAS-LIBRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 26,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-01",
+   "contexte": "Meeting de présentation de son projet « La vie meilleure » (Paris, diffusé en direct sur sa chaîne YouTube) — janvier 2026",
+   "citation": "Ne laissez pas les partis décider seuls. Venez faire irruption dans cette primaire.",
+   "ticker": "AUTAIN-FAIRE-IRRUPTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/zJra6XP6vwU",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
