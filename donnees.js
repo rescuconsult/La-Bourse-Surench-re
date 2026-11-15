@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T10:31",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur6.xlsx",
+ "maj": "2026-11-15T10:37",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur7.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -415,6 +415,42 @@ window.BOURSE = {
    "source": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget",
    "valeurs": [],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-13",
+   "contexte": "Premier déplacement de campagne, hôpital Delafontaine (Saint-Denis), 13/11 — accès à la santé",
+   "citation": "quand on est citoyen français, la première chose c'est la santé. L'accès à la santé.",
+   "ticker": "RINER-ACCES-A-LA-SANTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JWJG_Pr3gEY",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Teddy Riner",
+   "affil": "Sans étiquette",
+   "fonction": "Judoka, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-13",
+   "contexte": "Premier déplacement de campagne, hôpital Delafontaine (Saint-Denis), 13/11 — accès à la santé",
+   "citation": "c'est symbolique. C'est plus que symbolique, c'est important.",
+   "ticker": "RINER-PLUS-QUE-SYMBOLIQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JWJG_Pr3gEY",
+   "valeurs": [],
+   "mots": 8,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
