@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T10:37",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur7.xlsx",
+ "maj": "2026-11-15T11:44",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur9.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -2029,6 +2029,172 @@ window.BOURSE = {
    "source": "https://youtu.be/Lxdh4JOPZRM",
    "valeurs": [],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "il faut que nous puissions accéder aux responsabilités pour rendre le pouvoir au peuple.",
+   "ticker": "LALANNE-POUVOIR-AU-PEUPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "POLE"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "Il faut utiliser la constitution pour changer la constitution.",
+   "ticker": "LALANNE-CHANGER-LA-CONSTITUTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "Il faut que ce soit une assemblée constituante élue du peuple qui le fasse et qu'ensuite cette constitution soit validée par le peuple par voie de référendum.",
+   "ticker": "LALANNE-CONSTITUANTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 27,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "le roi digne de ce nom, il doit faire en sorte que le législateur et le souverain, ça ne soit pas lui justement, mais ça reste le peuple.",
+   "ticker": "LALANNE-LE-SOUVERAIN-C-EST-LE-PEUPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 28,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "j'aurais été prêt à être derrière l'un d'entre eux s'il avait été choisi par les électrices et les électeurs.",
+   "ticker": "LALANNE-PRIMAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "ne plus être des consommateurs soumis mais être des citoyens libres.",
+   "ticker": "LALANNE-CITOYENS-LIBRES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "Aujourd'hui, les ministres qu'on a ne sont pas des gens compétents, ce sont des gens obéissants, de bons chiens chiens.",
+   "ticker": "LALANNE-BONS-CHIENS-CHIENS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "on ne s'en sortira jamais de ce cloaque dans lequel nous nous sombrons qui s'appelle la République et qui détruit la vie des gens",
+   "ticker": "LALANNE-CLOAQUE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 24,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Francis Lalanne",
+   "affil": "France Libre",
+   "fonction": "Chanteur et écrivain, candidat à l'élection présidentielle 2027",
+   "date": "2026-11-11",
+   "contexte": "Géopolitique profonde (GPTV), débat en direct Francis Lalanne – Sylvain Durif — 11/11",
+   "citation": "au centre de mon projet, il y a la création d'une monnaie souveraine.",
+   "ticker": "LALANNE-MONNAIE-SOUVERAINE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://www.youtube.com/live/bHHan7lxPVo",
+   "valeurs": [],
+   "mots": 13,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
