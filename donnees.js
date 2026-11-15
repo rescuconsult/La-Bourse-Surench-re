@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T11:57",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur11.xlsx",
+ "maj": "2026-11-15T12:00",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur12.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -11972,6 +11972,161 @@ window.BOURSE = {
     "JUST"
    ],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "il nous faut construire la France des bourgs avec la France des tours, les jeunes avec les personnes âgées, les quartiers avec les clochers […]",
+   "ticker": "RUFFIN-BOURGS-ET-TOURS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST",
+    "VIOL"
+   ],
+   "mots": 24,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "Je pense qu'il nous faut une gauche rassemblée pour une France rassemblée",
+   "ticker": "RUFFIN-FRANCE-RASSEMBLEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "Je suis loyal, je respecte les règles mais j'y vais pour gagner et surtout j'y vais pour faire gagner les Français.",
+   "ticker": "RUFFIN-LOYAL",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST",
+    "POPU"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "l'exemple doit venir d'en haut.",
+   "ticker": "RUFFIN-L-EXEMPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 5,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "Ils ont pas seulement mal à leur porte-monnaie, ils ont mal à la France.",
+   "ticker": "RUFFIN-MAL-A-LA-FRANCE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "Il nous faut une nouvelle abolition des privilèges.",
+   "ticker": "RUFFIN-ABOLITION-DES-PRIVILEGES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "comme président de la République, ça sera pareil, ça sera le SMIC.",
+   "ticker": "RUFFIN-PRESIDENT-AU-SMIC",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "François Ruffin",
+   "affil": "Divers Gauche / Debout ! (ex-LFI)",
+   "fonction": "Député de la Somme, candidat à la présidentielle 2027",
+   "date": "2026-09-14",
+   "contexte": "TF1, journal de 20h (Gilles Bouleau), 14/09 — annonce de sa candidature à la primaire de la gauche et à la présidentielle",
+   "citation": "Il est plus question qu'un milliardaire paye moins d'impôts que sa secrétaire.",
+   "ticker": "RUFFIN-MILLIARDAIRE-ET-SECRETAIRE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/pc2nSFBymLs",
+   "valeurs": [
+    "INST",
+    "BUDG"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Experts & invités",
