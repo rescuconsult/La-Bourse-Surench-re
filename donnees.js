@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:32",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur20.xlsx",
+ "maj": "2026-11-15T12:34",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur21.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -23373,6 +23373,210 @@ window.BOURSE = {
     "BUDG"
    ],
    "mots": 8
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "je suis petit-fils et arrière-petit-fils d'immigré et j'aime passionnément ma patrie républicaine",
+   "ticker": "MELENCHON-PATRIE-REPUBLICAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "nous les Français depuis l'an 1500 nous considérons que tous ceux qui sont nés sur notre terre sont français",
+   "ticker": "MELENCHON-NES-SUR-NOTRE-TERRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN",
+    "POPU"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "je suis pour l'abrogation du concordat d'Alsace-Moselle car je suis pour que l'on cesse de payer des prêtres, des rabbins",
+   "ticker": "MELENCHON-CONCORDAT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "les Français pensent comme moi qu'ils en ont par-dessus la tête d'être obsédés par ces histoires de religion",
+   "ticker": "MELENCHON-HISTOIRES-DE-RELIGION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN",
+    "POPU"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "les microbes ignorent absolument qui a des papiers ou qui n'en a pas",
+   "ticker": "MELENCHON-LES-MICROBES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Jean-Luc Mélenchon",
+   "affil": "Parti de gauche / Front de gauche",
+   "fonction": "Député européen, coprésident du Parti de gauche",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "il faut faire l'effet Dracula, faut allumer la lumière, ça s'en va",
+   "ticker": "MELENCHON-EFFET-DRACULA",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Présidente du Front national",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "je respecte toutes les religions si elles restent dans le cadre de la République",
+   "ticker": "LE-PEN-TOUTES-LES-RELIGIONS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "INST",
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Présidente du Front national",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "notre pays est fondé sur un apport chrétien laïcisé par le siècle des Lumières",
+   "ticker": "LE-PEN-APPORT-CHRETIEN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 14,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Présidente du Front national",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "nier les racines chrétiennes de la France, les refuser, les combattre m'paraît une absurdité en même temps historique et politique",
+   "ticker": "LE-PEN-RACINES-CHRETIENNES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Présidente du Front national",
+   "date": "2011-02-14",
+   "contexte": "BFMTV / RMC / 20 Minutes, débat Marine Le Pen – Jean-Luc Mélenchon (Jean-Jacques Bourdin), 14/02/2011 — immigration, aide médicale d'État, laïcité",
+   "citation": "le salaire minimum est en train de devenir le salaire maximum",
+   "ticker": "LE-PEN-SALAIRE-MAXIMUM",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/7hH6ocpmC4Y",
+   "valeurs": [
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
