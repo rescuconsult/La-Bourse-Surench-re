@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:09",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur16.xlsx",
+ "maj": "2026-11-15T12:10",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur17.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -20063,6 +20063,87 @@ window.BOURSE = {
     "POLE"
    ],
    "mots": 17
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2023-06",
+   "contexte": "franceinfo, chronique « Entre les lignes » du dimanche — lien entre immigration et délinquance, juin 2023",
+   "citation": "peut-on pour autant en conclure que les étrangers sont plus délinquants que les Français ? Et bien la réponse est non",
+   "ticker": "VIKTOROVITCH-LA-REPONSE-EST-NON",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3Lm8hUaZiTM",
+   "valeurs": [
+    "SECU",
+    "IMMI",
+    "POPU"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2023-06",
+   "contexte": "franceinfo, chronique « Entre les lignes » du dimanche — lien entre immigration et délinquance, juin 2023",
+   "citation": "si les étrangers sont surreprésentés en prison, c'est aussi la conséquence d'un traitement discriminatoire tout au long des chaînes policière et judiciaire",
+   "ticker": "VIKTOROVITCH-CHAINE-PENALE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3Lm8hUaZiTM",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "IMMI",
+    "IDEN"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2023-06",
+   "contexte": "franceinfo, chronique « Entre les lignes » du dimanche — lien entre immigration et délinquance, juin 2023",
+   "citation": "ce qui crée la peur c'est le surinvestissement dont cette question fait l'objet de la part de certains médias et de la part de certains responsables politiques",
+   "ticker": "VIKTOROVITCH-SURINVESTISSEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3Lm8hUaZiTM",
+   "valeurs": [
+    "SECU",
+    "IMMI",
+    "PEUR",
+    "POLE"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Médiatique",
+   "famille": null,
+   "auteur": "Clément Viktorovitch",
+   "affil": "franceinfo (à l'époque)",
+   "fonction": "Docteur en science politique, chroniqueur spécialiste de la rhétorique",
+   "date": "2023-06",
+   "contexte": "franceinfo, chronique « Entre les lignes » du dimanche — lien entre immigration et délinquance, juin 2023",
+   "citation": "force est de constater que pour l'instant cette stratégie est couronnée de succès",
+   "ticker": "VIKTOROVITCH-COURONNEE-DE-SUCCES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3Lm8hUaZiTM",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 13
   },
   {
    "pole": "Politique",
