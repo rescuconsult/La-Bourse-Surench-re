@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:05",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur14.xlsx",
+ "maj": "2026-11-15T12:07",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur15.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -18474,6 +18474,120 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 9,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "il y a un truc qui est au-dessus de tout c'est la France",
+   "ticker": "BOUAMRANE-AU-DESSUS-DE-TOUT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "on n'a pas forcément les mêmes idées, on n'a pas forcément les mêmes histoires mais on partage un idéal de République commune forte",
+   "ticker": "BOUAMRANE-IDEAL-DE-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 23,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "on est tous produit de la République, toutes et tous",
+   "ticker": "BOUAMRANE-PRODUITS-DE-LA-REPUBLIQUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "c'est la convergence des idées qui fait une alliance, c'est pas la convergence des logos",
+   "ticker": "BOUAMRANE-CONVERGENCE-DES-LOGOS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "on peut plus se permettre de déconner, ce n'est plus possible",
+   "ticker": "BOUAMRANE-PLUS-DE-DECONNER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, fondateur du mouvement « La France humaine et forte »",
+   "date": "2024-12",
+   "contexte": "Europe 1, « On marche sur la tête » (Cyril Hanouna) — après la chute du gouvernement Barnier, décembre 2024",
+   "citation": "c'est du calcul à la petite semaine, c'est du calcul d'épicier",
+   "ticker": "BOUAMRANE-CALCUL-D-EPICIER",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/4ig2owpJkTA",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11,
    "candidat": "Candidats 2027"
   },
   {
