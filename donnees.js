@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:46",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur25.xlsx",
+ "maj": "2026-11-15T16:30",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur26.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -5687,6 +5687,171 @@ window.BOURSE = {
     "MANF"
    ],
    "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "ce phénomène de narcissisme de masse qui fait que en gros aujourd'hui tout le monde veut son quart d'heure warholien",
+   "ticker": "FOURQUET-NARCISSISME-DE-MASSE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "il n'est plus nécessaire aujourd'hui d'avoir […] un parcours d'élu local […] pour se lancer dans une campagne présidentielle",
+   "ticker": "FOURQUET-PLUS-NECESSAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "rien que le fait que les partis traditionnels soient obligés d'organiser des primaires, ça montre bien que le principe d'autorité […] aujourd'hui ça ne va plus de soi",
+   "ticker": "FOURQUET-PRINCIPE-D-AUTORITE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST",
+    "AUTO"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "s'il y a autant de points de deal, c'est aussi qu'il y a des millions de consommateurs",
+   "ticker": "FOURQUET-POINTS-DE-DEAL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "on est passé de sociétés […] très verticales où l'individu était assujetti au collectif […] à des sociétés aujourd'hui beaucoup plus horizontales et beaucoup plus liquides",
+   "ticker": "FOURQUET-SOCIETES-LIQUIDES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "l'individu contemporain, il a gagné énormément en autonomie et en liberté",
+   "ticker": "FOURQUET-AUTONOMIE-ET-LIBERTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "ils ne se sentent plus légitimes à incarner cette autorité",
+   "ticker": "FOURQUET-PLUS-LEGITIMES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST",
+    "AUTO"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "il est sans doute illusoire de penser qu'on pourrait même revenir en arrière",
+   "ticker": "FOURQUET-ILLUSOIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Jérôme Fourquet",
+   "affil": "Analyste politique",
+   "fonction": "Directeur du département opinion de l'Ifop, coauteur de « Homo occidentalis » (Seuil)",
+   "date": "2026-11",
+   "contexte": "Radio J, entretien, novembre 2026 — candidatures à la présidentielle, autorité, bascule anthropologique",
+   "citation": "l'individu va s'autonomiser historiquement d'abord de la religion puis des structures familiales",
+   "ticker": "FOURQUET-S-AUTONOMISER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/w9Qp96nkbGE",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 12
   },
   {
    "pole": "Politique",
