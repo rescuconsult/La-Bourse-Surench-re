@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:03",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur13.xlsx",
+ "maj": "2026-11-15T12:05",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur14.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -13671,6 +13671,210 @@ window.BOURSE = {
    "pilier": "Citoyenneté & civisme",
    "source": "https://youtu.be/ay_6ztX0hFM",
    "valeurs": [],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "on ne peut pas avoir une justice forte sans avoir une police forte.",
+   "ticker": "BOUAMRANE-JUSTICE-ET-POLICE-FORTES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "j'ai vraiment confiance dans la justice. J'ai confiance dans les magistrats.",
+   "ticker": "BOUAMRANE-CONFIANCE-DANS-LA-JUSTICE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "à partir du moment où il y a un dysfonctionnement, il y a une enquête administrative, il faut que les responsables payent.",
+   "ticker": "BOUAMRANE-LES-RESPONSABLES-PAYENT",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "POLE"
+   ],
+   "mots": 22,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "à partir du moment où il y a crime, il faut qu'il y ait sanction et sanction tout de suite.",
+   "ticker": "BOUAMRANE-SANCTION-TOUT-DE-SUITE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "AUTO"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "il faut revoir l'ordonnance des mineurs […] de 1945.",
+   "ticker": "BOUAMRANE-ORDONNANCE-DE-1945",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 8,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "on sait qu'il y a des familles qui sont impliquées directement ou indirectement sur les questions narcotrafic, il faut les expulser.",
+   "ticker": "BOUAMRANE-EXPULSER-LES-FAMILLES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "IMMI"
+   ],
+   "mots": 21,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "police municipale armée, pas de tabou là-dessus.",
+   "ticker": "BOUAMRANE-POLICE-MUNICIPALE-ARMEE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "Il faut remettre la sanctuarisation de la parole de l'enfant au centre",
+   "ticker": "BOUAMRANE-PAROLE-DE-L-ENFANT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "on est républicain et on a le droit d'avoir de l'espoir et voir sa vie s'améliorer tous les jours.",
+   "ticker": "BOUAMRANE-ON-EST-REPUBLICAIN",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "JUST"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06-29",
+   "contexte": "CNews / Europe 1, « La grande interview » (Laurence Ferrari), 29/06 — journée « justice morte », justice, mineurs, narcotrafic",
+   "citation": "Solidarité, ça ne veut pas dire assistanat.",
+   "ticker": "BOUAMRANE-PAS-ASSISTANAT",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/chF4leeEITk",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
    "mots": 7,
    "candidat": "Candidats 2027"
   },
