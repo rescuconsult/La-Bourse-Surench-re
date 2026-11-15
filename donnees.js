@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:16",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur19.xlsx",
+ "maj": "2026-11-15T12:32",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur20.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -19590,6 +19590,99 @@ window.BOURSE = {
    ],
    "mots": 10,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Joachim Le Floch-Imad",
+   "affil": "Enseignant, essayiste",
+   "fonction": "Professeur de culture générale dans l'enseignement supérieur, essayiste",
+   "date": "2023-12",
+   "contexte": "Europe 1, Europe 1 Matin (Dimitri Pavlenko), décembre 2023 — contestations d'enseignement, niveau scolaire",
+   "citation": "quand est-ce qu'on va enfin protéger en France les professeurs des parents d'élèves dangereux",
+   "ticker": "LE-FLOCH-IMAD-PROTEGER-LES-PROFESSEURS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/EDF_xszBL50",
+   "valeurs": [
+    "ECOL",
+    "PEUR"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Joachim Le Floch-Imad",
+   "affil": "Enseignant, essayiste",
+   "fonction": "Professeur de culture générale dans l'enseignement supérieur, essayiste",
+   "date": "2023-12",
+   "contexte": "Europe 1, Europe 1 Matin (Dimitri Pavlenko), décembre 2023 — contestations d'enseignement, niveau scolaire",
+   "citation": "on est en train de détruire l'école du peuple lorsqu'on détruit la capacité de l'école à transmettre les savoirs fondamentaux",
+   "ticker": "LE-FLOCH-IMAD-ECOLE-DU-PEUPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/EDF_xszBL50",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 20
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Joachim Le Floch-Imad",
+   "affil": "Enseignant, essayiste",
+   "fonction": "Professeur de culture générale dans l'enseignement supérieur, essayiste",
+   "date": "2023-12",
+   "contexte": "Europe 1, Europe 1 Matin (Dimitri Pavlenko), décembre 2023 — contestations d'enseignement, niveau scolaire",
+   "citation": "il y a des enfants de l'immigration, j'en ai fait partie, qui se battent, qui ont le goût d'apprendre, qui veulent réussir et ça il faut les encourager",
+   "ticker": "LE-FLOCH-IMAD-LES-ENCOURAGER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/EDF_xszBL50",
+   "valeurs": [
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 28
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Joachim Le Floch-Imad",
+   "affil": "Enseignant, essayiste",
+   "fonction": "Professeur de culture générale dans l'enseignement supérieur, essayiste",
+   "date": "2023-12",
+   "contexte": "Europe 1, Europe 1 Matin (Dimitri Pavlenko), décembre 2023 — contestations d'enseignement, niveau scolaire",
+   "citation": "on a une ethnicisation des rapports sociaux qui est croissante et qui je crois est tout à fait condamnable lorsqu'on est républicain universaliste",
+   "ticker": "LE-FLOCH-IMAD-ETHNICISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/EDF_xszBL50",
+   "valeurs": [
+    "INST",
+    "ECOL"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Joachim Le Floch-Imad",
+   "affil": "Enseignant, essayiste",
+   "fonction": "Professeur de culture générale dans l'enseignement supérieur, essayiste",
+   "date": "2023-12",
+   "contexte": "Europe 1, Europe 1 Matin (Dimitri Pavlenko), décembre 2023 — contestations d'enseignement, niveau scolaire",
+   "citation": "toute politique d'apaisement aurait été une fois de plus criminelle",
+   "ticker": "LE-FLOCH-IMAD-APAISEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/EDF_xszBL50",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 10
   },
   {
    "pole": "Politique",
