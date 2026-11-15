@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:00",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur12.xlsx",
+ "maj": "2026-11-15T12:03",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur13.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -13893,6 +13893,155 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Quand vous êtes dans une cité, qui sont les victimes collatérales de l'insécurité ? Les habitants mêmes.",
+   "ticker": "BOUAMRANE-VICTIMES-COLLATERALES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [
+    "SECU",
+    "POLE"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Est ce qu'on veut que aujourd'hui le délai d'instruction d'une affaire au niveau de la justice soit divisé par deux ? Plus de greffiers, plus de magistrats ? Oui.",
+   "ticker": "BOUAMRANE-JUSTICE-PLUS-RAPIDE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [
+    "JUST",
+    "ECOL"
+   ],
+   "mots": 27,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "la valeur de l'autorité, la valeur du respect et du civisme, c'est une valeur de gauche.",
+   "ticker": "BOUAMRANE-VALEUR-DE-GAUCHE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [
+    "AUTO"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Mes parents, ils m'ont appris à respecter l'enseignant, respecter l'autorité, respecter mon entraîneur.",
+   "ticker": "BOUAMRANE-RESPECTER-L-ENSEIGNANT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [
+    "ECOL",
+    "AUTO"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Moi je suis contre la ghettoïsation.",
+   "ticker": "BOUAMRANE-CONTRE-LA-GHETTOISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [],
+   "mots": 6,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Je suis contre la privatisation de l'accès aux soins. Je suis contre la privatisation de l'éducation.",
+   "ticker": "BOUAMRANE-CONTRE-LA-PRIVATISATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [
+    "ECOL"
+   ],
+   "mots": 16,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Il n'y aura pas de souveraineté de notre pays sans souveraineté européenne.",
+   "ticker": "BOUAMRANE-SOUVERAINETE-EUROPEENNE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Gauche",
+   "auteur": "Karim Bouamrane",
+   "affil": "PS",
+   "fonction": "Maire de Saint-Ouen-sur-Seine, candidat à la présidentielle 2027",
+   "date": "2026-06",
+   "contexte": "Oumma, émission politique (entretien avec Merwan) — juin 2026",
+   "citation": "Il faut valoriser la réussite, il ne faut pas la stigmatiser.",
+   "ticker": "BOUAMRANE-VALORISER-LA-REUSSITE",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/Ep5gMYFyrkE",
+   "valeurs": [],
+   "mots": 11,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
