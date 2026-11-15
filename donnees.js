@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:10",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur17.xlsx",
+ "maj": "2026-11-15T12:14",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur18.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -17033,6 +17033,82 @@ window.BOURSE = {
     "PEUR"
    ],
    "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Philippe Lemoine",
+   "affil": "Université de Georgetown",
+   "fonction": "Chercheur invité à l'université de Georgetown",
+   "date": "2025-12",
+   "contexte": "Le Figaro, vidéo « Non, toutes les études ne concluent pas à l'absence de lien entre immigration et délinquance » (réponse à une note du CEPII) — fin 2025",
+   "citation": "il est donc parfaitement faux d'affirmer comme ils le font dans cette note, que les études concluent unanimement à l'absence d'effet.",
+   "ticker": "LEMOINE-PARFAITEMENT-FAUX",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3KZVoJf0Ksc",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Philippe Lemoine",
+   "affil": "Université de Georgetown",
+   "fonction": "Chercheur invité à l'université de Georgetown",
+   "date": "2025-12",
+   "contexte": "Le Figaro, vidéo « Non, toutes les études ne concluent pas à l'absence de lien entre immigration et délinquance » (réponse à une note du CEPII) — fin 2025",
+   "citation": "Mais il y a aussi des études qui trouvent un lien",
+   "ticker": "LEMOINE-DES-ETUDES-TROUVENT-UN-LIEN",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3KZVoJf0Ksc",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Philippe Lemoine",
+   "affil": "Université de Georgetown",
+   "fonction": "Chercheur invité à l'université de Georgetown",
+   "date": "2025-12",
+   "contexte": "Le Figaro, vidéo « Non, toutes les études ne concluent pas à l'absence de lien entre immigration et délinquance » (réponse à une note du CEPII) — fin 2025",
+   "citation": "Il faut faire des hypothèses complètement invraisemblables pour arriver à cette conclusion.",
+   "ticker": "LEMOINE-INVRAISEMBLABLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3KZVoJf0Ksc",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Philippe Lemoine",
+   "affil": "Université de Georgetown",
+   "fonction": "Chercheur invité à l'université de Georgetown",
+   "date": "2025-12",
+   "contexte": "Le Figaro, vidéo « Non, toutes les études ne concluent pas à l'absence de lien entre immigration et délinquance » (réponse à une note du CEPII) — fin 2025",
+   "citation": "C'est parfaitement malhonnête.",
+   "ticker": "LEMOINE-MALHONNETE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/3KZVoJf0Ksc",
+   "valeurs": [
+    "SECU",
+    "IMMI"
+   ],
+   "mots": 3
   },
   {
    "pole": "Politique",
