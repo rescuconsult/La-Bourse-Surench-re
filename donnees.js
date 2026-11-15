@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:42",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur23.xlsx",
+ "maj": "2026-11-15T12:44",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur24.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -16018,6 +16018,188 @@ window.BOURSE = {
    "source": "https://youtu.be/2DxeoQoo6o8",
    "valeurs": [],
    "mots": 8
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "quand on considère que la finalité politique, c'est l'élimination de l'adversaire, on est devant une logique totalitaire",
+   "ticker": "GAUCHET-LOGIQUE-TOTALITAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "un gouvernement efficace, c'est un gouvernement pourvu d'autorité mais aujourd'hui un gouvernement pourvu d'autorité c'est le fascisme",
+   "ticker": "GAUCHET-POURVU-D-AUTORITE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST",
+    "AUTO"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "la masse de la population a envie de vivre dans une société qui fonctionne bien avec des règles claires auxquelles tout le monde obéit à peu près",
+   "ticker": "GAUCHET-REGLES-CLAIRES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "une minorité très bruyante peut mettre en échec une majorité pacifique",
+   "ticker": "GAUCHET-MINORITE-BRUYANTE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "la démocratie n'est pas en péril au sens où il y a pas d'autres régimes imaginables en fait mais nous ne savons pas la faire fonctionner",
+   "ticker": "GAUCHET-FAIRE-FONCTIONNER",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "pour avoir un débat civilisé, il faut avoir des arguments à faire valoir",
+   "ticker": "GAUCHET-DEBAT-CIVILISE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "l'invective et la confrontation dont l'hystérie ou la virulence verbale est fonction du vide du propos que vous tenez",
+   "ticker": "GAUCHET-VIDE-DU-PROPOS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST",
+    "POLE"
+   ],
+   "mots": 19
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "on remplace la discussion par des arguments par une confrontation d'injures",
+   "ticker": "GAUCHET-CONFRONTATION-D-INJURES",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "nous avons besoin de temps et nous n'avons pas le temps",
+   "ticker": "GAUCHET-BESOIN-DE-TEMPS",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 11
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Marcel Gauchet",
+   "affil": "Historien, philosophe",
+   "fonction": "Historien et philosophe, ancien directeur de la revue « Le Débat », auteur de « Comment pensent les démocraties » (Albin Michel)",
+   "date": "2026-02-25",
+   "contexte": "Europe 1, émission du soir (entretien à plusieurs voix), 25/02/2026 — climat politique, autorité, démocratie, débat public, référendum",
+   "citation": "avec un référendum, il y a un résultat clair […] on tranche des questions qui autrement restent dans une discussion interminable",
+   "ticker": "GAUCHET-REFERENDUM",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JFpC7hjsjTw",
+   "valeurs": [
+    "INST"
+   ],
+   "mots": 20
   },
   {
    "pole": "Politique",
