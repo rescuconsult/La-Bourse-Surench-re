@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:07",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur15.xlsx",
+ "maj": "2026-11-15T12:09",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur16.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -13215,6 +13215,160 @@ window.BOURSE = {
    ],
    "mots": 21,
    "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "c'est parce qu'on a complexifié à l'extrême la procédure pénale au détriment des victimes.",
+   "ticker": "LAUZE-PROCEDURE-PENALE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "On a créé une machine folle et un système intenable.",
+   "ticker": "LAUZE-MACHINE-FOLLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "Les policiers ont l'impression de vider à la petite cuillère la mer.",
+   "ticker": "LAUZE-PETITE-CUILLERE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "si vous n'avez pas de continuum judiciaire on ne peut pas y arriver.",
+   "ticker": "LAUZE-CONTINUUM-JUDICIAIRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "POLE"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "Au lieu de simplifier la procédure pour favoriser les victimes, pour favoriser les élucidations, on crée des postes pour aider à gérer la complexification.",
+   "ticker": "LAUZE-ASSISTANT-DE-COMPLEXIFICATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 24
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "Il faut que le ministère de l'Intérieur et le garde des Sceaux travaillent ensemble.",
+   "ticker": "LAUZE-TRAVAILLER-ENSEMBLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "Plus personne ne veut aller dans cette filière investigation parce que justement on l'a laissée mourir.",
+   "ticker": "LAUZE-FILIERE-INVESTIGATION",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Experts & invités",
+   "famille": null,
+   "auteur": "Frédéric Lauze",
+   "affil": "Syndicat des commissaires de la police nationale (SCPN)",
+   "fonction": "Secrétaire général du SCPN, auteur de « Insécurité, stop à la descente aux enfers »",
+   "date": "2026-08-10",
+   "contexte": "Europe 1, Europe 1 Matin (invité de 7h11), 10/08 — enquêtes sur les violences sexuelles sur mineurs, filière investigation, procédure pénale",
+   "citation": "La justice est irresponsable, complètement irresponsable.",
+   "ticker": "LAUZE-JUSTICE-IRRESPONSABLE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/OsirmwZulvY",
+   "valeurs": [
+    "SECU",
+    "JUST",
+    "POLE"
+   ],
+   "mots": 6
   },
   {
    "pole": "Politique",
