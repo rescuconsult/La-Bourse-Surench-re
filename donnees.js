@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T11:44",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur9.xlsx",
+ "maj": "2026-11-15T11:53",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur10.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -14286,6 +14286,150 @@ window.BOURSE = {
    "source": "https://youtu.be/SIXn-iIqFrM",
    "valeurs": [],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — union de la gauche, primaire",
+   "citation": "Moi, je suis une candidate pour l'Union, je suis pas une candidate pour la division.",
+   "ticker": "AUTAIN-CANDIDATE-POUR-L-UNION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — union de la gauche, primaire",
+   "citation": "c'est pour ça que je veux une primaire, c'est aussi que le peuple de gauche puisse choisir son incarnation.",
+   "ticker": "AUTAIN-CHOISIR-SON-INCARNATION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [
+    "POPU"
+   ],
+   "mots": 19,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — 90 ans du Front populaire, union de la gauche",
+   "citation": "sortons des haines cuites et recuites",
+   "ticker": "AUTAIN-HAINES-RECUITES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [],
+   "mots": 6,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — primaire de la gauche",
+   "citation": "je dis aux socialistes, réveillez-vous.",
+   "ticker": "AUTAIN-REVEILLEZ-VOUS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [],
+   "mots": 5,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — immigration de travail",
+   "citation": "l'immigration pour moi c'est une richesse.",
+   "ticker": "AUTAIN-IMMIGRATION-RICHESSE",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 6,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — immigration de travail",
+   "citation": "je suis pas no border, je suis pas en train de me dire on ouvre les frontières demain.",
+   "ticker": "AUTAIN-PAS-NO-BORDER",
+   "categorie": "Ordre public & sécurité",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 18,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — alimentation, polémique de Saint-Ouen",
+   "citation": "je pense que la lutte des classes, elle est dans l'alimentation.",
+   "ticker": "AUTAIN-LUTTE-DES-CLASSES",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [],
+   "mots": 11,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Clémentine Autain",
+   "affil": "L'Après (ex-LFI)",
+   "fonction": "Députée de Seine-Saint-Denis, candidate à la primaire de la gauche pour la présidentielle 2027",
+   "date": "2026-05-05",
+   "contexte": "Sud Radio, l'invité politique de Jean-François Achilli, 05/05 — alimentation",
+   "citation": "je propose la sécurité sociale de l'alimentation",
+   "ticker": "AUTAIN-SECURITE-SOCIALE-ALIMENTATION",
+   "categorie": "Budget & Finances",
+   "pilier": "Budget & finances",
+   "source": "https://youtu.be/JL8paCz1Exs",
+   "valeurs": [
+    "SECU"
+   ],
+   "mots": 7,
+   "candidat": "Candidats 2027"
   },
   {
    "pole": "Politique",
