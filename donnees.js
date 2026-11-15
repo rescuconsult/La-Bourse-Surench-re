@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:34",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur21.xlsx",
+ "maj": "2026-11-15T12:40",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur22.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -22841,6 +22841,175 @@ window.BOURSE = {
     "INST"
    ],
    "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2017, présidente du Front national",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "je suis la candidate du peuple, je suis la candidate de la France telle que nous l'aimons, de sa culture, de sa civilisation, de son unité",
+   "ticker": "LE-PEN-CANDIDATE-DU-PEUPLE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 26,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2017, présidente du Front national",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "je suis la candidate de la nation qui protège […] qui protège la sécurité de nos compatriotes, qui protège nos frontières",
+   "ticker": "LE-PEN-NATION-QUI-PROTEGE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "ECOL",
+    "IMMI",
+    "POPU"
+   ],
+   "mots": 20,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2017, présidente du Front national",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "je veux reconstituer les forces de renseignement, le renseignement territorial a été démantelé",
+   "ticker": "LE-PEN-RENSEIGNEMENT-TERRITORIAL",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI",
+    "PEUR"
+   ],
+   "mots": 13,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2017, présidente du Front national",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "je créerai une task force, une cellule auprès du président de la République […] qui coordonnera les services de renseignement, c'est la mère des batailles",
+   "ticker": "LE-PEN-MERE-DES-BATAILLES",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 24,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "En Marche !",
+   "fonction": "Candidat à l'élection présidentielle 2017, ancien ministre de l'Économie",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "ce que vous proposez comme d'habitude c'est de la poudre de perlimpinpin",
+   "ticker": "MACRON-POUDRE-DE-PERLIMPINPIN",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI",
+    "POLE"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "En Marche !",
+   "fonction": "Candidat à l'élection présidentielle 2017, ancien ministre de l'Économie",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "ça marche pas comme ça dans la vraie vie, ça marche pas comme ça sur les plateaux de télévision peut-être, mais pas dans la vraie vie",
+   "ticker": "MACRON-PLATEAUX-DE-TELEVISION",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 26
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "En Marche !",
+   "fonction": "Candidat à l'élection présidentielle 2017, ancien ministre de l'Économie",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "la France que je veux elle ne sera pas divisée",
+   "ticker": "MACRON-FRANCE-PAS-DIVISEE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 10
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "En Marche !",
+   "fonction": "Candidat à l'élection présidentielle 2017, ancien ministre de l'Économie",
+   "date": "2017-05-03",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 03/05/2017 — renseignement, frontières, terrorisme, projet de pays",
+   "citation": "[…] une France qui aura gagné la bataille face au terrorisme, face au chômage, face à l'illettrisme",
+   "ticker": "MACRON-GAGNER-LA-BATAILLE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/x-cDymgI8cA",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IMMI",
+    "PEUR"
+   ],
+   "mots": 16
   },
   {
    "pole": "Politique",
