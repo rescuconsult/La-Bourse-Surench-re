@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T10:07",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur2.xlsx",
+ "maj": "2026-11-15T10:10",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur3.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -15586,6 +15586,194 @@ window.BOURSE = {
     "POPU"
    ],
    "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "le sentiment que l'État non seulement ne nous protège pas, mais nous empêche même de nous défendre",
+   "ticker": "KNAFO-NOUS-DEFENDRE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 17
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "ça c'est gravissime dans l'imaginaire français de se dire que la force ne revient pas à l'autorité légitime, ni à la loi, mais au voyou d'en face.",
+   "ticker": "KNAFO-VOYOU-D-EN-FACE",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "SECU",
+    "IMMI",
+    "AUTO"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "Évidemment qu'on veut retrouver la sécurité dont nos parents ou nos grands-parents nous parlent.",
+   "ticker": "KNAFO-SECURITE-DES-PARENTS",
+   "categorie": "Tranquillité publique",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "SECU",
+    "ECOL",
+    "IMMI"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "Évidemment qu'on veut retrouver un niveau scolaire dont on n'ait pas honte.",
+   "ticker": "KNAFO-NIVEAU-SCOLAIRE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI",
+    "INDI"
+   ],
+   "mots": 12
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "on ne supprime pas la haine parce qu'il y a un délit d'incitation à la haine",
+   "ticker": "KNAFO-DELIT-DE-HAINE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 16
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "on est devenu comme les nations que Kundera décrit, des nations conscientes […] du caractère mortel.",
+   "ticker": "KNAFO-NATIONS-MORTELLES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI",
+    "PEUR"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "Donc la seule réponse à apporter, c'est comment faire pour leur donner ici ce qu'ils vont chercher ailleurs.",
+   "ticker": "KNAFO-ICI-CE-QU-ILS-CHERCHENT",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 18
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "On vient de vivre des semaines sans gouvernement et le pire c'est qu'on a presque pas vu la différence avec les moments où on avait un gouvernement.",
+   "ticker": "KNAFO-SANS-GOUVERNEMENT",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "INST",
+    "IMMI"
+   ],
+   "mots": 27
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "les élites françaises ont beaucoup tendance à mettre la faute uniquement sur l'Union européenne.",
+   "ticker": "KNAFO-LA-FAUTE-A-L-EUROPE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI",
+    "POLE"
+   ],
+   "mots": 14
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Sarah Knafo",
+   "affil": "Reconquête",
+   "fonction": "Députée européenne Reconquête",
+   "date": "2025-10",
+   "contexte": "Frontières (média), entretien « Sarah Knafo : comment redevenir une grande nation ? » (diffusé en direct sur YouTube et Radio Frontières) — octobre 2025",
+   "citation": "J'ai le sentiment qu'on est les seuls à l'avoir bien occupé.",
+   "ticker": "KNAFO-LES-SEULS",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://www.youtube.com/live/vo8Pr4wzm30",
+   "valeurs": [
+    "IMMI"
+   ],
+   "mots": 11
   },
   {
    "pole": "Experts & invités",
