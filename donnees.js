@@ -1,7 +1,7 @@
 // Généré par exporter_site.py — ne pas modifier à la main
 window.BOURSE = {
- "maj": "2026-11-15T12:40",
- "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur22.xlsx",
+ "maj": "2026-11-15T12:42",
+ "source": "BOURSE_SURENCHERE_Base_Donnees_Centrales_MAJ_20261115_porteur23.xlsx",
  "indices_onglet": "Indices S41 (fictifs)",
  "indices": [
   {
@@ -20743,6 +20743,203 @@ window.BOURSE = {
     "ECOL"
    ],
    "mots": 11
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2022, Rassemblement national",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "je le répète je ne lutte pas contre une religion",
+   "ticker": "LE-PEN-PAS-CONTRE-UNE-RELIGION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 10,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2022, Rassemblement national",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "je suis pour l'interdiction du voile dans l'espace public, je l'ai dit",
+   "ticker": "LE-PEN-INTERDICTION-ESPACE-PUBLIC",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 12,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": "Droite",
+   "auteur": "Marine Le Pen",
+   "affil": "FN / RN",
+   "fonction": "Candidate à l'élection présidentielle 2022, Rassemblement national",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "il faut libérer l'ensemble de ces femmes […] il faut interdire le voile dans l'espace public",
+   "ticker": "LE-PEN-LIBERER-CES-FEMMES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 15,
+   "candidat": "Candidats 2027"
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "moi je suis pour la loi de 1905, c'est notre République, la République est laïque, la laïcité ça n'est pas combattre une religion",
+   "ticker": "MACRON-LOI-DE-1905",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 23
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "avec moi il y aura pas d'interdiction ni du foulard ni de la kippa ni de quelques signes religieux dans l'espace public",
+   "ticker": "MACRON-PAS-D-INTERDICTION",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "la laïcité c'est un principe de liberté et donc à l'école il n'y a pas de voile parce qu'on forme des consciences",
+   "ticker": "MACRON-FORMER-DES-CONSCIENCES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "ECOL",
+    "IDEN"
+   ],
+   "mots": 22
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "dans les services publics il y a une neutralité des services publics, de l'État, absolue",
+   "ticker": "MACRON-NEUTRALITE-ABSOLUE",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 15
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "dans la cité vous allez créer la guerre civile si vous faites ça",
+   "ticker": "MACRON-GUERRE-CIVILE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN",
+    "PEUR",
+    "POLE"
+   ],
+   "mots": 13
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "la France patrie des Lumières, de l'universel serait le premier pays au monde à interdire les signes religieux dans l'espace public",
+   "ticker": "MACRON-PATRIE-DES-LUMIERES",
+   "categorie": "Citoyenneté et civisme",
+   "pilier": "Citoyenneté & civisme",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "INST",
+    "IDEN"
+   ],
+   "mots": 21
+  },
+  {
+   "pole": "Politique",
+   "famille": null,
+   "auteur": "Emmanuel Macron",
+   "affil": "La République en marche",
+   "fonction": "Président de la République, candidat à sa réélection (présidentielle 2022)",
+   "date": "2022-04-20",
+   "contexte": "TF1 / France 2, débat d'entre-deux-tours de l'élection présidentielle Emmanuel Macron – Marine Le Pen, 20/04/2022 — signes religieux dans l'espace public, laïcité",
+   "citation": "combien de policiers, de gendarmes iront courir après un voile […] ?",
+   "ticker": "MACRON-COURIR-APRES-UN-VOILE",
+   "categorie": "Surenchère & provocation",
+   "pilier": "Tranquillité publique",
+   "source": "https://youtu.be/g_rDW0bI9M4",
+   "valeurs": [
+    "SECU",
+    "INST",
+    "IDEN"
+   ],
+   "mots": 10
   },
   {
    "pole": "Politique",
